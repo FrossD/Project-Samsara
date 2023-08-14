@@ -1,5 +1,5 @@
-# >Project Samsara
->The endeavor of a lifetime.
+# Project Samsara
+The endeavor of a lifetime.
 
 ## Introduction
 If you have no clue what 'Project Samsara' is, head over to my SubStack page; [🌌 Project Samsara 🌌](https://frossd.substack.com/p/the-samsara-project)
