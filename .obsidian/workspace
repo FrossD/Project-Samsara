@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "8dbc44952e5eb5e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cab97b122230566",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ven-2/1. Master Drafting Table.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2e7b4b6c0287cdf4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0. Drawing Board/Samsara Community/Hex (07-10-22).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4b6da8d0a1c3f8a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ven-2/Further Conceptuals/The Void 3.0.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f3f5f3d586ebf998",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ven-2/2. Ven-2 ToDo.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67208fbd2f9993ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2091c8381432ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1987a9a93a6a5805",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mining",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93cb784d559b3db0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "539203c849419648",
+    "type": "split",
+    "children": [
+      {
+        "id": "f297a974adca48dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39779fd02b9c6dea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ven-2/2. Ven-2 ToDo.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "261f5e817c0e6713",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ven-2/2. Ven-2 ToDo.md"
+              }
+            }
+          },
+          {
+            "id": "acc5d92ceb633965",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ven-2/2. Ven-2 ToDo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "08ceb3cf12f81d88",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1962cb91ec84678f",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d151cf4c6aca587",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3f5f3d586ebf998",
+  "lastOpenFiles": [
+    "Ven-2/Further Conceptuals/The Void 3.0.md",
+    "Ven-2/2. Ven-2 ToDo (conflict 2022-10-09-10-32-29).md",
+    "Ven-2/2. Ven-2 ToDo.md",
+    "Ven-2/Further Conceptuals/The Void.md",
+    "Ven-2/1. Master Drafting Table.md",
+    "0. Drawing Board/Scenario 13/Patreon.md",
+    "Ven-2/Strider Ritualism/The Skywards Pursuit.md",
+    "Ven-2/Strider Ritualism/The Blank-Slate Mind.md",
+    "0. Drawing Board/Samsara Community/Hex (07-10-22).md",
+    "Ven-2/Strider Ritualism/The Hands as Chalk.md"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "8dbc44952e5eb5e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71c905c244ab633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8a7e56a09a8a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3dd85cd07982e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05fb7a886c08480f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1add5f09030ccb15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "911a977198998034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67208fbd2f9993ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2091c8381432ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1987a9a93a6a5805",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93cb784d559b3db0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d8f14c2a38d06ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "539203c849419648",
+    "type": "split",
+    "children": [
+      {
+        "id": "f297a974adca48dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea7145198905749",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Development/Mechanical Pillars/The Skywards Pursuit.md"
+              }
+            }
+          },
+          {
+            "id": "39779fd02b9c6dea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "acc5d92ceb633965",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08ceb3cf12f81d88",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "81d4c1eaa815728a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29acdf2fd74e22bc",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-file-info-plugin:File Info Panel": false
+    }
+  },
+  "active": "b3dd85cd07982e57",
+  "lastOpenFiles": [
+    "ProjectSamsara/README.md",
+    "ProjectSamsara",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
+    "2. Development/Workshop/Families/The_Fel-Arcad.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "Z. Assets/Pasted image 20230804174944.png",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+    "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
+    "2. Development/Workshop/Families/The Fel-Arcad Modded.md",
+    "2. Development/Workshop/Families/FA post-NewCanon Amend..md",
+    "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
+    "1. Drawing Board/Offshore/Z. Scenario Codes.md",
+    "1. Drawing Board/1. Samsara Community/Samsara 1 - The Proposal.md",
+    "2. Development/MDT.md",
+    "1. Drawing Board/Offshore/BlakkSheep's Naming.md",
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md",
+    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
+    "2. Development/Workshop/Families/The Sil'khan.md",
+    "3. Scribbling/657D3A00",
+    "3. Scribbling/7D2D3A00",
+    "3. Scribbling/16CC3A00",
+    "3. Scribbling/1BD5C100",
+    "3. Scribbling/6595C100",
+    "3. Scribbling/17E3C100",
+    "3. Scribbling/2AC3C100",
+    "3. Scribbling/ACA3C100",
+    "3. Scribbling/F342C100"
+  ]
+}

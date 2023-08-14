@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 20,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "accentColor": "#ff0000",
+  "nativeMenus": false,
+  "showViewHeader": true
+}

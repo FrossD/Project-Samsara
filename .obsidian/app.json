@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "Z. Assets",
+  "showInlineTitle": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "tabSize": 5
+}
