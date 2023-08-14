@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "1add5f09030ccb15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "911a977198998034",
             "type": "leaf",
             "state": {
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md"
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
               }
             }
           },
@@ -138,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,13 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1add5f09030ccb15",
+  "active": "05fb7a886c08480f",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "README.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
-    "README.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "ProjectSamsara/README.md",
     "ProjectSamsara",
