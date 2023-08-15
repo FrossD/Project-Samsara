@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "d712a7c0f8df65be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "adf55f7e1f6a8498",
             "type": "leaf",
             "state": {
@@ -71,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5236e9966ff0098d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/Families/The Sil'khan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
+                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,15 +215,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d712a7c0f8df65be",
+  "active": "ab0d4f6df89f91b3",
   "lastOpenFiles": [
-    "Excalidraw/Test.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "2. Development/Workshop/Families/The Sil'khan.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "README.md",
+    "Excalidraw/Test.md",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
-    "README.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
     "ProjectSamsara/README.md",
     "ProjectSamsara",
@@ -244,7 +245,6 @@
     "1. Drawing Board/Offshore/BlakkSheep's Naming.md",
     "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md",
     "3. Scribbling/657D3A00",
     "3. Scribbling/7D2D3A00",
     "3. Scribbling/16CC3A00",

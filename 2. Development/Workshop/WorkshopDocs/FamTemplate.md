@@ -25,7 +25,7 @@ This checklist is copied to the design doc for each family. As the family is dev
 09. [ ] Taboos and Superstitions 
 
 **Strata Three**
-10. [ ] Naming
+10. [ ] Naming and Language
 11. [ ] Faith and Religion
 12. [ ] Factions, Philosophies & Divides
 13. [ ] Education
@@ -143,7 +143,7 @@ The various 'don'ts' that exist and their origins.
 
 
 ### Strata Three
-#### Naming
+#### Naming and Language
 #### Faith & Religion
 Faiths and religions held by the family if any, its nature and significance.
 - How did the faith start?
@@ -307,34 +307,33 @@ What do other families think of them?
 Tracking progress on the doc.
 
 **Strata One**
-01. [ ] The Yarn
-02. [ ] Doctrine
-03. [ ] Calcic Affinity
+01. [ ] Doctrine
+02. [ ] Calcic Affinity
 
 **Strata Two**
+03. [ ] History and Mythology
 04. [ ] Appearance
-05. [ ] Cloth and Bodily Adornments
+05. [ ] Clothes and Bodily Adornments
 06. [ ] Families and Family Structure
 07. [ ] Greetings and Respect
-08. [ ] Ancestral Histories and Mythologies
-09. [ ] Rituals and Periodicals
-10. [ ] Taboos and Superstitions 
+08. [ ] Rituals and Periodicals
+09. [ ] Taboos and Superstitions 
 
 **Strata Three**
-11. [ ] Naming
-12. [ ] Faith and Religion
-13. [ ] Factions, Philosophies & Divides
-14. [ ] Education
-15. [ ] Arts, Entertainment and Recreation
-16. [ ] Iconography and Architecture
+10. [ ] Naming and Language
+11. [ ] Faith and Religion
+12. [ ] Factions, Philosophies & Divides
+13. [ ] Education
+14. [ ] Arts, Entertainment and Recreation
+15. [ ] Iconography and Architecture
 
 **Strata Four**
-17. [ ] Technology
-18. [ ] Food and Agriculture
-19. [ ] Law and Literature
-20. [ ] Politics and Economy
-21. [ ] Social Problems
-22. [ ] Repute
+16. [ ] Technology
+17. [ ] Food and Agriculture
+18. [ ] Law and Literature
+19. [ ] Politics and Economy
+20. [ ] Social Problems
+21. [ ] Repute
 
 ### Rough Outline
 ### Snap Thoughts
@@ -353,7 +352,7 @@ Tracking progress on the doc.
 ### Taboos and Superstitions
 
 ## Strata Three
-### Naming
+### Naming and Language
 > ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Faith and Religion
 ### Factions, Philosophies and Divides

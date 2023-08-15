@@ -21,7 +21,7 @@ Tracking progress on the doc.
 09. [ ] Taboos and Superstitions 
 
 **Strata Three**
-10. [ ] Naming
+10. [ ] Naming and Language
 11. [x] Faith and Religion
 12. [x] Factions, Philosophies & Divides
 13. [x] Education
@@ -32,7 +32,7 @@ Tracking progress on the doc.
 **Strata Four**
 16. [x] Technology
 17. [x] Food and Agriculture
-18. [ ] Law and Literature (**Paper Drafted**)
+18. [x] Law and Literature
 19. [ ] Politics and Economy (**Paper Drafted**)
      - Some if not most of the questions asked in the outline aren't well answered, though this might be the case that those particular questions shouldn't be there at all.
 	- Finalize governmental structure, considering we're missing a lot of proper nouns/names for things.
@@ -610,12 +610,6 @@ This is a philosophical explanation for a physical change. The Fel-Arcad arcolog
 
 As regard actual diet, once again it differs based on the upbringing of the Fel-Arcad. Those who spent most of their time or still reside in the arcologies began with vegetarian as the baseline, and lean vegan, while Fel-Arcad outside the arcologies are fairly hard to pin down. While many keep the same eating habits as is inculcated within them in the arcologies, many adopt differing ones from their environment. It's also an observed phenomena that some Fel-Arcad, upon tasting meat, become unable to live with out almost, finding its flavor irresistible.
 
-
-
-
-
-
-
 ### Law & Literature
 The Fey Curlicue is an essential part of the culture and customs of the Fel-Arcad. Standing at the center of their arcologies, it plays an essential part of their everyday lives as well as the greater symbolism of the Fel-Arcad as a people. Additionally, and perhaps it's most lauded purpose, is as an avenue for passing down the dense canon of the Fel-Arcad from arcology to arcology, people to people, generation to generation. When words are written on the trunk of a fully-matured Curlicue, they become part of its lattice, which is then encased in seeds from that tree. Trees grown from these seeds will have the written text of their parentage on them as well when they reach maturity. Through this means, the writings and canon of the Fel-Arcad are preserved and passed on.
 
@@ -773,7 +767,23 @@ Fel-Arcad courts are somewhat familiar affairs with judges, defendants, prosecut
 
 > This has been changed, and is part of a much larger redesign of how Fel-Arcad courts work. They feature triple juries, one consisting of Fel-Arcad drawn from the arcology where the incident in question took place, one consisting of Fel-Arcad drawn from other arcologies (often just one or two) and one consisting of non Fel-Arcad, meant to provide a non-Fel, outside perspective on the matter. 
 
+Most punishments given down by Fel-Arcad courts are tempered by the fact the Fel are a philosophically-mandated pacifistic people, and thus many would consider their punishments 'soft'. Financial penalties such as fines or reductions in monetary allotments, uncompensated work, restriction of freedoms within the arcology such as access to various facilities, temporary exile - or in the worst cases - permanent exile, encompasses the majority of punishment methods afforded to the Fel-Arcad. Many families and groups within and outside of the Fel-Arcad have criticized the Fel-Arcad as 'too lenient', met with counterarguments in the form of mentioning how most 'harsher' methods are incompatible with their doctrine.
 
+This has led to many instances of slighted Fel-Arcad who felt the punishment dealt to their offenders didn't nearly match the gravity of the offence committed, and they may be driven to seek recourse on their own terms, enacting a personal brand of justice. Exiles from an arcology may find themselves being pursued, either by their former victims who choose self-imposed exile or sneaking out of the arcology to hunt them down, or hired hands to keep their own hands clean. Feljourn in particular are invaluable for this task, their shifted, hardened perspectives shaped by living in the star-wilds makes them intrinsically understanding of seeking justice one's own way.
+
+There are of course arcologies that embrace harsher methods of punishment, including imprisonment and occasionally even the death penalty, obtaining a mixed - but mostly disapproving - reception, by the wider Fel-Arcad community. Studies naturally exist for either side of this divide, arguing for one method over the other. Rosenthalists in particular favor harsher approaches.
+
+#### Jurisdiction Within the Dancirah
+The jurisdiction of an arcology is often a point of contention. Generally, it is accepted that the jurisdiction of an arcology ends at the physical end of the arcadia it is situated within, a boundary between legally-bound space and the unclaimed waters that remains fairly static as arcadias are often programmed to stop growing once a desired size is reached.
+
+Fel-Arcad generally make it a point not to punish offenders for crimes against them if those offenders are not subject to arcology jurisdiction. A crime committed by a non-Fel against a Fel-Arcad within the bounds of arcology space is handled by that arcology, and punishment is meted out to the offender by the arcology's administration due to the fact visiting an arcology is done with the awareness and thus acceptance of being bound by arcology law. 
+
+Offences committed outside an arcology's jurisdiction against a member of that arcology are handled somewhat differently. Investigations are carried out to find the nature of the offence and the perpetrators, and then this information is passed over the arcology's External Affairs. EA contacts relevant parties that the perpetrator is subject too - such as another arcology in the case of a Fel-Arcad offender - and issues their demands regarding a desire for punishment and the degree of severity in its dispensation. Noncompliance is met with sanctions from the Fel-Arcad, often in the form of trade refusal by the relevant arcology and other arcologies that feel so inclined. The economic value of the Fel-Arcad sees that their demands are often answered sooner rather than later.
+
+#### The Sekators
+An arcology's fighting force is its Sekators; trained Fel-Arcad solely empowered to utilize violence. Securing a given arcology and the Fel-Arcad within from internal and external threats summarizes their charge fairly well. While the Sekators tend to thus being fiercely loyal to Fel-Arcad kin, this loyalty has led many to strike out against enemies of the Fel-Arcad often without adequate clearance, especially as means to right wrongs done by other parties, and out of the frustration with External Affair's methods of dialogue and cajoling. There are many cases where an offender simply vanishes, and External Affairs and the party representing the offender are left with no real way to proceed, more than abundantly aware of what caused such a disappearance. 
+
+In cases where it is clear someone has taken matters of justice into their own hand, it is declared that 'the unknowable forces of cause and effect have issued us what we interpret to mean justice' and often, the matter ends there. Arcologies have found themselves in dire straits after Sekators or other parties acted out of line before, however, thus the practice is heavily frowned upon, though this hardly does the work necessary to curtail the pursuit of restoring pride in one's own people. 
 
 ### Politics & Economy
 
@@ -799,3 +809,5 @@ The Fel-Arcad also maintain immensely vast and comprehensive libraries on ritual
 Though not nearly to the degree of the Sil'khan, the Fel-Arcad pride themselves on being dealers in information, particularly information that has 'aged' or refers to ancient subject matter in the Switchboard. Usually this provision of information is contractual with a clause attached that benefits the Fel-Arcad; if the information provided is a map to a relic, the Fel-Arcad contract-giver generally expect you to bring it back. Refusing to do so can be met with a refusal to do further business with the offending party at that arcology and other arcologies, or worse, hired bounty hunters going after the offender.
 
 Internal handling of an arcology's wealth is down by its Executive, who compute incoming revenue, outgoing expenses and generally handle all accounting. They also handle how this wealth is spent and distributed among the Fel-Arcad, allotments being issued to various sectors and parties as necessary. 
+
+### Social Problems

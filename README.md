@@ -1,4 +1,4 @@
-# Project Samsara
+# 🌌 Project Samsara 🌌
 The endeavor of a lifetime.
 
 ## Introduction

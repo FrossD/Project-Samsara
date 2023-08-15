@@ -142,6 +142,10 @@ Thoughts and new concepts to incorporate into the Samsara canon. While thoughts 
 - Scintillate; a 'neutered' form of Glass used as a drug by Striders.
 - The Red Pleasures of Leilani; the doc on Switchboard vices.
 - Something about Strider 'casualism', talking about some of the quirkier bits of Strider existence and the like, custom around smoking, alcohol, games shit.
+- A **Lingua Dancirah**; seeking to define a sort of language used across the entire Switchboard. Call it the Star-wild Common or 'Starwil'.
+	- Replace common swears.
+		- 'Idolo!' - Fuck
+		- Salva! - Hell
 
 **Sentiments**
 - 1 Timothy 4:13-14
