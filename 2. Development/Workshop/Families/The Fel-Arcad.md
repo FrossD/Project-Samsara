@@ -811,3 +811,23 @@ Though not nearly to the degree of the Sil'khan, the Fel-Arcad pride themselves 
 Internal handling of an arcology's wealth is down by its Executive, who compute incoming revenue, outgoing expenses and generally handle all accounting. They also handle how this wealth is spent and distributed among the Fel-Arcad, allotments being issued to various sectors and parties as necessary. 
 
 ### Social Problems
+**Problem Classes**
+1. Structural
+2. Economic
+3. Environmental
+4. Health
+5. Cultural
+6. Political
+7. Technological
+8. Demographic
+
+**Problem List**
+1. Isolationist nature of arcology living.
+2. Congestion and forced community.
+3. Semblance philosophy is very self-absorbed.
+4. Leaving arcologies is frowned upon.
+5. Pacifistic philosophy is fairly unaligned with the rest of the Switchboard.
+6. Arcologies taken over by unscrupulous actors elements become nexuses for unsavory things in the Switchboard.
+7. Active conflict with the Vahnkin.
+8. The Rosenthalists remain an ever-present threat, particularly to the Sil'khan.
+9. 
