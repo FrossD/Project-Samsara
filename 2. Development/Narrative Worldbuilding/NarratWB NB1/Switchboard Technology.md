@@ -51,7 +51,7 @@ The Strider protocol facilitates traversing considerably long distances extremel
 
 The Strider Protocol is very much a means for a Strider and their bare essentials that make their person to traverse the Switchboard. As such, the SProt does not make other forms of transportation obsolete.
 
-### Narrative Design: The SProt, Distance and Society
+### The Strider Protocol, Distance and Society
 The shortening in effective distance between locales has driven Striders to behave in manners that reflect that. Settlements can and often are set up in regions and at distances that make no logistical sense, as logistics simply isn't a concern. It is also reflective of the isolationist nature of Striders as a whole. A 'city' in the Switchboard is often multiple *actual* cities on the same region, separated by vast distances - these distances often valued for social reasons.
 
 	Often it is simply easier to participate in a society if people who think too differently or are too different from you simply aren't anywhere you could readily see them. 

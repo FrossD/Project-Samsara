@@ -54,7 +54,7 @@ The current organizations of note in the Switchboard are;
 - DOs - Depth Ops
 - EOs - Esoteric Ops
 - A&S - Assault and Secure
-- **BYN OPS - Academy Special Forces**
+- ~~**BYN OPS - Academy Special Forces**~~ Possibly deprecated.
 
 ### Spheres of Stridership
 The Academy aims to train its Striders in multiple spheres it feels most relevant in creating the model Operator, these being;
@@ -167,3 +167,72 @@ Ranks awarded based on roles taken in the CSO forces. Divided into three tiers i
 	- **Task Force Commander** - leaders of purpose-built Academy mobile task forces.
 	- **Raid Commander** - leaders of Vault raiding teams (it's a narrative point that Academy brass hate the term 'kache crashing')
 	- **Sojourner** - a Strider with a thousand jaunts under their belt. A veteran in every sense. 
+
+### On Fleets and Jumpships
+> A lot of this is additionally Sil'khan worldbuilding.
+
+**Birds**
+Absolutely, here's the power scaling chart of birds with their Yoruba translations:
+
+1. **Flightless and Limited Abilities:**
+   - Ostrich (**Òsin**) - **Osin**
+   - Cassowary (**Ẹléwẹ́rẹ́**)
+   - Emu (**Èému**)
+   - Kiwi (**Kíwí**)
+
+2. **Small Predatory Birds:**
+   - Sparrow (**Ẹyẹrin**)
+   - Finch (**Ẹyẹ kòrókòró**)
+   - Pigeon (**Èyìn**)
+
+3. **Intermediate Predatory Birds:**
+   - Hawk (**Òkè**) - **Oke**
+   - Kestrel (**Èèrè**) - **Ere**
+   - Owl (**Òwúrè**) - **Wure**
+
+4. **Large Birds of Prey:**
+   - Eagle (**Òkùnrin**)
+   - Falcon (**Àláárìn**) - **Laarin**
+   - Vulture (**Ìyá ojó**) - **Iya**
+
+5. **Apex Predators:**
+   - Harpy Eagle (**Òkùnrin Harpy**) - **Okunrin**
+   - Golden Eagle (**Òkùnrin Dudú òrun**) - **Kunrin**
+   - Peregrine Falcon (**Àláárìn ìlájòjó**) - **Alarin**
+
+Remember that translations can sometimes carry nuanced differences in meaning, and the names might have additional cultural connotations in the Yoruba language.
+
+**Fleet Classes on Function**
+1. **Personal Jumpships:**
+    - Emphasizing a small, nimble craft for personal use.
+    - Suggesting a compact vessel designed for short interstellar trips.
+    - Indicating an individual's journey through the cosmos.
+    - Highlighting a ship built for fast and efficient transport.
+2. **Exploration and Survey Ships:**
+    - Denoting ships designed for long-distance exploration.
+    - Group of ships dedicated to charting uncharted space.
+    - Implying a fleet focused on scientific discovery.
+3. **Trade and Transport Carriers:**
+    - Signifying ships optimized for transporting goods across star systems.
+    - Indicating a class of ships that form a vital part of trade networks.
+    - Highlighting advanced propulsion technology for efficient hauling.
+4. **Military and Defense Fleets:**
+    - Suggesting a protective armada guarding interstellar territories.
+    - Emphasizing powerful weaponry and advanced technology.
+    - Denoting a front-line force at the forefront of space defense.
+5. **Colonization Vessels:**
+    - Implying ships designed to establish new colonies.
+    - Focusing on ships that lead the way in settling new worlds.
+    - Evoking a sense of purposeful expansion into the unknown.
+6. **Corporate Mega-Carriers:**
+    - Indicating massive ships owned by corporate entities.
+    - Suggesting powerful trade conglomerates controlling vast fleets.
+    - Highlighting the influence and reach of large corporations.
+7. **Scientific Research Expeditions:**
+    - Denoting ships built to study celestial events.
+    - Focusing on the search for extraterrestrial life.
+    - Emphasizing advanced technology for deep-space research.
+8. **Cultural and Diplomatic Ships:**
+    - Signifying ships focused on cultural exchange and diplomacy.
+    - Indicating a fleet that promotes collaboration and peaceful coexistence.
+    - Highlighting ships dedicated to maintaining interstellar relations.

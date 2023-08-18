@@ -445,6 +445,23 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 
 - The **Rosenthalists** pride themselves on being almost Fel-Arcad aristocracy, and though this position comes under extensive challenge from many sides, their underhanded dealings and willingness to cut throats and hustle has seen Rosenthalists find their way into various arcologies, Fel-Arcad institutions and institutions outside the Fel-Arcad entirely. When there, however, and even before that, the Rosenthalists work to ensure that their various agents are well equipped to further their ambitions in secret. The skills necessary for such a task are learned in their underground, deceptively named **Aristocratic Courts**, or more simply **Courts**. These Courts aim to teach all that pass through them in the arts of infiltration, manipulation and subversion, bestowing skills ranging from pickpocketing and lockpicking to manipulation, kidnapping, extortion and assassination. These Courts are hidden, known only by a select few, entry to them being difficult and tutelage under them being harsh. Often they are confined to the **Black Arcologies**, with channels existing for funneling new students to them and graduates from them to places where the Rosenthalists may need them. In addition to Fel-Arcad, other interested parties from other families are known to seek out their teachings.
 
+### Arts, Entertainment & Recreation
+**Discussion Points**
+- The **seed-weave**; a unique calcic clause to all Curlicue trees that manifests as a traceable skew in all things produced by an arcology. It's functionally a randomization algorithm, but the algorithm itself is traceable through the works skewed by it.
+**Art Categories**
+- **Fine Arts**
+	- Visual and Decorative
+	- Performing Arts (Dance and Theater)
+	- Literature and Poetry
+	- Music
+	- Film and Cinema
+- **Fel Arts**
+	- Digital Arts (Simulspace and Video Games)
+	- Applied and Conceptual Arts
+	- Philosophical Arts
+	- Installation and Structural Arts
+	- Architecture and Arcology design
+
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
 
@@ -822,12 +839,15 @@ Internal handling of an arcology's wealth is down by its Executive, who compute 
 8. Demographic
 
 **Problem List**
-1. Isolationist nature of arcology living.
+1. Isolationist nature of arcology living, which has resulted in Fel-Arcad being fairly unlearned on the dealings of the other families in the Switchboard, as well as lacking socialization skills.
 2. Congestion and forced community.
-3. Semblance philosophy is very self-absorbed.
+3. Semblance philosophy is very self-absorbed, leading many Fel-Arcad to be incredibly self-centered and preoccupied primarily with their own lives.
 4. Leaving arcologies is frowned upon.
 5. Pacifistic philosophy is fairly unaligned with the rest of the Switchboard.
 6. Arcologies taken over by unscrupulous actors elements become nexuses for unsavory things in the Switchboard.
-7. Active conflict with the Vahnkin.
-8. The Rosenthalists remain an ever-present threat, particularly to the Sil'khan.
-9. 
+7. Active conflict with the Vahnkin due to the actions of Anti-Amara, which grow increasingly more bold and violent.
+8. The Rosenthalists remain an ever-present threat, particularly to the Sil'khan, and their ideology of conquest of the Switchboard has begun appealing to more and more Fel-Arcad.
+9. Very large 'calcic eugenics' concerns through extensive usage of the Conjugation and sembleworks tech. Some arcologies and sembleworkers already have embraced working towards the engineering of perfect descendants.
+> Add apparatus for maximizing the utility and outcomes for the Conjugat under 'Technology'
+10. Elimination of most minor and even major threats to day-to-day living has made the Fel-Arcad a very 'tender' people.
+11. The Fel-Arcad population as a whole is aging, due to most younger Fel leaving the arcologies to join the Feljourn and organizations like the Spyndl Academy, while those who are left behind are not having children while living for extended periods.
