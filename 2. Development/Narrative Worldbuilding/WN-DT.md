@@ -50,6 +50,13 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 - (nWB) **Arsenal Nomenclatures**: Under [[On Weave and Warfare]]
 	- Develop notations for character arsenals, such as means of indicating if a power is dependent on something else, such as another power or a relic weapon.
 
+- (pWB) **Teks**: Under [[The Blank-Slate Mind]]
+	- Might be worth giving Teks a full look-over as they've been out of development focus for a while.
+	- Might deprecate Tek classes, considering Teks are mostly bullshit powers with near limitless possibility on what can be a Tek.
+		- That being said, there can be a revision of the classifications to try and find ones that are more distinct from each other, describe a broader class of Teks, and allow for guiding the creation of the Teks in the future.
+	- Consider revising SlateMind while at it tbh.
+	- Move Teks under [[The Hands as Chalk]] too.
+
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
 
@@ -109,13 +116,14 @@ Entries under here are either existing but fairly undeveloped documents, or exis
 ### Synthesis Sites
 Entries here have left the Thoughts Repository, and are confirmed to be entering the Samsara canon in some way.
 
-#### Class Alpha - High Prority
+#### Class Alpha - High Priority
 - [ ] Nuthin'
 - (nWB) **The Wheelhouse**: Under [[C4-Organizations]]
 	- A coalition of legendary Striders with a legacy dating back to the Second Praxis war. They earned their repute through the various feats of their individual members, and their collective contributions to the knowledge body of all Third Kin, in the form of 'bubble-skating' and other advanced striding techniques, as well as the creation of quis and qui-wheels.
 	- Refer to notes for more info.
 	- They also maintain the **FOPL.db** or Final Ontological and Phenomological Ledger.
 	- Update Dancirah's Dawn post-Mind Hunts too.
+	- Firefly Regalia.
 
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'

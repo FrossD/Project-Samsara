@@ -460,7 +460,7 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 	- Applied and Conceptual Arts
 	- Philosophical Arts
 	- Installation and Structural Arts
-	- Architecture and Arcology design
+	- Architecture and Arcology Design
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.

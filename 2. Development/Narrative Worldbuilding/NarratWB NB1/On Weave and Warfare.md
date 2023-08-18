@@ -166,12 +166,12 @@ In which we get to the first of the subject's calcic abilities (if present). The
 	
 	- Preparing a charge is done by weaving ribbon into the pattern of what is desired to cast, equations being woven in as well to grant the additional casting and resolution parameters.
 	
-	- The most common forms it takes are '**blast**' and '**grenade**' configurations. Blasts emanate usually from the hands, and resolve as the effects of the charge in an area in front of the caster, such as a cone shape. Grenades become projectiles, and can be thrown to resolve their effects over an area. Grenades are also able to be woven with casting parameters, such as being able to be stuck to a wall and only resolve (detonate) when a potential target comes near.
+	- The most common forms it takes are '**blast**', '**grenade**' and '**charge**' configurations. Blasts emanate usually from the hands, and resolve as the effects of the charge in an area in front of the caster, such as a cone shape. Grenades become projectiles, and can be thrown to resolve their effects over an area. Grenades are also able to be woven with casting parameters, such as being able to be stuck to a wall and only resolve (detonate) when a potential target comes near. Charges are usually effects that are cast over the self or a target, and instead of being fired or tossed outwards, they are prepared and resolved within the same context.
 	
 - **Knit-Shield**
 	The logic of the knit-shield is how weave interacts and interferes with other weave, the optimization of destructive interactions manifesting as the design of **counterweave**. Imagining the knit-shield as similar to actual knitting - a weave of large, thick fibers - and then envisioning what it's like to try to punch through, slash or rip said knitting gives a fairly elementary, but functional understanding of how the knit-shield functions. 
 	
-	- The knit-shield serves as a defensive measure, protecting the caster by creating a secondary lattice to protect the primary, main lattice of their bodies. knit-shields also vary in forms, with some being shields that a caster deploys in front of them - such as from the hands - in anticipation of attack, or function as second skin covering their entire frame, passively protecting from attack. 
+	- The knit-shield serves as a defensive measure, protecting the caster by creating a secondary lattice to protect the primary, main lattice of their bodies. knit-shields also vary in forms, with some being shields that a caster deploys in front of them - such as from the hands - in anticipation of attack, or function as second skin covering their entire frame, passively protecting from attack. These are **active** and **passive** shielding techniques.
 	
 	- Additional properties are added to shields through equations, allowing for inducing weave more resilient to certain forms of attack, or regenerating faster, or doing certain thins when struck. Often, a Weaver's knit-shield also serves as a weapon, punishing attacks for as long as it stays up. Utility features can be woven into it as well, such as repulsion to elements.
 	
@@ -556,6 +556,8 @@ While weapon abilities are arguably a part of a subject's kit and fighting style
 - Subjects can use the weapon abilities in weapons that aren't necessarily theirs. 
 - Weapon abilities do not inflict unraveling on the subject using them, meaning they can be cast fairly infinitely. 
 
+Relic weapons have a **Relic Skillset**, which is a series of powers a relic weapon possesses due to the ritualism inculcated in its makeup. These powers can be **offensive**, **defensive** or **utility** powers, with some relics having a **burst** (PHldr.) that can expend a massive amount of chalk to perform a greatly empowered cast.
+
 ### Weapons - Choices and Philosophy
 Some further notes on Strider Combat, particularly ones that aid in defining the narrative. 
 
@@ -786,7 +788,7 @@ An odd-sock drawer of powers not following the mainline of powers available to a
 - T5 - Flash Protocol
 	- Flashcharge - Crownsplitter/Thronecleaver (P)
 
-#### Example: Adven Ventura
+#### Example: Adven Ventura (Deprecated)
 > Deprecate this; use Fyresworde as a study.
 
 A case study/example outline of a Character Arsenal using Adven Ventura.
@@ -835,3 +837,47 @@ A case study/example outline of a Character Arsenal using Adven Ventura.
 - Titular Power (Tier 3): **The Strider Sojourner**
 	  Ventura's notoriety earned by virtue of his ability to seemingly traverse the Switchboard under any conditions has empowered his Strider Protocol. Ventura is able to passively accumulate chalk mid-stride, and can no longer fall into the Void. This passive chalk accumulation allows for extending the distances he can stride, as well as replace momentum lost due to travel. 
 
+#### Example: Adven Ventura Current
+- T1 - Relic Armaments
+	- Marital Arm
+		- **Tritanium Longsword** (MOD-F'd)
+	- Firearm: 
+		- **Sojourner's Tale** (MOD-F'd | Primary)
+	- Tertiary:
+		- **Wheelstrider's Praxlance**
+	
+- T2 - Elementary Calcic (5 Charges)
+	- Charge
+		- **Interceptor Flechette** (Charge)
+		- **Saboteur's Salvo** (Grenade)
+	- Shield
+		- **Interceptor Net** (Active)
+		- **Rifleman's Shield** (Active)
+	- Dash
+		- **Calculated Leap**
+	
+- T3 - Advanced Calcic
+	- Tek
+		- **Trajectory Calculator**
+	- Qui
+		- **Hardpoint Calcic Rounds**
+		- **Unravelling Rounds**
+	
+- T3 - Relic Skillset (Axle: Sojourner's Tale) (3 Charges)
+	- Offensive
+		- **Cut Loose** (Axle: Trajectory Calculator)
+	- Defensive
+		- **Fire For Fire** (Axle: Trajectory Calculator)
+	- Utility
+		- N/A
+	- Burst
+		- **Sidewinder Feed System** (Axle: Trajectory Calculator, Flash Protocol)
+	
+- T4 - Grand Calcic
+	- **Safe Passage**
+	
+- T5 - Flash Protocol
+	- **Full Circuit**
+
+#### Examples: FSword
+- T1 - Relic Armam
