@@ -4,76 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e70aac8c23da5856",
+        "id": "efca6b31da55410e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0d4f6df89f91b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3282070a8bc3b1ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43cae5037850693d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35042f63037843e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adf55f7e1f6a8498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20a40c57e23de159",
+            "id": "14438d988e0a9d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +21,7 @@
             }
           },
           {
-            "id": "6f580125b33f390a",
+            "id": "f42bd689db80af9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,12 +34,12 @@
             }
           },
           {
-            "id": "9b39c89ce19b22f9",
+            "id": "e324b7ed7480d2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,12 +47,12 @@
             }
           },
           {
-            "id": "12cda66c316dd65b",
+            "id": "62542182e268910d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,12 +60,12 @@
             }
           },
           {
-            "id": "2d3ab17d69825d05",
+            "id": "2baf540796a72c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Mechanical Pillars/The Relics of New.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -190,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -207,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md"
+                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md"
               }
             }
           },
@@ -217,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,19 +216,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b39c89ce19b22f9",
+  "active": "62542182e268910d",
   "lastOpenFiles": [
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+    "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Mechanical Pillars/The Relics of New.md",
+    "Actor Arsenal.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
     "2. Development/Workshop/WorkshopDocs/AcademyExtended.md",
-    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "README.md",
     "Excalidraw/Test.md",
@@ -307,10 +246,6 @@
     "Z. Assets/Pasted image 20230804174944.png",
     "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
     "2. Development/Workshop/Families/The Fel-Arcad Modded.md",
-    "2. Development/Workshop/Families/FA post-NewCanon Amend..md",
-    "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
-    "1. Drawing Board/Offshore/Z. Scenario Codes.md",
-    "1. Drawing Board/1. Samsara Community/Samsara 1 - The Proposal.md",
     "3. Scribbling/657D3A00",
     "3. Scribbling/7D2D3A00",
     "3. Scribbling/16CC3A00",

@@ -139,7 +139,7 @@ Exhaustively defined elsewhere (such as [[The Hands as Chalk]] and [[The Strider
 
 Wielding chalk under the Switchboard's combat systems entails a number of things; weaving chalk to use the core five weaving powers of Strike, Charge, Shield, Dash and Armament. Additionally is the usage of Teks and Rituals, including both Quis and full rituals. Particularly skilled Weavers can also cast Grand Rituals using their Flash Protocol, but only Chalk*striders* can use the Flash Protocol's additional powers of Physical and Weave Overclocks and the Flashcharge. 
 
-**Template**
+#### Arsenal
 **T1 - Relic Armaments**
 Chalkweaver arsenals begin with their relic weapons; weapons inculcated with rituals and chalk to see their functionality enhanced beyond the mundane qualities of their construction. Chalkweavers and Striders especially have a primary weapon that serves as their 'signature'; a weapon they are most proficient with and thus are most recognizable by. While Chalkweavers may not necessarily wield a relic weapon, the full potential of their arsenal demands one.
 
@@ -166,7 +166,7 @@ In which we get to the first of the subject's calcic abilities (if present). The
 	
 	- Preparing a charge is done by weaving ribbon into the pattern of what is desired to cast, equations being woven in as well to grant the additional casting and resolution parameters.
 	
-	- The most common forms it takes are '**blast**', '**grenade**' and '**charge**' configurations. Blasts emanate usually from the hands, and resolve as the effects of the charge in an area in front of the caster, such as a cone shape. Grenades become projectiles, and can be thrown to resolve their effects over an area. Grenades are also able to be woven with casting parameters, such as being able to be stuck to a wall and only resolve (detonate) when a potential target comes near. Charges are usually effects that are cast over the self or a target, and instead of being fired or tossed outwards, they are prepared and resolved within the same context.
+	- The most common forms it takes are '**blast**', '**grenade**' and '**imbue**' configurations. **Blasts** emanate usually from the hands, and resolve as the effects of the charge in an area in front of the caster, such as a cone shape. **Grenades** become projectiles, and can be thrown to resolve their effects over an area. Grenades are also able to be woven with casting parameters, such as being able to be stuck to a wall and only resolve (detonate) when a potential target comes near. **Imbues** are usually effects that are cast over the self or a target, and instead of being fired or tossed outwards, they are prepared and resolved within the same context. They often provide effects to the caster of the imbue.
 	
 - **Knit-Shield**
 	The logic of the knit-shield is how weave interacts and interferes with other weave, the optimization of destructive interactions manifesting as the design of **counterweave**. Imagining the knit-shield as similar to actual knitting - a weave of large, thick fibers - and then envisioning what it's like to try to punch through, slash or rip said knitting gives a fairly elementary, but functional understanding of how the knit-shield functions. 
@@ -229,7 +229,7 @@ While Depthstriders lack the Flash Protocol, what they have in place of it - som
 > One is that we still don't have a concrete explanation for what 'negative information' and thus 'negative chalk' is. The ideas I have are something to do with depthstones, and there is also the piece sent by Hex regarding Negative Information.
 > As a snap idea, I'm considering the idea of Depthstriders being fond of the Switchboard's blunt, heavy martial weapons whereas Chalkweavers prefer blades and weapons that keep the hands unencumbered, this idea being based off the fact that Curvature Manipulation and thus gravity control eliminates most of the drawbacks that class of martial weapon has, and even enhances it by boosting their destructiveness through gravitational acceleration. Something can only be *so* cut, but the pulverizing force of a gravity-assisted hammer swing, performed with little or no cost to the wielder is nothing to scoff at.
 
-**Template**
+#### Arsenal
 T1 - **Void-Enhanced Armament**
 Core to every Depthstrider's arsenal is their Void-enhanced armament, weaponry that is attuned with the depths of Isalveh, the Challenger Dark. They reap boons for their weapon class by drinking of the nature of all similar weapons in the Void; blades are made sharper by all blades in the Void, and guns shoot truer due to all guns present in the Void. Stardrip sees all information dissolve into it, and flow into all that is inculcated with it. Common to all Void weapons is the additional power to induce great depth - rifts - to the Challenger Dark, allowing transit to and fro, and acts of Giving and Taking. While Depthstriders can perform this inherently, with Void weapons they can focus their power allowing summoning and maintenance of the rift with greater ease.
 
@@ -320,7 +320,7 @@ In turn, the mechanics of chalk are able to interact with the Void, particularly
 
 Full Spectra techniques use chalk and Void to extreme degrees, similar to 'Horizon Ritualism', a form of the chalk ritualism that makes use of Void-based components.
 
-**Template**
+#### Arsenal
 T1 - **Polarized Armaments**
 Pale Amarans stride the lines of metaphorical white and black, wielding powers from the calcic and the depths alike. Through the pale amara woven into their lattice, where contradiction should be found, cooperation now takes root, and their powers in one domain augment and fuel the other. 
 
@@ -865,7 +865,7 @@ A case study/example outline of a Character Arsenal using Adven Ventura.
 	
 - T3 - Relic Skillset (Axle: Sojourner's Tale) (3 Charges)
 	- Offensive
-		- **Cut Loose** (Axle: Trajectory Calculator)
+		- **Compression Chamber** (Axle: Trajectory Calculator)
 	- Defensive
 		- **Fire For Fire** (Axle: Trajectory Calculator)
 	- Utility
@@ -881,3 +881,62 @@ A case study/example outline of a Character Arsenal using Adven Ventura.
 
 #### Examples: FSword
 - T1 - Relic Armam
+
+#### Loadouts
+Chalkweaver
+- T1 - Relic Armaments
+	- Contents
+		- Martial Arm
+		- Firearm
+		- Tertiary
+	- Modifiers
+		- Mundane
+		- Natural Relics
+			- Prime Relics
+		- Artificial Relics ([[The Relics of New]])
+			- AAA-XXX
+			- AAA-XXX-F#
+			- AAA-XXX-F#YYY
+- T2 - Elementary Calcic
+	- Strike
+		- Forms
+			- Touch
+			- Bolt
+	- Charge
+		- Forms
+			- Blast
+			- Grenade
+			- Imbue
+	- Shield
+		- Forms
+			- Passive
+			- Active
+	- Dash
+	- Armament
+- T3 - Advanced Calcic
+	- Tek
+		- Abilities
+			- Offensive
+			- Defensive
+			- Utility
+			- Burst
+	- Qui
+- T4 - Grand Calcic
+- T5 - Flash Protocol
+	- Forms
+		- Flash Strike
+		- Flash Weave
+		- Lattice Overclock
+		- Ribbon Overclock
+		- Flashcharge
+
+- TX - Relic Skillsets
+	- Powers
+		- Offensive
+		- Defensive
+		- Utility
+		- Burst
+
+- Global Modifiers
+	- Axle: This element of the arsenal hinges on another element of it.
+	- Praxis: This element of the arsenal operates on the Praxis level.

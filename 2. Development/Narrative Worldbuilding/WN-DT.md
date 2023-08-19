@@ -47,6 +47,7 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 
 - (nWB) **The Formation of the Wheelhouse**: Under [[The Dawn of the Dancirah]]
 	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
+
 - (nWB) **Arsenal Nomenclatures**: Under [[On Weave and Warfare]]
 	- Develop notations for character arsenals, such as means of indicating if a power is dependent on something else, such as another power or a relic weapon.
 
@@ -56,6 +57,10 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 		- That being said, there can be a revision of the classifications to try and find ones that are more distinct from each other, describe a broader class of Teks, and allow for guiding the creation of the Teks in the future.
 	- Consider revising SlateMind while at it tbh.
 	- Move Teks under [[The Hands as Chalk]] too.
+
+- (nWB) **Praxis Powers**: Under [[On Weave and Warfare]]
+	- Speak on praxis powers in the Switchboard.
+	- Work on a powerscaling that places Praxis Powers at the top, followed by Protocols, etc.
 
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
