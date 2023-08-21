@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "b6be22f657b796b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2baf540796a72c51",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md"
+                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md"
               }
             }
           },
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
+                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
+                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +212,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,12 +229,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62542182e268910d",
+  "active": "e324b7ed7480d2ba",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "2. Development/Workshop/WorkshopDocs/Teks 2.0.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Mechanical Pillars/The Relics of New.md",
     "Actor Arsenal.md",
