@@ -451,6 +451,8 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 **Art Categories**
 - **Fine Arts**
 	- Visual and Decorative
+		- Sculpting
+		- Textiles and Clothmaking
 	- Performing Arts (Dance and Theater)
 	- Literature and Poetry
 	- Music
@@ -461,6 +463,22 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 	- Philosophical Arts
 	- Installation and Structural Arts
 	- Architecture and Arcology Design
+
+#### The Curlicue 'Seed' - The Nymia
+An interesting quality of the Fey Curlicue is its significance as an inducer of mathematics within things that are subject to it. When a Curlicue reaches maturity, it flowers and fruits, and from these fruits are the Curlicue seeds obtained. Highly valued as a part of Arcad and Fel-Arcad history and culture, as well as their essential role in establishing new arcologies, the true depths of the secrets they contain remain unplumbed, due to the costly nature of such research and the reaction a proposal of damaging such valuable things draws.
+
+What is known about the Curlicue seeds however, is a bit of 'viral weave' contained within them. Manifesting seemingly as a long string of random numbers, it is in its deployment that the true nature of it is revealed; this number is a mathematical 'seed', that is added to the various equations necessary for building an arcadia, arcology and a litany of other related concepts, which skews them in a manner that is traceable within all things affected by it - but differing noticeably from other concepts modified or skewed by other seeds.
+
+Simplified, it is a unique randomness clause intrinsic to every Curlicue seed, which subtly affects everything produced within or under the domain of the Curlicue Tree spawned from that seed.
+
+This mathematical skew manifests particularly in the more artistic works undergone by a Fel-Arcad arcology, as it works itself both into the work itself and the artist producing it. As the Fel-Arcad in an arcology grow in that arcology, the chalk of the arcology and the Curlicue at the heart of it flows through them. It permeates their lattice and skews the work that they produce, in a manner that is traceable to the arcology from which it came, while being distinct from work produced from other arcologies.
+
+This mathematical skew manifests in subtle ways; in every brush stroke and color, in every dance step, in the choice of language and rhythm in poetry and twists of plot in prose, in the melodies and beats in music, in the shots and composition of Fel-Arcad cinema, in the design of their games and their works of visual philosophical display an their sculpting and modelling of being and building alike. All of these things are subject to the seed, the seed becoming innate to all of them, creating an artistic identity - a signature almost - on every work produced by arcology-dwelling Fel-Arcad.
+
+The untrained viewer may simply see a collection of Fel-Arcad arts, and not the subtle, nigh-imperceptible differences between them that goes beyond the skin-deep, immediate conclusion drawn and even later conclusions reached from further ponderance. But even newborn Fel-Arcad know what is from their arcology and what isn't, and the scholars of these seeds - these **nymia** - have taken it upon themselves to study how each relates to the arcology from which it originates, and the people that dwell within it. Collectors pride themselves on vast caches of nymia, particularly those who hold artistic pieces from artists who no longer live or practice, and especially pieces from arcologies that no longer exist. The nature of nymia drives much of the Fel-Arcad artistic world, both its sun-facing back and its murky underbelly, as some nymia is prized enough to be pursued and procured by the dedicated through any means necessary.
+
+#### Fel-Arcad Art and the Outside World
+- Talk about how the outside Switchboard has an effect on Fel-Arcad works.
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.

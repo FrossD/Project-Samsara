@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efca6b31da55410e",
+        "id": "d48f60a246db1a60",
         "type": "tabs",
         "children": [
           {
-            "id": "14438d988e0a9d3d",
+            "id": "79c02e5f924ff83b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f42bd689db80af9a",
+            "id": "42edb8da3211487c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "e324b7ed7480d2ba",
+            "id": "5fa2b94c887ed66b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6be22f657b796b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2baf540796a72c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md"
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
               }
             }
           },
@@ -152,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,14 +190,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6be22f657b796b3",
+  "active": "5fa2b94c887ed66b",
   "lastOpenFiles": [
-    "2. Development/Workshop/WorkshopDocs/Teks Legacy.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Workshop/WorkshopDocs/Teks Legacy.md",
+    "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
     "2. Development/Mechanical Pillars/The Relics of New.md",
     "Actor Arsenal.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
