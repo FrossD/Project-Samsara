@@ -172,8 +172,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fa2b94c887ed66b",
+  "active": "5ea7145198905749",
   "lastOpenFiles": [
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",

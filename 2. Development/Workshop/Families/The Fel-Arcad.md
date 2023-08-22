@@ -480,6 +480,10 @@ The untrained viewer may simply see a collection of Fel-Arcad arts, and not the 
 #### Fel-Arcad Art and the Outside World
 - Talk about how the outside Switchboard has an effect on Fel-Arcad works.
 
+Perhaps one of the greatest ironies of the Fel-Arcad existence is that their arcologies which inarguably facilitate art through their nigh-utopic conditions and protection from outside threats - are also its greatest hinderance *because* they provide those things.
+
+Under ideal conditions such as no aggressive external interference, and given an unlimited supply of chalk, an arcology can house generation after generation of Fel-Arcad and function optimally, indefinitely. Those within would likely never suffer a day in their lives 
+
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
 
