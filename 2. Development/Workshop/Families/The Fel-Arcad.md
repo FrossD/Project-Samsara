@@ -459,9 +459,11 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 	- Film and Cinema
 - **Fel Arts**
 	- Digital Arts (Simulspace and Video Games)
+		- Photography
 	- Applied and Conceptual Arts
 	- Philosophical Arts
 	- Installation and Structural Arts
+		- Fresco, Murals, 
 	- Architecture and Arcology Design
 
 #### The Curlicue 'Seed' - The Nymia
@@ -488,7 +490,27 @@ The rectification of this is that the Fel-Arcad have become major importers of *
 
 All they glean from all those they engage with is then put into the art the Fel-Arcad make. Old stories retold in new manners, sculpts of legendary events, tapestries of age-old pacts, theatrical reenactments of royal courts, music scored for grand battles, films made telling old stories in new ways and new ones entirely. 
 
-Through study, discussion with other Fel-Arcad and sharing creations among themselves and even with other arcologies, the Fel-Arcad act as a force of **accelerating** artistic
+Through study, discussion with other Fel-Arcad and sharing creations among themselves and even with other arcologies, the Fel-Arcad act as a force of **accelerating** artistic development. Simple ideas enter arcologies and through study and innovation are taken to lengths they never would have outside of them. Arcologies and the Fel-Arcad within them may not be the 'originators' of much of the inspiration for the Switchboard's art, but 'Fel-Arcad art' as a concept and a reality is immensely vast, deep, and constantly growing.
+
+#### The Arts - Fine
+The Fel-Arcad's fine arts can be roughly classified into;
+- Visual and Decorative
+- Performing Arts
+- Literature and Poetry
+- Music
+- Film and Cinema
+
+**Visual and Decorative**
+In addition to the various forms of art this phrase evokes immediately, particularly various forms of painting as classed by media (watercolor, oil painting), under this category we also have sculpting and textiles/clothmaking. 
+
+Drawing and painting remains a particularly popular artform among the Fel-Arcad. The cultivated arcadia just outside their arcologies are an abundant source of natural pigments for making paint, and it is said there is no color that cannot be made from the blooms to be found in an expansive arcadia. Calcic ritualism allows for taking paint beyond elementary forms, adding qualities to it that greatly expands on what can be done with it; metallic sheens, wispy glows, color-shifting along gradients. There is an art to the making of media just as there is art to making it. Canvas is as one would expect it; blank slates ripe for the birthing of grand ideas.
+
+Sculpting among the Fel-Arcad sees the realization of grand ideas in three dimensions. The favored media are crystalline chalk and replichrome, though many choose to have various flavors of simple stone quarried from the many biomes of the Dancirah. Replichrome sculpting in particular is popular, as the ability for replichrome to grow when fed chalk creates avenues for particularly dynamic sculptures. Institutions such as the Spyndl Academy often contract Fel-Arcad sculptors for decorative pieces depicting the Skydancers or legendary Striders.
+
+The nymia shows particularly in Fel-Arcad textiles and clothmaking, the mathematical seed of randomness ensuring any two specimens are rarely ever identical. Grand tapestries are created depicting ancient history and legendary myths and events, as well as simple patterned fabrics for making clothes and uniforms. An element of practicality is added with Fel-Arcad artists able to work with other professionals to create elegant clothing with non-trivial function as armor, for example. Fel-made cloth is a widely-loved commodity, and is frequently a major export from arcologies, produced at a commercial scale to serve a large market.
+
+**Performing Arts**
+> Theater for the Vahnkin, Cinema for the Lancaster
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
