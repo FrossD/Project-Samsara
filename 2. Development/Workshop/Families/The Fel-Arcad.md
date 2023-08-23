@@ -510,7 +510,7 @@ Sculpting among the Fel-Arcad sees the realization of grand ideas in three dimen
 The nymia shows particularly in Fel-Arcad textiles and clothmaking, the mathematical seed of randomness ensuring any two specimens are rarely ever identical. Grand tapestries are created depicting ancient history and legendary myths and events, as well as simple patterned fabrics for making clothes and uniforms. An element of practicality is added with Fel-Arcad artists able to work with other professionals to create elegant clothing with non-trivial function as armor, for example. Fel-made cloth is a widely-loved commodity, and is frequently a major export from arcologies, produced at a commercial scale to serve a large market.
 
 **Performing Arts**
-> Theater for the Vahnkin, Cinema for the Lancaster
+> Theater for the Vahnkin and Lancaster, Cinema for the Sil'khan
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
