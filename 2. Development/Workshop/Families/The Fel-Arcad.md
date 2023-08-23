@@ -49,11 +49,8 @@ Spur of the moment thoughts that could use work.
 - ~~The Fel-Arcad used the same device that they did to form Morrigan to create the second generation of Fel-Arcad.~~ This idea will be used on the Sil'khan instead.
 - The Triptych Crucible is in the possession of the Brass Monastery.
 - Psychitects are trained primarily among the Fel-Arcad.
-**Technology**
-- Purposed Minds
-- Triptych Crucibles and lesser crucibles
-- Arcologies and their management systems
-- Slates
+- History and Mythology section has notable persons in it.
+	- Fel-Arcad originator of cinema.
 
 #### Transcribing
 - Naming of the First Arcology builder. Perhaps he should be Rosen, and the Ha-Danseer that the Rosenthalists claim descendance from be changed to something else.
@@ -511,6 +508,33 @@ The nymia shows particularly in Fel-Arcad textiles and clothmaking, the mathemat
 
 **Performing Arts**
 > Theater for the Vahnkin and Lancaster, Cinema for the Sil'khan
+
+Theater holds a valued place in Fel-Arcad society, and arcologies in their continued goal of facilitating practice of the arts often posses stages and arenas of various sizes to allow for live plays to take place. Ranging from dance performances to full-on theatrical displays, creation and consumption of the theater arts remains a core of Fel-Arcad living.
+
+The various scriptwriters of plays borrow heavily from stories told in other families. **Amaran theater**, or dramatizations of the royal court proceedings the Vahnkin are known for, are particularly popular to the Fel-Arcad, who view the Void and its denizens as 'incredibly foreign' on many counts, ranging from the structure of their societies to the conduction of their very lives. Stories of Lancasters are frequently tales of lovable underdogs; those not given power like their various Strider and Weaver cousins overcoming the obstacles set before them through other means, often with comedic, tragic and epic slants. Some stories of the Sil'khan are told through live theater as well, but the tales of the Sil'khan are often so grand and usually violent as to demand other means of their wholistic portrayal.
+
+And of course, the Fel-Arcad will write plays about themselves, many of them regarding their experiences with the outside Switchboard. Expeditions outside the arcologies to glean material for theatrical renditions upon return is a common practice among the Fel-Arcad.
+
+**Literature and Poetry**
+Books as both stores and disseminators of knowledge and tale places them in high regard to the Fel-Arcad, and other than the practice of arcology design and construction and the digital arts, literature is argued to be the most highly regarded of all Fel-Arcad artforms. 
+
+Non-fictional recounts of the experiences of individuals in the Switchboard - Fel or not - command considerable audience, and there is a practice even of previously terribly-sheltered Fel-Arcad embarking on journeys with unfamiliar company with the aim of writing an account of events, a practice that has been many Fel's claim to varying amounts of fame. Fictional works sees slightly diminished status in 'higher art' circles, but proliferates wildly among those not so 'refined' in their tastes, the low barrier for entry allowing for the creation of writing on a massive scale, frequently shared and consumed on intra-arcological nets and the wider, Dancirah-encompassing DevitNet. Derivative works occupy a considerable chunk of the pie of all literature produced, books written drawing inspiration from the various other spheres of art the Fel-Arcad espouse.
+
+For reasons unknown, poetry has gained little traction outside Fel circles, and even then the Fel-Arcad circles where it sees considerable audience pride themselves on refinement and higher taste. It has led many to conclude it is a preoccupation of the pretentious.
+
+> Yes, these are my personal gripes on show. I will accept no criticism.
+
+**Music**
+> One of the Fel-Arts bearing the least outside influence.
+
+**Film and Cinema**
+> Give Fel-Arcad cinema a name, like how we have Hollywood. Named after the originator of Fel-Arcad modern cinema.
+
+Film and Cinema among the Fel-Arcad straddles the line between art and enterprise, with a sprawling almost-machine that governs the entire affair of seeing stories committed to the big screen. Fel-Arcad often work with parties outside the arcology to see films realized, often for the task of acquiring actors and filming on locations. Both domestic and foreign markets thrive on this front, with the Fel-Arcad being the Switchboard's only real producer of this artform, due to the colossal investment required in its realization.
+
+Various large media-houses account for the overwhelming majority of film that reaches cinema screens every procession, though a fairly large independent scene exists as well. Sil'khan in particular are frequent investors in Fel-Arcad cinema as a means of their various daring feats being immortalized and made viewable throughout the Dancirah. 
+
+#### The Arts - Fel
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
