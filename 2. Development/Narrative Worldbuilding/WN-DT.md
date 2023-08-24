@@ -10,8 +10,10 @@ A small space for quickly rebuilding docs that have been changed as a result of 
 - [x] Nuthin'
 
 ## Work: Questions
-A bank of questions to ask the good doctor, relevant to ongoing development.
-- [x] Nuthin'
+A bank of questions relevant to ongoing development.
+- [ ] Nuthin'
+
+-  What is a protocol?
 
 ## Work: Active Development
 A staging ground for work currently in progress. Tasks here are often new.
@@ -61,7 +63,7 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 ### Restructuring
 Structural rebuilds of some documents, necessary when they grow particularly long, asking for a rebuild of the headings tree, or tentative consideration of whether some documents should be merged into one or existing documents be broken down into multiple smaller ones.
 
-#### Class Alpha - High Prority
+#### Class Alpha - High Priority
 - [ ] Nuthin'
 
 - **Amendment to Family Template**
@@ -72,6 +74,12 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 
 - (meta) **Vault-wide Rebuild of Text Formatting**
 	- A vault-wide rebuild of how text is formatted in the vault, using isolated tabs before text to show **my thoughts** and greater than indents to show **additional details or footnotes**.
+
+- (meta) **The Biomes Table**: Under [[The Skywards Pursuit]]
+	- I hate the damn thing so much.
+	- I hate the damn thing so much.
+	- Figure out a way to make it more readable without nearly crashing the doc whenever it's scrolled to. Check it for grammatical coherence too.
+	- I hate the damn thing so much.
 
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.

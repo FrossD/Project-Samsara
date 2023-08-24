@@ -100,17 +100,7 @@ The Switchboard - expectedly - functions rather differently.
 Much like the Astrolabe, the means by which Striders communicate over long distances is facilitated by natural, preexisting phenomena in the Switchboard; an invisible, almost intangible 'fabric' over the Switchboard known as the **Vitric Shelf**,and a species of tree that interacts with it in a most peculiar manner, known as the **Anarhiza**. Both working in tandem form the **Dendro-Vitric Network**, or the '**DevitNET**'; a lattice of communication relay structures spanning most of the Switchboard. 
 
 #### The Vitric Shelf
-As it stands now, the Shelf is a 'realm' lying 'above' the Switchboard, much like the Challenger Dark is one lying 'below' it. It serves two narrative purposes (so far); an explanation of where Glass comes from, and the subject of this section - Switchboard telecommunications. 
-
-	The Vitric Shelf will feature heavily in 'Glass 3.0'; the third and hopefully final interation of Glass in the Switchboard.
-
-	We can speak on it as a narrative design element then. It began it's existence as merely a thing to explain another thing; a worldbuilding device spun on a loom to serve a specific purpose. In it's next iteration under Glass 3.0, it will likely become a place as we understand 'places', in that it can be visited. For what reason would you want to visit it? Unsure. Where does the Shelf come from? Its always been here. What laws and principles govern its existence? Unsure. Why is it where glass is and from? Unsure. What really is Glass? Unsure again.
-
-	Currently it exists because it needs too, similar to the Astrolabe, and there is a school of thought that believes that is enough. It is a case where we have temporarily shelved the hard work and we will come back to it later.
-
-	There is the idea that it will relate to the Mysticism in some capacity, which can mean anything and nothing.
-
-	This all rides on Glass 3.0. Do what needs doing.
+As it stands now, [[The Vitric Shelf]] is a 'realm' lying 'above' the Switchboard, much like the Challenger Dark is one lying 'below' it. It serves two narrative purposes (so far); an explanation of where Glass comes from, and the subject of this section - Switchboard telecommunications. 
 
 #### The Anarhiza
 The Vitric Shelf and now the Anarhiza stem from a narrative design vision of the Switchboard to contain a litany of wholly natural features that are creative used by Striders to their own ends. Much like installing a waterwheel on a river flowing powerfully down a mountain, I envision Striders as constantly seeking ways to use their surroundings to their advantage, which plays perfectly in the Strider mantra of exploration; the necessity of finding new 'surroundings' to make use of.
@@ -131,6 +121,8 @@ Devices made to be DevitNet compatible require Anarhiza derivatives such as bran
 Though information is sent to the entire DevitNet, encryption systems are in place to ensure senders can control what receivers can read transmitted information. Encryption and decryption is handled by the devices hooked up tot the Anarhiza before the message is sent to the Shelf.
 
 While the Anarhiza does allow communication across the Switchboard, it is more correct to say that it allows communication anywhere the tree is present. Though the tree occurs naturally, occasionally Striders must go to far-flung areas of the Switchboard to plant new ones to link new settlements or establish relay stations, as well as maintain old trees to avoid parts of the network collapsing. 
+
+> The Switchboard's functionally internet-analogue is considerably similar to ours, but for the nontrivial difference that, for the most part, the entirety of the DevitNet is conducted on hardline cable. This hardline cable being the Anarhiza also means that the entirety of the DevitNet's digital space is a mirror of the Dancirah's geographical structure. The DevitNet is thus divided along lines similar to that of the Dancirah's, with cradles existing in the DevitNet that house collections of users. One of the consequences of this is that breaks in the hardline cabling can leave the corresponding geographical locale isolated from the rest of the DevitNet and thus the Switchboard, and cabling that needs to break for this to happen are usually fairly easy to locate through following the physical branch cables until they converge into large central arteries moving titanic amounts of information. Thus, maintenance of the DevitNet is a tireless, unending task, undertaken by coalition forces, primarily Sil'khan and Lancasters - especially when considering the sabotage of DevitNet infrastructure is a common tactic of Vault Minds and unscrupulous parties. 
 
 	In a truly hilarious twist - a juxtaposition if you will - Strider network administrators function more like gardeners than whatever image that title would conventionally invoke in the mind. 
 

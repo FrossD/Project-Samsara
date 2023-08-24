@@ -221,7 +221,7 @@ The other more esoteric powers of the Void come in the form of **Gifts of the Vo
 
 In addition to the **Gifts of the Void** are the **Possessions from the Void**. These are almost entirely similar to Gifts, except that they can be retrieved from the Void with total reliability, and suffer no Skews when they are. Possessions from the Void are Taken, and they are wielded by Depthstriders as a bit of determinability in the randomness of their arsenals.
 
-As a noteworthy feature, Gifts and Possessions can **transition** between these states. Returning something to the Void can allow for a Depthstrider to ask for it back as a Gift, or Take it as a possession. Thus this particular section of a Depthstrider's arsenal  - collectively called **Draws from the Void** - are subject to a sort of 'gambling' mechanic; draw with certainty by Taking, or ask to be Given and possibly reap greater rewards or suffer drawbacks.
+As a noteworthy feature, Gifts and Possessions can **transition** between these states via the **formshift**. Returning something to the Void can allow for a Depthstrider to ask for it back as a Gift, or Take it as a possession. Thus this particular section of a Depthstrider's arsenal  - collectively called **Draws from the Void** - are subject to a sort of 'gambling' mechanic; draw with certainty by Taking, or ask to be Given and possibly reap greater rewards or suffer drawbacks.
 
 While Depthstriders lack the Flash Protocol, what they have in place of it - somewhat - is the **Drift Protocol**. Depthstriders who undergo the pilgrimage to become **Void Drifters** obtain their final powers, the ability to Shape from the Void and the power to manipulate time using the DCC. Most wielders of the Void will never attain this lofty height of strength, but those that due fear almost nothing from their chalkweaver counterparts.
 
@@ -268,7 +268,7 @@ Perhaps the power that separates Depthstriders from others the most is their abi
 - **Draw Strike**
 	In communing with the Void, one sees their full minds focused on the depths. Opportunistic foes of Vahn's kin believe they can exploit these moments for lucky strikes, but find soon that anything pulled from the Void is followed - always - with more than just what was asked for.
 	
-- **Transit Form**
+- **Formshift**
 	A Gift can be returned and then Taken instead, and something Taken can be returned and asked for as a Gift. This transiting of forms allows for a power of the Void to return with predictability and specificity, or with random boons from Skews. Skilled Depthstriders perform this frequently - often even in the heat of battle - to reap benefits of both, fighting with predictability and consistency when needed, or leaving the Switchboard's dangers in the hands of their ancestor-kin Vahn.
 
 T4 - **The Deep Hollow**
@@ -276,7 +276,7 @@ T4 - **The Deep Hollow**
 
 Depthstriders, Vahnkin - blood or not - all form a connection with the first Amaranth Sultan and his household. Through deep conviction in nature and thus philosophy of the Void, they imbibe its doctrine, and see their power elevated as a result. As conviction in this doctrine grows, so too does the power of those convicted, until a threshold is reached and will can be given form. Immersing oneself into the Void, and reaching into oneself to Take allows for grabbing hold of their conviction - and with it - building a pocket realm where the doctrine of the Void and the kin of Vahn reigns supreme. This is the Deep Hollow; the conviction-space, the holy grounds for Vahn's kin. The place for heretics in this space is on altars.
 
-Within the Deep Hollow, the chalk wielded by Chalkweavers is rapidly drained, and the Strider Protocol cannot be performed due to the sheer localized curvature induced in the space. Attempting to Stride requires overcoming ones on information mass, as well as escaping the massive pull of the Void. Depthstriders in this space see cross-arsenal improvements; buffs in strength to void armament, Given and Taken boons from the Void increased in their various forms of potency, including their more refined alignment to the wishes of the Hollow caster. Transiting Form can be performed rapidly alongside Giving and Taking, and the Draw Strike is further empowered. One consequence however, is that anti-curvature abilites here are harder to perform, due to the extreme curvature induced by the Hollow space.
+Within the Deep Hollow, the chalk wielded by Chalkweavers is rapidly drained, and the Strider Protocol cannot be performed due to the sheer localized curvature induced in the space. Attempting to Stride requires overcoming ones on information mass, as well as escaping the massive pull of the Void. Depthstriders in this space see cross-arsenal improvements; buffs in strength to void armament, Given and Taken boons from the Void increased in their various forms of potency, including their more refined alignment to the wishes of the Hollow caster. Formshifting can be performed rapidly alongside Giving and Taking, and the Draw Strike is further empowered. One consequence however, is that anti-curvature abilites here are harder to perform, due to the extreme curvature induced by the Hollow space.
 
 When cast by a Void Drifter, time in a Hollow becomes clay in their hands. Few escape these hallowed grounds.
 
@@ -289,7 +289,7 @@ The Hollow itself manifests in three stages, that being grand cathedral-like str
 	
 	- **Hollow Edicula**: The first tier, small but with great room to grow. This space is formed from a maturing acolyte of the depth's conviction, and within this space they reap the rewards of their conviction and the Amaranth Sultan's favor. Within the Edicula they see buffs to their arsenal, and weight placed on the shoulders of their foes. The first power in the most elementary rule is that of placing a **Forbid**, a rule that burdens all but the kin of Vahn in the space. The limitations of this power is that the power to maintain it must also be drawn as the Edicula is being built, and so even among those who may only summon the Hollow Edicula, the resulting structure varies.
 	
-	- **Hollow Basilica**: The second tier, summoned with the conviction of matured kin of Vahn, drawing additionally from the latent power gained from the fellowship with fellow kin, and the conversion of those untouched by the depths to their ranks. In the Basilica, a **Drain** is inflicted on the denizens who aren't convicted of Vahn. Chalk is rapidly drained and chalk-reliant powers are considerably weakened. As this chalk is drained away, the Basilica grows deeper, the Vahnkin caster within gradually growing more powerful. Further enhancements are seen to the caster's arsenal here, in particular their powers of Give, Take, Transit Form and the Draw Strike.
+	- **Hollow Basilica**: The second tier, summoned with the conviction of matured kin of Vahn, drawing additionally from the latent power gained from the fellowship with fellow kin, and the conversion of those untouched by the depths to their ranks. In the Basilica, a **Drain** is inflicted on the denizens who aren't convicted of Vahn. Chalk is rapidly drained and chalk-reliant powers are considerably weakened. As this chalk is drained away, the Basilica grows deeper, the Vahnkin caster within gradually growing more powerful. Further enhancements are seen to the caster's arsenal here, in particular their powers of Give, Take, Formshift and the Draw Strike.
 	
 	- **Hollow Cathedra**: The final tier of the Deep Hollow, formed by an acolyte that joins their conviction to the conviction of a direct descendant of Vahn, a progeny-apostolic who leads sects of their own. Within the Cathedra, the depths of the Void are made sharp by the powers of praxis. Those who still refuse to kneel are afflicted with a **Curse**; should they be felled in the galley of the Cathedra, they will be dragged down to the depths they so scorn, banished from the lands above to be burned in the violet flames of the deep.
 
@@ -330,32 +330,35 @@ Pale Amarans stride the lines of metaphorical white and black, wielding powers f
 - **Stolen Armament - Black**
 	Pale Amarans are by some understandings, false kin of Vahn. The depths of the Void are not open to them the way it is open to true kin and adopted kin. This does not stop the Pale Amaran however, who gladly robs the depths of the powers they contain. This thievery does not escape the eyes of the First Sultan however, who smites the plundered boons with wicked Skews. The Pale Amaran's attunement with chalk, however, allows for treating the Skews as Weave, and thus utilizing them in new ways.
 
+> As a note for the following, while Pale Amarans ultimately strive to obtain a balance between the calcic and the depths and draw power from both, depending on what side they began and thus moved from, their T2 and T3 arsenal may vary. Starting as a Chalkweaver will grant Polar White at the T3 level. Starting as a Depthstrider will grant Polar Black at the T3 level. Having a T3 in one side generally prevents you from having the T3 of the other side.
+
 T2/3 - **Polar White**
 Powers that borrow from Chalkweavers and the domain of Chalk. In the Polarity powers, these lean more on the calcic side of the spectrum. That being said, they do benefit from their marriage to the power of the depths, particularly doing so in the form of Pale Amarans being able to tap into the **stardrip cycle** that occurs in the Challenger Dark. This provides a plentiful reservoir of pure chalk to draw upon, meaning that Pale Amarans are able to cast weave and use calcic powers without needing to draw upon latent chalk, and thus aren't vulnerable to measures that work to oppose 'drawing' chalk. A result of this, however, is that most spectrum weave abilities require 'charging' or preparation. 
 
-- **Spectrum Strike**
+- T2 - **Spectrum Strike**
 	Similar to the Weave Strike, but the control over local depths allow Pale Amarans to tap into the Stardrip Cycle. This deep reservoir of chalk allows for Spectrum Strikes to hit significantly harder than the Weave Strikes, but require drawing from the depths of the Void for a period of time.
 	
-- **Spectrum Charge**
+- T2 - **Spectrum Charge**
 	Again, similar to the Weave Charge, but able to be charged from the reservoir of Chalk in the Stardrip Cycle. Additionally, plundered boons from the Void can be bound into the Spectrum Charge, and used as blasts and hurled grenades. 
 	
-- **Spectrum Shift**
+- T2 - **Spectrum Shift**
 	In place of the Spectrum Dash, Pale Amarans posses the **Spectrum Shift**. This ability used by Pale Amarans is a rather interesting one; in place of a dash technique, they perform a short '**blink**'. By delving briefly - but not totally - into the Void and reemerging elsewhere, Pale Amarans are able to reposition without interference from threats in the Dancirah. Similarly, delving briefly into the Dancirah from the Void and reemerging elsewhere allows for a similar effect. Delving in and out of realms sees them emerge with a 'corona' of the nature of the realm they are emerging from, and allows them to perform an attack or action similar to the Depthstrider's Draw Strike, known as the **Aura Strike**.
 	
-- **Tainted Teks**
+- T3 - **Tainted Teks**
 	Pale Amarans are still able to wield Teks, and often they obtain Teks from the reservoir of the stardrip cycle. While mostly unchanged from regular Teks, occasionally Teks that are 'tainted' with stardrip arise in the Stardrip Cycle, and differ from regular Teks in that they may possess dynamic Skews, or are able to manipulate curvature. These Teks are preferred by Pale Amarans.
 
 T2/3 - **Polar Black**
 Powers that borrow from Depthstriders and the domain of the Void, leaning on the depths side of the Polarity powers. The power of the calcic enhances the Void by adding calculation and certainty to where there would normally be randomness. Placing control in their own hands, Pale Amarans plunder what they see fit from the depths of the Void, eliminating the will of the Amaranth Sultan and the skews he inflicts as punishment for insolence. Additionally, the power to wield and manipulate chalk directly grants for enhanced spatial control, though precision is lost where power is gained.
 
-- **Plunder from the Void**
-	Chief among the Pale Amaran's Polar Black powers, their power to open rifts to the Void allows them to plunder its depths, not able to be Given as they are not kin of Vahn, and not being able to Take as they haven't inherited the bounty of the Void by being kin with Vahn. Instead they rob the depths of the Void, stealing power for themselves. Plunder taken in this manner is subject to negative Skews, levied against them by the ever-watchful First Sultan, but the Pale Amarans proficiency with Chalk sees them able to modify these Skews as though they were weave, and work them to the Pale Amaran's advantage. 
-	
-- **Point Collapse**
+- T2 - **Point Collapse**
 	The Point Attraction power borrowed from the Depthstriders and enhanced with additional power at the expense of control. Rapidly forming singularities of ultra-dense chalk cause objects in the vicinity to crash and collapse violently upon that point.
 	
-- **Point Expulsion**
+- T2 - **Point Expulsion**
 	The Point Repulsion power, also borrowed from Depthstriders and enhanced at the cost of precision. Vacating all chalk in a region causes a rapid increase in the spatial curvature, cause objects caught in its effects to explode violently.
+	
+- T3 - **Plunder from the Void**
+	Chief among the Pale Amaran's Polar Black powers, their power to open rifts to the Void allows them to plunder its depths, not able to be Given as they are not kin of Vahn, and not being able to Take as they haven't inherited the bounty of the Void by being kin with Vahn. Instead they rob the depths of the Void, stealing power for themselves. Plunder taken in this manner is subject to negative Skews, levied against them by the ever-watchful First Sultan, but the Pale Amarans proficiency with Chalk sees them able to modify these Skews as though they were weave, and work them to the Pale Amaran's advantage. 
+
 
 T4 - **Conjoined Polarity**
 The juxtaposition of the opposing powers and doctrines of the calcic and the depths is the crux of the Pale Amaran's hubris. These schools clash within them, the depths in the pale amaranthite stabbed into their lattice finding it hostile, and as sea meets sky, a horizon is formed. This horizon is a superposition of calm and chaos, both bound in the body of the Pale Amaran, who grips both firmly to achieve their own ends. The Conjoined Polarity sees the final boundaries enforcing the polarity collapse upon themselves, and allows the Pale Amaran to mix both schools and cast techniques drawing upon both.
@@ -616,7 +619,10 @@ Simply put, lattice damage is inflicted by the Strider upon themselves with repe
 And once unravelling does set in, further casting runs risk of tearing into the lattice, causing considerable damage that is difficult to repair. Striders at the risk of unravelling must cease using calcic powers or disengage from the fight, while their lattice is given time to unfold and refold itself back perfectly.
 
 ### Damage Types
-Various kinds of weapons and threats in the Switchboard do damage to both structures and persons within it, and the nature of the Switchboard makes it such that different concepts do different kinds of damages in different ways, just as different things sustain damage in different ways. Quantification of these various damage types is useful to understand how to mitigate them.
+Various kinds of weapons and threats in the Switchboard do damage to both structures and persons within it, and the nature of the Switchboard makes it such that different concepts do different kinds of damages in different ways, just as different things sustain damage in different ways. Quantification of these various damage types is useful to understand how to mitigate them. Damage in the Switchboard is divided into four **superclasses**; true, resource, mathematical/stat and praxis/meta.
+
+#### True Damage
+This is damage as we understand it; physical harm inflicted upon the physical makeup of a thing. It is the most common and thus the easiest to inflict, achieved through the usage of weapons and powers, and is often a component in the delivery of other kinds of damage. 
 
 - **Caedometric Damage**
 	**Source**: Sharp weaponry. Things that cut and pierce.
@@ -633,6 +639,9 @@ An interesting form of damage in the Switchboard dealt by blunt instruments and 
 	**Mitigation**: Specific to individual subtypes, general protection against offensive weave.
 Inductive damage is done by **inductive weave**; weave phenomena that propagates in subject by inducing themselves on contact. When something is set on fire in the switchboard, for example, temperature is induced in it, and this invasive weave causes damage to the subject lattice. Attacks that cause damage over time such as poisons, burns and bleeds work by inducing continual damage to weave, while effects like stuns, blinds, freezes and paralysis continually re-manifest themselves in a targets lattice, inflicting their effects on a victim.
 
+#### Resource Damage
+Damage that is inflicted against 'resources', or more simply put, the ability to use certain powers. Chalk and the calcic in particular are vulnerable to resource damage forms, either through physical, numerical depletion of the chalk available for use, or damage inflicted on a system to prevent its usage.
+
 - **Unravelling**
 	**Source**: Weavers as they use weaving abilities, various abilities and phenomena in the Switchboard.
 	**Mitigation**: Avoiding weave.
@@ -645,6 +654,9 @@ Some abilities in the Switchboard also inflict unravelling against targets, eith
 	**Mitigation**: Counter-depth shielding, large chalk reservoirs.
 A specific kind of damage dealt by the Void and attacks drawing upon it and using it as their basis for attack. Void attacks against calcic lattices siphon chalk away from them, inducing depth, which empowers Void weapons to siphon away more chalk, thus granting Void weapons a sort of vampirism. This presents a tangible threat to the many calcic entities in the Switchboard, particularly weavers who use it for their casts. Mitigating this siphon effect is difficult, as Void weapons and powers even do so passively, and thus Weavers and others who depend on chalk are incentivized to get rid of void-wielding targets as quickly as possible, lest all their available chalk reserves and chalk in the vicinity be dried up.
 
+#### Mathematical/Stat Damage
+A far more esoteric damage type that attacks something deeper; innate mechanics upon which many other systems hinge. Mathematical damage is so called as it attacks at the ribbon and equation level, damaging calcic enginery to cause cascading effects throughout a system. Glass in particular is notorious for this, inflicting havoc on those unlucky enough to be subject to it. Computational is fairly new but distinctly deadly, in that it can attack the Five Straits directly and curtail various essential functions.
+
 - **Negentropic Damage**
 	**Source**: Glass and some calcic abilites.
 	**Mitigation**: Anti-vitric protections, such as the blessings of Skydancer Ryjik. 
@@ -654,6 +666,11 @@ Negentropic damage is done primarily by Glass, though its effects can be somewha
 	**Source**: Slates majorly, and other digital weaponry.
 	**Mitigation**: Cyberwarfare protections, lattice protections.
 Damage that is done to a subject's **computational** Five Strait, inhibiting their ability to process and calculate. Damage to this line interferes with various calcic abilities, such as casting rituals, using Teks and performing complex weaves, as well as inhibits mental functions. Typically, this damage is inflicted by Chromelings controlled by Vault Minds, or Slates designed to attack the lattices of Striders in the vicinity, due to Slates' own ability to manipulate chalk. 
+
+#### Praxis/Meta Damage
+A form of damage that transcends the Switchboard's normal functioning, operating instead at the level where doctrine meets doctrine. Praxis damage done is inflicted not just against a target, but on the entirety of what they represent - quite literally an attack on their core principles which rebounds to others who share those principles. Praxis powers can oppose mundane ones by design; a praxis sword can never be blocked, and a praxis shield can never be pierced, except if opposed by other praxis phenomena. 
+
+Praxis damage is dealt and received constantly, occurring at minute and imperceptible levels as adherents of any principle prove the strength and veracity of one principle over the other. Only on rare occasions can praxis coalesce and swirl, coming to bear as a something levied against someone or something in the Switchboard. These moments reverberate through the Great Sky, and inscribe themselves into the history books for all time to come.
 
 - **Praxis/Doctrinal Damage**
 	**Source**: Praxis attacks, events upon computation by the Astrolabe
@@ -712,6 +729,41 @@ From here on out, the only way a Strider can become more power via things they a
 The progression ladder can also be imagined as having other, smaller ladders running parallel to it. Various other means of obtaining strength exist, ranging from Striders who obtain chromegrafts to grant mechanical augments to their powers, and Striders who obtain powerful slates and become Glassbreakers capable of speaking to and controlling machines - to Depthstriders who forego chalk entirely and seek power from the Amaranth, granting the ability to be Given and to Take from the Void, empower weapons with anti-calcic properties, and perfect fighting styles revolving around altering the local curvature of space to manipulate gravity. Each of these paths - parallel ladders - can be pursued to considerable ends of their own, and those who sit at the highest in each of them are nothing to be scoffed at.
 
 Because above all else, knowledge an experience can go a distance that no blade, bullet or weave can. Even more important than having a diverse and powerful kit is knowing how to most effectively wield it, and that isn't something that can be taught in most cases. The real most powerful members of the Switchboard are those who have made jaunt after jaunt and obtained victory after victory and have sustained - but survived - numerous failures, because of **what they have seen**. Veteran Striders, absolute paragons of Striders, are seen using arguably simpler kits because they have cultivated fighting styles in which they can always reach their win condition. Their power comes from versatility and adaptability that comes from **openness** in their fighting style designed. Knowledge of a vast swathe of threats naturally allows them to design their fighting style to be prepared for as many as possible, and that is how they appear to the uninitiated as outrightly undefeatable.  
+
+
+### Arsenal Classification & Terminologies
+The culmination of all gear, abilities, casts and powers possessed by a subject in the Switchboard is their **arsenal**. Elaborated upon more fully in the Super-Classes section above, in this section we take a look at the arsenal classifications for the superclasses as well as relevant terminologies that aid in describing and understanding what is mean by the Switchboard's various forms of power.
+
+**Gear**: The lowest 'tier' of arsenal classifications, and describes the **majorly physical weaponry** wielded by actors in the Switchboard. While some gear-_reliant_ powers are also in this category, it refers to the tangible weaponry themselves.
+
+| Chalkweavers | Depthstriders                                                 | Pale Amarans |
+|--------------|---------------------------------------------------------------|--------------|
+| T1           | T1                                                            | T1           |
+|              | T3 <br/>- Gifts from the Void<br/>- Possessions from the Void |              |
+|              | T5<br/>- Shaped Arms                                          |
+
+**Abilities**: The defining characteristic of an ability is that it must be something that can be performed **innately**. It refers to all of the powers that an actor in the Switchboard possesses usually by virtue of their bodily composition, such as possessing the Five Straits and the Weave Protocol, an attunement to the depths, or pale amara implantations. These abilities are combined with physical prowess in their execution, and are an actors basest level powers.
+
+As an example, weave strikes, charges and shields are **woven abilities**, so called as they are woven into being using chalk and the innate power of the Weave Protocol. Depthstriders' ability to **manipulate curvature** is a result of their ability to fabricate **negative information** and thus induce fourth-dimensional depth and altitude. Pale Amaran's reconcile elements of both using the **polarity** provided by pale amara integrations into their lattice, allowing for **spectrum weave** and **chaotic curvature manipulation**.
+
+| Chalkweavers | Depthstriders                         | Pale Amarans                                                               |
+|--------------|---------------------------------------|----------------------------------------------------------------------------|
+| T2           | T2                                    | T2/3 (Polar White)                                                         |
+| T5           | T5<br/>- Chronodynamism               | T2/3<br/>- Polar Black: Point Collapse<br/>- Polar Black: Point Expulsion) |
+|              | T3<br/>- Draw Strike<br/>- Formshift  |
+
+**Casts**: Casts describe a swathe of Switchboard powers defined most simply by a jump in complexity. Differing from abilities but not wholly, casts are often reliant on something external, such as consumable ingredients, existing phenomena, or the acquisition of secondary power sources. Casts may also involve using **abilities** in more advanced ways, and in this category are usually the most powerful powers available to actors in the Switchboard. Rituals, 
+
+For example, **rituals** of both the calcic and horizon variety are 'casted'. Most Tek-granted powers are casts as well, as they are dependent on the Tek to function. Depthstrider's **Deep Hollows** are casts as well, reliant on the conviction of the caster in the Void. For their sheer complexity alone, the **Aura Strikes** and **Full Spectra** abilities are casts as well. Judging by the fact most high-level parts of an actor's arsenal are considered casts, you might conclude the **Flash Protocol** would be a cast as well. Conversely, it is not, as it is reliant on the Strider Protocol - an innate ability - thus making it an ability-level power.
+
+| Chalkweavers | Depthstriders | Pale Amarans |
+|--------------|---------------|--------------|
+| T3           | T4            | T4           |
+| T4           |               | T5           |
+
+**Powers**: 'Power' is used fairly loosely in the Samsara canon, used to describe basically any 'thing' that an actor can do that would be filed under the department of 'supernatural' if performed in our world, for example. 'Powers' used more specifically however, refers to power granted by very external systems that are fairly removed from those that benefit from the resultant of that system's enginery. **Praxis powers** are good example of this, hinging on the Switchboard's transcendent interplay of doctrine versus doctrine. **Titular powers** are similar, drawing on the collective power placed behind names and titles that rise to lauded or infamous status in the Dancirah. 
+
+> Something that breaks the mold a little bit are **chromegrafts.** Chromegrafts are not like the Weave Protocol in that cybernetic installations are not innate. That being said, the powers granted by a cybernetic can hardly be considered a cast, as that would be putting, say, a wrist-mounted machine gun at the same tier with grand rituals. For this reason, chromegrafts are treated as **abilities**, as their very tightly-interwoven nature with an actors lattice should allow for consensus that a power granted by a regular arm and a chrome one aren't different enough to warrant a differentiation in category.
 
 ### Cross-Arsenal Interplay
 The cultivation of a fighting style in the Switchboard requires the accumulation of various forms of power, and their amalgamation into a final, cohesive unit, wieldable by a denizen of the Switchboard. This cohesion may need to be created, and one such way this is done is by seeing what parts of a subject's arsenal can enhance with other parts of it.
@@ -935,7 +987,7 @@ Chalkweaver
 		- Offensive
 		- Defensive
 		- Utility
-		- Burst
+		- Feat
 
 - Global Modifiers
 	- Axle: This element of the arsenal hinges on another element of it.
