@@ -463,6 +463,14 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 		- Fresco, Murals, 
 	- Architecture and Arcology Design
 
+> Revisions;
+> - Move Applied arts somewhere.
+> - Conceptual and Philosophical can be merged tbh.
+> - Installation and Structural can go under fine arts(?)
+> 	- Or is it more an applied art?
+> 	- I think it is.
+> - Architecture and Arcology design remain Fel arts.
+
 #### The Curlicue 'Seed' - The Nymia
 An interesting quality of the Fey Curlicue is its significance as an inducer of mathematics within things that are subject to it. When a Curlicue reaches maturity, it flowers and fruits, and from these fruits are the Curlicue seeds obtained. Highly valued as a part of Arcad and Fel-Arcad history and culture, as well as their essential role in establishing new arcologies, the true depths of the secrets they contain remain unplumbed, due to the costly nature of such research and the reaction a proposal of damaging such valuable things draws.
 
@@ -535,6 +543,8 @@ Film and Cinema among the Fel-Arcad straddles the line between art and enterpris
 Various large media-houses account for the overwhelming majority of film that reaches cinema screens every procession, though a fairly large independent scene exists as well. Sil'khan in particular are frequent investors in Fel-Arcad cinema as a means of their various daring feats being immortalized and made viewable throughout the Dancirah. 
 
 #### The Arts - Fel
+The Fel arts are a class of artforms practiced primarily by the Fel-Arcad in the Switchboard. While others are definitely practitioners of the fine arts, these Fel arts remain majorly the domain of the Fel-Arcad, either through their historical origin or the requirements for their execution.
+
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.

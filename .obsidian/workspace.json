@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5975b531666944bb",
+            "id": "fd719ce57b768ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "ab539a13650ba7d8",
+            "id": "06dbf7460e79f697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "840e8c683ba2901c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,6 +60,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
               }
             }
           },
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,14 +203,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79c02e5f924ff83b",
+  "active": "840e8c683ba2901c",
   "lastOpenFiles": [
-    "2. Development/Mechanical Pillars/Glass.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Mechanical Pillars/The Void.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Mechanical Pillars/Glass.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Mechanical Pillars/The Void.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Workshop/WorkshopDocs/Teks Legacy.md",
@@ -217,7 +232,6 @@
     "ProjectSamsara/README.md",
     "ProjectSamsara",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
-    "2. Development/Workshop/Families/The_Fel-Arcad.md",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",
     "3. Scribbling/7D2D3A00",

@@ -57,6 +57,9 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 	- Speak on praxis powers in the Switchboard.
 	- Work on a powerscaling that places Praxis Powers at the top, followed by Protocols, etc.
 
+- (pWB) **On Doctrines**; Under [[The Blank-Slate Mind]]
+	- A general revision of doctrines in the Switchboard to bring them up to speed with the rest of the Samsara canon.
+
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
 
@@ -80,6 +83,10 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 	- I hate the damn thing so much.
 	- Figure out a way to make it more readable without nearly crashing the doc whenever it's scrolled to. Check it for grammatical coherence too.
 	- I hate the damn thing so much.
+
+- (meta) **Pillar Deprecation**: Under various
+	- Contemplating moving [[The Relics of New]] into [[On Weave and Warfare]].
+	- Contemplating moving [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
 
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.
