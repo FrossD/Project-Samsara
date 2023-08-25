@@ -336,7 +336,6 @@ Now they could begin fostering descendants, and descendants of descendants, buil
 
 At last, the Era of the Third Kin began. The Chalkstrider had inherited the Switchboard.
 
-
 # Dancirah's Dawn: Post Scriptum
 Some notes for what takes place in what could be dubbed a 'Dancirah's Noon';
 

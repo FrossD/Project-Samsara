@@ -547,6 +547,14 @@ The Fel arts are a class of artforms practiced primarily by the Fel-Arcad in the
 - Philosophical Arts
 - Arcology Design
 
+**Digital Arts**
+It was not longer after the first Slates saw military application did it occur to those privy to them at the time, their potential in civilian hands. While the Sil'khan primarily wielded them in battle, the Fel-Arcad handled the backend development, iterating upon them to make them more capable at what they could already do, and expanding their functions in new directions.
+
+One of these new directions was art. With their modularity, it was possible to develop an array of additional attachments and computerware that retrofitted the previously weapons-oriented technology into one for creation. Larger screens for usage with styluses, key and string modules for music creation, inbuilt cameras that could parse weave and take pictures in three dimensions, holographic-display-analogues that allowed for *interacting* with virtual objects sculpted in three dimensions, algorithms for generating art from mathematics and datasets. It culminated in an explosion of digital art made by various Fel-Arcad parties, created on Slates and distributed across the gradually de-militarizing DevitNet.
+
+Unfortunately, Fel-Arcad digital art saw a non-trivial collapse at the hands of the Refrain, with the destruction of many anarhiza nexuses and databanks seeing huge swathes of digital art lost. The nomadic period that followed saw digital art recede further into shadow, as the Fel-Arcad became a survivalist people. Only when efforts to trawl the star-wreckage of the astrolabic regions and later the establishment of the Sanscrii Arcology were underway did the Fel-Arcad return to their digital creation once again, with the violent vigor of a suppressed urge finally given release.
+
+Where the digital arts are considered Fel arts is in the **simulspace** and **interactive entertainment**. The Fel-Arcad via their Slates are the sole developers of the Switchboard's video games. These games are developed on Slates, for Slates by various independents and large creators, distributed across the DevitNet
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.

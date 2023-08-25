@@ -91,8 +91,8 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.
 
-### Build Sites
-Entries under here are either existing but fairly undeveloped documents, or existing, developed documents but have a lot further to go before they reach any form of true conclusion, often because they hinge on various other works that need completion.
+### Expansion Sites
+Entries under here are either existing but fairly undeveloped documents, or existing, developed documents but have a bit further to go before they reach true conclusion, often because they hinge on various other works that need completion, or are simply currently in the spotlight of 'worldbuilding-creep'.
 
 #### Class Alpha - High Prority
 - [ ] Nuthin'
@@ -125,6 +125,11 @@ Entries under here are either existing but fairly undeveloped documents, or exis
 	- Update [[Prop.Blackjack]] and other Void documents where necessary with the concept of **Skews**, slight 'changes' added to things Given by or Taken from the Void, decided and placed there by the working's of Brother Vahn's **Anchor Variables**.
 	- Consider moving the Void related sections in [[The Skywards Pursuit]] to their own doc and link them back to SkyPur.
 	- Merge [[Prop.Blackjack]] and [[The Void]] as an update to 'The Void as a Being'
+
+- (nWB) **The DevitNet's Netmasters**; Under [[Switchboard Technology]]
+	- The Fel-Arcad run the DevitNet on the digital side. While Sil'khan and Lancaster actors are usually the ones doing the physical onsite maintenance of anarhiza nexuses and data wells, the Fel-Arcad have fairly unchallenged dominion over the Net in the digital domain.
+	- The Netmasters - perhaps because the job selects for this kind of thing - happen to be varying kinds and levels of eccentric, interwoven with extreme senses of what the DevitNet should be, and a Machiavellian willingness to see it realized to their view.
+	- This has resulted in wars.
 
 ### Synthesis Sites
 Entries here have left the Thoughts Repository, and are confirmed to be entering the Samsara canon in some way.

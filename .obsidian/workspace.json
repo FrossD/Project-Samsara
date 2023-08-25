@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "64959d354e3d9a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "840e8c683ba2901c",
             "type": "leaf",
             "state": {
@@ -218,10 +231,10 @@
   },
   "active": "fd719ce57b768ed5",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Mechanical Pillars/Glass.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Mechanical Pillars/The Void.md",
