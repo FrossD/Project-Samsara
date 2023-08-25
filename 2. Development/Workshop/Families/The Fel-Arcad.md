@@ -447,29 +447,21 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 - The **seed-weave**; a unique calcic clause to all Curlicue trees that manifests as a traceable skew in all things produced by an arcology. It's functionally a randomization algorithm, but the algorithm itself is traceable through the works skewed by it.
 **Art Categories**
 - **Fine Arts**
-	- Visual and Decorative
-		- Sculpting
-		- Textiles and Clothmaking
-	- Performing Arts (Dance and Theater)
-	- Literature and Poetry
-	- Music
-	- Film and Cinema
+	- [x] Visual and Decorative
+		- [x] Sculpting
+		- [x] Textiles and Clothmaking
+		- [ ] Add note on frescos and murals
+	- [x] Performing Arts (Dance and Theater)
+	- [x] Literature and Poetry
+	- [ ] Music
+	- [x] Film and Cinema
+	- [x] Structural Art
 - **Fel Arts**
-	- Digital Arts (Simulspace and Video Games)
-		- Photography
-	- Applied and Conceptual Arts
-	- Philosophical Arts
-	- Installation and Structural Arts
-		- Fresco, Murals, 
-	- Architecture and Arcology Design
-
-> Revisions;
-> - Move Applied arts somewhere.
-> - Conceptual and Philosophical can be merged tbh.
-> - Installation and Structural can go under fine arts(?)
-> 	- Or is it more an applied art?
-> 	- I think it is.
-> - Architecture and Arcology design remain Fel arts.
+	- [ ] Digital Arts (Simulspace and Video Games)
+		- [ ] Photography
+	- [ ] Applied Arts
+	- [ ] Philosophical/Conceptual Arts
+	- [ ] Architecture and Arcology Design
 
 #### The Curlicue 'Seed' - The Nymia
 An interesting quality of the Fey Curlicue is its significance as an inducer of mathematics within things that are subject to it. When a Curlicue reaches maturity, it flowers and fruits, and from these fruits are the Curlicue seeds obtained. Highly valued as a part of Arcad and Fel-Arcad history and culture, as well as their essential role in establishing new arcologies, the true depths of the secrets they contain remain unplumbed, due to the costly nature of such research and the reaction a proposal of damaging such valuable things draws.
@@ -504,6 +496,7 @@ The Fel-Arcad's fine arts can be roughly classified into;
 - Literature and Poetry
 - Music
 - Film and Cinema
+- Structural Art
 
 **Visual and Decorative**
 In addition to the various forms of art this phrase evokes immediately, particularly various forms of painting as classed by media (watercolor, oil painting), under this category we also have sculpting and textiles/clothmaking. 
@@ -542,8 +535,17 @@ Film and Cinema among the Fel-Arcad straddles the line between art and enterpris
 
 Various large media-houses account for the overwhelming majority of film that reaches cinema screens every procession, though a fairly large independent scene exists as well. Sil'khan in particular are frequent investors in Fel-Arcad cinema as a means of their various daring feats being immortalized and made viewable throughout the Dancirah. 
 
+**Structural Art**
+The task of building an arcology and an overwhelming majority of its internal and external shape and form is the task of many talented craftsmen and artisans, overseen by the watchful Soleri. The cultivation of an arcology's character begins with the Soleri too, the Soleri an artist and the replichrome their media, a litany of tools from the common pencil to the complex Slate to the massive earthmover their various tools. This cultivation of character, however, is ultimately finalized by the denizens of the arcology, who take it upon themselves to use the entire arcology and the walls and surfaces of other structures as their canvas.
+
+Graffiti for the informal and murals for the formal, replichrome's dull grey is banished by the works of Fel artists young and old, depicting anything their hearts desire on the walls of their homes. Turf wars on prime graffiti space are common, with artists doubling as guards to preserve their creations for as long as possible. But all is done in good fun, and arcologies with lenient Soleri truly realize their state of being art. Murals see plenty of use in more formal buildings, covering the walls of Fel-Arcad institutions and the homes of those with the currency to give, depicting all one could imagine; the history of the Switchboard, of the Fel-Arcad, great discoveries, legendary battles, personal histories, or mere abstract shape and color, guided by the nymia.
+
 #### The Arts - Fel
-The Fel arts are a class of artforms practiced primarily by the Fel-Arcad in the Switchboard. While others are definitely practitioners of the fine arts, these Fel arts remain majorly the domain of the Fel-Arcad, either through their historical origin or the requirements for their execution.
+The Fel arts are a class of artforms practiced primarily by the Fel-Arcad in the Switchboard. While others are definitely practitioners of the fine arts, these Fel arts remain majorly the domain of the Fel-Arcad, either through their historical origin or the requirements for their execution. These are mainly;
+- Digital Arts
+- Applied Arts
+- Philosophical Arts
+- Arcology Design
 
 
 ### Iconography & Architecture
