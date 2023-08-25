@@ -627,16 +627,19 @@ This is damage as we understand it; physical harm inflicted upon the physical ma
 - **Caedometric Damage**
 	**Source**: Sharp weaponry. Things that cut and pierce.
 	**Mitigation**: Dense weaving, counter-weaving.
+	**Shorthand**: Caedo, Cado., C
 Caedometric damage in the Switchboard is damage dealt at the ribbon level by things that cut, this being simple blades to Tek-based attacks and calcic rituals designed to emulate cutting to damage lattices. Considering how common sharp and pointy things are, caedometric damage is encountered fairly frequently, and thus the methods to mitigate it are fairly well known. Densely woven targets are harder to cut, and certain powers of counter-weave sees cuts do far less damage by cutting alongside the 'grain' instead of against it.
 
 - **Breach Damage**
 	**Source**: Blunt weaponry. Things that bludgeon, smash and break.
 	**Mitigation**: Elastic, 'springy' weave.
+	**Shorthand**: Breach, Brch. B
 An interesting form of damage in the Switchboard dealt by blunt instruments and weaponry. While cutting and piercing weapons are vastly preferred in the Switchboard due to the nature of chalk ribbon, and the utility present in even weak bladed weapons in their ability to cut weave, breach damage inflicting weapons still have a place, in that they 'breach' various forms of defenses, calcic or otherwise, and are particularly effective against complex, densely woven weave, treating it instead as a solid, tightly-wound singular mass and then shattering it to pieces. Bypassing armor by crushing it, breach damage stands as a wildcard to most Striders and Weavers, who typically only prepare defenses against caedometric damage sources. Vahnkin and other wielders of the void are fond of breach-inflicting implements, heightening their crushing power with their power over gravity.
 
 - **Induction/Inductive Damage**
 	**Source**: Various phenomena.
 	**Mitigation**: Specific to individual subtypes, general protection against offensive weave.
+	**Shorthand**: Induc, I
 Inductive damage is done by **inductive weave**; weave phenomena that propagates in subject by inducing themselves on contact. When something is set on fire in the switchboard, for example, temperature is induced in it, and this invasive weave causes damage to the subject lattice. Attacks that cause damage over time such as poisons, burns and bleeds work by inducing continual damage to weave, while effects like stuns, blinds, freezes and paralysis continually re-manifest themselves in a targets lattice, inflicting their effects on a victim.
 
 #### Resource Damage
@@ -645,6 +648,7 @@ Damage that is inflicted against 'resources', or more simply put, the ability to
 - **Unravelling**
 	**Source**: Weavers as they use weaving abilities, various abilities and phenomena in the Switchboard.
 	**Mitigation**: Avoiding weave.
+	**Shorthand**: Unrav, U
 Unravelling is inflicted by causing a lattice to undo itself, pattern spontaneously resolving back into ribbon. This is most commonly a self-inflicted form of damage, done by chalkweavers as they weave abilities - particularly in combat. Combat-weaving needs to be done fast, and thus can be done carelessly, and as a Weaver weaves chalk into various casts and abilities, it is possible that they weave the looser, fraying ends of their lattice into them as well. Pulling at these fraying cords damages the Weaver's own lattice, and if not provided time without any weaving to allow the lattice to repair, it is possible to 'unravel' oneself, and for a Weaver to become merely a discordant pile of chalk ribbon.
 
 Some abilities in the Switchboard also inflict unravelling against targets, either by creating more of these frayed ends on contact or pulling at ones already present. These are of considerable concern to Weavers, as it is a direct attack upon their ability to fight an enemy. Heavily unraveled targets sustain damage to their **potential** and **interface** Five Straits, resulting in an ability to accumulate and weave chalk. Forcing through this causes considerable harm, possibly leading up the the total unravelling mentioned earlier.
@@ -652,6 +656,7 @@ Some abilities in the Switchboard also inflict unravelling against targets, eith
 - **Siphon Damage**
 	**Source**: The Void and void-based weapons, abilities and phenomena.
 	**Mitigation**: Counter-depth shielding, large chalk reservoirs.
+	**Shorthand**: Siph, S
 A specific kind of damage dealt by the Void and attacks drawing upon it and using it as their basis for attack. Void attacks against calcic lattices siphon chalk away from them, inducing depth, which empowers Void weapons to siphon away more chalk, thus granting Void weapons a sort of vampirism. This presents a tangible threat to the many calcic entities in the Switchboard, particularly weavers who use it for their casts. Mitigating this siphon effect is difficult, as Void weapons and powers even do so passively, and thus Weavers and others who depend on chalk are incentivized to get rid of void-wielding targets as quickly as possible, lest all their available chalk reserves and chalk in the vicinity be dried up.
 
 #### Mathematical/Stat Damage
@@ -659,12 +664,14 @@ A far more esoteric damage type that attacks something deeper; innate mechanics 
 
 - **Negentropic Damage**
 	**Source**: Glass and some calcic abilites.
-	**Mitigation**: Anti-vitric protections, such as the blessings of Skydancer Ryjik. 
+	**Mitigation**: Anti-vitric protections, such as the blessings of Skydancer Ryjik.
+	**Shorthand**: Neg, N 
 Negentropic damage is done primarily by Glass, though its effects can be somewhat replicated by some calcic techniques - as an example, rituals that use Glass as a component. Negentropic damage describes an irreversible reduction of the target's complexity, this being catastrophic to calcic systems as complex weaves of chalk are reduced down to meaningless ribbon, then converted further into Glass, material devoid of entropy. 
 
-- **Computational Damage**
+- **Computational/Tech Damage**
 	**Source**: Slates majorly, and other digital weaponry.
 	**Mitigation**: Cyberwarfare protections, lattice protections.
+	**Shorthand**: Comp, T
 Damage that is done to a subject's **computational** Five Strait, inhibiting their ability to process and calculate. Damage to this line interferes with various calcic abilities, such as casting rituals, using Teks and performing complex weaves, as well as inhibits mental functions. Typically, this damage is inflicted by Chromelings controlled by Vault Minds, or Slates designed to attack the lattices of Striders in the vicinity, due to Slates' own ability to manipulate chalk. 
 
 #### Praxis/Meta Damage
@@ -675,6 +682,7 @@ Praxis damage is dealt and received constantly, occurring at minute and impercep
 - **Praxis/Doctrinal Damage**
 	**Source**: Praxis attacks, events upon computation by the Astrolabe
 	**Mitigation**: Feats, doctrinal differential.
+	**Shorthand**: Prax, P
 Praxis damage is strange in the Switchboard, as praxis damage dealt or received is a result of doctrinal clashes, and manifests majorly but fairly imperceptibly as a fluctuation of invisible scales. These scales however, have tangible results in that the represent the strength of the Switchboard's various doctrines in relation to one another, and the actions of all who hold a doctrine alter the balance of the scales.
 
 Praxis damage is thus dealt by a holder of one doctrine against a holder or another, and this results in a tipping of the scales in the attacker's favor relative to the sufferer of the blow. The tipping of a doctrine affects all who hold that doctrine, and while to individuals it manifests as an ultimately minute loss in raw strength, it does have tangible effect of doctrine-dependent abilities as well as the operation of that doctrine within the Switchboard and all that hinges upon it. Praxis damage dealt against the doctrine of an institution, for example, is a tangible weakening of that institution, in a manner that sees their actions less effective and their goals made harder to achieve.
@@ -931,8 +939,35 @@ A case study/example outline of a Character Arsenal using Adven Ventura.
 - T5 - Flash Protocol
 	- **Full Circuit**
 
-#### Examples: FSword
-- T1 - Relic Armam
+#### Examples: FSword Arsenal Card
+- T1 - Relic Armaments
+	- Martial Arms
+		- **1530 Centigrade** - CINDER-031-F#DAYSTAR - Longsword
+		  *"I don't remember a time I didn't carry it."* 
+		- **Plan C** - Vault Relic - Club
+		  *"I wouldn't recommend it; it's gotten too easy to not feel."*
+- T2 - Elementary Calcic
+	- Weave Strike
+		- **Underhand** - Bolt - Induc.
+		  *"Heh."*
+		  Particulate matter is spun with chalk and flung in the direction of an attacker. Latent guidance-weave sees it target moisture; the mouth, nose and - most annoyingly - the eyes.
+	- Weave Charge
+		- **Sun Spear** - Blast - Axle: Starfire Conduits - Cado, Induc
+		  *"I keep a free hand for this very reason."*
+		  Chalk is woven into a defense-piercing bolt, then suffused with equations that fold chalk into searing heat, allowing for inflicting heavy caedometric damage and a burn effect. It can be further empowered by Tek, allowing for inflicting **daystar flames** against targets.
+	- Weave Shield
+		- **Fencer's Offhand** - Passive - Cado, Brch
+		  *"Shields just slow you down."*
+		  The entire non-dominant hand from shoulder to fingertips is covered in densely woven chalk that protects it from various true damage forms. The bindings of weave on the hands allows for **catching enemy weapons**, gaining control and allowing for various counter-attacks.
+	- Weave Dash
+		- **Dodgeroll**
+		  *"Deceptively effective when not spammed."*
+		  A short roll performed on the ground, the athleticism of the move enhanced by weave. Lowering the size of the effective profile allows for meandering past attacks, especially from larger targets with equally larger weapons.
+	- Weave Armament (N/A)
+- T3 - Advanced Calcic
+	- Tek
+		- **Starfire Conduits**
+
 
 #### Loadouts
 Chalkweaver

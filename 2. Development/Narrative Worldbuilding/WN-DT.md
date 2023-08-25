@@ -23,6 +23,8 @@ Works are paper drafted in the notebook, and then transferred here so they may b
 - [ ] Nuthin'
 
 - (nWB) **The Fel-Arcad**.
+	- Add the Simulspace to the Technologies section.
+	- Psychitects are trained primarily among the Fel-Arcad; add this to the Education section.
 
 ### Ongoing Development
 Entries and docs here are actively under development, and just under transcribing they are the highest priority work in Samsara. 
@@ -59,6 +61,10 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 
 - (pWB) **On Doctrines**; Under [[The Blank-Slate Mind]]
 	- A general revision of doctrines in the Switchboard to bring them up to speed with the rest of the Samsara canon.
+
+- (nWB) **Character Arsenals**: Under [[On Weave and Warfare]]
+	- Rebuild the entire thing to be less Chalkweaver-centric.
+
 
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
@@ -241,6 +247,8 @@ Thoughts and new concepts to incorporate into the Samsara canon. While thoughts 
 8. san
 9. jo
 10. run
+
+- Develop a language or at least an alphabet system.
 
 ## External Assets & Tools
 ### The Samsara Grid-sheet

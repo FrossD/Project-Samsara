@@ -47,8 +47,7 @@ Spur of the moment thoughts that could use work.
 - There are avenues for non-Fel to come to inhabit an arcology, but often they must undergo rigorous processes along the lines of questioning to see if they would be a good fit for it.
 - Whether the Vahnkin and the Void would actually be responsible for a Second Refrain and if they were responsible for the first one is possible, but disputed. In actuality, many Fel-Arcad, unable to accept the possibility they shot themselves in the foot with the Mind Hunts, choose instead to blame the Void and the Vahnkin.
 - ~~The Fel-Arcad used the same device that they did to form Morrigan to create the second generation of Fel-Arcad.~~ This idea will be used on the Sil'khan instead.
-- The Triptych Crucible is in the possession of the Brass Monastery.
-- Psychitects are trained primarily among the Fel-Arcad.
+
 - History and Mythology section has notable persons in it.
 	- Fel-Arcad originator of cinema.
 
@@ -450,18 +449,22 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 	- [x] Visual and Decorative
 		- [x] Sculpting
 		- [x] Textiles and Clothmaking
-		- [ ] Add note on frescos and murals
+		- [x] Add note on frescos and murals
 	- [x] Performing Arts (Dance and Theater)
 	- [x] Literature and Poetry
 	- [ ] Music
 	- [x] Film and Cinema
 	- [x] Structural Art
 - **Fel Arts**
-	- [ ] Digital Arts (Simulspace and Video Games)
-		- [ ] Photography
-	- [ ] Applied Arts
-	- [ ] Philosophical/Conceptual Arts
-	- [ ] Architecture and Arcology Design
+	- [x] Digital Arts (Simulspace and Video Games)
+		- [x] Photography
+	- [x] Applied Arts
+	- [x] Philosophical/Conceptual Arts
+	- [x] Architecture and Arcology Design
+
+**Fel-Arcad Recreation**
+- The Fel-Arcad aren't very physical, that being said...
+	- [ ] Rocketskating
 
 #### The Curlicue 'Seed' - The Nymia
 An interesting quality of the Fey Curlicue is its significance as an inducer of mathematics within things that are subject to it. When a Curlicue reaches maturity, it flowers and fruits, and from these fruits are the Curlicue seeds obtained. Highly valued as a part of Arcad and Fel-Arcad history and culture, as well as their essential role in establishing new arcologies, the true depths of the secrets they contain remain unplumbed, due to the costly nature of such research and the reaction a proposal of damaging such valuable things draws.
@@ -554,7 +557,29 @@ One of these new directions was art. With their modularity, it was possible to d
 
 Unfortunately, Fel-Arcad digital art saw a non-trivial collapse at the hands of the Refrain, with the destruction of many anarhiza nexuses and databanks seeing huge swathes of digital art lost. The nomadic period that followed saw digital art recede further into shadow, as the Fel-Arcad became a survivalist people. Only when efforts to trawl the star-wreckage of the astrolabic regions and later the establishment of the Sanscrii Arcology were underway did the Fel-Arcad return to their digital creation once again, with the violent vigor of a suppressed urge finally given release.
 
-Where the digital arts are considered Fel arts is in the **simulspace** and **interactive entertainment**. The Fel-Arcad via their Slates are the sole developers of the Switchboard's video games. These games are developed on Slates, for Slates by various independents and large creators, distributed across the DevitNet
+Where the digital arts are considered Fel arts is in the **simulspace** and **interactive entertainment**. The Fel-Arcad via their Slates are the sole developers of the Switchboard's video games. These games are developed on Slates, for Slates by various independents and large creators, and distributed across the DevitNet. A wide variety of genres exist, games themselves varying across multiple spectra of length, difficulty and the like. Fel-Arcad also host a majority of the game-centric infrastructure and secondary subject matter, ranging from servers for multiplayer games to meets and competitions between rival groups to prove their skills.
+
+These interactive arts see a lot of popularity among the Fel-Arcad. Other arts are viewed once, often multiple times, but for many casual appreciators, a piece of art is sought out and enjoyed only a couple of times before the desire for new art emerges again. Not so with these interactive pursuits, that serve to give continually new and semi-new experiences over multiple sessions. They provide escape from the drudgery of arcology living, as well as a place to hone instincts and skills that have been dulled by the relative safety of living in the arcologies. As an economic export they provide individual Fel-Arcad, groups of creators, and their parent arcologies considerable revenue, and as a storytelling media they deliver their emotional payloads in ways books and paintings cannot.
+
+The Fel-Arcad **Simulspace** builds somewhat off of this, though the Simulspace itself is more a form of technology. What is created in the Simulspace however, is some of the most complex and perhaps impactful Fel-Arcad art, as the Simulspace is capable of replicating the stimulation of the senses and thus provide immersive augmented and virtual reality experiences. Developed initially as a training technology, it saw a natural transition to civilian use, though somewhat constrained by the infrastructure required. But Fel-Arcad artists capable of fully utilizing the depth of expression provided by the Simulspace are lauded amongst creatives.
+
+**Applied Arts**
+The Fel-Arcad attach the descriptor of 'applied arts' to any creative piece in which in the function of the piece is primary above all. This encompasses a large swathe of creations, ranging from woodwork, pottery and ceramics, glassblowing, architecture and interior design, to jewelry, fashion design, and textiles, to graphics, calligraphy and typography, to products, packaging and industrial design, to even the culinary arts and horticulture.
+
+These so called 'applied arts' are made with a Fel-Arcad slant to them, beginning with the arcology-specific nymia adding their own unique skews to everything from meals to dishware they're served on. Individual Fel-Arcad craftspeople add their own unique flairs, honed by deep study and practice of the field.
+
+The products of the applied arts see plenteous usage within the arcologies, and fetch revenue when distributed to the wider Switchboard.
+
+**Philosophical/Conceptual Arts**
+A somewhat amorphous, esoteric category, that refers to a school of artistic practice that seeks to represent complex philosophical topics or manners of thinking in artistic form. It prides itself on being a uniquely Fel-Arcad artform, its practice confined to exclusive circles and deliberately shrouded in shadow. The nature of the art has led some to suspect that there is an element of doctrinal interplay to it; that experiencing the art has praxis implications. 
+
+Little more can be said on it, other than that those privy to it report being changed beyond their ability to suitably relay.
+
+**Arcology Design**
+Another nigh-exclusively Fel-Arcad pursuit, the creation of 'mockologies' or model arcologies is a pastime for many, though it sees its practice primarily in Soleri Sanctums; the actual school which trains Fel-Arcad for the high position of arcology construction and administration. For this reason, arcology design is less so an art on its own and more so an artistic component of a much larger science of arcology building. 
+
+That being said, there are plenty of casual appreciators and creators in the space who create all manners of mockology designs, as they serve as excellent discussion pieces when placed somewhere they can draw the eyes of observers. 
+
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
