@@ -359,7 +359,6 @@ Powers that borrow from Depthstriders and the domain of the Void, leaning on the
 - T3 - **Plunder from the Void**
 	Chief among the Pale Amaran's Polar Black powers, their power to open rifts to the Void allows them to plunder its depths, not able to be Given as they are not kin of Vahn, and not being able to Take as they haven't inherited the bounty of the Void by being kin with Vahn. Instead they rob the depths of the Void, stealing power for themselves. Plunder taken in this manner is subject to negative Skews, levied against them by the ever-watchful First Sultan, but the Pale Amarans proficiency with Chalk sees them able to modify these Skews as though they were weave, and work them to the Pale Amaran's advantage. 
 
-
 T4 - **Conjoined Polarity**
 The juxtaposition of the opposing powers and doctrines of the calcic and the depths is the crux of the Pale Amaran's hubris. These schools clash within them, the depths in the pale amaranthite stabbed into their lattice finding it hostile, and as sea meets sky, a horizon is formed. This horizon is a superposition of calm and chaos, both bound in the body of the Pale Amaran, who grips both firmly to achieve their own ends. The Conjoined Polarity sees the final boundaries enforcing the polarity collapse upon themselves, and allows the Pale Amaran to mix both schools and cast techniques drawing upon both.
 

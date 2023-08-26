@@ -8,14 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e49de936ea00da6",
+            "id": "35a30a68c4a27a6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "505420b953761606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -67,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -82,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md"
+              }
             }
           },
           {
@@ -91,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,16 +177,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e49de936ea00da6",
+  "active": "505420b953761606",
   "lastOpenFiles": [
+    "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "1. Drawing Board/Scenario 13/Patreon.md",
     "1. Drawing Board/2. R&D/Research & Development.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Mechanical Pillars/The Relics of New.md",
     "2. Development/Mechanical Pillars/Glass.md",

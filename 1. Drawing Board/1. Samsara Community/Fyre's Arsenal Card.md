@@ -41,7 +41,7 @@ Using the Samsara-analogue of Fyresworde as a character to inspire the concepts 
 		  Particulate matter is spun with chalk and flung in the direction of an attacker. Latent guidance-weave sees it target moisture; the mouth, nose and - most annoyingly - the eyes. It inflicts an inductive blind that lingers momentarily. 
 		  
 	- Weave Charge
-		- **Sun Spear** - Blast - Cado, Induc
+		- **Sunlight Spear** - Blast - Cado, Induc
 		  Axle: Tek | Starfire Conduit
 		  *"I keep a free hand for this very reason."*
 		  Chalk is woven into a defense-piercing bolt, then suffused with equations that fold chalk into searing heat, allowing for inflicting heavy caedometric damage and a burn effect. It can be further empowered by Tek, allowing for inflicting **starfire flames** against targets.
