@@ -86,7 +86,7 @@ var countTypeDescriptions = {
   ["percentgoal" /* PercentGoal */]: "Set a word goal by adding the 'word-goal' property to a note.",
   ["note" /* Note */]: "Total notes.",
   ["character" /* Character */]: "Total characters (letters, symbols, numbers, and spaces).",
-  ["link" /* Link */]: "Total outbound links.",
+  ["link" /* Link */]: "Total links to other notes.",
   ["embed" /* Embed */]: "Total embedded images, files, and notes.",
   ["alias" /* Alias */]: "The first alias property of each note.",
   ["created" /* Created */]: "Creation date. (On folders: earliest creation date of any note.)",
@@ -195,21 +195,25 @@ var FileHelper = class {
     };
     return childPaths.reduce((total, childPath) => {
       const childCount = this.getCountDataForPath(counts, childPath);
-      total.isDirectory = true;
-      total.noteCount += childCount.noteCount;
-      total.wordCount += childCount.wordCount;
-      total.wordCountTowardGoal += childCount.wordCountTowardGoal;
-      total.wordGoal += childCount.wordGoal;
-      total.pageCount += childCount.pageCount;
-      total.characterCount += childCount.characterCount;
-      total.nonWhitespaceCharacterCount += childCount.nonWhitespaceCharacterCount;
-      total.createdDate = total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate);
-      total.modifiedDate = Math.max(
-        total.modifiedDate,
-        childCount.modifiedDate
-      );
-      total.sizeInBytes += childCount.sizeInBytes;
-      return total;
+      return {
+        isDirectory: true,
+        noteCount: total.noteCount + childCount.noteCount,
+        linkCount: total.linkCount + childCount.linkCount,
+        embedCount: total.embedCount + childCount.embedCount,
+        aliases: [],
+        wordCount: total.wordCount + childCount.wordCount,
+        wordCountTowardGoal: total.wordCountTowardGoal + childCount.wordCountTowardGoal,
+        wordGoal: total.wordGoal + childCount.wordGoal,
+        pageCount: total.pageCount + childCount.pageCount,
+        characterCount: total.characterCount + childCount.characterCount,
+        nonWhitespaceCharacterCount: total.nonWhitespaceCharacterCount + childCount.nonWhitespaceCharacterCount,
+        createdDate: total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate),
+        modifiedDate: Math.max(
+          total.modifiedDate,
+          childCount.modifiedDate
+        ),
+        sizeInBytes: total.sizeInBytes + childCount.sizeInBytes
+      };
     }, directoryDefault);
   }
   setDebugMode(debug) {
@@ -577,8 +581,14 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
       case "character" /* Character */:
         return abbreviateDescriptions ? `${counts.characterCount.toLocaleString()}ch` : getPluralizedCount("character", counts.characterCount);
       case "link" /* Link */:
+        if (counts.linkCount === 0) {
+          return null;
+        }
         return abbreviateDescriptions ? `${counts.linkCount.toLocaleString()}x` : getPluralizedCount("link", counts.linkCount);
       case "embed" /* Embed */:
+        if (counts.embedCount === 0) {
+          return null;
+        }
         return abbreviateDescriptions ? `${counts.embedCount.toLocaleString()}em` : getPluralizedCount("embed", counts.embedCount);
       case "alias" /* Alias */:
         if (!counts.aliases || !Array.isArray(counts.aliases) || !counts.aliases.length) {
@@ -587,12 +597,12 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
         return abbreviateDescriptions ? `${counts.aliases[0]}` : `alias: ${counts.aliases[0]}${counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""}`;
       case "created" /* Created */:
         if (counts.createdDate === 0) {
-          return "";
+          return null;
         }
         return abbreviateDescriptions ? `${new Date(counts.createdDate).toLocaleDateString()}/c` : `Created ${new Date(counts.createdDate).toLocaleDateString()}`;
       case "modified" /* Modified */:
         if (counts.modifiedDate === 0) {
-          return "";
+          return null;
         }
         return abbreviateDescriptions ? `${new Date(counts.modifiedDate).toLocaleDateString()}/u` : `Updated ${new Date(counts.modifiedDate).toLocaleDateString()}`;
       case "filesize" /* FileSize */:

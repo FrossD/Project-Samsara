@@ -18,3 +18,5 @@ Twitter Account
 	- Something related to my writing and playing CoQ
 - Pfp:
 	- Something custom drawn in the CoQ style
+
+Vault BG: https://twitter.com/SicHonDastus/status/1667836837992308738?s=20
