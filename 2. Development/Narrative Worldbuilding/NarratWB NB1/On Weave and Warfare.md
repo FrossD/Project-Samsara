@@ -781,37 +781,7 @@ There is plenty of cross-arsenal interplay seen in how devices like chromegrafts
 
 > As a case study of how Teks are used in an arsenal, we can consider legendary Strider Adven Ventura and his **Trajectory Calculator** Tek, a modification Tek that allows him to draw parabolic slide rules and calculate the path of any freely moving object in space. His Trajectory Calculator allows him to ensure his **Priming Bolt** weave strike always strikes its target. His **Saboteur's Charge** and **Interceptor Flechette** also benefit from the additional accuracy granted to his throwing from calculating their paths, and the Interceptor Flechette in particular is wholly reliant on his Tek to function. His **Projectile Net** knit-shield uses his Tek to calculate where oncoming barrages of projectiles will strike, allowing him to only allocate as much thickness to the knit of his shield as needed, allowing for minimal chalk expenditure and unravel accumulation. Finally, his **Calculated Leap** allows for highly precise repositioning even through dangerous environments.
 
-### pNarrat Concept: Character Arsenals
-A distinct character trait of Striders especially in the Switchboard is their desire for and active cultivation of notoriety and infamy. Striders actively pursue a name for themselves through any means possible, and one of the most effective means of doing so is the cultivation of an identity through consistent practice of recognizable, unique quirks. One such thing as this is the cultivation of **signature combat styles** that are unique to a Strider. Infamy is thus cultivated as that Strider fights using their signature techniques and as people see them do so.
-
-> The narrative result of this is 'character arsenals'; data sheets that outline all of the various tools and tricks a character has in their possession for usage in combat, divided into distinct categories.
-
-**Mundane Armaments - Tier 1** 
-A subject's more physical, more elementary tools for combat, where we see a selection of martial and ranged arms. One of the weapons is typically a subject's 'signature', serving as their first choice weapon for an engagement and the weapon they are most commonly known by. Usually, this weapon is a relic, but ideally, all weapons are. Under the mundane class are the;
-- Martial Arm  
-- Firearm  
-- Tertiary  
-The 'tertiary' is an infrequently used weapon that serves as either a backup, or a pick for fringe cases. It can be viewed as a 'special' class weapon.
-
-**Elementary Calcic - Tier 2**
-In which we get to the first of the subject's calcic abilities (if present). These abilities are the most elementary, but their versatility aids in their ability in creating a distinct combat identity for a subject. The elementary calcic are the weave abilities, granted differentiation through usage and interwoven equations within their executions.
-- Weave Strike  
-- Woven Charge  
-- Knit-Shield
-- Weft Dash
-- Woven Armament
-  
-**Advanced Calcic - Tier 3**
-Into the advanced calcic do we see Teks and chalk rituals make an appearance. Despite the fact that Teks do not particularly require all that much skill to simply use, obtaining them is a sign of a fairly skilled subject. The fact that any two Teks being even remotely similar is an extreme rarity means that Teks are a massive contributor to a subject's recognizability, so much so that Teks can be the basis for forming somewhat [[The Blank-Slate Mind#Teks and Striders|cult-like followings]]. Rituals make an appearance here in the form of Quis or quickcasts, which are learnable and executable by virtually anyone half decent at weaving chalk. Often, Quis only contribute to a subject's notoriety if they were the first person to utilize them (i.e., the drafter of the schema).
-- Teks 
-- Quis  
-  
-**Ultimate Calcic - Tier 4**
-The domain of the highest calcic abilities. True power is found here in the shape of the Flash Protocol, able to unlock the ultimate potential of previous weapons and abilities in the arsenal. Slower to cast but more powerful rituals may also find a place here as well, but the Flash Protocol sits at the apex of driving identity. Subjects are known often by their flash, the ability they use to rescue losing situations, secure an edge over an equally matched opponent, or add flair to a victory already secured.  
-- Flash Protocol  
-- Grand Ritualism 
-
-**Auxiliary Powers**
+### Auxiliary Powers
 > Add as a subheading under Further Notes
 
 An odd-sock drawer of powers not following the mainline of powers available to a subject in the Switchboard. Individual powers under this section are graded according to tiers (that being, a tier one power here would be about as equal in damage potential and uptime to a mundane weapon) and typically operate off of internal, separate rules. Most are summarized below;
@@ -826,6 +796,13 @@ An odd-sock drawer of powers not following the mainline of powers available to a
 	- Powers granted as a result of a title obtained in the Switchboard, through continuous distinguished action and accumulation of infamy (more info in [[The Cyclicality of Names#Strider Titles and Titular Powers|titular powers]]). Most titular powers, by virtue of the difficulty of their acquisition, are tier four powers - about on par with the Flash Protocol. Similar to doctrinal powers, they are often passive abilities, but provide absolute immense power boosts to the subject possessing them.
 - Depth Arsenal
 	- Powers granted to Depthstriders and other dwellers in the Amaranth. Outlined in its entirety in [[The Void#Depthstrider Combat|Depthstrider Combat]]. 
+
+### pNarrat Concept: Character Arsenals
+A distinct character trait of Striders especially in the Switchboard is their desire for and active cultivation of notoriety and infamy. Striders actively pursue a name for themselves through any means possible, and one of the most effective means of doing so is the cultivation of an identity through consistent practice of recognizable, unique quirks. One such thing as this is the cultivation of **signature combat styles** that are unique to a Strider. Infamy is thus cultivated as that Strider fights using their signature techniques and as people see them do so.
+
+The narrative result of this is '**character arsenals**'; the total sum of all the offensive, defensive and utility powers at an actors disposal in the Switchboard. All these things outlined in a singular document - particularly in an individual character's profile, creates an **arsenal card.**
+
+> We have an example of one such arsenal card in the form of [[Fyre's Arsenal Card]].
 
 #### Example: Adven Ventura (Deprecated)
 > Deprecate this; use Fyresworde as a study.

@@ -14,8 +14,9 @@ Tracking progress on the doc.
      - I don't know what counts as mythology for the Fel-Arcad, but I will mark this box as done as their history is complete.
 04. [x] Appearance
 05. [x] Clothes and Bodily Adornments
-06. [x] Families and Family Structure
-07. [ ] Greetings and Respect
+06. [x] Individuals and Families
+     - The scope of this section has changed, and thus the 'Individuals' section needs to actually be written.
+07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals (**Indev**)
      - Very incomplete; revisit for further drafting.
 09. [ ] Taboos and Superstitions 
@@ -580,6 +581,7 @@ Another nigh-exclusively Fel-Arcad pursuit, the creation of 'mockologies' or mod
 
 That being said, there are plenty of casual appreciators and creators in the space who create all manners of mockology designs, as they serve as excellent discussion pieces when placed somewhere they can draw the eyes of observers. 
 
+#### Recreation
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.

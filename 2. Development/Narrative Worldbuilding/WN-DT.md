@@ -46,14 +46,11 @@ Revisions to existing canon, and the restructuring of existing documents to more
 ### Revisions
 Revisions to existing canon, particularly with the aim of reconciling old canon with newer additions to Project Samsara.
 
-#### Class Alpha - High Prority
+#### Class Alpha - High Priority
 - [ ] Nuthin'
 
 - (nWB) **The Formation of the Wheelhouse**: Under [[The Dawn of the Dancirah]]
 	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
-
-- (nWB) **Arsenal Nomenclatures**: Under [[On Weave and Warfare]]
-	- Develop notations for character arsenals, such as means of indicating if a power is dependent on something else, such as another power or a relic weapon.
 
 - (nWB) **Praxis Powers**: Under [[On Weave and Warfare]]
 	- Speak on praxis powers in the Switchboard.
@@ -63,7 +60,9 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 	- A general revision of doctrines in the Switchboard to bring them up to speed with the rest of the Samsara canon.
 
 - (nWB) **Character Arsenals**: Under [[On Weave and Warfare]]
-	- Rebuild the entire thing to be less Chalkweaver-centric.
+	- ~~Rebuild the entire thing to be less Chalkweaver-centric.~~
+	- Work on the Auxiliary Powers subheading.
+		- This is majorly dependent on the Doctrines rework.
 
 
 #### Class Beta - Reduced Priority
@@ -75,8 +74,9 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 #### Class Alpha - High Priority
 - [ ] Nuthin'
 
-- **Amendment to Family Template**
-	- Change 'Naming' to 'Naming and Language'
+- (meta) **Amendment to Family Template**: Under [[FamTemplate]]
+	- 'Individuals and Families' and 'Respect and Hierarchies' are revised subheadings. Review the questions under each to add questions relevant to Individuals for the former, and societal hierarchies for the latter.
+	- Update the Family Template constructor that's in the family docs to the latest iteration.
 
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'

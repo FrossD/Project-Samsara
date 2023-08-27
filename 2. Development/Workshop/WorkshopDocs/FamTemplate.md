@@ -19,8 +19,8 @@ This checklist is copied to the design doc for each family. As the family is dev
 03. [ ] History and Mythology
 04. [ ] Appearance
 05. [ ] Clothes and Bodily Adornments
-06. [ ] Families and Family Structure
-07. [ ] Greetings and Respect
+06. [ ] Individuals and Families
+07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals
 09. [ ] Taboos and Superstitions 
 
@@ -102,7 +102,7 @@ The physical appearance of the family in the form of clothes and bodily adornmen
 - Hair colors and styles?
 - Deliberate scarification?
 
-#### Families and Family Structure
+#### Individuals and Families
 How are families or otherwise equivalent smallest units of their society structured?
 - Matriarchal or patriarchal or something else?
 - Nuclear preferred or extended?
@@ -115,7 +115,7 @@ How are families or otherwise equivalent smallest units of their society structu
 	- Single-parent households and orphans?
 - What are the expected behaviors/roles of children?
 
-#### Greeting & Respect
+#### Respect and Hierarchies
 - How are people addressed? 
 - What honorifics exist? 
 - What part of social convention is used to allocate 'honor'?
@@ -314,8 +314,8 @@ Tracking progress on the doc.
 03. [ ] History and Mythology
 04. [ ] Appearance
 05. [ ] Clothes and Bodily Adornments
-06. [ ] Families and Family Structure
-07. [ ] Greetings and Respect
+06. [ ] Individuals and Families
+07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals
 09. [ ] Taboos and Superstitions 
 
@@ -346,8 +346,8 @@ Tracking progress on the doc.
 ### History and Mythology
 ### Appearance
 ### Clothes and Bodily Adornments
-### Families and Family Structure
-### Greetings and Respect
+### Individuals and Families
+### Respect and Hierarchies
 ### Rituals and Periodicals
 ### Taboos and Superstitions
 
