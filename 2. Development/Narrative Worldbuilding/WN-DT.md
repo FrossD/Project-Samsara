@@ -16,7 +16,7 @@ A bank of questions relevant to ongoing development.
 -  What is a protocol?
 
 ## Work: Active Development
-A staging ground for work currently in progress. Tasks here are often new.
+A staging ground for work currently in progress. Tasks here are often new. 
 
 ### Transcribing
 Works are paper drafted in the notebook, and then transferred here so they may begin the long process of iterative hell.
