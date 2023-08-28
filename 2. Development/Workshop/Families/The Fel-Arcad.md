@@ -43,19 +43,11 @@ Tracking progress on the doc.
 ### Snap Thoughts
 Spur of the moment thoughts that could use work.
 
-- A notable export of individual arcologies are items bearing patterns created by the arcology's 'seed'; a mathematic representation of the randomness modifier arcologies are subjected to in their creation, provided by the Curlicue tree that serves as their seat and origin. (**Arts, Entertainment & Recreation**)
 - ~~Fel-Arcad derive their last names from names chosen by collections of Kin, and often bear 'of' preceding that name as their last name.~~ New naming methodology for the Fel-Arcad needs to be devved. I am considering a mix of Japanese and maybe Swedish? Scottish? Gaelic? names. Look up where most of Europe's fairytales.
 - There are avenues for non-Fel to come to inhabit an arcology, but often they must undergo rigorous processes along the lines of questioning to see if they would be a good fit for it.
 - Whether the Vahnkin and the Void would actually be responsible for a Second Refrain and if they were responsible for the first one is possible, but disputed. In actuality, many Fel-Arcad, unable to accept the possibility they shot themselves in the foot with the Mind Hunts, choose instead to blame the Void and the Vahnkin.
-- ~~The Fel-Arcad used the same device that they did to form Morrigan to create the second generation of Fel-Arcad.~~ This idea will be used on the Sil'khan instead.
-
 - History and Mythology section has notable persons in it.
 	- Fel-Arcad originator of cinema.
-
-#### Transcribing
-- Naming of the First Arcology builder. Perhaps he should be Rosen, and the Ha-Danseer that the Rosenthalists claim descendance from be changed to something else.
-- Might adapt Yarn into the Ancestral Histories & Mythologies heading. Then again, might use Yarn for a real snapshot story of the family, and use the AHY for describing many notable figures and events in more detail, giving a timelines of it even.
-- Amend the Yarn too, continuity errors exist especially as regards the Arcad, 1st Fel and 2nd Fel and how/when the Sil'khan arose.
 
 ## Strata One
 ### Doctrine
@@ -582,6 +574,30 @@ Another nigh-exclusively Fel-Arcad pursuit, the creation of 'mockologies' or mod
 That being said, there are plenty of casual appreciators and creators in the space who create all manners of mockology designs, as they serve as excellent discussion pieces when placed somewhere they can draw the eyes of observers. 
 
 #### Recreation
+The Fel-Arcad are not a very physical people.
+
+The physical rigor of day-to-day living is largely mitigated by the various processes in an arcology. They do not struggle. They do not 'want' in any real capacity. Because of this, most physical exertion is elective and non-necessary. This is reflected in their entertainment and recreation, being mostly artistic pursuits that are performed - primarily - while comfortably seated. This isn't to say that some arcologies do not have facilities for various sports, nor is there not an audience for certain sports that double as artforms almost, such as displays of martial arts and archery - merely that these audiences are small and niche. Intensely physical sports like most ball games see even less popularity among the Fel-Arcad.
+
+While the explanation posited above for this - the general lack of compulsory rigor in Fel-Arcad living - is arguably the simplest, it draws the ire of many Fel-Arcad who perceive it as a jab, and one of many in a collection of jabs that comprises the outside-family criticism of the Fel-Arcad as a 'soft'. The Fel-Arcad offer other explanations; the earliest post-Sanscrii arcologies were starved for space and built with poorer technique, disallowing the construction of large sports arenas. This was coupled with the general disinclination the *Arcad* possessed towards such activities to begin with, stemming from an inability to perform them as they were compelled into family-wide arcane-military-industrial pursuits during the various conflicts with the First Thinkers. All their entertainment was Slate-bound, easy to pick up between breaks spent spinning weave and crunching weave and drop when those breaks were over. This persisted even beyond the Refrain.
+
+More arguments exist of course, and even more people who don't care for them. But there is a final argument that is levied by most Fel-Arcad - a silver bullet that puts even the most dedicated, most contrarian dissenter on their backfoot;
+
+"But have you ever watched pipeskating?"
+
+**Pipeskating**
+As an arcology is grown and built, it typically extends colossal roots deep into a region's crust, drinking deeply of the chalk within. As it nears completion or is supplied chalk from other sources, it relies less and less on these giant root networks. Built out of replichrome however, there is no real way to deprecate these roots other than simply abandoning them and sealing off entry. Within these roots are often large cylindrical pipes for moving all kinds of matter and substrate, and their deprecation sees them abandoned, never to be touched again.
+
+This was until it became fairly commonplace for less than scrupulous members of arcologies - rosy-faced youth more often than not, going through the typical rebellious stages - began using these deprecated pipe networks as hideouts and dens. With most of the maps drawn up of these networks usually lost to time, a habitual dweller of those depths could easily lose a pursuer with no experience navigating them. When some arcologies began cracking down more aggressively on such behavior - sending in drones and squadrons of Sekators - the pipe-dwellers adapted in kind; **rocketskates**. A wholly unforeseeable escalation in methods, the attachment of calcic-reliant rocketry on ordinary roller skates allowed for travelling rapidly through the root networks, speeding down straits, making hairpin turns - and disappearing without a trace. 
+
+As later arcology designs featured large maintenance backrooms and layers running up from the roots and throughout the arcology to supply their growing demands, it became a popular - if frowned upon - method of traversing the sprawling arcology expanse; rocketskating just behind the wall panels on replichrome tubing, bursting out of maintenance hatches in entirely different sectors. 
+
+As the practice grew, it drew the attention of many Fel-Arcad, who were inexplicably drawn to the uncharacteristic physicality and often violence of it, particularly when it was realized that there was avenue for skill-expression through risky time-saving maneuvers and tricks, as well as an even higher ceiling that emerged when the first informal schools of rocketskate combat emerged.  
+
+Aiming to curb the ills created in its wake, the sport was formalized as a common arcology past time, a uniquely-Fel sport that saw the emergence of teams, small-time tournaments, formal skating groups, and finally cross-arcology championships, drawing eyes from far and wide to see the Switchboards professors, scholars and librarians duke it out on rocket-powered wheeled-boots in increasingly more terrifying arenas of coiling pipe. 
+
+**Rocketskating** was the final formal name, as the sport eventually deviated and focused more on the eponymous instrument of competition than the arenas where it was performed. But the old heads, the veterans of the craft, insist on the moniker of **pipeskating**, refusing to surrender the rebellious roots of the sport to those who insisted on making it more digestible for polite company. Considering that the more formal rocketskating never featured the combat aspect of it, underground arenas spawned to see the sport at its finest; highspeed duels through treacherous arenas, the scarred winners often proving to be the most lethal combination of physical prowess and tactical genius.
+
+It's almost guaranteed, of course, that there is an agent from one of the many of the Switchboard's academies and paramilitary outfits in the crowd of adoring onlookers, out to scout material that could be refined into some of the Dancirah's mightiest weapons.
 
 ### Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.

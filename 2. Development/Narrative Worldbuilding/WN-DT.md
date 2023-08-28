@@ -24,6 +24,7 @@ Works are paper drafted in the notebook, and then transferred here so they may b
 
 - (nWB) **The Fel-Arcad**.
 	- Add the Simulspace to the Technologies section.
+	- Add rocketskates to the Technologies section.
 	- Psychitects are trained primarily among the Fel-Arcad; add this to the Education section.
 
 ### Ongoing Development
