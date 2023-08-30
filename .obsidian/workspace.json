@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ba529d3b7f7cf6",
+        "id": "71bc41a2496756d0",
         "type": "tabs",
         "children": [
           {
-            "id": "35a30a68c4a27a6f",
+            "id": "311e9a73d51267f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "2f1246a290c110e8",
+            "id": "30edcc260e99e12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1a51acca2ea994c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md"
               }
             }
           },
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35a30a68c4a27a6f",
+  "active": "311e9a73d51267f1",
   "lastOpenFiles": [
+    "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
+    "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
@@ -215,8 +204,6 @@
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "2. Development/Workshop/WorkshopDocs/AcademyExtended.md",
     "README.md",
-    "Excalidraw/Test.md",
-    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",
