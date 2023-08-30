@@ -79,7 +79,7 @@ Using the Samsara-analogue of Fyresworde as a character to inspire the concepts 
 			- Defensive
 			  **Honorshield** - Cado, Brch
 			  *"I like to see the whites of their eyes."*
-			   A passive ability that when activated, draws on the computational line to initialize two intangible spheres in space, centered on the head of the caster. One sphere - the **boundary** - is large and stationary, moving in line with the caster. The second sphere - the **marker** - is smaller and moves along the surface of the further, its movement tied to the direction the caster is looking in. When a projectile attack enters the marker, it is struck heavily by starfire flames in an attempt to destroy it. This measure can only be used against projectiles within the boundary confines of the boundary sphere. Projectiles are selected for elimination based on the computations of the computational strait, and this cast inflicts heavy **unravelling** on the caster.
+			   A passive ability that when activated, draws on the computational line to initialize two intangible spheres in space, centered on the head of the caster. One sphere - the **boundary** - is large and stationary, moving in line with the caster. The second sphere - the **marker** - is smaller and moves along the surface of the former, its movement tied to the direction the caster is looking in. When a projectile attack enters the marker, it is struck heavily by starfire flames in an attempt to destroy it. This measure can only be used against projectiles within the boundary confines of the boundary sphere. Projectiles are selected for elimination based on the computations of the computational strait, and this cast inflicts heavy **unravelling** on the caster.
 			   
 			- Utility
 			  **Nightmist** - Induc
@@ -105,7 +105,7 @@ Using the Samsara-analogue of Fyresworde as a character to inspire the concepts 
 		- **Stargift: Leyndell Squall** - Channeled - Induc, Siph
 		  Axle: Tek | Starfire Conduit
 		  *"I hate to see what Spyndl has become, but perhaps it is what we deserve. Perhaps something will rise from this ash, but I am not hopeful."*
-		  The caster creates a site of ritual geometry and expends components, including a considerable amount of ashflame. The ritual resolves as a bottle tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
+		  The caster creates a site of ritual geometry and expends components, including a considerable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
 	
 - T5 - Flash Protocol
 	- Flashes

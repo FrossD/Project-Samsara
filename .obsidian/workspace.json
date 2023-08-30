@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71bc41a2496756d0",
+        "id": "7d19e42b39863b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "311e9a73d51267f1",
+            "id": "c07feb3c2b75c85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "30edcc260e99e12b",
+            "id": "77cd976b9b2ab6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edbc2c2f73596bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d9862b039730818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7971b1c3a53aaca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +73,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -102,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md"
+                "file": "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md"
               }
             }
           },
@@ -112,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
+                "file": "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
+                "file": "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,16 +216,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "311e9a73d51267f1",
+  "active": "9d9862b039730818",
   "lastOpenFiles": [
-    "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
-    "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "1. Drawing Board/1. Samsara Community/Prop.DT_CANTHAR.md",
+    "2. Development/Workshop/PlanesDev/The Challenger Dark.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
-    "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "1. Drawing Board/Scenario 13/Patreon.md",
     "1. Drawing Board/2. R&D/Research & Development.md",
@@ -203,7 +244,6 @@
     "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "2. Development/Workshop/WorkshopDocs/AcademyExtended.md",
-    "README.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",

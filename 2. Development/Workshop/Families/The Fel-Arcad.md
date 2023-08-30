@@ -26,8 +26,7 @@ Tracking progress on the doc.
 11. [x] Faith and Religion
 12. [x] Factions, Philosophies & Divides
 13. [x] Education
-14. [ ] Arts, Entertainment and Recreation (**Paper Drafted**)
-     - Needs a fair bit of elaboration on the outlined discussion matter.
+14. [x] Arts, Entertainment and Recreation (**Paper Drafted**)
 15. [x] Iconography and Architecture
 
 **Strata Four**
@@ -523,6 +522,16 @@ For reasons unknown, poetry has gained little traction outside Fel circles, and 
 
 **Music**
 > One of the Fel-Arts bearing the least outside influence.
+
+The Fel-Arcad possess a deep love for music, both its creation and appreciation. Fel-Arcad schools and college see regular influxes of students aiming to refine their musical talents under formal instruction, yielding the next generation of Fel-Arcad composers, directors and musicians who will score and perform the tunes and melodies emblematic of Fel-Arcad being.
+
+Over time, various 'movements' have spawned and fallen regarding Fel-Arcad music, philosophies that manifested as methods of performing the craft, with eventual shift to a more genre-focused approach that led to a wider variety of music produced using different media and by artists outside formal circles. The proliferation of Slates and their modularity allowed for a considerable uptick in music made by individuals and small groups.
+
+There are of course divides between music enjoyers along the lines of what is 'refined' and 'cultured' and what merely appeals to the senses, and while this debate flares up occasionally on the rare moments members of both camps are allowed to clash, it is far more common place to simply live and let live.
+
+The nymia has had a non-trivial bearing on Fel-Arcad music. Being a mathematical skew, many composers are incentivized to produce music that 'meshes' with it, the randomness of the nymia finding purchase in the composition, and harmonizing to produce splendid sound. It thus also means that most arcologies have their own unique 'signatures' embossed on the music they produce, traceable back to them and earning them a fair bit of repute if their nymia proved particularly favorable to music creation.
+
+> I would elaborate more on musical media such as instruments here, but that can expanded upon when such specificity is necessary.
 
 **Film and Cinema**
 > Give Fel-Arcad cinema a name, like how we have Hollywood. Named after the originator of Fel-Arcad modern cinema.
