@@ -39,14 +39,14 @@ You could imagine a number tied to any piece of knowledge which represents 'curi
 
 As such, the KPI is dependent on the very people subject to it. For me to derive power from my knowledge, it must answer questions, but these questions need to be asked by other Striders for them to exist. The fundamental difference between knowledge and a secret is that a secret is knowledge about which an arbitrary threshold of inquiry has been crossed.
 
-	Narratively, a secret is often a reward for endeavors in the Switchboard, particularly when clearing vaults.
+> Narratively, a secret is often a reward for endeavors in the Switchboard, particularly when clearing vaults.
 
 **Power (from Knowledge)**
 So what actual power is derived from 'powerful' knowledge? Ironically, it is far simpler than the actual KPI mechanism. At its simplest, possessing powerful knowledge provides what can be described as an arbitrary numerical multiplier to a Strider's abilities. Striders with useful knowledge quite literally can hit harder, move faster, and take more damage than those with less.
 
 Regarding calcic powers, it's also similar; possessing this useful knowledge increases the efficacy of a Strider's teks, relics, rituals and weaving abilities in what ever way these can be made more effective; rituals cost lest and are more effective upon cast, relic weapons can be lighter to wield, heavier on hit, more durable and dangerous, and teks similarly see improvements in general utility and lethality where applicable. 
 
-	Narratively, it allows for certain assumptions and justifications to be made about the relative strength of one Strider versus another. Older Striders tend to be more powerful by virtue of simply having been exposed to more - and thus, have learned - more knowledge. Experienced Striders - Striders frequently braving new frontiers and the like - are also justifiably more powerful as their pursuits yield fruit and this serves to increase their power.
+> Narratively, it allows for certain assumptions and justifications to be made about the relative strength of one Strider versus another. Older Striders tend to be more powerful by virtue of simply having been exposed to more - and thus, have learned - more knowledge. Experienced Striders - Striders frequently braving new frontiers and the like - are also justifiably more powerful as their pursuits yield fruit and this serves to increase their power.
 
 Of course, there is also power granted by the actual contents of the knowledge itself, such as knowing the location of something lost, or the schema of a ritual to achieve some aim many have need of.
 

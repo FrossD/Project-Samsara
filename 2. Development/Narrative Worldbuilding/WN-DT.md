@@ -65,6 +65,8 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 	- Work on the Auxiliary Powers subheading.
 		- This is majorly dependent on the Doctrines rework.
 
+- (pWB) **The Strider Protocol**: Under [[The Strider Protocol]];
+	- Just look at the damn thing. There's probably an issue in there somewhere.
 
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
