@@ -28,6 +28,12 @@ Tentative
 - Detailed thoroughly below. Not the subject matter though. Strider and very proficient with Chalk. Their power is somewhat unknown as they use all manner of Teks. Follower of the Travelling Mage, Trevelyan.
 - Followers of Trevelyan take numbers after names. The Evangelist is for now Kei-8.
 
+**Power Words**
+- Kah - Yes
+- Keh - No
+- Koh - A Question
+- Kau - An Assertion
+
 **Naming**
 - Kei - corruption of 'Kay'
 - 'Eight' - a reference to the fact that they are a disciple of Trevelyan; refers to the particular Tale of Trevelyan they resonate most strongly with.

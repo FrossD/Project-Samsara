@@ -34,7 +34,6 @@ Entries and docs here are actively under development, and just under transcribin
 - [ ] Nuthin'
 
 - (nWB) **The Fel-Arcad Family**
-	- Rebuild the Yarn to be in the Ancestral Histories heading, and rename that to just **Histories & Mythology**.
 	- Get to the government system and fast.
 		- Get to the court system and fast too. Research difference between civil and criminal suits and courts in general.
 
@@ -53,17 +52,11 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 - (nWB) **The Formation of the Wheelhouse**: Under [[The Dawn of the Dancirah]]
 	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
 
-- (nWB) **Praxis Powers**: Under [[On Weave and Warfare]]
-	- Speak on praxis powers in the Switchboard.
-	- Work on a powerscaling that places Praxis Powers at the top, followed by Protocols, etc.
-
-- (pWB) **On Doctrines**; Under [[The Blank-Slate Mind]]
-	- A general revision of doctrines in the Switchboard to bring them up to speed with the rest of the Samsara canon.
-
 - (nWB) **Character Arsenals**: Under [[On Weave and Warfare]]
 	- ~~Rebuild the entire thing to be less Chalkweaver-centric.~~
 	- Work on the Auxiliary Powers subheading.
-		- This is majorly dependent on the Doctrines rework.
+		- ~~This is majorly dependent on the Doctrines rework.~~ Done.
+		- Auxiliary powers are T-X or T-'Aux' powers. These include relics, slates, chromgrafts, praxis powers and titular powers.
 
 - (pWB) **The Strider Protocol**: Under [[The Strider Protocol]];
 	- Just look at the damn thing. There's probably an issue in there somewhere.
@@ -80,6 +73,7 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 - (meta) **Amendment to Family Template**: Under [[FamTemplate]]
 	- 'Individuals and Families' and 'Respect and Hierarchies' are revised subheadings. Review the questions under each to add questions relevant to Individuals for the former, and societal hierarchies for the latter.
 	- Update the Family Template constructor that's in the family docs to the latest iteration.
+	- Revise 'Taboos and Superstitions' to 'Quirks'. Get ChatGPT to comment on that one.
 
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'
@@ -94,8 +88,10 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 	- I hate the damn thing so much.
 
 - (meta) **Pillar Deprecation**: Under various
-	- Contemplating moving [[The Relics of New]] into [[On Weave and Warfare]].
 	- Contemplating moving [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
+		- After the SlateMind rebuild, I have no clue how this fits.
+		- And in all honestly, I don't know how Cyclicality fits with anything at all really.
+			- Personal doctrines?
 
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.

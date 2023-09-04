@@ -92,7 +92,7 @@ An idea worth exploring is the Void counterpart of Chalk Relics, that being weap
 
 Acquisition of a Void weapon uses Giving, Taking, or - exclusive to the most powerful of Void Wielders, the Drifters - Shaping. Being Given a Void weapon is how most Depthstriders acquire a weapon with which to combine with their void powers. However, what is Given is lacking in power and specificity; you are forced to settle with what you acquire. Taking a void weapon is far more ideal, as it carries more of your intent with it. Shaping a weapon from the Void creates the most powerful implements, as it is made of pure will, desire and intent. 
 
-Additionally, a fourth method exists, similar to the [[The Relics of New#The Artificial Relics |making of artificial relics]] - that being Forging. A mundane/conventional weapon can be allowed to marinate in the Void and gain some inclination towards the Void and it's nature. The strength of these weapons vary, but they are never more powerful than a void weapon acquired by shaping.
+Additionally, a fourth method exists, similar to the [[On Weave and Warfare#The Artificial Relics|making of artificial relics]] - that being Forging. A mundane/conventional weapon can be allowed to marinate in the Void and gain some inclination towards the Void and it's nature. The strength of these weapons vary, but they are never more powerful than a void weapon acquired by shaping.
 
 The advantage presented by void weaponry are their increased proficiency in anti-lattice combat methods, and how they interact with induced localized curvature and anti-curvature, described more in detail in the next section that theory-crafts the practical elements of Depthstrider combat.
 
@@ -386,6 +386,57 @@ As such, it is hard to define the powers of Esomechanists as a category, though 
 
 - **Glass Esos** are particularly esoteric in nature, as the crux of their power is are Glass jaws; rifts between the Dancirah and the Vitric Shelf through which beings can move between each, and Glass finds its way into the Great Sky below. There are... methods to have these Jaws become actual jaws, and Glass Esos are defined primarily by a mouthful of jagged, translucent daggers, with a scintillating kaleidoscopic maw behind them. This passageway to the Vitric Shelf allows from drawing Glass when needed, and glass teeth are used to hone and shape it down to forms required by the subject. At higher levels of strength and skill, the power to open temporary maws in space is obtained, and summoning jagged protrusions of Glass in space sees the possibilities available to them widen considerably.
 
+## The Relics of New
+The Relics, Thy Mettle 2.0, updated with the new name, in-line with the fresh canon, and taking on the new name and lore of CARP - the Collaborative Artificial Relics Project.
+
+### The Natural Relics
+![[The Hands as Chalk#^abc506]]
+
+Natural Relics in the Switchboard arise through the mechanics of spontaneous equations; chalk gathers and accumulates around something - a concept, object, something that can serve as a 'seed' for something grander - and it takes on patterns that grant it powers beyond its mundane nature.  ^a3de16
+
+These patterns often are drawn from the surroundings or produced by the implements own weave (such as a sword producing the pattern for sharpness). While they lack the versatility and direction in purpose possessed by the artificial relics, their creation from the raw stuff of the Switchboard seeping into them over eons makes them immensely powerful. 
+
+### The Artificial Relics
+As a matter of necessity, the earliest Chalkstriders learned to make Artificial Relics. Originally this was done by simply letting mundane implements marinate in chalk-dense environments, but the practice was refined by the usage of rituals to fold patterns that produced the desired changes into mundane implements. The use of these early artificial relics was in casting more advanced rituals, combat and utility, and opposing the various problematic equations existing in the Switchboard.
+
+As such, relics were a means to direct a Strider's power. Often, a Strider 'casts' their various powers with their relic in hand, serving as an inlet and outlet, a bridge between them and the Switchboard. With natural relics being too rare, artificial relics provided on-demand power for Striders in need.
+
+#### The Collaborative Artificial Rituals Project (CARP)
+	This section delves into Switchboard canon.
+
+It became a problem for the early Chalkstriders that in the making of artificial relics, they would have to subject them to an extensive list of rituals that were time-consuming, expensive and risky to perform. As they journeyed further into the Switchboard, they faced new challenges and needed to either create new tools or modify old ones to keep their arsenal up-to-date. The craft of creating relics became convoluted, overly fragmented and fraught with additional problems. It was agreed upon that a central body that coordinated and created a standardized model for all relics in the Switchboard would be optimal. 
+
+This task was lain at the feet of the newly budding Academy, which plumbed through many iterations before finally reaching the **Collaborative Artificial Relics Project**, shortened to **CARP**. CARP was basically a collaborative of Striders dedicated to producing standardized ritual schema that when cast upon a mundane implement, would convert it to a '**CARP relic**' that would have immense power and versatility right from the get-go, usable immediately as a tool for tackling the various dangers and challenges of the Switchboard. 
+
+As Striders traverse the Switchboard and encounter new frontiers and all that they bring, this information is taken back to the CARP and its subdivision's  development teams, analyzed and assessed, with conclusions drawn on how to improve the next iteration of the CARP ritual schema. As with any on-going collaborative endeavor, frequent checks are made to trim away accumulated fat and rot, keeping the entire project streamlined and potent.
+
+Of particular note is the schema produced by the **Modular Offensives Division** under CARP, responsible for the creation of the Academy's weaponry used by their various actors, particularly their Operators. The '**MOD**' schema, as it's shortened to, confers mundane weaponry with considerable power and - most importantly - **modularity**, allowing individual Striders to 'mod' the resulting relic as they saw fit, ensuring it fills a niche no other could in their repertoire.
+
+Each iteration of CARP and their subdivision's ritual schema would be denoted by 'AAAA-XXX' where 'AAAA' was the subdivision that handled the particular schema in question - or CARP themselves, and the 'XXX' being the 'iteration number' of the schema - how many versions of has passed since the initial. It became common for Academy Striders to make personal 'forks' of the root CARP ritual schema, often to make them more compatible with other powers the Strider possesses, or to grant it powers and capabilities either not yet implemented in the root schema or removed from newer iterations of it. These forks would typically be denoted by 'CARP-XXX-F#YYYY', the 'F#' (pronounced 'F Sharp') indicating the fork of the CARP or subdivision schema version mentioned, and the 'YYYY' being an alphanumeric string that refers to who crafted the fork.
+
+	In the canon, the latest iteration of the MOD schema is #046, making all relics that use it have a preceeding denotation of 'MOD-046', followed by the relic's name. As a better example, Adven Ventura, the Strider-Sojourner wields a pair of relic revolvers bearing the denotation 'MOD-046-F#VEN4: Sojourner's Tale'.
+
+#### Relic Forging
+The mundane component that becomes any kind of artificial relic benefits greatly from it's own construction and functionality as well, as many benefits added by the ritual applied primarily enhance the pre-existing nature of the subject implement. As a clarification, however, a ritual will not typically grant powers to a relics that are too far a stretch of the imagination for it to have.
+
+A relic that is a sword or similar, will not gain the ability to function like a firearm, nor will a relic based on a firearm function as a sword. Striders craft their pre-relics to exacting specifications before imbuing them with the power of a ritual to complete them as relics.
+
+As mentioned earlier, these relics benefit from their construction. The usage of high-quality materials and craftsmanship go a long way to improving the final relic product. More subjectively, the care put by a Strider in the crafting process and how well it relates to the Strider making it also affect the information tangible qualities of the relic, and serve to enhance its power and deepen the unity between it and the Strider that made it. 
+
+### Prime Relics (PHldr.)
+Prime Relics are a subdivision of natural relics, forming only under extreme circumstances. These circumstances vary, but in the canon so far, the only means of forming a Prime Relic are using a collapsed region's [[The Skywards Pursuit#The Gravity Axle |Gravity Axle]], or via a [[Chalk Ritualism#Structural Casting |Structural Cast]]. When wielded by a Strider, they read their lattice and refold themselves to be best suited to be wielded by that Strider and reflect the doctrine that guides them. Their power is unmatched in the ability to cause vast, sweeping change to the Switchboard.
+
+	Further detail here is narrative-dependent.
+
+### Appendum
+	Carp is a fish. There might be place for some cool fish symbology in it all. 
+
+### Further Notes
+#### Terminology
+Differentiating between a **relic** and an **artifact**.
+- **Relics** are used to describe calcic-enhanced **weaponry**. As a term, it's used almost exclusively to refer to calcic weaponry enhanced by means of weave or a ritual baked into it.
+- **Artifacts** refer to nearly everything non-offensive or combative that has been enhanced by chalk.
+
 ## Further Notes
 Additional notes on the topic.
 
@@ -548,7 +599,7 @@ As an actual weapon, it functions much like a quarterstaff, and sees various man
 ##### Pale Amarans: 'Paired Arms'
 
 #### Relic Arms & Weapon Abilities
-The most powerful weapons in the Switchboard are [[The Relics of New|relics]]; weapons that have had their mundane properties enhanced as well as new ones conferred upon them through calcic enhancement. While relics can be found naturally in the Switchboard (often encased as the final plunder in Vaults), most wielders of relics crafted them themselves, and this done through the usage of rituals.
+The most powerful weapons in the Switchboard are [[On Weave and Warfare#The Relics of New|relics]]; weapons that have had their mundane properties enhanced as well as new ones conferred upon them through calcic enhancement. While relics can be found naturally in the Switchboard (often encased as the final plunder in Vaults), most wielders of relics crafted them themselves, and this done through the usage of rituals.
 
 The most infamous of these of course being the **Modular Offensives Division**'s ritual, developed under the authority of the Academy's **CARP** - Collaborative Artificial Rituals Project. The continually iterated-upon MOD ritual serves as a powerful, highly configurable baseplate for Striders and Weavers crafting a relic-weapon for themselves. Of particular utility is the ability to create **weapon abilities**.
 
@@ -574,7 +625,7 @@ Ultimately, the winner is who ever can reconcile all the variables and compute a
 
 Generally, Striders choose to fight with a mix of fairly current and past weaponry; Striders carry 'conventional' firearms and then are usually skilled in combat with one martial weapon, or in unarmed combat. Naturally, these implements are granted enhanced potential via calcic modifications such as rituals; ranged weapons shoot truer and don't jam, bladed weapons keep their edge and cut cleaner. Far more advanced modifications come down to individual Striders' choices in how their choice of weapons mesh into how they fight; how weapons mesh with their power to weave, their teks, and additional powers such as titular powers or the Flash Protocol.
 
-The particular fighting style of gun + melee weapon was majorly popularized by the Academy's Operators, who often patrolled with longswords and revolver-style firearms, both granted considerable power by the [[The Relics of New#The Collaborative Artificial Rituals Project (CARP)|Modular Offensives Division's]] ritual schema. Most Operators built their combat styles around these two elements, as the versatility they offered was easily utilized by those creative enough and possessing the manners of thinking and weaving chalk necessary to become Operators. 
+The particular fighting style of gun + melee weapon was majorly popularized by the Academy's Operators, who often patrolled with longswords and revolver-style firearms, both granted considerable power by the [[On Weave and Warfare#The Collaborative Artificial Rituals Project (CARP)|Modular Offensives Division's]] ritual schema. Most Operators built their combat styles around these two elements, as the versatility they offered was easily utilized by those creative enough and possessing the manners of thinking and weaving chalk necessary to become Operators. 
 
 As a point on combat weaving, I decided to describe the actual process as it would actually be described in narrative. Weaving a construct generally begins with a 'cat's cradle' of ribbon chalk strung between the fingers, with which the Weaver would then twist and 'knit' the construct they seek together, using various patterns to achieve the desired results. During the process, they work in ribbon that contains the effects they want, such as in the making of woven grenades. Particularly skilled Weavers are able to simply use Linear Dynamism and command chalk to coil and weave itself into what they desire, wherever they need it, a skill that can be performed often with a single hand or even less, something very valuable in a fight. 
 
@@ -674,6 +725,8 @@ Negentropic damage is done primarily by Glass, though its effects can be somewha
 Damage that is done to a subject's **computational** Five Strait, inhibiting their ability to process and calculate. Damage to this line interferes with various calcic abilities, such as casting rituals, using Teks and performing complex weaves, as well as inhibits mental functions. Typically, this damage is inflicted by Chromelings controlled by Vault Minds, or Slates designed to attack the lattices of Striders in the vicinity, due to Slates' own ability to manipulate chalk. 
 
 #### Praxis/Meta Damage
+> Further reading can be found discussing [[The Blank-Slate Mind#The Praxis Protocol |the Praxis Protocol]] under the Blank-Slate Mind. 
+
 A form of damage that transcends the Switchboard's normal functioning, operating instead at the level where doctrine meets doctrine. Praxis damage done is inflicted not just against a target, but on the entirety of what they represent - quite literally an attack on their core principles which rebounds to others who share those principles. Praxis powers can oppose mundane ones by design; a praxis sword can never be blocked, and a praxis shield can never be pierced, except if opposed by other praxis phenomena. 
 
 Praxis damage is dealt and received constantly, occurring at minute and imperceptible levels as adherents of any principle prove the strength and veracity of one principle over the other. Only on rare occasions can praxis coalesce and swirl, coming to bear as a something levied against someone or something in the Switchboard. These moments reverberate through the Great Sky, and inscribe themselves into the history books for all time to come.
@@ -781,7 +834,7 @@ There is plenty of cross-arsenal interplay seen in how devices like chromegrafts
 
 > As a case study of how Teks are used in an arsenal, we can consider legendary Strider Adven Ventura and his **Trajectory Calculator** Tek, a modification Tek that allows him to draw parabolic slide rules and calculate the path of any freely moving object in space. His Trajectory Calculator allows him to ensure his **Priming Bolt** weave strike always strikes its target. His **Saboteur's Charge** and **Interceptor Flechette** also benefit from the additional accuracy granted to his throwing from calculating their paths, and the Interceptor Flechette in particular is wholly reliant on his Tek to function. His **Projectile Net** knit-shield uses his Tek to calculate where oncoming barrages of projectiles will strike, allowing him to only allocate as much thickness to the knit of his shield as needed, allowing for minimal chalk expenditure and unravel accumulation. Finally, his **Calculated Leap** allows for highly precise repositioning even through dangerous environments.
 
-### Auxiliary Powers
+### Auxiliary Powers (UNDER DEPRECATION)
 > Add as a subheading under Further Notes
 
 An odd-sock drawer of powers not following the mainline of powers available to a subject in the Switchboard. Individual powers under this section are graded according to tiers (that being, a tier one power here would be about as equal in damage potential and uptime to a mundane weapon) and typically operate off of internal, separate rules. Most are summarized below;
@@ -908,7 +961,7 @@ Chalkweaver
 		- Mundane
 		- Natural Relics
 			- Prime Relics
-		- Artificial Relics ([[The Relics of New]])
+		- Artificial Relics
 			- AAA-XXX
 			- AAA-XXX-F#
 			- AAA-XXX-F#YYY

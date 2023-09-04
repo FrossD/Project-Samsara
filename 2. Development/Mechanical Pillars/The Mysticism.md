@@ -76,3 +76,14 @@ This section discusses narrative; it is not final and subject to change.
 	One of the five Strider Starsailors was an immensely powerful Mystic, bearing the title of the 'Witch of Gates'. Her interpretation of 'gates' to 'authority' and the doctrine of it granted her the power to compel man and law alike to submit to her will.
 	
 	The power she wielded drew Striders to her, becoming the first truly organized faction of Mystics, which drew the concern of other Striders and the Grounded. The Witch's aims led to conflict, and en event simply known as the Mysticism, leading to a collapse of Strider society and the narrative backdrop to which the Post-Mysticism takes place.
+
+## Ripped From SlateMind 2.0: Strider Evolution
+	I will need the good doctor to comment further on this.
+
+At first glance, I feel Strider Evolution is already all that it needs to be. Initially it exists a means to justify the existence of the Mysticism, and outside of it, it doesn't have any real defined use other than as an axle for something in the future to hinge upon. 
+
+It can however be restated with new language, as done in [[The Mysticism]] under [[The Mysticism#Thinking 2.0 |Thinking 2.0]]; 'thinking' in Striders is a product of the computational line, and the computational line itself is made of chalk, and is hence subject to the same principles chalk is. And so while the computational line is what directs equations to fold chalk, the computational line itself can be subject to an equation that causes it to unfold and refold in a manner that allows new kinds of thinking, and the powers that result from it. This is the means by which Striders 'evolve', and was the cause of the Mysticism. 
+
+What I feel is the next issue to contend with it what prompts the computational line to fold. The old SlateMind doc described it as 'applying new thinking methodologies' - a phrase devoid of meaning, almost. It basically states that the ability to think in new ways can be achieved by... thinking in new ways. The Mysticism does better; refolding the computational line takes 'massive evolutionary jumps' or 'epiphanies'; something external that causes cascading monumental change. 
+
+Where we might see an opportunity for this concept to take root is in the Core; the seat of the Strider's being - the centralized placement of their doctrine. Doctrine guides and drives Striders, and so it follows that a change to doctrine results in a radical change to the Strider that grows from it. It still leaves us with further questions; does the change in doctrine alone facilitate the folding of the computational line, or must some new doctrine be adopted for the folding to take place? Can damage to the Core drive the change? These questions are narrative ones. 
