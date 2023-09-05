@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98d46fe946b2d0a7",
+  "active": "098afa6f7b7c84ee",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Mechanical Pillars/The Relics of New.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
