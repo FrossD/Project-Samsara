@@ -22,7 +22,7 @@ This checklist is copied to the design doc for each family. As the family is dev
 06. [ ] Individuals and Families
 07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals
-09. [ ] Taboos and Superstitions 
+09. [ ] Quirks
 
 **Strata Three**
 10. [ ] Naming and Language
@@ -132,7 +132,7 @@ Periodic practices with temporal triggers.
 - Symbolic body modifications, such as scarring, tattooing or piercing.
 - Annual holidays marking significant events.
 
-#### Taboos and Superstitions
+#### Quirks
 The various 'don'ts' that exist and their origins.
 - What are some taboos?
 	- Why are they seen as such?
@@ -349,7 +349,7 @@ Tracking progress on the doc.
 ### Individuals and Families
 ### Respect and Hierarchies
 ### Rituals and Periodicals
-### Taboos and Superstitions
+### Quirks
 
 ## Strata Three
 ### Naming and Language

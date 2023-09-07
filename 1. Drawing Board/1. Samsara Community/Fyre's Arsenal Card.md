@@ -29,7 +29,7 @@ Using the Samsara-analogue of Fyresworde as a character to inspire the concepts 
 			  The Plan C is holstered in an specially-engineered sheath that is mounted to the non-dominant arm. Tied to this sheath's engineering is a trigger that can be engaged by a single finger of the non-dominant hand. When engaged, renewable gas-firing mechanisms at the bottom of the sheath fire, launching the Plan C until it comes to a harsh stop at the end of the sheath, exposing inches of the weapon's blade. Any calcic attack that strikes the blade will complete a ritual in the blade's inner workings, and be summarily redirected.
 			- Utility (N/A)
 			- Feat
-			  **Apathy of the Sun-smitten** - Prax
+			  **Sun-smitten Apathy** - Prax
 			  Axle: Flashcharge, Relic Defensive | Gun-trigger Parry
 			  *"They asked how I could keep fighting. Now that I've told them, they've asked whether I'll know when to stop."*
 			  When a flashcharge is available, Gun-trigger Parry is upgraded into Apathy of the Sun-smitten. When an event is occurring in the vicinity in a manner that can be interpreted as 'occurring **to** the caster', the flashcharge can be expended to parry it a the doctrinal level, eliminating whatever effects it would have had on the caster. This power can be used to parry nearly anything, from the flashes of other Striders to the emotional response upon hearing bad news.

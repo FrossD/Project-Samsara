@@ -23,9 +23,7 @@ Works are paper drafted in the notebook, and then transferred here so they may b
 - [ ] Nuthin'
 
 - (nWB) **The Fel-Arcad**.
-	- Add the Simulspace to the Technologies section.
-	- Add rocketskates to the Technologies section.
-	- Psychitects are trained primarily among the Fel-Arcad; add this to the Education section.
+	- Pending.
 
 ### Ongoing Development
 Entries and docs here are actively under development, and just under transcribing they are the highest priority work in Samsara. 
@@ -52,14 +50,13 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 - (nWB) **The Formation of the Wheelhouse**: Under [[The Dawn of the Dancirah]]
 	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
 
-- (nWB) **Character Arsenals**: Under [[On Weave and Warfare]]
-	- ~~Rebuild the entire thing to be less Chalkweaver-centric.~~
-	- Work on the Auxiliary Powers subheading.
-		- ~~This is majorly dependent on the Doctrines rework.~~ Done.
-		- Auxiliary powers are T-X or T-'Aux' powers. These include relics, slates, chromgrafts, praxis powers and titular powers.
-
 - (pWB) **The Strider Protocol**: Under [[The Strider Protocol]];
 	- Just look at the damn thing. There's probably an issue in there somewhere.
+		- Not just an issue. The entire doc is a mess. Draft and rebuild accordingly.
+	- Reduce the philosophy stuff as that's been moved elsewhere. Focus more on the mechanics of it.
+
+- (pWB, nWB) **Praxis Cyclicality**: Under [[The Blank-Slate Mind]]
+	- Consider making the Cyclicality another praxis power, and move it under SlateMind.
 
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
@@ -72,8 +69,8 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 
 - (meta) **Amendment to Family Template**: Under [[FamTemplate]]
 	- 'Individuals and Families' and 'Respect and Hierarchies' are revised subheadings. Review the questions under each to add questions relevant to Individuals for the former, and societal hierarchies for the latter.
-	- Update the Family Template constructor that's in the family docs to the latest iteration.
 	- Revise 'Taboos and Superstitions' to 'Quirks'. Get ChatGPT to comment on that one.
+		- Update this constructor with relevant questions as well.
 
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'
@@ -81,17 +78,12 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 - (meta) **Vault-wide Rebuild of Text Formatting**
 	- A vault-wide rebuild of how text is formatted in the vault, using isolated tabs before text to show **my thoughts** and greater than indents to show **additional details or footnotes**.
 
-- (meta) **The Biomes Table**: Under [[The Skywards Pursuit]]
-	- I hate the damn thing so much.
-	- I hate the damn thing so much.
-	- Figure out a way to make it more readable without nearly crashing the doc whenever it's scrolled to. Check it for grammatical coherence too.
-	- I hate the damn thing so much.
-
 - (meta) **Pillar Deprecation**: Under various
 	- Contemplating moving [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
 		- After the SlateMind rebuild, I have no clue how this fits.
 		- And in all honestly, I don't know how Cyclicality fits with anything at all really.
 			- Personal doctrines?
+				- Personal doctrines.
 
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.
@@ -99,7 +91,7 @@ Ongoing work, but not as urgent, often due to subject matter or dependency upon 
 ### Expansion Sites
 Entries under here are either existing but fairly undeveloped documents, or existing, developed documents but have a bit further to go before they reach true conclusion, often because they hinge on various other works that need completion, or are simply currently in the spotlight of 'worldbuilding-creep'.
 
-#### Class Alpha - High Prority
+#### Class Alpha - High Priority
 - [ ] Nuthin'
 
 - (pWB) **Calcimistry**: Under [[Calcimistry]]
@@ -133,7 +125,7 @@ Entries under here are either existing but fairly undeveloped documents, or exis
 
 - (nWB) **The DevitNet's Netmasters**; Under [[Switchboard Technology]]
 	- The Fel-Arcad run the DevitNet on the digital side. While Sil'khan and Lancaster actors are usually the ones doing the physical onsite maintenance of anarhiza nexuses and data wells, the Fel-Arcad have fairly unchallenged dominion over the Net in the digital domain.
-	- The Netmasters - perhaps because the job selects for this kind of thing - happen to be varying kinds and levels of eccentric, interwoven with extreme senses of what the DevitNet should be, and a Machiavellian willingness to see it realized to their view.
+	- The **Netmasters** - perhaps because the job selects for this kind of thing - happen to be varying kinds and levels of eccentric, interwoven with extreme senses of what the DevitNet should be, and a Machiavellian willingness to see it realized to their view.
 	- This has resulted in wars.
 
 ### Synthesis Sites

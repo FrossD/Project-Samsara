@@ -19,7 +19,7 @@ Tracking progress on the doc.
 07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals (**Indev**)
      - Very incomplete; revisit for further drafting.
-09. [ ] Taboos and Superstitions 
+09. [ ] Quirks
 
 **Strata Three**
 10. [ ] Naming and Language
@@ -424,6 +424,8 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 
 - **Schools for arcological studies** - dubbed **Soleian Sanctums** - charged with raising new generations of Soleri, versed in the arts and sciences of founding, building and maintenance of arcologies. These Sanctums warn of immensely selective admissions, resulting often in lineages of Soleri born from fairly powerful Fel-Arcad families, making in difficult for those outside these circles to get in. Some do however on merit, through displaying uncanny talent for, and understanding off, the Soleri arts, leading even the most nepotistic of admission bodies to conclude that perhaps, the skills of the builder of the First Arcology lives on in others.
 
+> And as an appendum to the Soleian Sanctums, many graduate from learning how to build and modify arcologies - to doing the same but at the scale of entire worlds. The **Psychitects**, perhaps some of the Dancirah's categorically strongest chalkweavers, are some of the few trusted to interact with regional equations and sculpt regions as they see fit. Their orders are secret and their methods clandestine by design, these grandmasters of all things calcic let few attempt to prove themselves, and even fewer join their ranks. When needed, they are deployed to regionals to shape entire continents at the mathematical level, and just as they can turn a molten volcanic wasteland to lush forest, many psychitects have chosen to walk hated paths, scouring entire regions with wicked calculus.
+
 - **Institutions for training sembleworkers**, more properly called **Ateliers For Lattice Artistry and Artisanry** or simply **Ateliers**, **Lattice Ateliers** or **ALAAs**. These institutions are few and far between, run by guilds of lattice artists for training others in the works of crafting Semblances, as taught to them by ArcDanseer Nadira. Due to the subject matter, they are known for immense rigor in their instruction, and many are known to abandon their studies or be asked to leave the institution. Those who emerge successfully however, are widely sought after by Soleri for their own arcologies' Sembleworks.
 
 #### Strata Two - Factional Institutions
@@ -763,6 +765,23 @@ The completion of the physical structure of the arcology allows, finally, for en
 
 In nearly every arcology, a variety of tasks are handled by machine assistants. Engineered for this very purpose, the **Tenders** are a robotic swarm of various shape and function, working to handle the more mundane drudgery necessary to keep an arcology functional, ranging from waste disposal to maintenance to security. Fel-Arcad families within an arcology often have a permanent Tender assigned to them, serving as a household assistant. These Tenders differ from other machine imitations of life in that in place of a computational core guiding their functions, Mindspun are spawned and allowed to puppeteer machine forms. Coordination of the Tenders - and all of the various integrated systems in the arcology at large - are handled by the **Verdant Mind**, a purposed Mind created for the sole purpose of managing the arcology's vast array of functions as well as responding to structural issues as they come. The Verdant Mind is controlled by the Soleri, who tweak its functions as necessary, with the Verdant Mind being what truly convinces most of the arcologies being living beings. 
 
+#### Simulspace
+The Fel-Arcad Simulspace refers to the resultant of the combination of various other existing technologies and necessarily the integration of calcic weave into the whole mix. Inspired by the Depthstrider's **Deep Hollow** ability, the Fel-Arcad learned how to create contained, almost bubble-like environments using chalk and Slates, to primarily provide experiences similar to 'full dive virtual reality'.
+
+The Simulspace combines virtual reality and occasionally augmented reality with sensory simulation engineered by weave-capable Slates to create virtual experiences almost indistinguishable from the real thing. It sees implementation in various use cases, from military to artistic exhibits to medicine to entertainment.
+
+#### Rocketskates
+> The name works but I want to change it to something more distinct.
+
+The Fel-Arcad rocketskates have a long, storied history. Beginning as a means for outlaws and misfits to escape the searchlights and long arms of polite society, they graduated to become a staple sport among the normally non-physical Fel-Arcad. Evolving in tandem with the practice were the implements of its pursuits, and the modern rocketskate is a proud descendant of humbler things.
+
+The first iterations of what was a single node down the tech tree of the ordinary shoe were **replichrome-soled boots**, the metal programmed to feed on chalk and 'latch on' to nearby replichrome when enough force was applied. These boots allowed for running effortlessly up the walls and along the ceilings of arcologies, as the replichrome soles would latch on to the identically-replichrome surfaces like Velcro, coming loose with a stout pull. In the wake of this invention was a flourishing amateur parkour scene, and a spark in the minds of those who wondered how they might take these little inventions further.
+
+Simultaneously, the viability of a means to traverse the titanic hollow roots of mature arcologies faster than mere feet had already been established, and the first innovators in the field had begun to play around with **wheeled implementations** of the original replichrome-soled boots. With steep downward inclines or running starts on straits, they could easily outrun even markedly fleet-footed pursuers and more elementary pursuit drones. The next set of problems were immediately apparent however, as there were little ways to go upwards with these wheeled shoes. Gravity proved to be the final barrier to conquer, and it was smashed in a remarkable way.
+
+The final major innovation was the integration of **Jaunteer equations**. Originating first among the Sil'khan as a means to replicate the power of the Strider Protocol, they eventually found considerable use in the Switchboard's various spacefaring transport technologies. By folding chalk into velocity, they could produce the thrust needed to overcome all manners of natural forces such as gravity and drag. Integrated into these 'wheel skates', they reached their final form, becoming capable of conquering nearly any terrain and reaching ludicrous velocities.
+
+When the technology's foundation reached its nigh-apex, all further innovation took the form of side-upgrades and modifications made to meet new demands of the sport and practice. Slate-enabled Skates became more commonplace when the velocity floor for skating started approaching the limits of reaction times. When skating gained a combat component, boots upgraded to armored half-suits going up to thighs, allowing for various offensive measures and maneuvers. Particularly advanced iterations were capable almost of elementary flight - a form of 'air walking' that saw rocketskates escape the bounds of terrain and gravity entirely, and perhaps even their arcology homes, as they became a rare but emerging sight in the Switchboard, on the feet of Fel-Arcad who had learned to use them beyond merely outrunning the law.
 
 ### Food & Agriculture
 This is where we can really take a bit to talk about the arcologies of the Fel-Arcad. The arcology concept is one that seeks to challenge how we think about human habitations. It demands us to look at the various issues implicit in the 'city model' and proposes various solutions powered by science and technology as well as changes in behavioral patterns and our attitudes towards consumption. 

@@ -834,21 +834,49 @@ There is plenty of cross-arsenal interplay seen in how devices like chromegrafts
 
 > As a case study of how Teks are used in an arsenal, we can consider legendary Strider Adven Ventura and his **Trajectory Calculator** Tek, a modification Tek that allows him to draw parabolic slide rules and calculate the path of any freely moving object in space. His Trajectory Calculator allows him to ensure his **Priming Bolt** weave strike always strikes its target. His **Saboteur's Charge** and **Interceptor Flechette** also benefit from the additional accuracy granted to his throwing from calculating their paths, and the Interceptor Flechette in particular is wholly reliant on his Tek to function. His **Projectile Net** knit-shield uses his Tek to calculate where oncoming barrages of projectiles will strike, allowing him to only allocate as much thickness to the knit of his shield as needed, allowing for minimal chalk expenditure and unravel accumulation. Finally, his **Calculated Leap** allows for highly precise repositioning even through dangerous environments.
 
-### Auxiliary Powers (UNDER DEPRECATION)
+### TX/T-'Aux' - 'Auxiliary Powers' 
 > Add as a subheading under Further Notes
 
-An odd-sock drawer of powers not following the mainline of powers available to a subject in the Switchboard. Individual powers under this section are graded according to tiers (that being, a tier one power here would be about as equal in damage potential and uptime to a mundane weapon) and typically operate off of internal, separate rules. Most are summarized below;
+The auxiliary powers are additional powers in an actor's **arsenal card** that are derived from things independent of their own personal lattice. These are primarily **relics**, **chromegrafts**, **Slates** and **Teks**. 
 
-- Doctrinal Powers  
-	- A power granted as a product of a subject's doctrine or 'origin'. While these are sometimes 'active' abilities, mostly they are passive abilities that confer a general 'buff' or modify some existing power a subject already has. Doctrines are acquired from a variety of sources, most subjects getting their first based on the family of their birth, and acquiring more as they live and traverse the Switchboard.
-- Chromegraft Powers
-	- A power granted by a cybernetic or chromegraft woven into a subject's body. The sheer variety of what this can be can result in sweeping changes and boosts to a subject's combat potential, witch combat chromegrafts being anything from an ocular augment for spotting thin points in armor, to back-mounted missile racks capable of weaving missiles from latent chalk and firing them at targets.
-- Slate Powers
-	- An arsenal of powers granted over the digital by virtue of the subject possessing a Slate. Slates can hack chromegrafts, analyze deployed calcic constructs and devise countermeasures, and some are capable of far more esoteric function such as attacking a subject's Five Straits. Typically, they see extensive use as a support device, augmenting other abilities and providing information to the subject that may aid in decision-making during combat.
+All of these are 'added' to a character's arsenal after the fact, and thus have additional ways they are classified and their powers are broken down. **Chromegrafts** due to their very close integration to the local lattice of their bearer can in a sense be considered **abilities**. However, particularly advanced chromegrafts that go beyond conventional implantations can be considered **powers**. Slates are similar, in that they are closely integrated with the lattice of their bearer, and because of their function, are considered **casts**.
+
+Considering that they are sourced from something external, the actions granted by TXs are classed as **powers**.
+
+TX - Relic Action Set
+- Offensive
+- Defensive
+- Utility
+- Feat
+
+TX - Chromegraft 
+- As An Ability
+	- Offensive
+	- Defensive
+	- Utility
+- As A Power
+	- Overclock
+
+TX - Slate
+- Digital Offensive
+- Digital Defensive
+- Weft Mimicry
+- Directive
+
+> Slates are undergoing some revision.
+
+T3 - Teks
+- Offensive
+- Defensive
+- Utility
+- Burst
+
+Additionally under this category are the **Praxis Powers**. These are mostly passive powers that stem from the character's association with a particular doctrine. Actively-used Praxis Powers are often under the other categories, which are simply granted a praxis component to how they function. Purely praxis powers are under this category as a result.
+
+- Praxis Powers
+	  The result of faith, conviction or association with a doctrine. The bearer reaps doctrine-relevant boons through the collective reservoir of chalk created by all who share their belief in that doctrine. These boons are usually passive 'buffs' that round out an arsenal and add character to the subject in question. 
 - Titular Powers
-	- Powers granted as a result of a title obtained in the Switchboard, through continuous distinguished action and accumulation of infamy (more info in [[The Cyclicality of Names#Strider Titles and Titular Powers|titular powers]]). Most titular powers, by virtue of the difficulty of their acquisition, are tier four powers - about on par with the Flash Protocol. Similar to doctrinal powers, they are often passive abilities, but provide absolute immense power boosts to the subject possessing them.
-- Depth Arsenal
-	- Powers granted to Depthstriders and other dwellers in the Amaranth. Outlined in its entirety in [[The Void#Depthstrider Combat|Depthstrider Combat]]. 
+	  The result of evolutions in the doctrine of the self, that sees the arcane mechanics of the Switchboard and the mundane ones of its denizens combine to confer a subject with a title, and empower them by virtue of bearing it.
 
 ### pNarrat Concept: Character Arsenals
 A distinct character trait of Striders especially in the Switchboard is their desire for and active cultivation of notoriety and infamy. Striders actively pursue a name for themselves through any means possible, and one of the most effective means of doing so is the cultivation of an identity through consistent practice of recognizable, unique quirks. One such thing as this is the cultivation of **signature combat styles** that are unique to a Strider. Infamy is thus cultivated as that Strider fights using their signature techniques and as people see them do so.
@@ -975,7 +1003,7 @@ Chalkweaver
 			- Blast
 			- Grenade
 			- Imbue
-	- Shieldw
+	- Shield
 		- Forms
 			- Passive
 			- Active
