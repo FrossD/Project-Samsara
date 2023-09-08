@@ -54,9 +54,10 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 	- Just look at the damn thing. There's probably an issue in there somewhere.
 		- Not just an issue. The entire doc is a mess. Draft and rebuild accordingly.
 	- Reduce the philosophy stuff as that's been moved elsewhere. Focus more on the mechanics of it.
+	- [[SProt 2.0]]
 
-- (pWB, nWB) **Praxis Cyclicality**: Under [[The Blank-Slate Mind]]
-	- Consider making the Cyclicality another praxis power, and move it under SlateMind.
+- (pWB) **Doctrine of Passing**; Under [[The Doctrine of Passing]]
+	- A general lookover, as the doc is aged.
 
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
@@ -72,18 +73,20 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 	- Revise 'Taboos and Superstitions' to 'Quirks'. Get ChatGPT to comment on that one.
 		- Update this constructor with relevant questions as well.
 
+- (meta) **Ongoing Multifaceted Revisions**: Under various docs
+	- Move [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
+		- It's a thing with power through bearing personal doctrines, playing by those doctrines, succeeding with those doctrines, and others seeing you succeed with those doctrines.
+	- Move [[Strider Descendance]] and maybe even [[The Lattice as a Canvas]] into [[The Doctrine of Passing]].
+		- The Doctrine of Passing describes, perhaps, the general doctrine of living. Moving the means by which descendants are made in the Switchboard, and the primary doc outlining the various forms of self-expression made available to us, into this doc makes sense.
+
+
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'
 
 - (meta) **Vault-wide Rebuild of Text Formatting**
 	- A vault-wide rebuild of how text is formatted in the vault, using isolated tabs before text to show **my thoughts** and greater than indents to show **additional details or footnotes**.
 
-- (meta) **Pillar Deprecation**: Under various
-	- Contemplating moving [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
-		- After the SlateMind rebuild, I have no clue how this fits.
-		- And in all honestly, I don't know how Cyclicality fits with anything at all really.
-			- Personal doctrines?
-				- Personal doctrines.
+
 
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.

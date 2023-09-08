@@ -122,9 +122,14 @@ Though information is sent to the entire DevitNet, encryption systems are in pla
 
 While the Anarhiza does allow communication across the Switchboard, it is more correct to say that it allows communication anywhere the tree is present. Though the tree occurs naturally, occasionally Striders must go to far-flung areas of the Switchboard to plant new ones to link new settlements or establish relay stations, as well as maintain old trees to avoid parts of the network collapsing. 
 
-> The Switchboard's functionally internet-analogue is considerably similar to ours, but for the nontrivial difference that, for the most part, the entirety of the DevitNet is conducted on hardline cable. This hardline cable being the Anarhiza also means that the entirety of the DevitNet's digital space is a mirror of the Dancirah's geographical structure. The DevitNet is thus divided along lines similar to that of the Dancirah's, with cradles existing in the DevitNet that house collections of users. One of the consequences of this is that breaks in the hardline cabling can leave the corresponding geographical locale isolated from the rest of the DevitNet and thus the Switchboard, and cabling that needs to break for this to happen are usually fairly easy to locate through following the physical branch cables until they converge into large central arteries moving titanic amounts of information. Thus, maintenance of the DevitNet is a tireless, unending task, undertaken by coalition forces, primarily Sil'khan and Lancasters - especially when considering the sabotage of DevitNet infrastructure is a common tactic of Vault Minds and unscrupulous parties. 
+> The Switchboard's functionally internet-analogue is considerably similar to ours, but for the nontrivial difference that, for the most part, the entirety of the DevitNet is conducted on hardline cable. This hardline cable being the Anarhiza also means that the entirety of the DevitNet's digital space is a mirror of the Dancirah's geographical structure. 
+> The DevitNet is thus divided along lines similar to that of the Dancirah's, with cradles existing in the DevitNet that house collections of users. One of the consequences of this is that breaks in the hardline cabling can leave the corresponding geographical locale isolated from the rest of the DevitNet and thus the Switchboard, and cabling that needs to break for this to happen are usually fairly easy to locate through following the physical branch cables until they converge into large central arteries moving titanic amounts of information. 
+> Thus, maintenance of the DevitNet is a tireless, unending task, undertaken by coalition forces, primarily Sil'khan and Lancasters - especially when considering the sabotage of DevitNet infrastructure is a common tactic of Vault Minds and unscrupulous parties. 
 
 	In a truly hilarious twist - a juxtaposition if you will - Strider network administrators function more like gardeners than whatever image that title would conventionally invoke in the mind. 
+
+#### The DevitNet Netmasters
+
 
 ### The Slate
 	This one I have cherished. 

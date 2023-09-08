@@ -85,8 +85,6 @@ The Fel-Arcad - with their hyper-optimized living in the arcologies, constant in
 
 Both blessed and cursed by the Strider Protocol, the Sil'khan see the shortest lifespans of the bunch, driven mainly by the cultural significance the Strider Protocol holds to them. The Sil'khan live hard, burn bright and hot, and die soon, with many expecting to live only to about **40 or 50 processions** around the Astrolabe. Sil'khan do enjoy a quirk however; repeated drinking from the Wellspring cleanses their lattices of starblight and renews their strength, and similarly - but less so - to the Vahnkin, continuous drinking from the Wellsprings extends their lifespans. However, old Sil'khan are rare, and even with religious devotion to drinking from the Wellsprings, it is **rare still to see a Sil'khan living past 60.**
 
-
-
 ## pNarrat Concepts
 Discussion on a number of topics that directly tie into the nature of living in the Switchboard, particularly in how it will be realized in narrative. 
 
@@ -144,7 +142,6 @@ The resultant of the opposing philosophical vectors is a unified search for mean
 But the pressure created by fanatics and the easily-led on both sides create a considerable opposing force that demands compliance and living in line. To admit that a rival doctrine has merit is to weaken one's own, and so there is tangible incentive in preserving frigid dealings if not outright animosity with the other side. Institutions like the Academy need its Striders and Operators to remain ever steadfast, and institutions like the Ex-Strider Outreach Initiative only see success in a Switchboard where Strider manners of thinking are actively dissuaded. 
 
 And in this do we have the grounds for a praxis clash. The conflict of the Switchboard exists in constant rivalry between manners of living, in a bid to prove that one is philosophically superior to the other.
-
 
 ### pNarrat Concept: Acquiring Doctrine
 Doctrines in the Switchboard are guiding principles that sit in the **doctrinal core** of a lattice. They are the source of a subject's power, in a sense, and adherence to doctrine is done via playing by the 'rules' that it establishes.
