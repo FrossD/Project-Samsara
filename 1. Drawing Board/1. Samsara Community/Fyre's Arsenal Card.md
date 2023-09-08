@@ -1,10 +1,11 @@
-# Draft 1: Arsenal Card Live Example
+# Draft 1: Arsenal Cards Live Example
 Using the Samsara-analogue of Fyresworde as a character to inspire the concepts used for abilities and powers here.
 
+## Fyresworde
 - T1 - Relic Armaments
 	- Martial Arms
 		- **1530 Centigrade** - CINDER-031-F#DAYSTAR - Longsword
-		  *"I don't remember a time I didn't carry it."* 
+			  *"I don't remember a time I didn't carry it."* 
 		  (Description)
 			- Offensive
 			  **Echostrikes** - Cado, Induc
@@ -70,7 +71,7 @@ Using the Samsara-analogue of Fyresworde as a character to inspire the concepts 
 		  When the first conduit is opened, the subjects reserves of starfire begin depleting. Starfire accumulates passively so long as the subject is in the Dancirah, and accumulates more quickly based on nearness to stars of the Switchboard. Fully depleting the starfire reserves renders the Tek unusable. Slate integration allows for measuring and thus tracking the amount of starfire left, as well as additional functions such as electrical triggers for conduits and flow-rate monitoring. In the absence of this, the subject must rely on an internal sense of temperature; starfire keeps the body at well above normal levels, and a descent to below normal bodily temperatures is often the sign the starfire wells have run dry.
 		  
 		  When starfire is depleted, starfire flames in the environment can be **re-absorbed**, filling the starfire reservoirs with **ashflame**. This ashflame burns black and cold, and inflicts inductive and **siphon** damage on targets, depleting their chalk reserves. The presence of ashflame in the conduits prevents **passive** accumulation of starfire, however, and slows down the functions of the subject, reducing their combat prowess. Ashflame that burns chalk however, will gradually **transmute** back into starfire, which can be reabsorbed into the conduits and used again.
-			  
+			
 			- Offensive
 			  **Immolated Ground** - Induc
 			  *"They see you with a sword and think 'there's no way' and it catches them. Every time."*

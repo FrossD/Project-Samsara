@@ -934,47 +934,6 @@ A case study/example outline of a Character Arsenal using Adven Ventura.
 - Titular Power (Tier 3): **The Strider Sojourner**
 	  Ventura's notoriety earned by virtue of his ability to seemingly traverse the Switchboard under any conditions has empowered his Strider Protocol. Ventura is able to passively accumulate chalk mid-stride, and can no longer fall into the Void. This passive chalk accumulation allows for extending the distances he can stride, as well as replace momentum lost due to travel. 
 
-#### Example: Adven Ventura Current
-- T1 - Relic Armaments
-	- Marital Arm
-		- **Tritanium Longsword** (MOD-F'd)
-	- Firearm: 
-		- **Sojourner's Tale** (MOD-F'd | Primary)
-	- Tertiary:
-		- **Wheelstrider's Praxlance**
-	
-- T2 - Elementary Calcic (5 Charges)
-	- Charge
-		- **Interceptor Flechette** (Charge)
-		- **Saboteur's Salvo** (Grenade)
-	- Shield
-		- **Interceptor Net** (Active)
-		- **Rifleman's Shield** (Active)
-	- Dash
-		- **Calculated Leap**
-	
-- T3 - Advanced Calcic
-	- Tek
-		- **Trajectory Calculator**
-	- Qui
-		- **Hardpoint Calcic Rounds**
-		- **Unravelling Rounds**
-	
-- T3 - Relic Skillset (Axle: Sojourner's Tale) (3 Charges)
-	- Offensive
-		- **Compression Chamber** (Axle: Trajectory Calculator)
-	- Defensive
-		- **Fire For Fire** (Axle: Trajectory Calculator)
-	- Utility
-		- N/A
-	- Burst
-		- **Sidewinder Feed System** (Axle: Trajectory Calculator, Flash Protocol)
-	
-- T4 - Grand Calcic
-	- **Safe Passage**
-	
-- T5 - Flash Protocol
-	- **Full Circuit**
 
 #### Live Arsenal Card Draft
 ![[Fyre's Arsenal Card]]
