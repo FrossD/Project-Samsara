@@ -8,7 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d1693feaa055689",
+            "id": "bca1909721fabea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96c22dfc7d12fe30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +34,12 @@
             }
           },
           {
-            "id": "f618f6edef2dc0b3",
+            "id": "3ead8576da762b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,34 +189,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f618f6edef2dc0b3",
+  "active": "96c22dfc7d12fe30",
   "lastOpenFiles": [
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+    "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
+    "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+    "c4.md",
+    "3. Scribbling/pNarrat/TentativeConc..md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "3. Scribbling/Concept AV.pdf",
+    "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
-    "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
-    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
     "2. Development/Foundational Pillars/The Strider Protocol.md",
-    "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Early Switchboard.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
-    "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
     "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md",
     "2. Development/Mechanical Pillars/The Relics of New.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Foundational Pillars/The Axle of Axles.md",
     "2. Development/Workshop/WorkshopDocs/SlateMind3.md",
-    "2. Development/Foundational Pillars/SlateMind2DEPRECATED.md",
-    "2. Development/Workshop/WorkshopDocs/SlateMindDoctrinesRework.md",
-    "2. Development/Foundational Pillars/The Grand Mechanica.md",
-    "2. Development/Mechanical Pillars/The Mysticism.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",
@@ -214,7 +227,6 @@
     "3. Scribbling/6595C100",
     "3. Scribbling/17E3C100",
     "3. Scribbling/2AC3C100",
-    "3. Scribbling/ACA3C100",
-    "3. Scribbling/F342C100"
+    "3. Scribbling/ACA3C100"
   ]
 }

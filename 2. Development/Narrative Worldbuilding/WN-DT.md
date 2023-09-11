@@ -76,6 +76,7 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 - (meta) **Ongoing Multifaceted Revisions**: Under various docs
 	- Move [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
 		- It's a thing with power through bearing personal doctrines, playing by those doctrines, succeeding with those doctrines, and others seeing you succeed with those doctrines.
+			- Integrates with the Tapyr or tapestry thing.
 	- Move [[Strider Descendance]] and maybe even [[The Lattice as a Canvas]] into [[The Doctrine of Passing]].
 		- The Doctrine of Passing describes, perhaps, the general doctrine of living. Moving the means by which descendants are made in the Switchboard, and the primary doc outlining the various forms of self-expression made available to us, into this doc makes sense.
 

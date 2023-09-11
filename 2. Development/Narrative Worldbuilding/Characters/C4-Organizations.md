@@ -236,3 +236,18 @@ Remember that translations can sometimes carry nuanced differences in meaning, a
     - Signifying ships focused on cultural exchange and diplomacy.
     - Indicating a fleet that promotes collaboration and peaceful coexistence.
     - Highlighting ships dedicated to maintaining interstellar relations.
+
+
+## Wheelhouse
+Wheelhouse  
+- Formed by the Flayer, Eater, Sword, Path and Reveler  
+- Distinguished gathering of powerful Striders, a clique almost within the Academy  
+- Basically wrote the playbook on Striding, particularly through perfection of bubbleskating and other striding techniques  
+- Invented Quis  
+- Highest members are gifted the Regalia, a suit capable of both ceremonial and flight/combat forms. Regalia differentiates between Strider myths and Strider legends.  
+- Led by a/the Mechanic  
+- Led secondarily by Skydancer Apostolics  
+- Charges with the grandest of missions, particularly very hardy vaults  
+- Sil'khan pride  
+- Dedicated to cracking the hardest puzzles of the Switchboard  
+- Host the Games
