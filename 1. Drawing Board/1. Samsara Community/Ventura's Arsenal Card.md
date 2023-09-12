@@ -27,7 +27,7 @@
 			  
 			- Feat
 			  **Sidewinder Feed System**
-			  Axle: Flashchargew
+			  Axle: Flashcharge
 				  *"Adopt the language of the Academy; we do not 'defeat', we crush, and we do so with overwhelming force."*
 			  
 			  When the Sojourner's Tale is **holstered**, the wielder may invoke the power of the Mindspun Sidewinder, a mythic beast with fangs of chrome, and venom like mercury. When invoked, **all firearms are overclocked**, gaining a massive **boost to their firing speed** and a passive **unlimited supply of calcic ammunition**. This includes firearms the wielder has in hand, and **firing systems they can touch**, such as stationary turrets and cannons mounted to vehicles.

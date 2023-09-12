@@ -263,7 +263,7 @@ Perhaps the power that separates Depthstriders from others the most is their abi
 	Various boons granted to those who ask of the Void. Considering that what can be Given is only what is available, and what is available is all that has found its way into the Challenger Dark over the thousands of precessions that it has existed, what can be Given is nearly anything. Powers, skills, weapons, armor, information; anything a kin of Vahn may need, the Sultan generously bestows, and asking for these same things sees them become attuned to the one who is Given, allowing them to call upon their Gifts with regularity and greater strength, the Skews imparted on it being slanted in their favor.
 	
 - **Possessions from the Void**
-	Like the Gifts, but often, what can't be Given must be Taken. Depthstriders strong in will reach into the Dark and wrench from it their exact demands, inheriting boons from ancestor-kin and unfortunate victims long ago.
+	Like the Gifts, but often, what can't be Given must be Taken. Depthstriders strong in will reach into the Dark and wrench from it their exact demands, inheriting boons from ancestor-kin and unfortunate victims long ago. When pulled with the specificity of a directed mind, it
 	
 - **Draw Strike**
 	In communing with the Void, one sees their full minds focused on the depths. Opportunistic foes of Vahn's kin believe they can exploit these moments for lucky strikes, but find soon that anything pulled from the Void is followed - always - with more than just what was asked for.
