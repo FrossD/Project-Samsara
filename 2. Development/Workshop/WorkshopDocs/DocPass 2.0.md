@@ -2,7 +2,7 @@
 None in the Switchboard escape the truths of life and death. Though many have pursued means to break out of this cycle, none are known to have been truly successful. It is within this inescapable dealt hand that one must find meaning in being; to live, rather than merely exist. All in the Switchboard have given it various names, but they describe the same thing; the nature of Passing - of moving from one thing to the next.
 
 ## Scope
-The scope of this document are mechanical and philosophical, as they are intertwined with each other. Additionally, it touches on some topics relating birth and descendance in the Switchboard, as well as further talk on 'being' in the Switchboard, regarding manners of bodily expression.
+The scope of this document are mechanical and philosophical, as they are intertwined with each other, speaking primarily on 'being' in the Switchboard, regarding the nature of lives.
 
 ## The Current
 When living things in the Switchboard die, or more particularly entities with **memory straits**, their lattice unspools into pattern and ribbon, losing its many collective functions. This chalk returns to the Switchboard, may it may dissociate further into dust chalk and become latent in the environment, or joining more chalk and deposit as crystals in a Wellspring, or be lost to flux storm and become stardrip in the Void, or be obliterated by violent randomness from a law star. 
@@ -104,10 +104,7 @@ But the pressure created by fanatics and the easily-led on both sides create a c
 
 And in this do we have the grounds for a praxis clash. The conflict of the Switchboard exists in constant rivalry between manners of living, in a bid to prove that one is philosophically superior to the other.
 
-## On Birthing and Being
-Twin sections that talk on two major topics related to the Passing; one on being born in the Switchboard, and the other being a bit of - primarily Fel-Arcad but not exclusively so - philosophy regarding the nature of lattices, particularly bodies.
 
-## On Descendance
-Chalk has had a tangible effect on the means of descendance in the Switchboard.
+
 
 

@@ -18,9 +18,7 @@ The Malleability of the Lattice has led Striders to pursue all manners of functi
 
 Modifications take a natural next step in the fabrication of 'grafts' - additional weaves designed to be compatible with the weave of a Strider, allowing them to be attached to the body and assimilate into the rest of their lattice. These can be additional parts such as horns, wings, a tail, or reworks of the skeletal plan; introducing additional joints or new limbs entirely. Production of these parts is done by sampling the weave pattern of a Strider's own lattice, and spinning these new grafts on 'looms' from chalk ribbons - or in some cases - forming them using formative rituals. 
 
-	Because these modifications are now baked into the lattice of a Strider, there is a non-zero chance that they become qualities passed down to descendants through the Conjugation. It often results in some Strider families having identifiable shared characteristics that define them.
-
-	This is definitely a noteworthy plot-point concerning the Fel-Arcad, to be elaborated upon in their document when eventually created. 
+> Because these modifications are now baked into the lattice of a Strider, there is a non-zero chance that they become qualities passed down to descendants through the Conjugation. It often results in some Strider families having identifiable shared characteristics that define them.
 
 ## Chrome
 'Chrome' in the Switchboard is a term for cybernetics; grafts that are more closely machine in their make and behavior. They make up the more function-oriented aspect of the Malleability, Striders choosing them to enhance abilities and provide new ones.

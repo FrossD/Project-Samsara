@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "96c22dfc7d12fe30",
+            "id": "a190166a2eab4f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "76369a58159c336d",
+            "id": "96c22dfc7d12fe30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
+                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "c652d1e1b09c423c",
+            "id": "76369a58159c336d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md"
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,12 +216,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96c22dfc7d12fe30",
+  "active": "76369a58159c336d",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
     "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
     "3. Scribbling/pNarrat/TentativeConc..md",
@@ -230,7 +236,6 @@
     "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "c4.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "3. Scribbling/Concept AV.pdf",
     "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
@@ -239,11 +244,7 @@
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md",
-    "2. Development/Mechanical Pillars/The Relics of New.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "2. Development/Foundational Pillars/The Axle of Axles.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",
