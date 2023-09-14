@@ -7,11 +7,7 @@ The alpha of a document that will eventually expand to cover most of Strider's r
 - Hex's DMs: https://discord.com/channels/@me/886763578722500668/1046843099848134778
 
 **Post-Hex Discussion**
-- Not personally morally responsible for what characters due with the Ritual of Conjoining, but rather only responsible if I do not condemns this somewhat, to an extent.
-- Biology is complicated enough that narratively, there's plenty of room for the shadowy-cloud of 'It just works like that!'.
-- A prong of eugenics is classification of traits into positive and negative. Some are easily determined to be negative (like sickle cell), while some are *considered* to be negative (such as being queer) due to...
-- The social rules that exist. The point of 'securing a most viable future for a descendant by giving them the Strider Protocol' stems entirely from the societal deification of Striders. 
-- Narratively, the argument made against eugenics and genetic modification (for maybe superficial reasons) has to be the insistence on life being completely livable - or even better lived - without the Strider Protocol. This links well into developing a 'Philosophy of the Grounded'; what is it like for non-Striders in the Switchboard?
+
 
 ## Methods
 Two methods exist for Striders to produce descendants; the regular method of intercourse and chalk-derivative method known as the '**Ritual of Conjugation**'.

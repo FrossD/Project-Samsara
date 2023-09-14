@@ -10,7 +10,7 @@ To begin the drafting of this doc, I needed first to see what categories of tech
 - Transportation Technology
 - Medical & Pharmacological Technology
 
-Of these, in this doc, I chose to focus on ICT, transport and medical as the ways those would be different in the Switchboard were immediately apparent to me. Electrical and energy generation, mechanical and manufacturing - narratively they didn't seem to be immediately relevant to the canon, other than for those who are immensely anal about worldbuilding. This is a camp I absolutely occupy of course, but they also fit in the camp where explanations for them would effectively be 'we do this, but with *chalk*', repeated over and over for a hundred different things. 
+Of these, in this doc, I chose to focus on ICT, transport and medical as the ways those would be different in the Switchboard were i**mmediately apparent to me. Electrical and energy generation, mechanical and manufacturing - narratively they didn't seem to be immediately relevant to the canon, other than for those who are immensely anal about worldbuilding. This is a camp I absolutely occupy of course, but they also fit in the camp where explanations for them would effectively be 'we do this, but with *chalk*', repeated over and over for a hundred different things. 
 
 Is it really of immense relevance how fast moving consumer goods are manufactured in the Switchboard? Or how homes are powered? Or rather, are these questions who's answers are so incredibly farfetched they need thrashing in entire documents? I think not; I think that when needed, they will be explained, but as of now there is little need.
 

@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "76369a58159c336d",
+            "id": "368cabbb8f24c7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "473c86dda9461620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md"
+                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md"
               }
             }
           },
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,21 +229,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76369a58159c336d",
+  "active": "96c22dfc7d12fe30",
   "lastOpenFiles": [
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
+    "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
+    "1. Drawing Board/1. Samsara Community/LatCanvasHex.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
     "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
-    "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
     "3. Scribbling/pNarrat/TentativeConc..md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
@@ -238,13 +253,11 @@
     "c4.md",
     "3. Scribbling/Concept AV.pdf",
     "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Early Switchboard.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",

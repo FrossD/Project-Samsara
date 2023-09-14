@@ -1,8 +1,8 @@
-## On Birthing and Being
+# On Birthing and Being
 Twin sections that talk on two major topics related to the Passing; one on being born in the Switchboard, and the other being a bit of - primarily Fel-Arcad but not exclusively so - philosophy regarding the nature of lattices, particularly bodies.
 
 ## On Descendance
-> Section.
+This section discusses the mechanics behind the emergence of living beings in the Switchboard, narrowed down specifically to the Third Kin, or 'humans'.
 
 ### The Ritual of Conjugation
 Chalk has had a tangible effect on the means of descendance in the Switchboard, particularly as regarding methods. Two methods exist for Striders to produce descendants; the regular method of intercourse and chalk-derivative method known as the '**Ritual of Conjugation**'.
@@ -55,8 +55,45 @@ As beings are conceived in the Switchboard, their calcic conjugate pulls from th
 ### The Black Hands
 > Controlled External Influence section.
 
+One of the unintentional results of the ritual of conjugation being a process subject to calcic mechanics is that there is a level of external control that can be exerted by parties on the growing chalk conjugate, to skew he results or induce certain changes that they desire. The reasons why one might do this vary.
 
+A Strider obsessed with legacy may skew the conjugate such that their descendants almost certainly inherit one or many of their powers and the like. They may work to ensure their descendants inherit protocols they might bear, skills they posses, their Teks, in an effort to ensure that their progeny start their life in the Switchboard on a strong foot, predisposed almost to going far and becoming mighty.
 
+Some are more superficial however, with some seeking to perfectly craft and shape the appearance of their descendants, going to extreme lengths to curb the randomness of the selection of traits from the donor ribbons, aiming to obtain full control of the process. Particularly, some families in the Switchboard may be obsessed with the cultivation of certain physical, though mainly aesthetic, traits that serve as identifiers for that family, and unifiers between members of it. It is often the case that ancestors in the Switchboard may seek to create progeny in their own image, or some other idealized image.
 
-## On Being True
-[[The Lattice as a Canvas]]
+And as a final, unsavory note, there are more than a few that may work to curb the descent of certain characteristics deemed 'unfavorable', in a practice that is nigh indistinguishable from eugenics. It goes without saying that this has been used to tailor lineages based on prejudices.
+
+It calls into question the narrative quirks of this. One is feasibility, the other is consequences.
+
+The question that needs asking is a narrative one; should denizens of the Switchboard even be capable of interfering on a whim with the conjugation process? My answer is yes, as it gives me more tools as the creator of the narrative. That said - as with anything - I can implement rules that alter the perception of such actions and the contexts they take place in.
+
+For one, the sheer amount and complexity of the woven chalk contained within the Five Straits and subsequently the donor conjugal ribbon means that finding and extracting a desirable trait is a strenuous exercise in fishing through very many haystacks in search of needles. The sheer tediousness of the task at the very onset, as well as the calcic difficulty of this task requiring immensely fine control and general proficiency with chalk and weaving, is mostly enough to dissuade casual contemplators of taking their hands to the conjugate. 
+
+The narrative consequence of this is two fold; one, it explains and thus dismisses the idea that nearly everyone in the Switchboard would be working to shape the conjugate of their progeny when presented with the benefits of doing so, as doing so *properly* is immensely difficult. Two, it thus illustrates the sheer perverse dedication of those who go through with it anyway.
+
+Perhaps the second barrier of difficulty is that of modifying the conjugate itself. The conjugate and the entire ritual of conjugation can already be viewed as bottled chaos, yet bearing the ability to realize order. A tornado passes through a junkyard and leaves behind a fully-assembled, completely functional starship; that is the ritual of conjugation. To then attempt to throw a pane of glass into it and hope it winds up as a west-facing window is the height of wishful thinking.
+
+Notwithstanding, and as with everything, there are those driven to work around these constraints, aiming to bring elements of achievability within otherwise crushingly unfavorable odds. Modified schema for the ritual of conjugation, specialized incubators and devices, certain Teks and rare relics, all of these things have been concocted as means to wrench control from random mathematics and place it in the hands of the Machiavellian. Failure is reduced; successful modified conjugates are indeed produced, but success is not certain, and the price of failure isn't negligible.
+
+Conjugates that have been tampered with beyond what their inherent self-correction mechanisms are able to fix often just collapse. The chalk becomes unstable, the ritual fails to sustain itself, and it explodes rather unceremoniously into dust chalk and discordant weave. This is, in fact, the best case scenario, as occasionally a conjugate can be tampered with in manners that damage it and continue to grow all the same. It can even fully form into progeny. But the wounds from tampering are still present. Some don't live very long, their lattices failing and the descendant buckling under the collapse of their calcic substructure. Some don't suffer such a fate so early, but the damage follows them well into their lives, emerging in various ways with considerable consequences.
+
+And some conjugates are tampered with, damaged, but proceed with growing nonetheless. But when the time to produce progeny arises, something else is formed. Something warped and perverted, shaped by the desires of those who sought to exert control on things beyond their total understanding. And they may be compelled to pay for such hubris, chalk given for chalk.
+
+### Final Notes & Material
+**'Study Material'**
+- The discussion with Aurore: https://discord.com/channels/853747118883995688/854411008004194314/1039865957155360768
+- The discussion with Hex: https://discord.com/channels/@me/886763578722500668/1046843099848134778
+
+**Post-Hex Discussion**
+- Not personally morally responsible for what characters due with the Ritual of Conjoining, but rather only responsible if I do not condemns this somewhat, to an extent.
+- Biology is complicated enough that narratively, there's plenty of room for the shadowy-cloud of 'It just works like that!'.
+- A prong of eugenics is classification of traits into positive and negative. Some are easily determined to be negative (like sickle cell), while some are *considered* to be negative (such as being queer) due to...
+- The social rules that exist. The point of 'securing a most viable future for a descendant by giving them the Strider Protocol' stems entirely from the societal deification of Striders. 
+- Narratively, the argument made against eugenics and genetic modification (for maybe superficial reasons) has to be the insistence on life being completely livable - or even better lived - without the Strider Protocol. This links well into developing a 'Philosophy of the Grounded'; what is it like for non-Striders in the Switchboard?
+
+## On Shape
+This section discusses a 'new doctrine of shape', a manner of looking at the self as malleable in a manner not previously considered; the body being a canvas for expression of the self.
+
+### The Lattice as a Canvas
+Chalk and its nature of ribbons and weaving have allowed for an expansion of what it means to 'be' in a physical sense. Chalk allows for the realization of a more desirable, more ideal, physical form - made possible by the malleability of the chalk lattice; its ability to be reshaped by the whims of a Strider. This is the Lattice as a Canvas; the self as both the loom that spins the cloth, and the outfit it will wear.
+
