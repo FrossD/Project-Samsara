@@ -47,38 +47,12 @@
             }
           },
           {
-            "id": "96c22dfc7d12fe30",
+            "id": "c5e42195a847d93e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "368cabbb8f24c7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "473c86dda9461620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -138,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -155,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md"
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md"
               }
             }
           },
@@ -165,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,25 +202,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96c22dfc7d12fe30",
+  "active": "3ead8576da762b47",
   "lastOpenFiles": [
+    "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
-    "2. Development/Workshop/WorkshopDocs/On Birthing and Being.md",
-    "1. Drawing Board/1. Samsara Community/LatCanvasHex.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Mechanical Pillars/The Void.md",
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Voice in Flowers.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "1. Drawing Board/1. Samsara Community/LatCanvasHex.md",
     "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
     "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
     "3. Scribbling/pNarrat/TentativeConc..md",
     "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "c4.md",
@@ -255,9 +231,6 @@
     "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Early Switchboard.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
-    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
-    "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",

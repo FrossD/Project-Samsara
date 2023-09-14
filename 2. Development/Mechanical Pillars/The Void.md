@@ -35,7 +35,7 @@ However, if information produces density which produces curvature, then it follo
 
 	The problem now is what negative information even is, in-universe.
 
-Those who lack the Strider Protocol are able to learn Depthstriding. Unlike the Strider Protocol which is [[Strider Descendance#Descendance of the SProt |hereditary]], the Depthstride can be taught, and learning to conjure negative information and manipulate spatial curvature grants access to the rest of the powers available to wielders of the Void. Learning the Depthstride - however - 'locks' you out of using calcic or chalk-based powers, such as the Weave Protocol, Teks and Rituals. 
+Those who lack the Strider Protocol are able to learn Depthstriding. Unlike the Strider Protocol which is [[On Birthing and Being#Hereditary Protocols|hereditary]], the Depthstride can be taught, and learning to conjure negative information and manipulate spatial curvature grants access to the rest of the powers available to wielders of the Void. Learning the Depthstride - however - 'locks' you out of using calcic or chalk-based powers, such as the Weave Protocol, Teks and Rituals. 
 
 	That said, mechanisms exist to allow an amount of overlap between Chalk and Depth Striders. Chalkstriders can use some of the unique horticulture found in the Challenger Dark for their rituals, while Depthstriders can wield chalk-reliant implements such as relic and Slates, though with expectedly reduced proficiency.
 

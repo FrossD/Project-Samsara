@@ -27,7 +27,7 @@ Development of the EPITs for the Switchboard then, is fairly simple. We will def
 
 ## The Switchboard's Threats
 ### The Mindspun
-The Mindspun are [[The Lattice as a Canvas#Emergent Minds|Emergent Minds]] born from chalk and taking on vessels with which to interact with the wider Switchboard. While 'Mindspun' is an umbrella term for various forms of elementary, primal thinking chalk, the 'Mindspun' as it is most commonly used refers to a category of Switchboard fauna often violent to dwellers in the Switchboard, possessing abilities that are somewhat psychic in practice.
+The Mindspun are [[On Birthing and Being#Emergent Minds|Emergent Minds]] born from chalk and taking on vessels with which to interact with the wider Switchboard. While 'Mindspun' is an umbrella term for various forms of elementary, primal thinking chalk, the 'Mindspun' as it is most commonly used refers to a category of Switchboard fauna often violent to dwellers in the Switchboard, possessing abilities that are somewhat psychic in practice.
 
 Taking the form of their vessel, they are thus capable of adopting nearly any form they so choose, functioning almost as 'ghosts' in their ability to possess inanimate objects, bestowing them with animation and manipulating them as they so choose. They are theorized to be the precursors to the highly intelligent and specialized '[[The Skywards Pursuit#^54f43b|vault minds]]' that serve as the sentinels guarding the vaults of the Switchboard.
 

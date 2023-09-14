@@ -77,8 +77,7 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 	- Move [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
 		- It's a thing with power through bearing personal doctrines, playing by those doctrines, succeeding with those doctrines, and others seeing you succeed with those doctrines.
 			- Integrates with the Tapyr or tapestry thing.
-	- Move [[Strider Descendance]] and maybe even [[The Lattice as a Canvas]] into [[The Doctrine of Passing]].
-		- The Doctrine of Passing describes, perhaps, the general doctrine of living. Moving the means by which descendants are made in the Switchboard, and the primary doc outlining the various forms of self-expression made available to us, into this doc makes sense.
+	- The Doctrine of Passing describes, perhaps, the general doctrine of living. Moving the means by which descendants are made in the Switchboard, and the primary doc outlining the various forms of self-expression made available to us, into this doc makes sense.
 
 
 #### Class Beta - Reduced Priority
@@ -207,7 +206,7 @@ Thoughts and new concepts to incorporate into the Samsara canon. While thoughts 
 
 - **Russel Walls** has a crew of people that support his ideals.
 
-- **Russel Walls** plot point related to [[The Lattice as a Canvas]]; in his quest to become the Strider Exalted, he seeks to become More using the doctrine of Subjugation, which entails the replacement of lattice with 'higher' chalk, be it chrome or something above that.
+- **Russel Walls** plot point related to The Lattice as a Canvas; in his quest to become the Strider Exalted, he seeks to become More using the doctrine of Subjugation, which entails the replacement of lattice with 'higher' chalk, be it chrome or something above that.
 
 - **New Valkyjria 2.0**; Draft a new model of the city centered around the bi-furcated model; the Fel-Arcad arcology in the more temperate north, and the actual city in the desert south.
 	- Southern Desert Zone (SDZ) and the Northern Arcadia Zone (NAZ).

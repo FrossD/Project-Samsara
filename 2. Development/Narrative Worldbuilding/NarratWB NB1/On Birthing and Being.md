@@ -97,3 +97,49 @@ This section discusses a 'new doctrine of shape', a manner of looking at the sel
 ### The Lattice as a Canvas
 Chalk and its nature of ribbons and weaving have allowed for an expansion of what it means to 'be' in a physical sense. Chalk allows for the realization of a more desirable, more ideal, physical form - made possible by the malleability of the chalk lattice; its ability to be reshaped by the whims of a Strider. This is the Lattice as a Canvas; the self as both the loom that spins the cloth, and the outfit it will wear.
 
+One of the foundational principles for the Lattice as a Canvas, from a mechanical standpoint in particular, is how one of the ramifications of chalk and information tangibility is allowing for playing fast and loose with the natural sciences. By substituting the 'hard' sciences - in this case biology - and their complex-at-best, nigh-unknowable-at-worst mechanics - with that of chalk allows for the entire affair to be made more doable, more tactile, more malleable at the elementary level. Chalk allows for what could be described as root-level access to the core mechanics of certain phenomena, and by allowing a means for persons in the Switchboard to access the previously-locked maintenance hatches of various phenomena, it allows them for all-new kinds of manipulation and expansion upon them; the baseline put in place by old systems able to be taken to new heights by those who feel so inclined. 
+
+In the LatCanvas, this principle is applied to the body. With all beings in the Switchboard bearing bodies - lattices - of chalk, they serve as a suitable grounds for expanding upon *with* chalk. They become media - canvases - for all the imagination can conceive of, allowing for a highly-developed school of though regarding **bodily modifications**.
+
+### Malleability of the Lattice
+One of the natures of chalk is its power to bring amorphous concepts into clarity and distant ones into reach. It cuts out the middleman that is the rigid natural sciences, simplifying the rules they play by, bringing the microscopic into larger focus, the complex into simpler terms, and allowing all things subject to it to additionally be subject to a sort of 'tactility'; the ability for it to be touched. The result of this is that perfect conduction of the will, formed by imagination, can be carried out. Chalk allows for the realization of desire, bypassing even what is seen as hard rules and mechanics.
+
+We see this particularly in the [[On Weave and Warfare#The Theory of Damage|Theory of Damage]], which discusses the means by which injury and damage is dealt and sustained in the Switchboard. Under natural processes, cutting off an arm involves immense damage to flesh, bone, muscle and tissue. Under chalk, it can be better likened to violently ripping the sleeves from a shirt, snapping the stitches that held it there. Restoration of these stitches - repairing the lattice - is the method by which you'd restore the detached arm, an exercise that's fairly easy to do under chalk. Not so under the natural methods, where vessel must meet vessel, nerve connect to nerve, bone be made to articulate with bone - all things that are gambles in their likeliness to work.
+
+It follows then, that if repairing something lost is as simple as stitching torn cloth back together, then it shouldn't be beyond conception that adding new things not initially present wouldn't be so terribly difficult. This malleability of the lattice, this ability to change the physical self - and easily too - is the crux of the Lattice as a Canvas.
+
+### Fabric from the Body-Loom
+The malleability of the lattice has led denizens of the Switchboard to pursue all manners of functional and aesthetic modifications to their persons, as they see fit. Most common are aesthetic changes, often of the color variety. Changes to eye and hair color, changes to skin color either localized to certain regions or a re-pigmentation of the entire surface. After that is usually facial modifications; changes to the shapes of the eyes, nose, mouth, modifications to the teeth, alteration of bone structure and the like. 
+
+Modifications take a natural next step in the fabrication of 'grafts' - additional weaves designed to be compatible with the weave of a Strider, allowing them to be attached to the body and assimilate into the rest of their lattice. These can be additional parts such as horns, wings, a tail, or reworks of the skeletal plan; introducing additional joints or new limbs entirely. Production of these parts is done by sampling the weave pattern of a Strider's own lattice, and spinning these new grafts on 'looms' from chalk ribbons - or in some cases - forming them using formative rituals. 
+
+> Because these modifications are now baked into the lattice of a Strider, there is a non-zero chance that they become qualities passed down to descendants through the **Conjugation**. It often results in some Strider families having identifiable shared characteristics that define them.  Of course, descendants may elect to remove them.
+
+> This heading is elaborated upon in a later section.
+
+### Chrome
+'Chrome' in the Switchboard is a term for cybernetics; grafts that are more closely machine in their make and behavior. They make up the more function-oriented aspect of the malleability, interested parties choosing them to compensate for weaknesses, enhance currently-held abilities and provide new ones. They have come to be known as **chromegrafts**, referring to their property as grafts with a mechanical make.
+
+> This heading is elaborated upon in a later section.
+
+### A Novel Doctrine of Shape
+The Lattice as a Canvas allows for almost on-impulse change in the manner of being of those who find themselves interested in it. The malleability of the lattice allows for an expansion of what it means to 'be'. With the shape of being subject to the being itself, we may then ask ourselves what is the final frontier of the canvas? What is the final shape that can be conceived by a being?
+
+> I want to explore something in a video game - **Caves of Qud** - specifically an endgame locale known as [Chavvah, the Tree of Life](https://wiki.cavesofqud.com/wiki/Chavvah). Chavvah is a sentient tree-city populated by also sentient crystal leaf-entities that possess both an individualism in that they have names and selves, and a pluralism as a collective known as 'Chavvah'. By psychic links, each member of the collective of Chavvah communicate, and it is this link that is itself Chavvah; a conglomerate of many minds into one, or maybe a division of one mind into many, each individual entity merely some shard of the whole capable of existing on its own. 
+
+In which we ask ourselves, once again, what is the final shape that can be conceived as a being? What can be counted as a shape? Could some denizen of the Switchboard become - or ascend beyond - a body as we understand bodies? Or rather because the mechanics for doing so already exists, on what grounds do we forbid them from doing so? I feel there are none. That the malleability of the lattice allows for the existence of this concept in narrative if not an in-depth exploration of it.
+
+### The Masters of the Canvas
+The realization of all that the Lattice as a Canvas is is best realized by none other than the **Fel-Arcad**. It is a core precept of the Nadiran philosophy, as outlined in the **Lattice-Canvas** curlicue tome and exhibited in the Fel-Arcad's **Sembleworks**, the primary technology in the Switchboard that allows for modifying lattices.
+
+![[The Fel-Arcad#The Sembleworks]]
+
+## On Tangents
+Some tangentially related subject matter, that might find a new home elsewhere among the document stack.
+
+### Emergent Minds
+Derivative of the nature of [[The Hands as Chalk#Spontaneous Equations|spontaneous equations]], chalk occasionally folds itself - and via self correction mechanisms and selection - into elementary calcic intelligences. They cannot exist for very long without bodies (or 'vessels') and so they swiftly inhabit any nearby objects at the site of their formation.
+
+	These minds tend to emerge at locales of high calcic activity, particular noteworthy are areas where large amounts of chalk were used offensively, such as old battlefields, abandoned settlements, crash sites for ships etc. Typically, where there were once minds, emergent minds arise in their wake.
+
+An object or collection of objects are 'possessed' with the emergent mind to grant them a body, curiously knowing innately that they require limbs capable of manipulation and locomotion. Most noteworthy however, is their primal nature as beings that were once ordinary chalk not long before; they possess an ability to manipulate chalk ribbon and weave with startling proficiency, granting them abilities that could be seen as approaching 'psychic'.

@@ -740,7 +740,7 @@ Praxis damage is strange in the Switchboard, as praxis damage dealt or received 
 Praxis damage is thus dealt by a holder of one doctrine against a holder or another, and this results in a tipping of the scales in the attacker's favor relative to the sufferer of the blow. The tipping of a doctrine affects all who hold that doctrine, and while to individuals it manifests as an ultimately minute loss in raw strength, it does have tangible effect of doctrine-dependent abilities as well as the operation of that doctrine within the Switchboard and all that hinges upon it. Praxis damage dealt against the doctrine of an institution, for example, is a tangible weakening of that institution, in a manner that sees their actions less effective and their goals made harder to achieve.
 
 ### Combat Grafts
-> It is required that you have read [[The Lattice as a Canvas]] before this.
+> It is required that you have read [[On Birthing and Being#On Shape |The Lattice as a Canvas ]] before this.
 
 Striders may choose to get various grafts installed on their person that grant combat abilities, particularly in the case of chrome-based grafts. These grafts somewhat interface with a Strider's calcic powers, but generally they must be designed to do so. In some cases, the **Flash Protocol: Flashcharge** can be used to supercharge a graft. 
 
