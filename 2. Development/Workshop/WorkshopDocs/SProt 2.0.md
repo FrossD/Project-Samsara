@@ -75,11 +75,55 @@ With the Strider Protocol being an equation, it is thus stored in the computatio
 
 Once a Strider has launched, they begin decelerating fairly quickly, the decay curve showing a swift plummet in how fast they are moving. While this is the case, Striders can still cover considerable distance across the the Dancirah.
 
-Speaking on the relationship between velocity, distance and chalk accumulation, all Striders have a loosely-set **stride velocity** that is the fastest speed their stride is capable of, a speed that is held for moments after launch from rest. Accumulating more chalk doesn't allow for faster speed, but rather **preserving** the maximum speed of the stride velocity for longer before decay begins. The distance covered is thus a product of the chalk accumulated before launch. 
+Speaking on the relationship between velocity, distance and chalk accumulation, all Striders have a loosely-set **stride velocity** that is the fastest speed their stride is capable of, a speed that is held for moments after launch from rest. Accumulating more chalk doesn't allow for faster speed, but rather **preserving** the maximum speed of the stride velocity for longer before decay begins. The distance covered is thus a product of the chalk accumulated before launch. A Strider's effective **stride range** is dependent on their stride velocity and how much chalk they are able to accumulate. This determines their **maximum range**. Their **minimum range** is determined by how proficient a Strider is at deceleration and arrival maneuvers, elaborated upon later.
 
-### Before the Stride 3 - Distance Constraints
-### Before the Stride 2 - Launch Threshold
+### Before the Stride 4 - Distance Constraints
+Before even considering beginning striding, a Strider must deduce if the target destination is within the supposed '**goldilocks zone**' of their stride's range.
+
+The Strider Protocol accelerates Striders considerably close to lightspeed. While these ludicrous velocities are the crux of why the stride is so useful, it presents the additional issue of the kinds of distances a Strider is able to cover with the stride. The Strider Protocol is very well suited for long distances, because upon arrival at the destination, enough velocity would have decayed to allow for safe and precise landing. Over relatively short distances, the stride velocity doesn't begin decaying fast enough to allow shedding most of a Strider's speed before attempting touchdown on a destination. 
+
+The chalk that must be accumulated to overcome the **launch threshold** (elaborated upon further) is simultaneously enough to accelerate Striders to these immense velocities. Without possessing some of the highest skill-levels exhibited by Striders in the act, it is generally good sense to not attempt to stride relatively short distances.
+
+This is one of the two reasons that, despite the stride being vastly faster than all other forms of transport, they aren't rendered wholly obsolete. A Strider can easily go to another country by striding in the time it takes to go to another town normally, but it is impossible to use the stride to simply go down the street. Vehicles such as personal jumpships and titanic starships are there to resolve this quirk of the Strider Protocol.
+
+The **goldilocks zone** of a Strider's range is thus the stretch between the distance at which they can successfully begin executing arrival maneuvers, and the maximum range of their stride. Should a target fall into this range, it can be strode to with minimal difficulty, all other things being equal. 
+
+### Before the Stride 3 - Launch Threshold
+When it is determined that a target location is within the goldilocks zone, the next stage of preparing to stride can begin. This step is a delicate one, as it requires Striders to perform calculations to deduce how much chalk they must accumulate to provide enough velocity to reach their destination, accounting for - in this case - the **information mass** of everything they are carrying.
+
+All things in the Switchboard have an **information mass**, a mathematical expression of the 'mass' of a calcic existence, due to the amount and complexity of the chalk that comprises it. To stride, a Strider must accumulate enough chalk to overcome their own information mass, that being the mass of their own lattice. Conveniently, there is some wiggle room between the chalk needed to overcome their mass, and the chalk needed to reach their stride velocity.
+
+But this wiggle room is small. The information mass of a Strider is referred to as **primary overhead**. In most cases, this cannot realistically be changed in any real manner, with the exception of modifications that append directly to the lattice, such as grafts, chromegrafts and the like. Additionally, the memory line contributes to the primary overhead, meaning that older Striders - by virtue of having lived longer, experiencing more, and thus stored more things in their memory straits - must expend more chalk to reach their stride velocity, and have less room for the other class of overhead and additional cargo.
+
+**Secondary overhead** is a somewhat amorphous category, as it refers to things that can be left behind unlike primary overhead, but due to the kind or significance of subjects in question, are considered necessary to take along, only being abandoned when absolutely necessary. This refers to the various tools, weapons, kits, gadgets and odds and ends that Striders often find themselves compelled to carry. From jackets and hats to Slates and relic weapons, all of these things comprise the secondary overhead, adding to the total information mass that must be overcome. 
+
+When both primary and secondary overhead are accounted for, the final leeway left is what a Strider has available to carry as **cargo**, as it were. Should the Strider be too information-heavy, the chalk that must be accumulated to overcome the mass will also do non-trivial damage to the Strider in the process of attempting to store it. Overwrite is a concern as always, and it isn't an uncommon sight to see Striders trying to flirt with their limits left not knowing their names or where they are, that information overwritten by spillover random chalk in their lattices. 
+
+Thus, Striders must manage their secondary overhead and cargo. Abandoning kit such as a gadgets and weapons allows for ferrying disproportionately more cargo - as weapons and other such things tend to be more complex, chalk-dense and thus heavier than say, a box of letters - but it leaves the Strider vulnerable to all of the multifaceted horrors and dangers the Switchboard presents. Carrying a well-stocked kit keeps a Strider ready for anything the Great Sky is ready to throw at them, so long as that isn't a very large hard-disk to deliver to someone. 
+
+Striking this balance is what makes for a good Strider, with the choices made revealing the differences between Striders. Nomads travel light on secondary overhead, even more so if they are working towards avoiding combat, making them excellent at ferrying things around the Switchboard. Academy Operators for example, are weighty on the secondary overhead front, and thus often can't carry more beyond that.
+
+One of the more interesting ramifications of this is that Striders typically cannot take others with them as they Stride, the information mass of an entire other person being simply too much to overcome. For this reason, Academy Operators are almost necessarily exclusively Striders, as moving around swiftly requires each to run on their own feet. There are times though, when a Strider cannot stride and needs others to lean on. A general rule of thumb exists; two Striders travelling light can carry a third, three Striders can carry a fourth without sacrificing much.
+
+### Before the Stride 2 - Charting the Route
+With those two prior things determined, the next step is charting a route. The shortest distance between any two points is indeed a straight line, but there are very few straight lines across the Great Sky. The cosmic voyages made by Striders are subject to a litany of roadblocks and bumps and potholes along the way, and charting a suitable route through the chaos of inter-regional space is one of the many skills a Strider must cultivate. 
+
+This is more specifically known as **Wayfinding**, referring to both the practice and the body of knowledge surrounding finding and charting routes through the Great Sky. Wayfinding employs a variety of tools and skills, all working towards finding a route through the Switchboard to mostly safe stride through.
+
+> This sections is incomplete. This is primarily due to the fact;
+> - Wayfinding exists in a form in [[The Skywards Pursuit]].
+> - SkyPur might need a rewrite, or at least some revision.
+
+
 ### Before the Stride 1 - Initiate Fly
+The Initiate Fly isn't truly a necessary step in striding, but rather a holdover tradition from the days of the Danseers and their time spent traversing the Switchboard. Many of the practices they invented then persisted onwards into the hands of their descendants, and the Initiate Fly is one of them.
+
+Shalkarah Skydance, King of Roads, is said to be the one who watches over Striders as they set out on sojourns across the Switchboard. In a bid to fulfill some doctrine or belief, as it were, Striders adopt some gesture they perform right before Striding, as supplication to Shalkarah to watch over them as they Stride. This can be retying the shoelaces, or tapping the tip of the thumb along the other fingers, or orienting a bracelet to face downwards - all done with the intention that Shalkarah might see it, be made aware of his acknowledgement even in the present day, and thus confer boons upon those who practice striding even in his absence.
+
+For some, the Initiate Fly is less so a divine action and more a physiological one. An act is given meaning through repetition, and this repetition builds association. A Strider tying their shoelaces right before every stride has made it habit, and this in turn may induce a tangible mental and physical shift in their lattice, orienting themselves to perform the task at hand. 
+
+It is a gesture to enter 'striding mode', as it were, and for many, the Initiate Fly - most simply summarized - is a ritualistic gesture that induces focus; something very welcome before undertaking a space-crossing jump at near-light-speed.
+
 
 ### The Stride - Bubble-skating
 ### After the Stride - Arrival Maneuvers

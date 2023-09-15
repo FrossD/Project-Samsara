@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,10 +216,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5906f4232ee1c285",
+  "active": "5ea7145198905749",
   "lastOpenFiles": [
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
@@ -244,7 +245,6 @@
     "3. Scribbling/Concept AV.pdf",
     "1. Drawing Board/1. Samsara Community/Fyre's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Early Switchboard.md",
-    "2. Development/Workshop/Families/The Sil'khan.md",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",
     "3. Scribbling/657D3A00",
