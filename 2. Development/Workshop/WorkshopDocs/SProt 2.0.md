@@ -114,7 +114,6 @@ This is more specifically known as **Wayfinding**, referring to both the practic
 > - Wayfinding exists in a form in [[The Skywards Pursuit]].
 > - SkyPur might need a rewrite, or at least some revision.
 
-
 ### Before the Stride 1 - Initiate Fly
 The Initiate Fly isn't truly a necessary step in striding, but rather a holdover tradition from the days of the Danseers and their time spent traversing the Switchboard. Many of the practices they invented then persisted onwards into the hands of their descendants, and the Initiate Fly is one of them.
 
@@ -124,6 +123,21 @@ For some, the Initiate Fly is less so a divine action and more a physiological o
 
 It is a gesture to enter 'striding mode', as it were, and for many, the Initiate Fly - most simply summarized - is a ritualistic gesture that induces focus; something very welcome before undertaking a space-crossing jump at near-light-speed.
 
-
 ### The Stride - Bubble-skating
+One of the many quirks of the stride is that, once launched a trajectory, a Strider is unable to meaningfully alter that trajectory midflight. While skilled Striders are able to make minor adjustments midflight by flaring their velocity in a direction, vectors come into play, and the resultant of near-light-speed movement in one direction, and a slight nudge in another one, is nigh negligible. Considering that the path between origin and destination is often never a straight line, it raises the question of how Striders are meant to turn in flight.
+
+The answer to this is a striding technique known as **bubble-skating**. It functions by using the gravitational pull of celestial objects to divert the path of a Strider midflight. By charting a route before-hand, Striders can plan to hit certain objects in flight, be caught in their gravitational pulls, and use this to 'swing' around the body. By approaching with linear momentum, making a partial gravity-assisted revolution - converting linear momentum to angular - and then back to linear at the apex of the swing, they can launch away from the body on a new trajectory. 
+
+> This gravity-assisted 'sling-shot' is a technique that takes inspiration from real spacefaring craft, a good example being the Voyager 2 probe, which used gravity assists to visit planets Jupiter, Saturn, Uranus and Neptune. By planning its trajectory before hand and scheduling the launch based on where certain celestial bodies would be at the time Voyager reached them, it was able to harness their gravitational pulls to alter its trajectory.
+
+By performing this maneuver, Striders can 'skate' on the 'bubble' of gravitational pull exerted by various bodies, allowing them to change their trajectory. By performing this maneuver multiple times in succession, Striders can navigate even the densest sections of the star-wilds. From cradles to asteroid fields to stellar junkyards, there is no obstacle a Strider cannot weave through or past.
+
+Additionally, when skating on regions or Wellsprings, Striders are able - though briefly - to refuel on chalk and channel it into more velocity, allowing them to stride further. The skill required to open the interface straits to intake of chalk even as they are actively involved in spewing out velocity is nontrivial, however, and it is generally accepted among most who stride that it is best to load up on all the chalk you'll need for the trip at the very beginning, and not operate under the assumption or even certification there will be opportunities to refill along the way.
+
+### The Stride - Skydancing
+The Danseers were masters of the Strider Protocol; none had command over movement in space that surpassed them. But even among the Danseers there where those who had a seemingly prenatural grasp of movement, the resultant of mathematically-superior protocol equations, and an uncanny grasp of space in general. These were the Danseer **Skydancers**, and they distinguished themselves by displaying truly unrivalled dexterity in flight.
+
+The Stride as it is executed is flaring chalk as velocity, propelling the Strider forward. This flaring is usually done from the legs, allowing Striders to function as 'human rockets'. As this flaring is underway, it is fairly difficult - but not impossible - to flare velocity from other parts of the body, allowing for fine adjustment of trajectory midflight. The Skydancers distinguished themselves by overcoming this difficulty, and cultivating the skill of flaring velocity from any part of the body they choose. 
+
+
 ### After the Stride - Arrival Maneuvers
