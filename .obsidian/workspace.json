@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3ead8576da762b47",
+            "id": "44f7fce10e633e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a190166a2eab4f25",
+            "id": "5906f4232ee1c285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,25 @@
             }
           },
           {
-            "id": "c5e42195a847d93e",
+            "id": "b977f85c3404ff37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d99472b4d473b2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Foundational Pillars/The Hands as Chalk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -112,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md"
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md"
               }
             }
           },
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,29 +216,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ead8576da762b47",
+  "active": "5906f4232ee1c285",
   "lastOpenFiles": [
-    "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
     "2. Development/Mechanical Pillars/The Void.md",
     "2. Development/Narrative Worldbuilding/Cultural Pillars/The Voice in Flowers.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "1. Drawing Board/1. Samsara Community/LatCanvasHex.md",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
-    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
     "2. Development/Mechanical Pillars/The Cyclicality of Names.md",
     "3. Scribbling/pNarrat/TentativeConc..md",
     "1. Drawing Board/1. Samsara Community/Ventura's Arsenal Card.md",
-    "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "c4.md",
     "3. Scribbling/Concept AV.pdf",
