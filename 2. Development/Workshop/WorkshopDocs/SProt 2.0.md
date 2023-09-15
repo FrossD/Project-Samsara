@@ -139,5 +139,37 @@ The Danseers were masters of the Strider Protocol; none had command over movemen
 
 The Stride as it is executed is flaring chalk as velocity, propelling the Strider forward. This flaring is usually done from the legs, allowing Striders to function as 'human rockets'. As this flaring is underway, it is fairly difficult - but not impossible - to flare velocity from other parts of the body, allowing for fine adjustment of trajectory midflight. The Skydancers distinguished themselves by overcoming this difficulty, and cultivating the skill of flaring velocity from any part of the body they choose. 
 
+By flaring velocity from the arms and other parts of the body, and altering the rate of flaring from the legs, the Skydancers were able to alter their pitch and yaw midflight, and thus perform maneuvers such as banks and rolls. These maneuvers are often necessary to dodge obstacles during the stride, such as space junk, debris, unlucky spacecraft and the like. Given enough space, time and chalk in the tank, the Skydancers were able to perform Immelmann turns, Split-S maneuvers and Hammerhead turns, advanced movement techniques that allow for considerable changes in direction even when moving at the ludicrous velocities of the Strider Protocol.
+
+> **Immelmann**: An Immelmann turn is an aerial maneuver where the aircraft performs a half-loop followed by a half-roll to reverse its direction while gaining altitude.
+> 
+**Split-S**: The Split-S is a maneuver where the aircraft rolls upside down and then performs a half-loop to dive downward and change its direction.
+> 
+> **Hammerhead Turn (Stall Turn)**: In this maneuver, the aircraft climbs vertically until it loses forward airspeed and momentum, then executes a rapid pitch-down maneuver to reverse its direction.
+
+It is storied that one of the favored techniques of the Skydancer Shalkarah in flight was his **Gracesteps**. More technically known as a corkscrew roll, it involved a rapid succession of alterations to pitch and yaw to turn on three axis, granting him a surge of speed and presenting a much smaller, unpredictable target to hit, providing considerable utility during the Praxis Conflicts in the many battles fought in inter-regional space. It was how this technique appeared to those observing it while it was in use that earned the Skydancers their title.
+
+In the modern era, Striders train themselves in skydancing, in a bid to hone their skills as Striders, and for many, as a form of worship to the first bearers of the title.  
 
 ### After the Stride - Arrival Maneuvers
+Upon approaching the target destination, Striders must begin execution of the **arrival maneuvers**. These are a set of skills that allow Striders to transition from flight to descent, and then to safe landing on a target destination.
+
+By the time Striders approach their destination, they are often still moving at a non-trivial fraction of light-speed. Should they attempt to land at this speed, they will crash like a meteor on the surface of - say, a region. Because of this, Striders need to lose as much velocity as possible before attempting a descent to the region below.
+
+One such means of doing this, used by those who aren't particularly skilled at striding, is expending the rest of their velocity by going into highspeed orbit around the region while flaring chalk to counteract their forward momentum, inducing drag and slowing them down. When on the last dregs of their available velocity, they break from orbit and begin their descent, feet-first, flaring chalk as they do to begin a **retrograde burn**. With sufficiently-accurate calculations, even an unskilled Strider can expend the last of their available velocity right as they make touchdown on a region. 
+
+This is, however, how unskilled Striders do it. Those more versed in these affairs take different approaches.
+
+Striders with an appreciation for spectacle often begin their descent the moment they touch the outer edge of the region's atmosphere, and begin aggressively flaring their velocity as **heat**. This rapidly decelerates them and turns the Strider into a falling fireball, leaving a mighty trail behind them as they streak across the sky, then coming to a gentle landing below. Particular skilled Striders make doing this a habit, being able to land at an exact position down to the square meter, and doing so while shrouded in a fairly dramatic cloud of fog. 
+
+Another approach is entering a region and immediately beginning a retrograde burn, irrespective of how much velocity remains to be flared. Upon landing, all remain velocity is immediately flared as heat in a singular, massive expulsion akin to a bomb blast. Of course, this does considerable damage to everything in the vicinity, and thus it is used only when the landing zone is clear and isolated, or used when landing straight into a dangerous situation such as an ongoing battle. Many myths tell of Danseers making explosive arrivals to Praxis-era battlefields, clearing out swarms of Mind-commanded chromelings even before drawing a sword or firing a shot.
+
+Speaking on the combat applications, a Skydancer-level skill that doubles as an arrival maneuver is performing a **low altitude 'pass'** over a location, much like fighter planes. At sufficiently low speeds, Striders can equip weapons and make high-speed passes through a battlefield, firing guns or cutting through swathes of enemy forces with martial weapons, before coming to a halt in a safe location. 
+
+**Next**
+### Beyond the Stride
+- Sustained Flight
+- Enhanced chalkweaving
+- Flash Prot
+
+### SProt Mythos (?)
