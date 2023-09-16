@@ -52,6 +52,11 @@ Chronological
 - Bubble-skating
 - Arrival Maneuvers
 
+Beyond
+- Sustained Flight
+- Enhanced chalkweaving
+- Flash Prot
+
 # The Strider Protocol
 Out there in the Great Sky, streaks of white pierce the enveloping void. Region to region, Vault to Vault, past stars, to Wellsprings, into the horizon, into flux storms, from fleets, to the edges of space. The Strider is a being that has learned what it truly means to move, and the Strider Protocol is what facilitates it.
 
@@ -166,10 +171,27 @@ Another approach is entering a region and immediately beginning a retrograde bur
 
 Speaking on the combat applications, a Skydancer-level skill that doubles as an arrival maneuver is performing a **low altitude 'pass'** over a location, much like fighter planes. At sufficiently low speeds, Striders can equip weapons and make high-speed passes through a battlefield, firing guns or cutting through swathes of enemy forces with martial weapons, before coming to a halt in a safe location. 
 
-**Next**
-### Beyond the Stride
-- Sustained Flight
-- Enhanced chalkweaving
-- Flash Prot
+## Beyond the Stride
+The Strider Protocol does indeed allow for performing the Stride, but in addition to it, being a chalk equation that allows for very efficient handling of large amounts of chalk, it can thus be utilized in other manners that confers Striders with useful auxiliary powers above their solely Weaver counterparts and other denizens of the Switchboard.
 
-### SProt Mythos (?)
+### The Graceflight
+This is perhaps the highest of Skydancer techniques, one so difficult in its execution that it is still reasonably debated whether it is actually possible for modern Striders - lacking the Danseer backbone of the original Skydancers - to even actually perform it.
+
+The Graceflight describes an immensely controlled form of striding that more closely resembles flight. It is performed by first accumulating the chalk necessary to exceed the launch threshold, and then flaring that chalk as velocity from the entirety of the lattice in such a manner that the resultant of all velocities acting on the body of the Strider is zero. Then, one must adjust to account for regional gravity, meaning that the flaring of velocity downwards must slightly exceed the velocity expelled from the rest of the lattice.
+
+This allows for the Strider to perform a stationary 'hover' in mid-air. To actually beginning movement - flying - they must subtly deflect the resultant of the triangle of forces that is the flaring velocities in a direction. The difficulty is one of control. Altering the rate of flaring is much like opening the aperture of a camera, and achieving a fine balance of light infiltration - to avoid a photo that's either too dark or washed out - is an exercise in delicacy. 
+
+Opening the aperture just enough to allow movement in a direction, but not enough to release the bottled velocities that are able to accelerate a Strider to fractions of light-speed. This is the crux of the difficulty of the Graceflight. 
+
+That is not to say it hasn't been performed. The Skydancers of old, particularly Shalkarah and his pantheon, were known to simply drift above battlefields, laying waste to opposing forces during the Praxis Conflicts. They are lauded as some of the most skilled powerful wielders of chalk in all the Dancirah past and present, however, and achieving the lofty heights they did as to be able to gracefly under their own power is a goal out of reach.
+
+Modern Striders, and really only the absolute best of the bunch, are able to perform the Graceflight with computational assistance from Slates, or through some other underhanded means. Irrespective of method however, the Graceflight facilitates movement that truly resembles an effortless dance across the sky.
+
+### Advanced Chalkweaving
+The Strider Protocol in its equation form allows for immensely efficient handling of chalk. In a sense, the stride equation can almost double as a secondary computational strait, that is purpose-built for handling large volumes of chalk immensely quickly, folding it to produce a uniform end. The advantage of this secondary strait is an acceleration of certain kinds of chalkweaving that requires expelling or expending large amounts of chalk immensely quickly.
+
+Because of this, Striders are able to weave chalk constructs immensely quickly, and are able to weave the same things in quick succession, as the stride equation has become temporarily tuned to weaving that thing. Should a Strider choose, maintaining a small 'cache' of frequently used patterns in the memory strait that is directly connected to the additional strait created by the stride equation allows for rapid and effort less deployment of that weave. In combat, this is an immensely useful ability to have, as Striders are weaving only a handful of things at the given moment, such as spare ammunition and their elementary (T2) weave abilities.
+
+It is this stride strait that also allows Striders to use the **Flash Protocol**. When given a complex pattern to weave, the stride strait is able to resolve it almost through brute force by creating elementary 'scaffolding' of the pattern to weave, followed by 'dumping' a massive amount of chalk through it, then compelling the chalk to spontaneously evolve to fill out the calcic scaffolding created and thus realize the weave of the pattern. This means that one must expend possibly far more chalk than they would traditionally, but the weave can be realized in fractions of fractions of the time; in a flash.
+
+This particular usage of the Strider Protocol is itself a protocol-level realization of chalkweaving. The Astrolabe itself facilitates its usage. The Flash Protocol goes the distance in distinguishing Striders from others in the Switchboard, as with the power to realize even complex weaves with minimum effort by merely amassing enough chalk, Striders are able to execute immensely destructive attacks in battle, or fuel other calcic phenomena to go far beyond their designs. 
