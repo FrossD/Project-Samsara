@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md"
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,10 +215,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26f427d050f7fac8",
+  "active": "93cb784d559b3db0",
   "lastOpenFiles": [
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
     "2. Development/MDT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
