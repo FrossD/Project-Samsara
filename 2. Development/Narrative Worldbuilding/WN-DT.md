@@ -51,8 +51,8 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
 
 - (pWB) **The Strider Protocol**: Under [[The Strider Protocol]];
-	- Just look at the damn thing. There's probably an issue in there somewhere.
-		- Not just an issue. The entire doc is a mess. Draft and rebuild accordingly.
+	- ~~Just look at the damn thing. There's probably an issue in there somewhere.~~ Done.
+		- ~~Not just an issue. The entire doc is a mess. Draft and rebuild accordingly.~~ Done.
 	- Reduce the philosophy stuff as that's been moved elsewhere. Focus more on the mechanics of it.
 	- [[SProt 2.0]]
 

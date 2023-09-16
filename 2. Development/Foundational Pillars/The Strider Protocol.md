@@ -1,80 +1,138 @@
 # The Strider Protocol
-The real actual Strider Protocol, it's nature, mechanics, ramifications and mythos.
+Out there in the Great Sky, streaks of white pierce the enveloping void. Region to region, Vault to Vault, past stars, to Wellsprings, into the horizon, into flux storms, from fleets, to the edges of space. The Strider is a being that has learned what it truly means to move, and the Strider Protocol is what facilitates it.
 
-## Preamble
-The Strider Protocol is the crystallization of the human desire to be free.
+## What is the Strider Protocol?
+The Strider Protocol is a pivotal mechanic in the Switchboard, and a power possessed by many of its denizens. At its basest, the Strider Protocol is chalk equation that has been elevated to protocol-level power, meaning that it has been directly created or altered by the Astrolabe to go beyond the bounds of what it traditionally is. Being an equation, it has the power to fold chalk to produce results, in this case velocity. Being a protocol-level equation however, the nature of it is made transcendent, and this equation can fold chalk to produce ludicrous velocities that approach even lightspeed. This power is conferred upon the lattice of those blessed in the Switchboard, and they are gifted the ability to cross titanic stellar distances in mere seconds. 
 
-Put more properly, the Strider Protocol outlines the steps that make a Strider. It is a set of rules, doctrine, criteria, methodology, that governs a state of being. Most simply, the Strider Protocol has only one singular precept; a mind may escape it's bounds and gain the capacity to understand the true nature of information. All other things follow suit.
+## Origin
+In one of the Astrolabes great resolutions of its calculus - following the First Praxis War to be precise - the Strider Protocol arose alongside the Weave Protocol, the nine astrolabic regions, and the third generation of thinking weave, that would come to be known as the Third Kin. Some of the Third Kin wielded the Strider Protocol, and this allowed them to traverse huge swathes of the Switchboard even from when they newly arose.
 
-The 'Strider Protocol' as an act is the highest form of freedom. Portrayed most elementarily, it is Near-Light-Speed travel. A Strider without need for anything other than the understanding of the true nature of information, is able to manipulate their information so as to cross vast distances functionally instantaneously. The ability to do so simultaneously conquered all current frontiers, awakening new ones to pursue.
+As the Third Kin grew in number, settled on the astrolabic regions and learned of the Switchboard around them, they were divided across various lines, one of these in particular being those who sought to use the Strider Protocol to its fullest and those who weren't so inclined. The Danseers, perhaps the most powerful peoples of the Third Kin took it upon themselves to use and master the Strider Protocol, launching out into the expansive depths of the Dancirah, learning of its intricacies and mechanics as they did, and inventing the various techniques attached Striding, penning the rulebooks even as they surpasses them.
 
-The freedom granted by the Strider Protocol and the power granted by understanding the true nature of information awoke Striders to the secrets that had always been out of reach. Powers in mundane things, the esoteric secrets that had always been out of reach, the magnificent things that could be experienced lay too far away, the Strider Protocol granted access to this and more.
+The Danseers thus fostered much of the knowledge and mythos around Striding, and the Sil'khan, descended from their lattice via the Fel-Arcad's intervention, took over this mantle from them when they perished from their Refrain-inflicted curse. They furthered the practice of the Strider Protocol and the invention of new techniques, with the entire act and mythos of it taking on a divine slant, as it became a form of worship to their Danseer kin and the Skydancers, particularly Shalkarah Skydance, King of Roads, said to be the fastest Strider known to Switchboard canon.
 
-It is captured in [[The Skywards Pursuit]]; the charge given to man had always been to explore, to launch out into an unknown, expansive deep, to seek knowledge and understanding for the sake of a tangible good. The Strider Protocol is that charge. It is that noble ambition transformed from mere word and feeling to tangible power.
-
-There was an inevitable deification of the Striders and the Strider Protocol. The mere act of knowing made one more than others, and knowing more made a Strider even *more* than they initially were. Striders grasped quickly their potential to become like deities, the path for doing so being obvious; discovery of greater and greater hidden things. This relentless pursuit characterizes Striders; newborn gods leaving their weaning of milk, leaving in search of meat, by means of their holy velocities.
-
-The Strider Protocol, by means of providing a path to power, guarantees the freedom of those who wield it, as well as it being a manifestation of the desire to be free as well. The path to power is through learning, and learning is done through exploration, further deepening its ties with human nature. To Stride is to imbibe values of humanity in their most distilled state. 
-
-	But what *IS* the Strider Protocol? Currently, the SProt is an immensely complex equation baked into the lattiece of Striders, that facilitates Striding as one of the many powers it grants, and as an extension of its actual function - granting the power to interact with chalk at the ribbon level in the form of the WeaveProt, Teks and Rituals.
+Both then and now, the Strider Protocol was a power unrivalled in what it offered, opening up the entirety of the Switchboard as vast expanse to explore, and a sandbox to play in. 
 
 ## Mechanics
-### Information Affinity
-
-^6075ff
-
-The first truth realized is becoming aware of Information Tangibility, that all things, including the self, are composed of information. The second truth usually realized is Information Affinity. Understanding of the information that exists in naturally allows drawing it towards the self. ^a39ed7
-
-This unharnessed information (chalk) is used by Striders for most of their information powers. This unharnessed power is stored in the 'potential' Chalk line (as described in [[The Hands as Chalk]]) until needed. Information abilities deplete Chalk from the Potential line.
-
-Chalk is passively accumulated by Striders by simply being. The rate is controlled by a number of factors;
-	1. Active or passive accumulation. Striders can focus and draw Chalk to them when large amounts are needed quickly.
-	2. Availability. Regions saturated with Latent Chalk increase the rate of passive accumulation.
-	3. Interferences. Factors can impair or catalyze absorption, such as the presence of other Striders, active rituals, a Tek or a relic etc.
-
-Accumulating Chalk rapidly can saturate a Strider beyond their capacity to hold Chalk. As unharnessed Chalk is functionally random information, over-accumulation can lead to mental overload, filling the mind with 'noise'. This is usually dealt with by 'flaring'; subjecting unharnessed Chalk to equations that result in the production of heat, and emitting it off the body. But it is not mandatory it be heat alone.
+A discussion of the mechanics of the Strider Protocol. It will be discussed step by step, beginning with the actions before commencing the stride, the stride itself, and then actions following the end of the stride.
 
 ### The Stride
-Striding is flaring Chalk in the form of vectors that produce velocity. A Strider gathers latent chalk from the environs until they are saturated with pure potential, subjects it to a unique 'stride equation' that produces and stores momentum, before releasing it as immense velocity. ^5257eb
+With the Strider Protocol being an equation, it is thus stored in the computational strait. When ready to stride, chalk is passed from the potential strait to the computational, where it is subjected to the **stride equation**, rapidly converting the chalk to velocity. This velocity is stored and built up, much like compressing a spring, before it is output through the interface strait as a sudden explosive release of pure momentum. Dependent on a litany of factors, this is enough to accelerate the Strider from rest to upwards of 0.85 times the speed of light. 
 
-It helps to think of Striders as compressed springs or a fueled rocket. Once the compression is released or the fuel ignited, immense motion begins that decays gradually over time. This is the nature of Striding. A Strider moves somewhere between 0.9 and 0.99 times the speed of light. This is called the '**Stride Velocity**'.
+Once a Strider has launched, they begin decelerating fairly quickly, the decay curve showing a swift plummet in how fast they are moving. While this is the case, Striders can still cover considerable distance across the the Dancirah.
 
-The distance a Strider can cover is thus proportional to how much latent chalk they can accumulate.
+Speaking on the relationship between velocity, distance and chalk accumulation, all Striders have a loosely-set **stride velocity** that is the fastest speed their stride is capable of, a speed that is held for moments after launch from rest. Accumulating more chalk doesn't allow for faster speed, but rather **preserving** the maximum speed of the stride velocity for longer before decay begins. The distance covered is thus a product of the chalk accumulated before launch. A Strider's effective **stride range** is dependent on their stride velocity and how much chalk they are able to accumulate. This determines their **maximum range**. Their **minimum range** is determined by how proficient a Strider is at deceleration and arrival maneuvers, elaborated upon later.
 
-Midflight, a Strider is unable to accumulate chalk, and so all the momentum they produce at the initial launch is all they have to work with. As the Strider crosses distance, it's momentum reduces due to the density of inter-regional space (the Switchboard Sky) and the interspatial void.
+### Before the Stride 4 - Distance Constraints
+Before even considering beginning striding, a Strider must deduce if the target destination is within the supposed '**goldilocks zone**' of their stride's range.
 
-### Launch Threshold
-A Strider needs a certain amount of accumulated Chalk to exceed the information mass of their own person to commence Striding. In addition to themselves, they must also accumulate enough chalk to move anything else carried with them. Accumulated Information must exceed the 'information mass' for Striding to take place.
+The Strider Protocol accelerates Striders considerably close to lightspeed. While these ludicrous velocities are the crux of why the stride is so useful, it presents the additional issue of the kinds of distances a Strider is able to cover with the stride. The Strider Protocol is very well suited for long distances, because upon arrival at the destination, enough velocity would have decayed to allow for safe and precise landing. Over relatively short distances, the stride velocity doesn't begin decaying fast enough to allow shedding most of a Strider's speed before attempting touchdown on a destination. 
 
-This is particularly the reason why despite the power of Striding, vehicles such as starships exist, ferrying people and goods between regions. The information mass of an object increases rapidly when it contains equations, ritual components, is a relic (anything that makes it information dense) that can make carrying it via the Strider Protocol nearly impossible. Attempting to accumulate enough chalk to Stride with such objects in hand can 'fry' the brains of the Strider.
+The chalk that must be accumulated to overcome the **launch threshold** (elaborated upon further) is simultaneously enough to accelerate Striders to these immense velocities. Without possessing some of the highest skill-levels exhibited by Striders in the act, it is generally good sense to not attempt to stride relatively short distances.
 
-### 'Bubble-skating'
-When Striding through inter-regional space, a Strider is unable to change direction mid-flight. Much like a rocket, a Strider upon launch travels in a straight line until they encounter something that alters their trajectory. However (as described in [[The Skywards Pursuit]]) a straight line is often not the safest way or even a way at all to travel from region to region.
+This is one of the two reasons that, despite the stride being vastly faster than all other forms of transport, they aren't rendered wholly obsolete. A Strider can easily go to another country by striding in the time it takes to go to another town normally, but it is impossible to use the stride to simply go down the street. Vehicles such as personal jumpships and titanic starships are there to resolve this quirk of the Strider Protocol.
 
-To work around this, Striders use 'bubble-skating'. Striders can 'hop' from region to region by allowing themselves to be caught in the gravity caused by the information mass of a region, 'skating' over the boundary that contains that region, making a partial revolution, converting linear to angular momentum, and then back to linear momentum to 'sling-shot' around the region, launching in a new direction.
+The **goldilocks zone** of a Strider's range is thus the stretch between the distance at which they can successfully begin executing arrival maneuvers, and the maximum range of their stride. Should a target fall into this range, it can be strode to with minimal difficulty, all other things being equal. 
 
-Repeated multiple times, a Strider can weave between dense pockets of void or regions they'd rather not make contact with, eventually reaching their destination.
+### Before the Stride 3 - Launch Threshold
+When it is determined that a target location is within the goldilocks zone, the next stage of preparing to stride can begin. This step is a delicate one, as it requires Striders to perform calculations to deduce how much chalk they must accumulate to provide enough velocity to reach their destination, accounting for - in this case - the **information mass** of everything they are carrying.
 
-	This maneuver is based on an actual technique used by spacecraft, known as a 'gravity assist' or gravity slingshot. Further information can be gleaned by studying these topics.
+All things in the Switchboard have an **information mass**, a mathematical expression of the 'mass' of a calcic existence, due to the amount and complexity of the chalk that comprises it. To stride, a Strider must accumulate enough chalk to overcome their own information mass, that being the mass of their own lattice. Conveniently, there is some wiggle room between the chalk needed to overcome their mass, and the chalk needed to reach their stride velocity.
 
-### Distance Constraints
-The Strider Protocol typically cannot be used to travel short distances, such as moving within a region. Primarily, this is because of the launch threshold; the momentum required to overcome the information weight of a Strider is simultaneously enough to accelerate the Strider to a considerable fraction of light speed. Decelerating from light speed is difficult, and is usually only feasible by having the velocity greatly reduced by extended travel and momentum lost to bubble-skating and traversing pockets of void. ^ee7e6f
+But this wiggle room is small. The information mass of a Strider is referred to as **primary overhead**. In most cases, this cannot realistically be changed in any real manner, with the exception of modifications that append directly to the lattice, such as grafts, chromegrafts and the like. Additionally, the memory line contributes to the primary overhead, meaning that older Striders - by virtue of having lived longer, experiencing more, and thus stored more things in their memory straits - must expend more chalk to reach their stride velocity, and have less room for the other class of overhead and additional cargo.
 
-Moving within regions is usually done through conventional means; land vehicles and personal NLS ships. 
+**Secondary overhead** is a somewhat amorphous category, as it refers to things that can be left behind unlike primary overhead, but due to the kind or significance of subjects in question, are considered necessary to take along, only being abandoned when absolutely necessary. This refers to the various tools, weapons, kits, gadgets and odds and ends that Striders often find themselves compelled to carry. From jackets and hats to Slates and relic weapons, all of these things comprise the secondary overhead, adding to the total information mass that must be overcome. 
 
-### Arrival Maneuvers
-Additionally, aiming the Stride to land at an exact spot is particularly difficult as well as dangerous. Upon reaching a region, Striders may circle around it (orbiting it similar to a satellite) to burn further momentum before attempting entry, though this maneuver is typically used by amateur Striders alone. Skilled Striders simply drop to a sufficiently unoccupied space, convert their remaining momentum to heat, and flare it
+When both primary and secondary overhead are accounted for, the final leeway left is what a Strider has available to carry as **cargo**, as it were. Should the Strider be too information-heavy, the chalk that must be accumulated to overcome the mass will also do non-trivial damage to the Strider in the process of attempting to store it. Overwrite is a concern as always, and it isn't an uncommon sight to see Striders trying to flirt with their limits left not knowing their names or where they are, that information overwritten by spillover random chalk in their lattices. 
 
-Aiming the descent is done similarly to a space shuttle arriving from extraplanetary travel, in that it must touch the outer boundaries of the region a certain distance away horizontal from the desired landing location, and begin a controlled descent downwards and at an angle to eventually make contact with the ground.
+Thus, Striders must manage their secondary overhead and cargo. Abandoning kit such as a gadgets and weapons allows for ferrying disproportionately more cargo - as weapons and other such things tend to be more complex, chalk-dense and thus heavier than say, a box of letters - but it leaves the Strider vulnerable to all of the multifaceted horrors and dangers the Switchboard presents. Carrying a well-stocked kit keeps a Strider ready for anything the Great Sky is ready to throw at them, so long as that isn't a very large hard-disk to deliver to someone. 
 
-Some Striders choose to begin flaring their excess momentum once they enter a region and gravity takes hold, converting it to heat and light - usually for theatrics. Striders that aim to make their arrival known typically do this, leaving a light show in their wake while landing gracefully at their destination.
+Striking this balance is what makes for a good Strider, with the choices made revealing the differences between Striders. Nomads travel light on secondary overhead, even more so if they are working towards avoiding combat, making them excellent at ferrying things around the Switchboard. Academy Operators for example, are weighty on the secondary overhead front, and thus often can't carry more beyond that.
 
-### Initiate Fly
-It is believed the Strider Protocol is the first ritual ever conceived, and as such, operates under ritual mechanics. One of these is the 'Initiate Fly' gesture.
+One of the more interesting ramifications of this is that Striders typically cannot take others with them as they Stride, the information mass of an entire other person being simply too much to overcome. For this reason, Academy Operators are almost necessarily exclusively Striders, as moving around swiftly requires each to run on their own feet. There are times though, when a Strider cannot stride and needs others to lean on. A general rule of thumb exists; two Striders travelling light can carry a third, three Striders can carry a fourth without sacrificing much.
 
-It is a move granted purpose and function by repetition. By performing an otherwise meaningless gesture, the information of a Strider (mind and body) align themselves to prepare to Stride. Much like turning the keys to a car, the initiate fly sets in motion internal changes that brace the Strider for usage of the Strider Protocol.
+### Before the Stride 2 - Charting the Route
+With those two prior things determined, the next step is charting a route. The shortest distance between any two points is indeed a straight line, but there are very few straight lines across the Great Sky. The cosmic voyages made by Striders are subject to a litany of roadblocks and bumps and potholes along the way, and charting a suitable route through the chaos of inter-regional space is one of the many skills a Strider must cultivate. 
 
-The gesture can be nearly anything; snapping fingers, clasping the hands, tying shoelaces, rotating a bracelet around the wrist. Any gesture a Strider chooses to grant significance can be their initiation gesture.
+This is more specifically known as **Wayfinding**, referring to both the practice and the body of knowledge surrounding finding and charting routes through the Great Sky. Wayfinding employs a variety of tools and skills, all working towards finding a route through the Switchboard to mostly safe stride through.
 
-It is similarly used by Striders preceding combat, configuring themselves to do battle.
+> This sections is incomplete. This is primarily due to the fact;
+> - Wayfinding exists in a form in [[The Skywards Pursuit]].
+> - SkyPur might need a rewrite, or at least some revision.
 
+### Before the Stride 1 - Initiate Fly
+The Initiate Fly isn't truly a necessary step in striding, but rather a holdover tradition from the days of the Danseers and their time spent traversing the Switchboard. Many of the practices they invented then persisted onwards into the hands of their descendants, and the Initiate Fly is one of them.
+
+Shalkarah Skydance, King of Roads, is said to be the one who watches over Striders as they set out on sojourns across the Switchboard. In a bid to fulfill some doctrine or belief, as it were, Striders adopt some gesture they perform right before Striding, as supplication to Shalkarah to watch over them as they Stride. This can be retying the shoelaces, or tapping the tip of the thumb along the other fingers, or orienting a bracelet to face downwards - all done with the intention that Shalkarah might see it, be made aware of his acknowledgement even in the present day, and thus confer boons upon those who practice striding even in his absence.
+
+For some, the Initiate Fly is less so a divine action and more a physiological one. An act is given meaning through repetition, and this repetition builds association. A Strider tying their shoelaces right before every stride has made it habit, and this in turn may induce a tangible mental and physical shift in their lattice, orienting themselves to perform the task at hand. 
+
+It is a gesture to enter 'striding mode', as it were, and for many, the Initiate Fly - most simply summarized - is a ritualistic gesture that induces focus; something very welcome before undertaking a space-crossing jump at near-light-speed.
+
+### The Stride - Bubble-skating
+One of the many quirks of the stride is that, once launched a trajectory, a Strider is unable to meaningfully alter that trajectory midflight. While skilled Striders are able to make minor adjustments midflight by flaring their velocity in a direction, vectors come into play, and the resultant of near-light-speed movement in one direction, and a slight nudge in another one, is nigh negligible. Considering that the path between origin and destination is often never a straight line, it raises the question of how Striders are meant to turn in flight.
+
+The answer to this is a striding technique known as **bubble-skating**. It functions by using the gravitational pull of celestial objects to divert the path of a Strider midflight. By charting a route before-hand, Striders can plan to hit certain objects in flight, be caught in their gravitational pulls, and use this to 'swing' around the body. By approaching with linear momentum, making a partial gravity-assisted revolution - converting linear momentum to angular - and then back to linear at the apex of the swing, they can launch away from the body on a new trajectory. 
+
+> This gravity-assisted 'sling-shot' is a technique that takes inspiration from real spacefaring craft, a good example being the Voyager 2 probe, which used gravity assists to visit planets Jupiter, Saturn, Uranus and Neptune. By planning its trajectory before hand and scheduling the launch based on where certain celestial bodies would be at the time Voyager reached them, it was able to harness their gravitational pulls to alter its trajectory.
+
+By performing this maneuver, Striders can 'skate' on the 'bubble' of gravitational pull exerted by various bodies, allowing them to change their trajectory. By performing this maneuver multiple times in succession, Striders can navigate even the densest sections of the star-wilds. From cradles to asteroid fields to stellar junkyards, there is no obstacle a Strider cannot weave through or past.
+
+Additionally, when skating on regions or Wellsprings, Striders are able - though briefly - to refuel on chalk and channel it into more velocity, allowing them to stride further. The skill required to open the interface straits to intake of chalk even as they are actively involved in spewing out velocity is nontrivial, however, and it is generally accepted among most who stride that it is best to load up on all the chalk you'll need for the trip at the very beginning, and not operate under the assumption or even certification there will be opportunities to refill along the way.
+
+### The Stride - Skydancing
+The Danseers were masters of the Strider Protocol; none had command over movement in space that surpassed them. But even among the Danseers there where those who had a seemingly prenatural grasp of movement, the resultant of mathematically-superior protocol equations, and an uncanny grasp of space in general. These were the Danseer **Skydancers**, and they distinguished themselves by displaying truly unrivalled dexterity in flight.
+
+The Stride as it is executed is flaring chalk as velocity, propelling the Strider forward. This flaring is usually done from the legs, allowing Striders to function as 'human rockets'. As this flaring is underway, it is fairly difficult - but not impossible - to flare velocity from other parts of the body, allowing for fine adjustment of trajectory midflight. The Skydancers distinguished themselves by overcoming this difficulty, and cultivating the skill of flaring velocity from any part of the body they choose. 
+
+By flaring velocity from the arms and other parts of the body, and altering the rate of flaring from the legs, the Skydancers were able to alter their pitch and yaw midflight, and thus perform maneuvers such as banks and rolls. These maneuvers are often necessary to dodge obstacles during the stride, such as space junk, debris, unlucky spacecraft and the like. Given enough space, time and chalk in the tank, the Skydancers were able to perform Immelmann turns, Split-S maneuvers and Hammerhead turns, advanced movement techniques that allow for considerable changes in direction even when moving at the ludicrous velocities of the Strider Protocol.
+
+> **Immelmann**: An Immelmann turn is an aerial maneuver where the aircraft performs a half-loop followed by a half-roll to reverse its direction while gaining altitude.
+> 
+**Split-S**: The Split-S is a maneuver where the aircraft rolls upside down and then performs a half-loop to dive downward and change its direction.
+> 
+> **Hammerhead Turn (Stall Turn)**: In this maneuver, the aircraft climbs vertically until it loses forward airspeed and momentum, then executes a rapid pitch-down maneuver to reverse its direction.
+
+It is storied that one of the favored techniques of the Skydancer Shalkarah in flight was his **Gracesteps**. More technically known as a corkscrew roll, it involved a rapid succession of alterations to pitch and yaw to turn on three axis, granting him a surge of speed and presenting a much smaller, unpredictable target to hit, providing considerable utility during the Praxis Conflicts in the many battles fought in inter-regional space. It was how this technique appeared to those observing it while it was in use that earned the Skydancers their title.
+
+In the modern era, Striders train themselves in skydancing, in a bid to hone their skills as Striders, and for many, as a form of worship to the first bearers of the title.  
+
+### After the Stride - Arrival Maneuvers
+Upon approaching the target destination, Striders must begin execution of the **arrival maneuvers**. These are a set of skills that allow Striders to transition from flight to descent, and then to safe landing on a target destination.
+
+By the time Striders approach their destination, they are often still moving at a non-trivial fraction of light-speed. Should they attempt to land at this speed, they will crash like a meteor on the surface of - say, a region. Because of this, Striders need to lose as much velocity as possible before attempting a descent to the region below.
+
+One such means of doing this, used by those who aren't particularly skilled at striding, is expending the rest of their velocity by going into highspeed orbit around the region while flaring chalk to counteract their forward momentum, inducing drag and slowing them down. When on the last dregs of their available velocity, they break from orbit and begin their descent, feet-first, flaring chalk as they do to begin a **retrograde burn**. With sufficiently-accurate calculations, even an unskilled Strider can expend the last of their available velocity right as they make touchdown on a region. 
+
+This is, however, how unskilled Striders do it. Those more versed in these affairs take different approaches.
+
+Striders with an appreciation for spectacle often begin their descent the moment they touch the outer edge of the region's atmosphere, and begin aggressively flaring their velocity as **heat**. This rapidly decelerates them and turns the Strider into a falling fireball, leaving a mighty trail behind them as they streak across the sky, then coming to a gentle landing below. Particular skilled Striders make doing this a habit, being able to land at an exact position down to the square meter, and doing so while shrouded in a fairly dramatic cloud of fog. 
+
+Another approach is entering a region and immediately beginning a retrograde burn, irrespective of how much velocity remains to be flared. Upon landing, all remain velocity is immediately flared as heat in a singular, massive expulsion akin to a bomb blast. Of course, this does considerable damage to everything in the vicinity, and thus it is used only when the landing zone is clear and isolated, or used when landing straight into a dangerous situation such as an ongoing battle. Many myths tell of Danseers making explosive arrivals to Praxis-era battlefields, clearing out swarms of Mind-commanded chromelings even before drawing a sword or firing a shot.
+
+Speaking on the combat applications, a Skydancer-level skill that doubles as an arrival maneuver is performing a **low altitude 'pass'** over a location, much like fighter planes. At sufficiently low speeds, Striders can equip weapons and make high-speed passes through a battlefield, firing guns or cutting through swathes of enemy forces with martial weapons, before coming to a halt in a safe location. 
+
+## Beyond the Stride
+The Strider Protocol does indeed allow for performing the Stride, but in addition to it, being a chalk equation that allows for very efficient handling of large amounts of chalk, it can thus be utilized in other manners that confers Striders with useful auxiliary powers above their solely Weaver counterparts and other denizens of the Switchboard.
+
+### The Graceflight
+This is perhaps the highest of Skydancer techniques, one so difficult in its execution that it is still reasonably debated whether it is actually possible for modern Striders - lacking the Danseer backbone of the original Skydancers - to even actually perform it.
+
+The Graceflight describes an immensely controlled form of striding that more closely resembles flight. It is performed by first accumulating the chalk necessary to exceed the launch threshold, and then flaring that chalk as velocity from the entirety of the lattice in such a manner that the resultant of all velocities acting on the body of the Strider is zero. Then, one must adjust to account for regional gravity, meaning that the flaring of velocity downwards must slightly exceed the velocity expelled from the rest of the lattice.
+
+This allows for the Strider to perform a stationary 'hover' in mid-air. To actually beginning movement - flying - they must subtly deflect the resultant of the triangle of forces that is the flaring velocities in a direction. The difficulty is one of control. Altering the rate of flaring is much like opening the aperture of a camera, and achieving a fine balance of light infiltration - to avoid a photo that's either too dark or washed out - is an exercise in delicacy. 
+
+Opening the aperture just enough to allow movement in a direction, but not enough to release the bottled velocities that are able to accelerate a Strider to fractions of light-speed. This is the crux of the difficulty of the Graceflight. 
+
+That is not to say it hasn't been performed. The Skydancers of old, particularly Shalkarah and his pantheon, were known to simply drift above battlefields, laying waste to opposing forces during the Praxis Conflicts. They are lauded as some of the most skilled powerful wielders of chalk in all the Dancirah past and present, however, and achieving the lofty heights they did as to be able to gracefly under their own power is a goal out of reach.
+
+Modern Striders, and really only the absolute best of the bunch, are able to perform the Graceflight with computational assistance from Slates, or through some other underhanded means. Irrespective of method however, the Graceflight facilitates movement that truly resembles an effortless dance across the sky.
+
+### Advanced Chalkweaving
+The Strider Protocol in its equation form allows for immensely efficient handling of chalk. In a sense, the stride equation can almost double as a secondary computational strait, that is purpose-built for handling large volumes of chalk immensely quickly, folding it to produce a uniform end. The advantage of this secondary strait is an acceleration of certain kinds of chalkweaving that requires expelling or expending large amounts of chalk immensely quickly.
+
+Because of this, Striders are able to weave chalk constructs immensely quickly, and are able to weave the same things in quick succession, as the stride equation has become temporarily tuned to weaving that thing. Should a Strider choose, maintaining a small 'cache' of frequently used patterns in the memory strait that is directly connected to the additional strait created by the stride equation allows for rapid and effort less deployment of that weave. In combat, this is an immensely useful ability to have, as Striders are weaving only a handful of things at the given moment, such as spare ammunition and their elementary (T2) weave abilities.
+
+It is this stride strait that also allows Striders to use the **Flash Protocol**. When given a complex pattern to weave, the stride strait is able to resolve it almost through brute force by creating elementary 'scaffolding' of the pattern to weave, followed by 'dumping' a massive amount of chalk through it, then compelling the chalk to spontaneously evolve to fill out the calcic scaffolding created and thus realize the weave of the pattern. This means that one must expend possibly far more chalk than they would traditionally, but the weave can be realized in fractions of fractions of the time; in a flash. ^bf3cf6
+
+This particular usage of the Strider Protocol is itself a protocol-level realization of chalkweaving. The Astrolabe itself facilitates its usage. The Flash Protocol goes the distance in distinguishing Striders from others in the Switchboard, as with the power to realize even complex weaves with minimum effort by merely amassing enough chalk, Striders are able to execute immensely destructive attacks in battle, or fuel other calcic phenomena to go far beyond their designs. 

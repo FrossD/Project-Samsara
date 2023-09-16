@@ -29,21 +29,18 @@ Phenomena attacks such as extreme heat and cold, electricity, vibration (shockwa
 Lattice 'thickness' varies in distribution across a Strider's body, and striking the typical regions you expect to induce the most harm still does. Though Striders lack a centralized thinking center, and run on chalk rather circulatory blood, striking the head and chest of a Strider is still an effective means to do damage. Striking joints disables the limbs that hinge on them. In addition to this however, particularly well-aimed attacks can disable a Tek or hamper a Strider's ability to Stride.
 
 ### The Flash Protocol
-![[The Strider Protocol#^5257eb]]
-
-![[The Strider Protocol#^ee7e6f]]
-
-While this is true, Striders with immensely fine control over Chalk can accumulate and flare amounts of it that produce incredibly high velocity for short bursts, as well as accumulating and flaring Chalk simultaneously, drastically increasing the Strider's proficiency with Teks, Relics and other information weapons and abilities. This is the **Flash Protocol**.
-
-The Flash Protocol's main use is immensely enhanced mobility and reactions, allowing Striders to engage at speeds several times faster than regular humans. Taken further however, Striders can accumulate and discharge an immense amount of Chalk in an indescribably short amount of time to gain fractions of a second of enhanced ability. Rapidly discharging the Chalk into equations that harness it prevent it from lingering around long enough to overwrite a Strider's information lattice.
-
-Particularly proficient Striders can maintain the '**Flash State**' for extended periods of time, cycling Chalk in and out of themselves, enhancing all their abilities drastically. Often the deciding factor in Strider engagements before battles even start is a side's ability to invoke the Flash Protocol.
+![[The Strider Protocol#^bf3cf6]]
 
 > "And so did the First Dancers of the Great Sky grasp that for a brief moment, they too could shine like the life-giving Law Stars, and within those windows of cosmic divinity, they could take hold of the Current, and wrench from it a tomorrow skewed to their ideals."
 
-The Flash Protocol thus has three main ways it can be used;
+The blessing that is the Flash Protocol, conferred upon Striders allows them to surpass limits, to cheat - as it were - in their chalkweaving. By using the power of the stride equation, they are able ramrod complex patterns through the computation required to realize them as weave, and through expending massive amounts of chalk, they are able to shine as bright as stars, and execute a dimension of chalkweaving that escapes even the strongest, the most skilled, weavers.
+
+Primarily, the Flash Protocol is used in combat; few other scenarios demand so cataclysmic a display of power. The nuances of this usage are seen in three major forms, depending on the pattern of the Flash the Strider means to execute;
+
 - **Physical Overclock**; a massive augment to the Strider's base physical abilities, allowing them to vastly exceed the constraints of the body as well as massively augment the power of their physical weapons. In addition to merely buffing speed and strength, it augments finer skills such as dexterity and nimbleness, and other qualities such as eyesight, granting a boost to Striders using ranged weapons. This ability, simply put, overclocks the lattice of the caster.
+
 - **Weave Overclock**; a massive augment to the Strider's weaving abilities. It grants the power to supercharge a Strider's 'Weave Powers', increasing the potency of their highest-uptime, most versatile calcic abilities. This ability functions by overclocking the Weave Protocol.
+
 - **Flashcharge**; outputs a massive amount of power to a singular component of the Strider's arsenal, to make a singular, decisive cast. Allows for massively enhancing the effectiveness of a Tek, relic, a combat ritual, titular power, or artifact power. Most high-level Striders choose to use their flashcharge - '**using their flash**' - as the sheer power of their Teks and relics enhanced multiple fold does far more damage than merely augmenting their physical or base weaving abilities. Particularly skilled Striders can supercharge multiple components of their arsenal, such as multiple relics, multiple Teks, or a Tek and a relic. 
 
 The Physical and Weave Overclocks can be used as both a **burst flash** and a **sustained flash**. Burst flashes grant the entire power boost spread over very short time, allowing only a few seconds of decisive action. The sustained flash grants the 'flash state', and serves as a passive but long term boost to the Strider's abilities. The flashcharge can only be burst flashed. 

@@ -389,7 +389,7 @@ The Blackout Arrow - functioning by drawing information towards it - does so by 
 [(3) Fan Concept for 3rd Darkness subclass for Lightfall : destiny2 (reddit.com)](https://www.reddit.com/r/destiny2/comments/m1j2ls/fan_concept_for_3rd_darkness_subclass_for/)
 
 #### Further Notes on Depthstrider Combat
-Adapting from other notes (The [[The Void#Depthstrider Combat |Depthstrider Combat]] section in the Void 2.0 doc as well as the [[The Strider Protocol#The Theory of Damage |Theory of Damage]] section of Strider Combat) we can view Depthstrider's methods of fighting Striders is inflicting physical damage via curvature manipulation, and Lattice damage using the nature of the Void to gather information to itself.
+Adapting from other notes (The [[The Void#Depthstrider Combat |Depthstrider Combat]] section in the Void 2.0 doc as well as the Theory of Damage section of Strider Combat) we can view Depthstrider's methods of fighting Striders is inflicting physical damage via curvature manipulation, and Lattice damage using the nature of the Void to gather information to itself.
 
 The Void's power to 'pull' information to cause damage is the inverse of Law Stars causing damage by constantly outputting intense waves of Chalk. Law Stars would take your shirt off by blowing on you until it flies off your back, while the Void would grab your collar and rip it off you from the front. It behaves similarly towards Lattices, aiming to undo them by pulling on the weakest threads so the rest comes apart.
 
