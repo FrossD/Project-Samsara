@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "93e39d4c48c4b452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "26f427d050f7fac8",
             "type": "leaf",
             "state": {
@@ -198,7 +211,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -215,16 +229,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93cb784d559b3db0",
+  "active": "5906f4232ee1c285",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/MDT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",

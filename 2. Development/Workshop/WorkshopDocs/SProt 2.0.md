@@ -74,6 +74,29 @@ The Strider Protocol, by means of providing a path to power, guarantees the free
 
 	But what *IS* the Strider Protocol? Currently, the SProt is an immensely complex equation baked into the lattiece of Striders, that facilitates Striding as one of the many powers it grants, and as an extension of its actual function - granting the power to interact with chalk at the ribbon level in the form of the WeaveProt, Teks and Rituals.
 
+**Points**
+- Strider Protocol is all about human freedom.
+- The Strider Protocol outlines everything that makes a Strider.
+- A mind may escape its bounds and gain the capacity to grasp the true nature of information.
+- P3 is some already-established mechanical jargon.
+- P4 talks about how the SProt granting true understanding of information awoke Striders to previously out-of-reach secrets and powers in mundane things. And how the SProt granted access to all that was magnificent, but distant.
+- P5 talks about how the charge to explore and launch out into the expansive deep was given to man, as was the charge to seek knowledge and understanding. The Strider Protocol is this charge made manifest.
+- P6 talks of the deification of Striders.
+- P7 talks about how the SProt provides a path to power and the freedom to wield it, and is also the desire to be free, and the path to power is through learning, and striding imbibes some of the purest of human values.
+
+**New**
+**Cat A - Mundane Resultant**
+- The SProt opened up the entire Switchboard to the Third Kin. Even for those who couldn't go themselves, Striders forged paths for all to follow.
+- It facilitated deep inquiry into the nature of the Switchboard, by simply making it more accessible. 
+
+**Cat B - Philosophy**
+- The SProt fostered a new kind of pioneering spirit in the Third Kin. It offered those who bore it a truer kind of freedom that saw them unrestricted by anything in the Switchboard.
+- It drove the postulation of a 'Doctrine of Striding', which sought to attach a name and creed to what the Strider Protocol induced in those who bore it; a desire to see and experience, to grow strong, to dare mighty things, to sleep under the light of foreign stars, to surpass one's assumed limits in the quest to overcome assumed insurmountable odds. It created a drive to become more.
+
+**Cat C - Mythos**
+- The Strider Protocol as it was used by the Skydancers and the Danseers who fought in the Praxis Conflicts. as well as those who engaged in the subsequent Mind Hunts came to be regarded as heroes.
+- There was in inevitable deification of the Strider Protocol that resulted from the manners by which it was used, and what those who used it were able to accomplish. It did not help that the Danseers of the day had halos, or that the Sil'khan of now can manifest them as well.
+
 
 ## Deprecated Flash Protocol Canon
 **Legacy**
