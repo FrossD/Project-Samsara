@@ -2,7 +2,7 @@
 **"...greater works than these shall you do..."**
 
 ## The Grand Mechanica
-The final realization of [[The Axle of Axles]]. This is a doc that elaborates on all things discussed in A of A, which are then used to write the final iteration of two documents; [[The Blank-Slate Mind]] and another '**Grand Mechanica**' document, which illustrates the operating principles of the Switchboard.
+The final realization of Axle of Axles This is a doc that elaborates on all things discussed in A of A, which are then used to write the final iteration of two documents; [[The Blank-Slate Mind]] and another '**Grand Mechanica**' document, which illustrates the operating principles of the Switchboard.
 
 This doc somehow may tie-in the Mysticism.
 
