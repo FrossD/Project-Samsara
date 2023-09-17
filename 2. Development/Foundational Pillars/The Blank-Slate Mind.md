@@ -114,9 +114,21 @@ It can be thought of as two large reservoirs of chalk being wagered against each
 
 As a doctrine engages in physical-ideological warfare, its followers win or lose tithes of strength. These praxis interactions are happening almost all the time, even outside of battle, but it is in the brief moments when an adherent of a doctrine strikes down the adherent of another where the most monumental shifts in the power-balance of doctrines in the Switchboard are observed.
 
-## On Narrative
+### Titular Powers
+> Link to DocPass
+
+Titular powers are powers conferred upon those who, at the intersection of yarn and doctrine, have let an aspect form and shine forth. Those who dwell in the Switchboard come to call the bearer a title that may precede or succeed their name. Some may bear multiple titles, and not all may confer powers upon them. But when the calculus resolves in favor, titular powers are bestowed upon the worthy.
+
+As titles are derivative from actions, and actions from principles, titular powers are thus related to the doctrine that prompted them to take root, and furthermore operate under praxis mechanics. The praxis nature of titular powers allow them to operate beyond the confines of ordinary chalk, and thus titular powers go a length in cementing the place of their bearer in the Switchboard.
+
+Titular powers themselves however, are not like swords to be wielded or supernatural feats to be blasted at foes. They are more like crowns, regal indications of prominence that sit atop a subject's head, the capstone atop all that they are. Being related to doctrines, titular powers are regularly bestowed upon doctrinal zealots, who benefit from their boons **passively**.
+
+> As a hypothetical, a common title borne by the Spyndl Academy's strongest is that of the **Sojourner**. Highlighting the nature of the academy's operators to be adventurers and explorers, the title of the Sojourner is conferred upon those who have proven their skills in flight and discovery. The titular power conferred upon Sojourners, thus, is even greater dexterity with the Strider Protocol, granting them empowered skydancing, a praxis-mechanical lightening of their information mass, and greater efficiency of their stride equation. 
+
+### On Narrative
 I sought to build the Switchboard off this system as I felt there must be a way to truly realize a mechanical explanation for tropes or such seen in other works of fiction. The underdog hero strikes out against the tyrannical subjugator, but comes to falter under the crushing weight of their evil. When all seems lost, they recall all who have fought with them and for them, all who are relying on them, all who helped them, and from this they draw the strength necessary to overcome the most terrible evils, the direst odds.
 
 In the Switchboard, this is a mechanic and a narrative tool. Colossal, powerful, but poorly-formed doctrines held by terrible foes and the powers and forces they command - may be toppled by ragtag, cobbled-together groups of those who truly fight for real truth, and this is as acceptable and grounded in the canon of the Switchboard as calculus and trigonometry is grounded in our reality.
 
 When a praxis power is invoked, a praxis attack made, it is a statement, a move with heavy narrative weight. It is a rubberstamping of the happenings of the canon's characters, by the canon's world. It is the 'Amen' that ends a prayer. It is the 'Aiat' that ends a ritual chant. It is the period that ends the sentence I placed before it.
+

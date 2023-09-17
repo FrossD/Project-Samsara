@@ -9,7 +9,7 @@ Not much of a selection process was in place, and it could very well be said the
 	In the canon, before the events of the Post-Mysticism, Salyne Khateleya went insane through her delving into the Mysticism, and the rest of the Starsailors, Combined Strider Ops and many other parties had to work to stop her and her Mystics. These events are what brought about the collapse of Strider Society.  
 
 ## The Starsailors
-Each earned a title for themselves through the mechanics of [[The Cyclicality of Names]], reflecting the powers they obtained or forged, uniting them with their own skills, tools and experience into unique manners of engagement.
+Each earned a title for themselves through the mechanics of [[The Doctrine of Passing#On Names and Tales|yarns and titles]], reflecting the powers they obtained or forged, uniting them with their own skills, tools and experience into unique manners of engagement.
 
 ### 1. Adven Ventura, Strider Sojourner
 Their leader is **Adven Ventura**, the Strider Sojourner who focused on honing the more elementary Strider powers, learning deep rituals and perfecting his abilities as an Augmenter Tek caster. By virtue of sheer discipline his Strider Protocol is the fastest, and his sense of navigation unrivalled, earning him the title and titular powers of 'Sojourner'. 

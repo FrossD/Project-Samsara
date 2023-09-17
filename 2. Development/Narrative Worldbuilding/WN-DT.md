@@ -50,9 +50,6 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 - (nWB) **The Formation of the Wheelhouse**: Under [[The Dawn of the Dancirah]]
 	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
 
-- (pWB) **Doctrine of Passing**; Under [[The Doctrine of Passing]]
-	- A general lookover, as the doc is aged.
-
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
 
@@ -66,12 +63,6 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 	- 'Individuals and Families' and 'Respect and Hierarchies' are revised subheadings. Review the questions under each to add questions relevant to Individuals for the former, and societal hierarchies for the latter.
 	- Revise 'Taboos and Superstitions' to 'Quirks'. Get ChatGPT to comment on that one.
 		- Update this constructor with relevant questions as well.
-
-- (meta) **Ongoing Multifaceted Revisions**: Under various docs
-	- Move [[The Cyclicality of Names]] into [[The Blank-Slate Mind]].
-		- It's a thing with power through bearing personal doctrines, playing by those doctrines, succeeding with those doctrines, and others seeing you succeed with those doctrines.
-			- Integrates with the Tapyr or tapestry thing.
-	- The Doctrine of Passing describes, perhaps, the general doctrine of living. Moving the means by which descendants are made in the Switchboard, and the primary doc outlining the various forms of self-expression made available to us, into this doc makes sense.
 
 
 #### Class Beta - Reduced Priority
