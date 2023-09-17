@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd2f61aa7b3c74e",
+        "id": "aaeff4215b546820",
         "type": "tabs",
         "children": [
           {
-            "id": "0f085a1647104f88",
+            "id": "833ce4eb9c246df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "44f7fce10e633e2e",
+            "id": "8987a72e372db151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5906f4232ee1c285",
+            "id": "01c0473d71e87075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+                "file": "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,38 +47,12 @@
             }
           },
           {
-            "id": "93e39d4c48c4b452",
+            "id": "8601a49e73b0be9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f427d050f7fac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b977f85c3404ff37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "file": "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -138,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -154,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md"
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md"
               }
             }
           },
@@ -164,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "file": "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,20 +204,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93e39d4c48c4b452",
+  "active": "8987a72e372db151",
   "lastOpenFiles": [
-    "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/MDT.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
+    "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/MDT.md",
+    "2. Development/Workshop/WorkshopDocs/SProt 2.0.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
-    "2. Development/Workshop/WorkshopDocs/DocPass 2.0.md",
-    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The Lattice as a Canvas.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Strider Descendance.md",
