@@ -10,7 +10,7 @@ To begin the drafting of this doc, I needed first to see what categories of tech
 - Transportation Technology
 - Medical & Pharmacological Technology
 
-Of these, in this doc, I chose to focus on ICT, transport and medical as the ways those would be different in the Switchboard were i**mmediately apparent to me. Electrical and energy generation, mechanical and manufacturing - narratively they didn't seem to be immediately relevant to the canon, other than for those who are immensely anal about worldbuilding. This is a camp I absolutely occupy of course, but they also fit in the camp where explanations for them would effectively be 'we do this, but with *chalk*', repeated over and over for a hundred different things. 
+Of these, in this doc, I chose to focus on ICT, transport and medical as the ways those would be different in the Switchboard were **immediately apparent to me. Electrical and energy generation, mechanical and manufacturing - narratively they didn't seem to be immediately relevant to the canon, other than for those who are immensely anal about worldbuilding. This is a camp I absolutely occupy of course, but they also fit in the camp where explanations for them would effectively be 'we do this, but with *chalk*', repeated over and over for a hundred different things. 
 
 Is it really of immense relevance how fast moving consumer goods are manufactured in the Switchboard? Or how homes are powered? Or rather, are these questions who's answers are so incredibly farfetched they need thrashing in entire documents? I think not; I think that when needed, they will be explained, but as of now there is little need.
 
@@ -129,7 +129,28 @@ While the Anarhiza does allow communication across the Switchboard, it is more c
 	In a truly hilarious twist - a juxtaposition if you will - Strider network administrators function more like gardeners than whatever image that title would conventionally invoke in the mind. 
 
 #### The DevitNet Netmasters
+The DevitNet's netmasters are those who've assumed net-side control of a sector or more of the DevitNet's colossal intangible real estate.
 
+One of the quirks of the DevitNet is that it is very much constrained regionally due to its reliance on the Anarhiza. To elaborate, much of the DevitNet is a mirror of the physical Dancirah, with distance and location in the Dancirah translating almost 1 to 1 to the DevitNet. Two computers place five feet from each other are five feet apart in a sense in the DevitNet. And many, many computers say, on one region, serve to represent that region's physical presence in the Dancirah, within the DevitNet. 
+
+As such the DevitNet is very split up, as it were, with notable locations such as cities and settlements, constructs such as nexuses and vaults, the like, all represented in the DevitNet as being equidistant from each other in that space as they are top-side. Because of this, locational and regional differences tend to arise between members of one section of the DevitNet and the other. These differences can occasionally devolve into real conflict, and usually the mediators or the instigators of this conflict are the netmasters.
+
+By all metrics, the DevitNet's netmasters are functionally self-appointed, autonomous, and in some cases even absolute, powers. Often they establish themselves through charisma, real-world significance, or by 'right of slaughter', to describe becoming a netmaster at the expense of other netizen's wellbeing. They assume control of regions of the DevitNet and assume a number of responsibilities if they feel so inclined, such as moderating spaces and monitoring what goes through the various data highways. In particular however, netmasters are able to gain control of the various information inlets and outlets for a DevitNet region.
+
+The Anarhiza network is setup in a manner that sees colossal nexuses of gigantic trees extend and branch out in all directions, thinning as they go along. This topology sees the various regions of the DevitNet be leaves on this tree, with only one major inlet and outlet that supplies that handles all throughput. Should a netmaster feel so inclined, they can control what passes through this central inlet, or collapse entirely for various reasons. It is one of the larger flaws of the DevitNet.
+
+Why they may be driven to take such actions is multifarious as with anything, but core among what is observed in most who become netmasters - irrespective of means - is twofold; a nigh radiant eccentricity, and being immensely opinionated on the shape the DevitNet should take. The former drives them to assume the position. The latter compels them to take actions, either as infiltrating assassins or rampaging warlords, who seek to realize their vision of the DevitNet through any means possible.
+
+In the net-space, they come to command a fair bit of power. So much so that it has far-reaching implications well outside the DevitNet, and many of the stories the many large bodies in the Switchboard could tell have many mentions of tangos with the netmasters in their writ.
+
+Statistically, most netmasters are Fel-Arcad. Most arcologies double as anarhiza nexuses, thus allowing large information throughput, and the Fel-Arcad as a people are terribly sheltered and isolated, studious to a fault, and in most cases, simply quite bored. The opportunity to deal with all that in a singular fell swoop appeals to them, considering most are already well attuned to the DevitNet even at very young ages. The fact arcologies and their administration are mandated to protect the Fel-Arcad within also presents a valuable shield to any netmasters who prove particularly incendiary.
+
+#### Maintenance
+With the DevitNet being the primary means of long-distance communication in the Switchboard other than a Strider with a knapsack or a jumpship, there is an unwritten imperative that it must be maintained frequently to function optimally. It doesn't help though, that much of the DevitNet's infrastructure is incredibly traceable and accessible, and thus particularly vulnerable to those will ill intent.
+
+The task of maintaining the DevitNet is a combined effort, often between Academy Operators and other paramilitary or simply violence-capable outfits, and the actual maintenance outfit. The latter varies. Most of the DevitNet is lacking in explicit jurisdiction, and as such Lancaster Innovations is primarily responsible to giving a little loving to anarhiza trees that need it. If a nexus is under the control of a netmaster or some other group, they often make their own arrangements for the maintenance and repair of infrastructure. It's not unheard of for 'maintenance outfits' to place listening devices or net-side saboteur tech on networks.
+
+The need for Academy Operators or similar is due to the fact that occasionally, nexuses are hijacked by Vault Mind assets. Autonomous swarms of point-defense chromelings can easily wipe out a non-combat fleet of ships, and so it helps to have assets of one's own who are capable of imparting significant counter-force.
 
 ### The Slate
 	This one I have cherished. 

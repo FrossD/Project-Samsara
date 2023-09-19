@@ -4,81 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aaeff4215b546820",
+        "id": "dda6983ea49012a3",
         "type": "tabs",
         "children": [
           {
-            "id": "f70f5e3b5de36294",
+            "id": "57f71f492a821383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "833ce4eb9c246df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "094f19800c498e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9889c34507980e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c430f86d90252960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74dd801fa81dac8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -138,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -155,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -165,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,11 +162,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "833ce4eb9c246df9",
+  "active": "57f71f492a821383",
   "lastOpenFiles": [
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "3. Scribbling/README 1.md",
+    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Mechanical Pillars/The Void.md",
+    "2. Development/Foundational Pillars/The Switchboard.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ventura's Arsenal Card.md",
     "1. Drawing Board/1. Samsara/Meta/Patreon.md",
     "orphaned files output.md",
     "2. Development/MDT.md",
@@ -245,21 +188,11 @@
     "1. Drawing Board/2. Offshore/HexLore.md",
     "1. Drawing Board/1. Samsara/Meta/Substack Post.md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Hex (07-10-22).md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ventura's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions/The Bayesian SlateMind.md",
     "2. Development/Workshop/WorkshopDocs/Prop.Blackjack.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/Blakk's Inquisition.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/BS1.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/LatCanvasHex.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/Post-BS1 Cryogen's Response.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/Post-BS1 Notes.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Workshop/WorkshopDocs/DocPassDEPRECATED.md",
-    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "3. Scribbling/Concept AV.pdf",
     "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png",

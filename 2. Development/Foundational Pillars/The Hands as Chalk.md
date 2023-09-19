@@ -166,3 +166,25 @@ There was once an effort to classify and compartmentalize Teks, but it has been 
 A rather interesting ramification of most denizens of the Switchboard only being able to wield a singular Tek at a time, coupled with the fact Teks are immensely varied and unique from one another, is that certain Teks become 'assigned' to certain persons - a part of their identity, as it were - especially in the case of Striders. 
 
 Striders known for using certain Teks accumulate renown or notoriety, the implications of which is elaborated upon in the discussion of [[The Doctrine of Passing#On Names and Tales|Yarns]]. Striders with particularly powerful and well-known Teks may knowingly or unknowingly cultivate groups of other Striders that follow them, and by virtue of Strider Evolution, may develop weaker versions of the Tek they posses. It leads to the formation of 'cults' of Striders, all using powers similar to that of their leader's.
+
+## On the Astrolabe and Protocols
+> A section for the Astrolabe. Formerly, we had a number of top-level core mechanics docs that this section would have been better suited for, but they were lost in the many revision and consolidation cycles. For now, it shall rest here.
+
+In the beginning was the Switchboard and the Astrolabe kept its time. At the beginning was the Astrolabe. Flowing from the Astrolabe is all things. Much has been said on the Astrolabe elsewhere, which is why here I will focus on some of the Astrolabe's core operating mechanics, that being the **Reflexive**.
+
+The Reflexive is a time-bound subroutine that the Astrolabe triggers to evaluate itself. The Astrolabe has many subroutines that descend from its main routine, that being the perpetuation of the Switchboard. The Reflexive, however, is a means of perpetuating the Astrolabe, and the results of the Reflexive is often what triggers the various routine of the **Resolver**, that which triggers the Astrolabe to initiate the various steps required to perform a resolution.
+
+One of the more subtle things the Reflexive does, is feed additional data to the Resolver that is necessary for the Resolver to make come to pass to ensure the continued operation of the Astrolabe. One of these in particular, is the creation of **Protocols**. Protocols are at their core, dictate the means of doing a thing. Occasionally, the Astrolabe's resolution demands that something be doable, and thus it creates a protocol to make it so. Protocols are thus both the means and the end. Protocols may not necessarily be used by the Astrolabe itself, however. The Reflexive is a protocol, but most other protocols exist in the Switchboard as actions that can be taken or powers wielded by its denizens.
+
+On this final note, occasionally, something that already exists can be elevated to a protocol level. Whereas it was only backed by the truth and nature of what it was, it now is backed by the mechanisms of the Astrolabe. It is made transcendent, and allowed to operate on higher mechanical spectra.
+
+### Protocol Master List
+The list of currently existing protocols in the canon.
+
+1. Reflection Protocol
+2. Strider Protocol
+3. Weave Protocol
+4. Drift Protocol
+5. Flash Protocol
+6. Praxis Protocol
+7. Breach Protocol

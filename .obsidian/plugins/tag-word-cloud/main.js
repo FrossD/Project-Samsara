@@ -904,7 +904,7 @@ var require_lib = __commonJS({
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     require("obsidian");
-    var getAPI2 = (app2) => {
+    var getAPI3 = (app2) => {
       var _a;
       if (app2)
         return (_a = app2.plugins.plugins.dataview) === null || _a === void 0 ? void 0 : _a.api;
@@ -912,7 +912,7 @@ var require_lib = __commonJS({
         return window["DataviewAPI"];
     };
     var isPluginEnabled = (app2) => app2.plugins.enabledPlugins.has("dataview");
-    exports.getAPI = getAPI2;
+    exports.getAPI = getAPI3;
     exports.isPluginEnabled = isPluginEnabled;
   }
 });
@@ -1457,7 +1457,7 @@ var require_stopword = __commonJS({
 
 // src/main.ts
 __export(exports, {
-  default: () => TagCloudPlugin2,
+  default: () => TagCloudPlugin3,
   logger: () => logger
 });
 var import_obsidian4 = __toModule(require("obsidian"));
@@ -1473,6 +1473,9 @@ var DEFAULT_SETTINGS = {
     withoutStopwords: {},
     withStopwords: {},
     timestamp: 0
+  },
+  tags: {
+    exclude: []
   }
 };
 var TagCloudPluginSettingsTab = class extends import_obsidian.PluginSettingTab {
@@ -1493,10 +1496,19 @@ var TagCloudPluginSettingsTab = class extends import_obsidian.PluginSettingTab {
       }));
       text.inputEl.setAttr("rows", 8);
     });
-    new import_obsidian.Setting(containerEl).setDesc("Recalculate Word Distribution").setDesc("").addButton((button) => {
+    new import_obsidian.Setting(containerEl).setDesc("").addButton((button) => {
       button.setButtonText("Recalculate Word Distribution").onClick(() => __async(this, null, function* () {
         yield this.plugin.calculateWordDistribution(true);
       }));
+    });
+    new import_obsidian.Setting(containerEl).setName("Tagcloud").setHeading();
+    new import_obsidian.Setting(containerEl).setName("Excluded tags").setDesc("The following tags wil be excluded from all tag clouds (one per line, without the #)").addTextArea((text) => {
+      text.setValue(this.plugin.settings.tags.exclude.join(", "));
+      text.onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.tags.exclude = value.split(", ");
+        yield this.plugin.saveSettings();
+      }));
+      text.inputEl.setAttr("rows", 10);
     });
   }
 };
@@ -1756,7 +1768,7 @@ var TagCloud = class {
             el.createEl("p", { cls: "cloud-error" }).setText("query option is required");
             return;
           }
-          if (!query.match(/[\[#]/)) {
+          if (!query.match(/[[#]/)) {
             query = '"' + options.query + '"';
           }
           pages = dataviewAPI.pages(query, ctx.sourcePath);
@@ -1769,7 +1781,10 @@ var TagCloud = class {
           tags.push(...page.file.tags);
         }
       }
-      const map = tags.map((t) => t.replace("#", "")).reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map());
+      const exclude = options.exclude.map((t) => "#" + t);
+      const alwaysExcluded = this.plugin.settings.tags.exclude.map((t) => "#" + t);
+      const filteredTags = tags.filter((tag) => !exclude.some((e) => tag === e) && !alwaysExcluded.some((e) => tag === e));
+      const map = filteredTags.map((t) => t.replace("#", "")).reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map());
       const filtered = Array.from(map.entries()).filter(([_, v]) => v >= options.minCount);
       el.empty();
       this.plugin.generateCloud(filtered, options, el, "tag:");
@@ -1780,11 +1795,12 @@ var TagCloud = class {
 
 // src/wordcloud.ts
 var import_obsidian3 = __toModule(require("obsidian"));
+var import_obsidian_dataview2 = __toModule(require_lib());
 
 // src/functions.ts
 var stopwords = new Set();
 function removeMarkdown(text) {
-  return text.replace(/^---\n.*?\n---\n/s, "").replace(/!?\[(.+)\]\(.+\)/gm, "$1").replace(/(https?):\/\/\S*(\s?)/gm, "").replace(/\*\*(.*?)\*\*/gm, "$1").replace(/\*(.*?)\*/gm, "$1").replace(/\[\[(.*(?=\|))(.*)\]\]/g, "$2").replace(/\[\[([\s\S]*?)\]\]/gm, "$1").replace(/- ?\[.?\]/gm, "").replace(/%%.*?%%/gm, "").replace(/`([\s\S]*?)`/gm, "").replace(/\[\^[[\s\S]]*\]/g, "").replace(/\^\[([\s\S]*?)\]/g, "$1").replace(/\$\$([\s\S]*?)\$\$/gm, "").replace(/\$([\s\S]*?)\$/gm, "").replace(/\[([\s\S]*?)\]/g, "$1").replace(/\(([\s\S]*?)\)/g, "$1").replace(/^(.*?)::(.*?)$/gm, "").replace(/[,.;:|#-()=_*-^\[\]]/g, "").replace(/<("[^"]*"|'[^']*'|[^'">])*>/gm, "").replace(/\s\S\s/g, " ");
+  return text.replace(/^---\n.*?\n---\n/s, "").replace(/!?\[(.+)\]\(.+\)/gm, "$1").replace(/(https?):\/\/\S*(\s?)/gm, "").replace(/\*\*(.*?)\*\*/gm, "$1").replace(/\*(.*?)\*/gm, "$1").replace(/\[\[(.*(?=\|))(.*)\]\]/g, "$2").replace(/\[\[([\s\S]*?)\]\]/gm, "$1").replace(/- ?\[.?\]/gm, "").replace(/%%(.|\n)*?%%/gm, "").replace(/`([\s\S]*?)`/gm, "").replace(/\[\^[[\s\S]]*\]/g, "").replace(/\^\[([\s\S]*?)\]/g, "$1").replace(/\$\$([\s\S]*?)\$\$/gm, "").replace(/\$([\s\S]*?)\$/gm, "").replace(/\[([\s\S]*?)\]/g, "$1").replace(/\(([\s\S]*?)\)/g, "$1").replace(/^(.*?)::(.*?)$/gm, "").replace(/[,.;:|#()=_*^[\]-]/g, "").replace(/<("[^"]*"|'[^']*'|[^'">])*>/gm, "").replace(/\s\S\s/g, " ");
 }
 function removeStopwords(words, customStopwords) {
   const result = {};
@@ -1798,21 +1814,14 @@ function removeStopwords(words, customStopwords) {
 }
 function getWords(text) {
   return __async(this, null, function* () {
-    const words = text.split(/[\n\s]/g);
-    const output = [];
-    for (let word of words) {
-      const result = removeMarkdown(word).toLocaleLowerCase();
-      if (result.length > 0) {
-        output.push(result);
-      }
-    }
-    return output;
+    const cleanText = removeMarkdown(text).toLocaleLowerCase();
+    return cleanText.split(/[\n\s]/g);
   });
 }
 function convertToMap(words) {
   return __async(this, null, function* () {
     const record = {};
-    for (let word of words) {
+    for (const word of words) {
       const element = record[word];
       if (element) {
         record[word] = element + 1;
@@ -1895,8 +1904,35 @@ var Wordcloud = class {
         }
       }
       if (options.source === "query") {
-        el.createEl("p", { cls: "cloud-error" }).setText("Queries are not supported in a wordcloud");
-        return;
+        const dataviewAPI = (0, import_obsidian_dataview2.getAPI)();
+        if (dataviewAPI === void 0) {
+          el.createEl("p", { cls: "cloud-error" }).setText("Dataview is not installed, but is required to use queries");
+          return;
+        }
+        try {
+          const query = options.query;
+          if (!query) {
+            el.createEl("p", { cls: "cloud-error" }).setText("query option is required");
+            return;
+          }
+          const page = dataviewAPI.page(query);
+          if (!page) {
+            el.createEl("p", { cls: "cloud-error" }).setText("Page not found");
+            return;
+          }
+          const rawContent = yield dataviewAPI.io.load(page.file.path);
+          const parsedWords = yield getWords(rawContent);
+          content = yield convertToMap(parsedWords);
+          if (options.stopwords) {
+            const tmp = this.plugin.settings.stopwords.split("\n");
+            const customStopwords = new Set(tmp);
+            content = removeStopwords(content, customStopwords);
+          }
+        } catch (error) {
+          el.createEl("p", { cls: "cloud-error" }).setText(error.toString());
+          logger.error(error);
+          return;
+        }
       }
       el.empty();
       if (this.plugin.calculatingWordDistribution) {
@@ -1972,7 +2008,7 @@ var LinkCloud = class {
 // src/main.ts
 var import_stopword = __toModule(require_stopword());
 var logger = LoggerManager.create("Tag & Word Cloud");
-var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
+var TagCloudPlugin3 = class extends import_obsidian4.Plugin {
   constructor() {
     super(...arguments);
     this.fileContentsWithStopwords = {};
@@ -2028,7 +2064,8 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
       minCount: yaml.minCount ? yaml.minCount : 0,
       type: yaml.type ? yaml.type : "resolved",
       shrinkToFit: yaml.shrinkToFit ? yaml.shrinkToFit : true,
-      maxDepth: yaml.maxDepth ? yaml.maxDepth : 15
+      maxDepth: yaml.maxDepth ? yaml.maxDepth : 15,
+      exclude: yaml.exclude ? yaml.exclude : []
     };
   }
   calculateWordDistribution(fresh = false) {
@@ -2082,8 +2119,10 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
           const words = yield getWords(fileContent);
           const withStopwords = yield convertToMap(words);
           this.fileContentsWithStopwords = yield mergeMaps(this.fileContentsWithStopwords, withStopwords);
+          console.log(customStopwords);
           const withoutStopwords = removeStopwords(withStopwords, customStopwords);
           this.fileContentsWithoutStopwords = yield mergeMaps(this.fileContentsWithoutStopwords, withoutStopwords);
+          console.log(this.fileContentsWithoutStopwords);
           this.settings.filecache[file.path] = {
             withStopwords,
             withoutStopwords,
@@ -2120,7 +2159,7 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
     const tmp = [];
     let last = Infinity;
     let i = options.maxDepth;
-    for (let sortedElement of sorted) {
+    for (const sortedElement of sorted) {
       if (i <= 0) {
         break;
       }
@@ -2160,18 +2199,16 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
       logger.info("enabling Tag & Word cloud plugin");
       yield this.loadSettings();
       this.addSettingTab(new TagCloudPluginSettingsTab(this));
-      Object.entries(import_stopword.default).forEach((stopword2) => {
-        if (stopword2[0] !== "removeStopwords")
-          stopwords.add(stopword2[0]);
-      });
+      for (const key of Object.keys(import_stopword.default)) {
+        for (const value of Object.values(import_stopword.default[key])) {
+          stopwords.add(value);
+        }
+      }
       if (!import_wordcloud5.default.isSupported) {
         new import_obsidian4.Notice("the Word & Tag cloud plugin is not compatible with your device");
         throw Error("the tag cloud plugin is not supported on your device");
       }
       this.app.workspace.onLayoutReady(() => __async(this, null, function* () {
-        setTimeout(() => __async(this, null, function* () {
-          return yield this.calculateWordDistribution();
-        }), 5e3);
       }));
       this.addCommand({
         id: "recalcuate-word-distribution",

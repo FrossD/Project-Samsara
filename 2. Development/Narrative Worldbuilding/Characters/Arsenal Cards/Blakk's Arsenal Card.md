@@ -33,7 +33,7 @@ Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Da
 			  Axle: Formshift | Re-Innovate
 			  *"The Daughter gave me a charge; 'go, show them the depths of the Void, the all-encompassing wrath therein'."*
 			  
-			  This attack synergizes with Blakk's **Formshift**, and does additional damage based on the number of **innovation charges** that Blakk has accumulated through formshifts, capped at twenty charges expended. This strike bypasses and destroys armor, cuts, siphons chalk and suppresses further chalkweaving. It is Blakk's most powerful technique.
+			  This attack synergizes with Blakk's **Formshift**, and does additional damage based on the number of **innovation charges** that Blakk has accumulated through formshifts, **capped at twenty charges** expended. This strike bypasses and destroys armor, cuts, siphons chalk and suppresses further chalkweaving. It is Blakk's most powerful technique.
 			  
 			- Utility
 			  **Momentum Conduit**
@@ -128,13 +128,13 @@ Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Da
 			  
 			  Blakk takes aim and fires a barrage of pale amara projectiles. They pierce and siphon chalk from the targets they strike, empowering Blakk as a denizen of the depths.
 			  
-			- Offensive
+			- Offensive - Skew
 			  **Napalm Hack** - Induc, Siph
 			  *"Let 'em stew.'"*
 			  
 			  The twin machinegun barrels are cycled out in favor of a nozzle, and a canister is fitted to the back. Blakk can blast dense swathes of incredibly hot flames at close targets, incinerating them and inflicting heavy inductive burn, as well as siphoning their calcic reserves.
 			  
-			- Offensive
+			- Offensive - Skew
 			  **Railgun Hack** - Brch, Cado, Unrav, Prax
 			  Axle: Formshift
 			  *"Tuned. Over-tuned possibly. Maybe more than possibly. Almost certainly. I might have been asked to stop using it."*

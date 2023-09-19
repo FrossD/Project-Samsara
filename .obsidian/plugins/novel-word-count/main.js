@@ -59,10 +59,178 @@ var DebugHelper = class {
   }
 };
 
-// logic/file.ts
+// logic/event.ts
 var import_obsidian = require("obsidian");
 
+// logic/cancellation.ts
+var CANCEL = Symbol("Cancel");
+var CancellationToken = class {
+  constructor() {
+    this._isCancelled = false;
+  }
+  get isCancelled() {
+    return this._isCancelled;
+  }
+  [CANCEL]() {
+    this._isCancelled = true;
+  }
+};
+var CancellationTokenSource = class {
+  constructor() {
+    this.token = new CancellationToken();
+  }
+  cancel() {
+    this.token[CANCEL]();
+  }
+};
+
+// logic/event.ts
+var EventHelper = class {
+  constructor(plugin, app, debugHelper, fileHelper) {
+    this.plugin = plugin;
+    this.app = app;
+    this.debugHelper = debugHelper;
+    this.fileHelper = fileHelper;
+    this.cancellationSources = [];
+  }
+  async handleEvents() {
+    this.plugin.registerEvent(
+      this.app.metadataCache.on("changed", async (file) => {
+        this.debugHelper.debug(
+          "[changed] metadataCache hook fired, recounting file",
+          file.path
+        );
+        const countToken = this.registerNewCountToken();
+        await this.fileHelper.updateFileCounts(
+          file,
+          this.plugin.savedData.cachedCounts,
+          countToken.token
+        );
+        this.cancelToken(countToken);
+        await this.plugin.updateDisplayedCounts(file);
+        await this.plugin.saveSettings();
+      })
+    );
+    this.app.workspace.onLayoutReady(() => {
+      this.plugin.registerEvent(
+        this.app.vault.on("create", async (file) => {
+          this.debugHelper.debug(
+            "[create] vault hook fired, analyzing file",
+            file.path
+          );
+          const countToken = this.registerNewCountToken();
+          await this.fileHelper.updateFileCounts(
+            file,
+            this.plugin.savedData.cachedCounts,
+            countToken.token
+          );
+          this.cancelToken(countToken);
+          await this.plugin.updateDisplayedCounts(file);
+          await this.plugin.saveSettings();
+        })
+      );
+    });
+    this.plugin.registerEvent(
+      this.app.vault.on("delete", async (file) => {
+        this.debugHelper.debug(
+          "[delete] vault hook fired, forgetting file",
+          file.path
+        );
+        this.fileHelper.removeFileCounts(
+          file.path,
+          this.plugin.savedData.cachedCounts
+        );
+        await this.plugin.updateDisplayedCounts(file);
+        await this.plugin.saveSettings();
+      })
+    );
+    this.plugin.registerEvent(
+      this.app.vault.on("rename", async (file, oldPath) => {
+        if (file instanceof import_obsidian.TFolder) {
+          return;
+        }
+        this.debugHelper.debug(
+          "[rename] vault hook fired, recounting file",
+          file.path
+        );
+        this.fileHelper.removeFileCounts(
+          oldPath,
+          this.plugin.savedData.cachedCounts
+        );
+        const countToken = this.registerNewCountToken();
+        await this.fileHelper.updateFileCounts(
+          file,
+          this.plugin.savedData.cachedCounts,
+          countToken.token
+        );
+        this.cancelToken(countToken);
+        await this.plugin.updateDisplayedCounts(file);
+        await this.plugin.saveSettings();
+      })
+    );
+    const reshowCountsIfNeeded = async (hookName) => {
+      this.debugHelper.debug(`[${hookName}] hook fired`);
+      const fileExplorerLeaf = await this.plugin.getFileExplorerLeaf();
+      if (this.isContainerTouched(fileExplorerLeaf)) {
+        this.debugHelper.debug(
+          "container already touched, skipping display update"
+        );
+        return;
+      }
+      this.debugHelper.debug("container is clean, updating display");
+      await this.plugin.updateDisplayedCounts();
+    };
+    this.plugin.registerEvent(
+      this.app.workspace.on(
+        "layout-change",
+        (0, import_obsidian.debounce)(reshowCountsIfNeeded.bind(this, "layout-change"), 1e3)
+      )
+    );
+  }
+  isContainerTouched(leaf) {
+    const container = leaf.view.containerEl;
+    return container.className.includes("novel-word-count--");
+  }
+  async refreshAllCounts() {
+    this.cancelAllCountTokens();
+    const countToken = this.registerNewCountToken();
+    this.debugHelper.debug("refreshAllCounts");
+    this.plugin.savedData.cachedCounts = await this.fileHelper.getAllFileCounts(
+      countToken.token
+    );
+    this.cancelToken(countToken);
+    await this.plugin.saveSettings();
+  }
+  /*
+     CANCELLATION HANDLING
+   */
+  registerNewCountToken() {
+    const cancellationSource = new CancellationTokenSource();
+    this.cancellationSources.push(cancellationSource);
+    return cancellationSource;
+  }
+  cancelToken(source) {
+    source.cancel();
+    if (this.cancellationSources.includes(source)) {
+      this.cancellationSources.splice(
+        this.cancellationSources.indexOf(source),
+        1
+      );
+    }
+  }
+  cancelAllCountTokens() {
+    for (const source of this.cancellationSources) {
+      source.cancel();
+    }
+    this.cancellationSources = [];
+  }
+};
+
+// logic/file.ts
+var import_obsidian3 = require("obsidian");
+
 // logic/settings.ts
+var import_obsidian2 = require("obsidian");
 var countTypeDisplayStrings = {
   ["none" /* None */]: "None",
   ["word" /* Word */]: "Word Count",
@@ -133,604 +301,6 @@ var DEFAULT_SETTINGS = {
   wordCountType: "SpaceDelimited" /* SpaceDelimited */,
   pageCountType: "ByWords" /* ByWords */,
   excludeComments: false
-};
-
-// logic/file.ts
-var FileHelper = class {
-  constructor(app, plugin) {
-    this.app = app;
-    this.plugin = plugin;
-    this.debugHelper = new DebugHelper();
-    this.cjkRegex = /\p{Script=Han}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Hangul}|[0-9]+/gu;
-    this.ExcludedFileTypes = /* @__PURE__ */ new Set([
-      "pdf",
-      "jpg",
-      "jpeg",
-      "png",
-      "webp",
-      "gif",
-      "avif",
-      "heic"
-    ]);
-  }
-  get settings() {
-    return this.plugin.settings;
-  }
-  get vault() {
-    return this.app.vault;
-  }
-  async getAllFileCounts(wordCountType) {
-    const debugEnd = this.debugHelper.debugStart("getAllFileCounts");
-    const files = this.vault.getMarkdownFiles();
-    const counts = {};
-    for (const file of files) {
-      const contents = await this.vault.cachedRead(file);
-      this.setCounts(counts, file, contents, wordCountType);
-    }
-    debugEnd();
-    return counts;
-  }
-  getCountDataForPath(counts, path) {
-    if (counts.hasOwnProperty(path)) {
-      return counts[path];
-    }
-    const childPaths = Object.keys(counts).filter(
-      (countPath) => path === "/" || countPath.startsWith(path + "/")
-    );
-    const directoryDefault = {
-      isDirectory: true,
-      noteCount: 0,
-      wordCount: 0,
-      wordCountTowardGoal: 0,
-      wordGoal: 0,
-      pageCount: 0,
-      characterCount: 0,
-      nonWhitespaceCharacterCount: 0,
-      linkCount: 0,
-      embedCount: 0,
-      aliases: null,
-      createdDate: 0,
-      modifiedDate: 0,
-      sizeInBytes: 0
-    };
-    return childPaths.reduce((total, childPath) => {
-      const childCount = this.getCountDataForPath(counts, childPath);
-      return {
-        isDirectory: true,
-        noteCount: total.noteCount + childCount.noteCount,
-        linkCount: total.linkCount + childCount.linkCount,
-        embedCount: total.embedCount + childCount.embedCount,
-        aliases: [],
-        wordCount: total.wordCount + childCount.wordCount,
-        wordCountTowardGoal: total.wordCountTowardGoal + childCount.wordCountTowardGoal,
-        wordGoal: total.wordGoal + childCount.wordGoal,
-        pageCount: total.pageCount + childCount.pageCount,
-        characterCount: total.characterCount + childCount.characterCount,
-        nonWhitespaceCharacterCount: total.nonWhitespaceCharacterCount + childCount.nonWhitespaceCharacterCount,
-        createdDate: total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate),
-        modifiedDate: Math.max(
-          total.modifiedDate,
-          childCount.modifiedDate
-        ),
-        sizeInBytes: total.sizeInBytes + childCount.sizeInBytes
-      };
-    }, directoryDefault);
-  }
-  setDebugMode(debug) {
-    this.debugHelper.setDebugMode(debug);
-  }
-  async updateFileCounts(abstractFile, counts, wordCountType) {
-    if (abstractFile instanceof import_obsidian.TFolder) {
-      this.debugHelper.debug("updateFileCounts called on instance of TFolder");
-      Object.assign(counts, this.getAllFileCounts(wordCountType));
-      return;
-    }
-    if (abstractFile instanceof import_obsidian.TFile) {
-      const contents = await this.vault.cachedRead(abstractFile);
-      this.setCounts(counts, abstractFile, contents, wordCountType);
-    }
-  }
-  countEmbeds(metadata) {
-    var _a, _b;
-    return (_b = (_a = metadata.embeds) == null ? void 0 : _a.length) != null ? _b : 0;
-  }
-  countLinks(metadata) {
-    var _a, _b;
-    return (_b = (_a = metadata.links) == null ? void 0 : _a.length) != null ? _b : 0;
-  }
-  countNonWhitespaceCharacters(content) {
-    return (content.replace(/\s+/g, "") || []).length;
-  }
-  countWords(content, wordCountType) {
-    switch (wordCountType) {
-      case "CJK" /* CJK */:
-        return (content.match(this.cjkRegex) || []).length;
-      case "AutoDetect" /* AutoDetect */:
-        const cjkLength = (content.match(this.cjkRegex) || []).length;
-        const spaceDelimitedLength = (content.match(/[^\s]+/g) || []).length;
-        return Math.max(cjkLength, spaceDelimitedLength);
-      case "SpaceDelimited" /* SpaceDelimited */:
-      default:
-        return (content.match(/[^\s]+/g) || []).length;
-    }
-  }
-  setCounts(counts, file, content, wordCountType) {
-    counts[file.path] = {
-      isDirectory: false,
-      noteCount: 1,
-      wordCount: 0,
-      wordCountTowardGoal: 0,
-      wordGoal: 0,
-      pageCount: 0,
-      characterCount: 0,
-      nonWhitespaceCharacterCount: 0,
-      linkCount: 0,
-      embedCount: 0,
-      aliases: [],
-      createdDate: file.stat.ctime,
-      modifiedDate: file.stat.mtime,
-      sizeInBytes: file.stat.size
-    };
-    const metadata = this.app.metadataCache.getFileCache(file);
-    if (!this.shouldCountFile(file, metadata)) {
-      return;
-    }
-    const meaningfulContent = this.getMeaningfulContent(content, metadata);
-    const wordCount = this.countWords(meaningfulContent, wordCountType);
-    const wordGoal = this.getWordGoal(metadata);
-    const characterCount = meaningfulContent.length;
-    const nonWhitespaceCharacterCount = this.countNonWhitespaceCharacters(meaningfulContent);
-    let pageCount = 0;
-    if (this.settings.pageCountType === "ByWords" /* ByWords */) {
-      const wordsPerPage = Number(this.settings.wordsPerPage);
-      const wordsPerPageValid = !isNaN(wordsPerPage) && wordsPerPage > 0;
-      pageCount = wordCount / (wordsPerPageValid ? wordsPerPage : 300);
-    } else if (this.settings.pageCountType === "ByChars" /* ByChars */ && !this.settings.charsPerPageIncludesWhitespace) {
-      const charsPerPage = Number(this.settings.charsPerPage);
-      const charsPerPageValid = !isNaN(charsPerPage) && charsPerPage > 0;
-      pageCount = nonWhitespaceCharacterCount / (charsPerPageValid ? charsPerPage : 1500);
-    } else if (this.settings.pageCountType === "ByChars" /* ByChars */ && this.settings.charsPerPageIncludesWhitespace) {
-      const charsPerPage = Number(this.settings.charsPerPage);
-      const charsPerPageValid = !isNaN(charsPerPage) && charsPerPage > 0;
-      pageCount = characterCount / (charsPerPageValid ? charsPerPage : 1500);
-    }
-    Object.assign(counts[file.path], {
-      wordCount,
-      wordCountTowardGoal: wordGoal !== null ? wordCount : 0,
-      wordGoal,
-      pageCount,
-      characterCount,
-      nonWhitespaceCharacterCount,
-      linkCount: this.countLinks(metadata),
-      embedCount: this.countEmbeds(metadata),
-      aliases: (0, import_obsidian.parseFrontMatterAliases)(metadata.frontmatter)
-    });
-  }
-  getWordGoal(metadata) {
-    const goal = metadata.frontmatter && metadata.frontmatter["word-goal"];
-    if (!goal || isNaN(Number(goal))) {
-      return null;
-    }
-    return Number(goal);
-  }
-  getMeaningfulContent(content, metadata) {
-    let meaningfulContent = content;
-    const hasFrontmatter = !!metadata.frontmatter;
-    if (hasFrontmatter) {
-      const frontmatterPos = metadata.frontmatterPosition || metadata.frontmatter.position;
-      meaningfulContent = frontmatterPos && frontmatterPos.start && frontmatterPos.end ? meaningfulContent.slice(0, frontmatterPos.start.offset) + meaningfulContent.slice(frontmatterPos.end.offset) : meaningfulContent;
-    }
-    if (this.settings.excludeComments) {
-      const hasComments = meaningfulContent.includes("%%");
-      if (hasComments) {
-        const splitByComments = meaningfulContent.split("%%");
-        meaningfulContent = splitByComments.filter((_, ix) => ix % 2 == 0).join("");
-      }
-    }
-    return meaningfulContent;
-  }
-  shouldCountFile(file, metadata) {
-    if (this.ExcludedFileTypes.has(file.extension.toLowerCase())) {
-      return false;
-    }
-    if (metadata.frontmatter && metadata.frontmatter.hasOwnProperty("wordcount") && (metadata.frontmatter.wordcount === null || metadata.frontmatter.wordcount === false || metadata.frontmatter.wordcount === "false")) {
-      return false;
-    }
-    const tags = (0, import_obsidian.getAllTags)(metadata).map((tag) => tag.toLowerCase());
-    if (tags.length && (tags.includes("#excalidraw") || tags.filter((tag) => tag.startsWith("#exclude")).map((tag) => tag.replace(/[-_]/g, "")).includes("#excludefromwordcount"))) {
-      return false;
-    }
-    return true;
-  }
-};
-
-// logic/filesize.ts
-var formatThresholds = [{
-  suffix: "b",
-  suffixLong: " B",
-  divisor: 1
-}, {
-  suffix: "kb",
-  suffixLong: " KB",
-  divisor: 1e3
-}, {
-  suffix: "mb",
-  suffixLong: " MB",
-  divisor: 1e6
-}, {
-  suffix: "gb",
-  suffixLong: " GB",
-  divisor: 1e9
-}, {
-  suffix: "tb",
-  suffixLong: " TB",
-  divisor: 1e12
-}];
-var FileSizeHelper = class {
-  formatFileSize(bytes, shouldAbbreviate) {
-    const largestThreshold = formatThresholds.last();
-    for (const formatThreshold of formatThresholds) {
-      if (bytes < formatThreshold.divisor * 1e3 || formatThreshold === largestThreshold) {
-        const units = bytes / formatThreshold.divisor;
-        const suffix = shouldAbbreviate ? formatThreshold.suffix : formatThreshold.suffixLong;
-        return `${this.round(units)}${suffix}`;
-      }
-    }
-    return `?B`;
-  }
-  round(value) {
-    return value.toLocaleString(void 0, {
-      minimumFractionDigits: 0,
-      maximumFractionDigits: 2
-    });
-  }
-};
-
-// main.ts
-var import_obsidian2 = require("obsidian");
-var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
-  constructor(app, manifest) {
-    super(app, manifest);
-    this.debugHelper = new DebugHelper();
-    this.fileSizeHelper = new FileSizeHelper();
-    this.fileHelper = new FileHelper(this.app, this);
-  }
-  get settings() {
-    return this.savedData.settings;
-  }
-  // LIFECYCLE
-  async onload() {
-    await this.loadSettings();
-    this.fileHelper.setDebugMode(this.savedData.settings.debugMode);
-    this.debugHelper.setDebugMode(this.savedData.settings.debugMode);
-    this.debugHelper.debug("onload lifecycle hook");
-    this.addSettingTab(new NovelWordCountSettingTab(this.app, this));
-    this.addCommand({
-      id: "recount-vault",
-      name: "Reanalyze (recount) all documents in vault",
-      callback: async () => {
-        this.debugHelper.debug("[Reanalyze] command triggered");
-        await this.initialize();
-      }
-    });
-    this.addCommand({
-      id: "cycle-count-type",
-      name: "Show next data type (1st position)",
-      callback: async () => {
-        this.debugHelper.debug("[Cycle next data type] command triggered");
-        this.settings.countType = countTypes[(countTypes.indexOf(this.settings.countType) + 1) % countTypes.length];
-        await this.saveSettings();
-        this.updateDisplayedCounts();
-      }
-    });
-    this.addCommand({
-      id: "toggle-abbreviate",
-      name: "Toggle abbreviation",
-      callback: async () => {
-        this.debugHelper.debug("[Toggle abbrevation] command triggered");
-        this.settings.abbreviateDescriptions = !this.settings.abbreviateDescriptions;
-        await this.saveSettings();
-        this.updateDisplayedCounts();
-      }
-    });
-    for (const countType of countTypes) {
-      this.addCommand({
-        id: `set-count-type-${countType}`,
-        name: `Show ${countTypeDisplayStrings[countType]} (1st position)`,
-        callback: async () => {
-          this.debugHelper.debug(
-            `[Set count type to ${countType}] command triggered`
-          );
-          this.settings.countType = countType;
-          await this.saveSettings();
-          this.updateDisplayedCounts();
-        }
-      });
-    }
-    this.handleEvents();
-    this.initialize();
-  }
-  async onunload() {
-    this.saveSettings();
-  }
-  // SETTINGS
-  async loadSettings() {
-    const loaded = await this.loadData();
-    if (loaded && loaded.settings && loaded.settings.countType && !countTypes.includes(loaded.settings.countType)) {
-      loaded.settings.countType = "word" /* Word */;
-    }
-    this.savedData = Object.assign({}, loaded);
-    this.savedData.settings = Object.assign(
-      {},
-      DEFAULT_SETTINGS,
-      this.savedData.settings
-    );
-  }
-  async saveSettings() {
-    await this.saveData(this.savedData);
-  }
-  // PUBLIC
-  async initialize(refreshAllCounts = true) {
-    this.debugHelper.debug("initialize");
-    if (refreshAllCounts) {
-      await this.refreshAllCounts();
-    }
-    try {
-      await this.updateDisplayedCounts();
-    } catch (err) {
-      this.debugHelper.debug("Error while updating displayed counts");
-      this.debugHelper.error(err);
-      setTimeout(() => {
-        this.initialize(false);
-      }, 1e3);
-    }
-  }
-  async updateDisplayedCounts(file = null) {
-    var _a;
-    const debugEnd = this.debugHelper.debugStart("updateDisplayedCounts");
-    if (!Object.keys(this.savedData.cachedCounts).length) {
-      this.debugHelper.debug("No cached data found; refreshing all counts.");
-      await this.refreshAllCounts();
-    }
-    const fileExplorerLeaf = await this.getFileExplorerLeaf();
-    this.setContainerClass(fileExplorerLeaf);
-    const fileItems = fileExplorerLeaf.view.fileItems;
-    if (file) {
-      const relevantItems = Object.keys(fileItems).filter(
-        (path) => file.path.includes(path)
-      );
-      this.debugHelper.debug(
-        "Setting display counts for",
-        relevantItems.length,
-        "fileItems matching path",
-        file.path
-      );
-    } else {
-      this.debugHelper.debug(
-        `Setting display counts for ${Object.keys(fileItems).length} fileItems`
-      );
-    }
-    for (const path in fileItems) {
-      if (file && !file.path.includes(path)) {
-        continue;
-      }
-      const counts = this.fileHelper.getCountDataForPath(
-        this.savedData.cachedCounts,
-        path
-      );
-      const item = fileItems[path];
-      ((_a = item.titleEl) != null ? _a : item.selfEl).setAttribute(
-        "data-novel-word-count-plugin",
-        this.getNodeLabel(counts)
-      );
-    }
-    debugEnd();
-  }
-  // FUNCTIONALITY
-  async getFileExplorerLeaf() {
-    return new Promise((resolve, reject) => {
-      let foundLeaf = null;
-      this.app.workspace.iterateAllLeaves((leaf) => {
-        if (foundLeaf) {
-          return;
-        }
-        const view = leaf.view;
-        if (!view || !view.fileItems) {
-          return;
-        }
-        foundLeaf = leaf;
-        resolve(foundLeaf);
-      });
-      if (!foundLeaf) {
-        reject(Error("Could not find file explorer leaf."));
-      }
-    });
-  }
-  getDataTypeLabel(counts, countType, abbreviateDescriptions) {
-    if (!counts || typeof counts.wordCount !== "number") {
-      return null;
-    }
-    const getPluralizedCount = function(noun, count, round = true) {
-      const displayCount = round ? Math.ceil(count).toLocaleString(void 0) : count.toLocaleString(void 0, {
-        minimumFractionDigits: 1,
-        maximumFractionDigits: 2
-      });
-      return `${displayCount} ${noun}${displayCount == "1" ? "" : "s"}`;
-    };
-    switch (countType) {
-      case "none" /* None */:
-        return null;
-      case "word" /* Word */:
-        return abbreviateDescriptions ? `${Math.ceil(counts.wordCount).toLocaleString()}w` : getPluralizedCount("word", counts.wordCount);
-      case "page" /* Page */:
-        return abbreviateDescriptions ? `${Math.ceil(counts.pageCount).toLocaleString()}p` : getPluralizedCount("page", counts.pageCount);
-      case "pagedecimal" /* PageDecimal */:
-        return abbreviateDescriptions ? `${counts.pageCount.toLocaleString(void 0, {
-          minimumFractionDigits: 1,
-          maximumFractionDigits: 2
-        })}p` : getPluralizedCount("page", counts.pageCount, false);
-      case "percentgoal" /* PercentGoal */:
-        if (counts.wordGoal <= 0) {
-          return null;
-        }
-        const fraction = counts.wordCountTowardGoal / counts.wordGoal;
-        const percent = Math.round(fraction * 100).toLocaleString(void 0);
-        return abbreviateDescriptions ? `${percent}%` : `${percent}% of ${counts.wordGoal.toLocaleString(void 0)}`;
-      case "note" /* Note */:
-        return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
-      case "character" /* Character */:
-        return abbreviateDescriptions ? `${counts.characterCount.toLocaleString()}ch` : getPluralizedCount("character", counts.characterCount);
-      case "link" /* Link */:
-        if (counts.linkCount === 0) {
-          return null;
-        }
-        return abbreviateDescriptions ? `${counts.linkCount.toLocaleString()}x` : getPluralizedCount("link", counts.linkCount);
-      case "embed" /* Embed */:
-        if (counts.embedCount === 0) {
-          return null;
-        }
-        return abbreviateDescriptions ? `${counts.embedCount.toLocaleString()}em` : getPluralizedCount("embed", counts.embedCount);
-      case "alias" /* Alias */:
-        if (!counts.aliases || !Array.isArray(counts.aliases) || !counts.aliases.length) {
-          return null;
-        }
-        return abbreviateDescriptions ? `${counts.aliases[0]}` : `alias: ${counts.aliases[0]}${counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""}`;
-      case "created" /* Created */:
-        if (counts.createdDate === 0) {
-          return null;
-        }
-        return abbreviateDescriptions ? `${new Date(counts.createdDate).toLocaleDateString()}/c` : `Created ${new Date(counts.createdDate).toLocaleDateString()}`;
-      case "modified" /* Modified */:
-        if (counts.modifiedDate === 0) {
-          return null;
-        }
-        return abbreviateDescriptions ? `${new Date(counts.modifiedDate).toLocaleDateString()}/u` : `Updated ${new Date(counts.modifiedDate).toLocaleDateString()}`;
-      case "filesize" /* FileSize */:
-        return this.fileSizeHelper.formatFileSize(
-          counts.sizeInBytes,
-          abbreviateDescriptions
-        );
-    }
-    return null;
-  }
-  getNodeLabel(counts) {
-    const countTypes2 = counts.isDirectory && !this.settings.showSameCountsOnFolders ? [
-      this.settings.folderCountType,
-      this.settings.folderCountType2,
-      this.settings.folderCountType3
-    ] : [
-      this.settings.countType,
-      this.settings.countType2,
-      this.settings.countType3
-    ];
-    return countTypes2.filter((ct) => ct !== "none" /* None */).map(
-      (ct) => this.getDataTypeLabel(counts, ct, this.settings.abbreviateDescriptions)
-    ).filter((display) => display !== null).join(" | ");
-  }
-  async handleEvents() {
-    this.registerEvent(
-      this.app.vault.on("modify", async (file) => {
-        this.debugHelper.debug(
-          "[modify] vault hook fired, recounting file",
-          file.path
-        );
-        await this.fileHelper.updateFileCounts(
-          file,
-          this.savedData.cachedCounts,
-          this.settings.wordCountType
-        );
-        await this.updateDisplayedCounts(file);
-        await this.saveSettings();
-      })
-    );
-    this.registerEvent(
-      this.app.metadataCache.on("changed", async (file) => {
-        this.debugHelper.debug(
-          "[changed] metadataCache hook fired, recounting file",
-          file.path
-        );
-        await this.fileHelper.updateFileCounts(
-          file,
-          this.savedData.cachedCounts,
-          this.settings.wordCountType
-        );
-        await this.updateDisplayedCounts(file);
-        await this.saveSettings();
-      })
-    );
-    const recalculateAll = async (hookName, file) => {
-      if (file) {
-        this.debugHelper.debug(
-          `[${hookName}] vault hook fired by file`,
-          file.path,
-          "recounting all files"
-        );
-      } else {
-        this.debugHelper.debug(
-          `[${hookName}] hook fired`,
-          "recounting all files"
-        );
-      }
-      await this.refreshAllCounts();
-      await this.updateDisplayedCounts();
-    };
-    this.registerEvent(
-      this.app.vault.on(
-        "rename",
-        (0, import_obsidian2.debounce)(recalculateAll.bind(this, "rename"), 1e3)
-      )
-    );
-    this.registerEvent(
-      this.app.vault.on(
-        "create",
-        (0, import_obsidian2.debounce)(recalculateAll.bind(this, "create"), 1e3)
-      )
-    );
-    this.registerEvent(
-      this.app.vault.on(
-        "delete",
-        (0, import_obsidian2.debounce)(recalculateAll.bind(this, "delete"), 1e3)
-      )
-    );
-    const reshowCountsIfNeeded = async (hookName) => {
-      this.debugHelper.debug(`[${hookName}] hook fired`);
-      const fileExplorerLeaf = await this.getFileExplorerLeaf();
-      if (this.isContainerTouched(fileExplorerLeaf)) {
-        this.debugHelper.debug(
-          "container already touched, skipping display update"
-        );
-        return;
-      }
-      this.debugHelper.debug("container is clean, updating display");
-      await this.updateDisplayedCounts();
-    };
-    this.registerEvent(
-      this.app.workspace.on(
-        "layout-change",
-        (0, import_obsidian2.debounce)(reshowCountsIfNeeded.bind(this, "layout-change"), 1e3)
-      )
-    );
-  }
-  isContainerTouched(leaf) {
-    const container = leaf.view.containerEl;
-    return container.className.includes("novel-word-count--");
-  }
-  async refreshAllCounts() {
-    this.debugHelper.debug("refreshAllCounts");
-    this.savedData.cachedCounts = await this.fileHelper.getAllFileCounts(
-      this.settings.wordCountType
-    );
-    await this.saveSettings();
-  }
-  setContainerClass(leaf) {
-    const container = leaf.view.containerEl;
-    const prefix = `novel-word-count--`;
-    const alignmentClasses = alignmentTypes.map((at) => prefix + at);
-    for (const ac of alignmentClasses) {
-      container.toggleClass(ac, false);
-    }
-    container.toggleClass(prefix + this.settings.alignment, true);
-  }
 };
 var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
@@ -843,7 +413,9 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       });
     }
     containerEl.createEl("div", { text: "Advanced" }).addClasses(["setting-item", "setting-item-heading"]);
-    new import_obsidian2.Setting(containerEl).setName("Exclude comments").setDesc("Exclude %%comments%% from all counts. May affect performance.").addToggle(
+    new import_obsidian2.Setting(containerEl).setName("Exclude comments").setDesc(
+      "Exclude %%Obsidian%% and <!--HTML--> comments from counts. May affect performance on large vaults."
+    ).addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.excludeComments).onChange(async (value) => {
         this.plugin.settings.excludeComments = value;
         await this.plugin.saveSettings();
@@ -930,5 +502,556 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
         await this.plugin.saveSettings();
       })
     );
+  }
+};
+
+// logic/file.ts
+var FileHelper = class {
+  constructor(app, plugin) {
+    this.app = app;
+    this.plugin = plugin;
+    this.debugHelper = new DebugHelper();
+    this.cjkRegex = /\p{Script=Han}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Hangul}|[0-9]+/gu;
+    this.FileTypeAllowlist = /* @__PURE__ */ new Set([
+      "",
+      // Markdown extensions
+      "markdown",
+      "md",
+      "mdml",
+      "mdown",
+      "mdtext",
+      "mdtxt",
+      "mdwn",
+      "mkd",
+      "mkdn",
+      // Text files
+      "txt",
+      "text",
+      "rtf",
+      // MD with embedded code
+      "qmd",
+      "rmd",
+      // MD for screenwriters
+      "fountain"
+    ]);
+  }
+  get settings() {
+    return this.plugin.settings;
+  }
+  get vault() {
+    return this.app.vault;
+  }
+  async getAllFileCounts(cancellationToken) {
+    const debugEnd = this.debugHelper.debugStart("getAllFileCounts");
+    const files = this.vault.getFiles();
+    const counts = {};
+    for (const file of files) {
+      if (cancellationToken.isCancelled) {
+        break;
+      }
+      const contents = await this.vault.cachedRead(file);
+      this.setCounts(counts, file, contents, this.settings.wordCountType);
+    }
+    debugEnd();
+    return counts;
+  }
+  getCachedDataForPath(counts, path) {
+    if (counts.hasOwnProperty(path)) {
+      return counts[path];
+    }
+    const childPaths = this.getChildPaths(counts, path);
+    const directoryDefault = {
+      isDirectory: true,
+      noteCount: 0,
+      wordCount: 0,
+      wordCountTowardGoal: 0,
+      wordGoal: 0,
+      pageCount: 0,
+      characterCount: 0,
+      nonWhitespaceCharacterCount: 0,
+      linkCount: 0,
+      embedCount: 0,
+      aliases: null,
+      createdDate: 0,
+      modifiedDate: 0,
+      sizeInBytes: 0
+    };
+    return childPaths.reduce((total, childPath) => {
+      const childCount = this.getCachedDataForPath(counts, childPath);
+      return {
+        isDirectory: true,
+        noteCount: total.noteCount + childCount.noteCount,
+        linkCount: total.linkCount + childCount.linkCount,
+        embedCount: total.embedCount + childCount.embedCount,
+        aliases: [],
+        wordCount: total.wordCount + childCount.wordCount,
+        wordCountTowardGoal: total.wordCountTowardGoal + childCount.wordCountTowardGoal,
+        wordGoal: total.wordGoal + childCount.wordGoal,
+        pageCount: total.pageCount + childCount.pageCount,
+        characterCount: total.characterCount + childCount.characterCount,
+        nonWhitespaceCharacterCount: total.nonWhitespaceCharacterCount + childCount.nonWhitespaceCharacterCount,
+        createdDate: total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate),
+        modifiedDate: Math.max(
+          total.modifiedDate,
+          childCount.modifiedDate
+        ),
+        sizeInBytes: total.sizeInBytes + childCount.sizeInBytes
+      };
+    }, directoryDefault);
+  }
+  setDebugMode(debug) {
+    this.debugHelper.setDebugMode(debug);
+  }
+  removeFileCounts(path, counts) {
+    this.removeCounts(counts, path);
+    for (const childPath of this.getChildPaths(counts, path)) {
+      this.removeCounts(counts, childPath);
+    }
+  }
+  async updateFileCounts(abstractFile, counts, cancellationToken) {
+    if (abstractFile instanceof import_obsidian3.TFolder) {
+      for (const child of abstractFile.children) {
+        this.updateFileCounts(child, counts, cancellationToken);
+      }
+      return;
+    }
+    if (abstractFile instanceof import_obsidian3.TFile) {
+      const contents = await this.vault.cachedRead(abstractFile);
+      this.setCounts(counts, abstractFile, contents, this.settings.wordCountType);
+    }
+  }
+  countEmbeds(metadata) {
+    var _a, _b;
+    return (_b = (_a = metadata == null ? void 0 : metadata.embeds) == null ? void 0 : _a.length) != null ? _b : 0;
+  }
+  countLinks(metadata) {
+    var _a, _b;
+    return (_b = (_a = metadata == null ? void 0 : metadata.links) == null ? void 0 : _a.length) != null ? _b : 0;
+  }
+  countNonWhitespaceCharacters(content) {
+    return (content.replace(/\s+/g, "") || []).length;
+  }
+  countWords(content, wordCountType) {
+    switch (wordCountType) {
+      case "CJK" /* CJK */:
+        return (content.match(this.cjkRegex) || []).length;
+      case "AutoDetect" /* AutoDetect */:
+        const cjkLength = (content.match(this.cjkRegex) || []).length;
+        const spaceDelimitedLength = (content.match(/[^\s]+/g) || []).length;
+        return Math.max(cjkLength, spaceDelimitedLength);
+      case "SpaceDelimited" /* SpaceDelimited */:
+      default:
+        return (content.match(/[^\s]+/g) || []).length;
+    }
+  }
+  getChildPaths(counts, path) {
+    const childPaths = Object.keys(counts).filter(
+      (countPath) => path === "/" || countPath.startsWith(path + "/")
+    );
+    return childPaths;
+  }
+  removeCounts(counts, path) {
+    delete counts[path];
+  }
+  setCounts(counts, file, content, wordCountType) {
+    counts[file.path] = {
+      isDirectory: false,
+      noteCount: 1,
+      wordCount: 0,
+      wordCountTowardGoal: 0,
+      wordGoal: 0,
+      pageCount: 0,
+      characterCount: 0,
+      nonWhitespaceCharacterCount: 0,
+      linkCount: 0,
+      embedCount: 0,
+      aliases: [],
+      createdDate: file.stat.ctime,
+      modifiedDate: file.stat.mtime,
+      sizeInBytes: file.stat.size
+    };
+    const metadata = this.app.metadataCache.getFileCache(file);
+    if (!this.shouldCountFile(file, metadata)) {
+      return;
+    }
+    const meaningfulContent = this.getMeaningfulContent(content, metadata);
+    const wordCount = this.countWords(meaningfulContent, wordCountType);
+    const wordGoal = this.getWordGoal(metadata);
+    const characterCount = meaningfulContent.length;
+    const nonWhitespaceCharacterCount = this.countNonWhitespaceCharacters(meaningfulContent);
+    let pageCount = 0;
+    if (this.settings.pageCountType === "ByWords" /* ByWords */) {
+      const wordsPerPage = Number(this.settings.wordsPerPage);
+      const wordsPerPageValid = !isNaN(wordsPerPage) && wordsPerPage > 0;
+      pageCount = wordCount / (wordsPerPageValid ? wordsPerPage : 300);
+    } else if (this.settings.pageCountType === "ByChars" /* ByChars */ && !this.settings.charsPerPageIncludesWhitespace) {
+      const charsPerPage = Number(this.settings.charsPerPage);
+      const charsPerPageValid = !isNaN(charsPerPage) && charsPerPage > 0;
+      pageCount = nonWhitespaceCharacterCount / (charsPerPageValid ? charsPerPage : 1500);
+    } else if (this.settings.pageCountType === "ByChars" /* ByChars */ && this.settings.charsPerPageIncludesWhitespace) {
+      const charsPerPage = Number(this.settings.charsPerPage);
+      const charsPerPageValid = !isNaN(charsPerPage) && charsPerPage > 0;
+      pageCount = characterCount / (charsPerPageValid ? charsPerPage : 1500);
+    }
+    Object.assign(counts[file.path], {
+      wordCount,
+      wordCountTowardGoal: wordGoal !== null ? wordCount : 0,
+      wordGoal,
+      pageCount,
+      characterCount,
+      nonWhitespaceCharacterCount,
+      linkCount: this.countLinks(metadata),
+      embedCount: this.countEmbeds(metadata),
+      aliases: (0, import_obsidian3.parseFrontMatterAliases)(metadata == null ? void 0 : metadata.frontmatter)
+    });
+  }
+  getWordGoal(metadata) {
+    const goal = metadata && metadata.frontmatter && metadata.frontmatter["word-goal"];
+    if (!goal || isNaN(Number(goal))) {
+      return null;
+    }
+    return Number(goal);
+  }
+  getMeaningfulContent(content, metadata) {
+    let meaningfulContent = content;
+    const hasFrontmatter = !!metadata && !!metadata.frontmatter;
+    if (hasFrontmatter) {
+      const frontmatterPos = metadata.frontmatterPosition || metadata.frontmatter.position;
+      meaningfulContent = frontmatterPos && frontmatterPos.start && frontmatterPos.end ? meaningfulContent.slice(0, frontmatterPos.start.offset) + meaningfulContent.slice(frontmatterPos.end.offset) : meaningfulContent;
+    }
+    if (this.settings.excludeComments) {
+      const hasComments = meaningfulContent.includes("%%") || meaningfulContent.includes("<!--");
+      if (hasComments) {
+        meaningfulContent = meaningfulContent.replace(/(?:%%[\s\S]+?%%|<!--[\s\S]+?-->)/gmi, "");
+      }
+    }
+    return meaningfulContent;
+  }
+  shouldCountFile(file, metadata) {
+    if (!this.FileTypeAllowlist.has(file.extension.toLowerCase())) {
+      return false;
+    }
+    if (!metadata) {
+      return true;
+    }
+    if (metadata.frontmatter && metadata.frontmatter.hasOwnProperty("wordcount") && (metadata.frontmatter.wordcount === null || metadata.frontmatter.wordcount === false || metadata.frontmatter.wordcount === "false")) {
+      return false;
+    }
+    const tags = (0, import_obsidian3.getAllTags)(metadata).map((tag) => tag.toLowerCase());
+    if (tags.length && (tags.includes("#excalidraw") || tags.filter((tag) => tag.startsWith("#exclude")).map((tag) => tag.replace(/[-_]/g, "")).includes("#excludefromwordcount"))) {
+      return false;
+    }
+    return true;
+  }
+};
+
+// logic/filesize.ts
+var formatThresholds = [{
+  suffix: "b",
+  suffixLong: " B",
+  divisor: 1
+}, {
+  suffix: "kb",
+  suffixLong: " KB",
+  divisor: 1e3
+}, {
+  suffix: "mb",
+  suffixLong: " MB",
+  divisor: 1e6
+}, {
+  suffix: "gb",
+  suffixLong: " GB",
+  divisor: 1e9
+}, {
+  suffix: "tb",
+  suffixLong: " TB",
+  divisor: 1e12
+}];
+var FileSizeHelper = class {
+  formatFileSize(bytes, shouldAbbreviate) {
+    const largestThreshold = formatThresholds.last();
+    for (const formatThreshold of formatThresholds) {
+      if (bytes < formatThreshold.divisor * 1e3 || formatThreshold === largestThreshold) {
+        const units = bytes / formatThreshold.divisor;
+        const suffix = shouldAbbreviate ? formatThreshold.suffix : formatThreshold.suffixLong;
+        return `${this.round(units)}${suffix}`;
+      }
+    }
+    return `?B`;
+  }
+  round(value) {
+    return value.toLocaleString(void 0, {
+      minimumFractionDigits: 0,
+      maximumFractionDigits: 2
+    });
+  }
+};
+
+// main.ts
+var import_obsidian4 = require("obsidian");
+var NovelWordCountPlugin = class extends import_obsidian4.Plugin {
+  constructor(app, manifest) {
+    super(app, manifest);
+    this.debugHelper = new DebugHelper();
+    this.fileSizeHelper = new FileSizeHelper();
+    this.fileHelper = new FileHelper(this.app, this);
+    this.eventHelper = new EventHelper(
+      this,
+      app,
+      this.debugHelper,
+      this.fileHelper
+    );
+  }
+  get settings() {
+    return this.savedData.settings;
+  }
+  // LIFECYCLE
+  async onload() {
+    await this.loadSettings();
+    this.fileHelper.setDebugMode(this.savedData.settings.debugMode);
+    this.debugHelper.setDebugMode(this.savedData.settings.debugMode);
+    this.debugHelper.debug("onload lifecycle hook");
+    this.addSettingTab(new NovelWordCountSettingTab(this.app, this));
+    this.addCommand({
+      id: "recount-vault",
+      name: "Reanalyze (recount) all documents in vault",
+      callback: async () => {
+        this.debugHelper.debug("[Reanalyze] command triggered");
+        await this.initialize();
+      }
+    });
+    this.addCommand({
+      id: "cycle-count-type",
+      name: "Show next data type (1st position)",
+      callback: async () => {
+        this.debugHelper.debug("[Cycle next data type] command triggered");
+        this.settings.countType = countTypes[(countTypes.indexOf(this.settings.countType) + 1) % countTypes.length];
+        await this.saveSettings();
+        this.updateDisplayedCounts();
+      }
+    });
+    this.addCommand({
+      id: "toggle-abbreviate",
+      name: "Toggle abbreviation",
+      callback: async () => {
+        this.debugHelper.debug("[Toggle abbrevation] command triggered");
+        this.settings.abbreviateDescriptions = !this.settings.abbreviateDescriptions;
+        await this.saveSettings();
+        this.updateDisplayedCounts();
+      }
+    });
+    for (const countType of countTypes) {
+      this.addCommand({
+        id: `set-count-type-${countType}`,
+        name: `Show ${countTypeDisplayStrings[countType]} (1st position)`,
+        callback: async () => {
+          this.debugHelper.debug(
+            `[Set count type to ${countType}] command triggered`
+          );
+          this.settings.countType = countType;
+          await this.saveSettings();
+          this.updateDisplayedCounts();
+        }
+      });
+    }
+    this.eventHelper.handleEvents();
+    this.initialize();
+  }
+  async onunload() {
+    await this.saveSettings();
+  }
+  // SETTINGS
+  async loadSettings() {
+    const loaded = await this.loadData();
+    if (loaded && loaded.settings && loaded.settings.countType && !countTypes.includes(loaded.settings.countType)) {
+      loaded.settings.countType = "word" /* Word */;
+    }
+    this.savedData = Object.assign({}, loaded);
+    this.savedData.settings = Object.assign(
+      {},
+      DEFAULT_SETTINGS,
+      this.savedData.settings
+    );
+  }
+  async saveSettings() {
+    await this.saveData(this.savedData);
+  }
+  // PUBLIC
+  async initialize(refreshAllCounts = true) {
+    this.debugHelper.debug("initialize");
+    this.app.workspace.onLayoutReady(async () => {
+      if (refreshAllCounts) {
+        await this.eventHelper.refreshAllCounts();
+      }
+      try {
+        await this.getFileExplorerLeaf();
+        await this.updateDisplayedCounts();
+      } catch (err) {
+        this.debugHelper.debug("Error while updating displayed counts");
+        this.debugHelper.error(err);
+        setTimeout(() => {
+          this.initialize(false);
+        }, 1e3);
+      }
+    });
+  }
+  async updateDisplayedCounts(file = null) {
+    var _a;
+    const debugEnd = this.debugHelper.debugStart(
+      `updateDisplayedCounts [${file == null ? "ALL" : file.path}]`
+    );
+    if (!Object.keys(this.savedData.cachedCounts).length) {
+      this.debugHelper.debug("No cached data found; skipping update.");
+      return;
+    }
+    let fileExplorerLeaf;
+    try {
+      fileExplorerLeaf = await this.getFileExplorerLeaf();
+    } catch (err) {
+      this.debugHelper.debug("File explorer leaf not found; skipping update.");
+      return;
+    }
+    this.setContainerClass(fileExplorerLeaf);
+    const fileItems = fileExplorerLeaf.view.fileItems;
+    if (file) {
+      const relevantItems = Object.keys(fileItems).filter(
+        (path) => file.path.includes(path)
+      );
+      this.debugHelper.debug(
+        "Setting display counts for",
+        relevantItems.length,
+        "fileItems matching path",
+        file.path
+      );
+    } else {
+      this.debugHelper.debug(
+        `Setting display counts for ${Object.keys(fileItems).length} fileItems`
+      );
+    }
+    for (const path in fileItems) {
+      if (file && !file.path.includes(path)) {
+        continue;
+      }
+      const counts = this.fileHelper.getCachedDataForPath(
+        this.savedData.cachedCounts,
+        path
+      );
+      const item = fileItems[path];
+      ((_a = item.titleEl) != null ? _a : item.selfEl).setAttribute(
+        "data-novel-word-count-plugin",
+        this.getNodeLabel(counts)
+      );
+    }
+    debugEnd();
+  }
+  // FUNCTIONALITY
+  async getFileExplorerLeaf() {
+    return new Promise((resolve, reject) => {
+      let foundLeaf = null;
+      this.app.workspace.iterateAllLeaves((leaf) => {
+        if (foundLeaf) {
+          return;
+        }
+        const view = leaf.view;
+        if (!view || !view.fileItems) {
+          return;
+        }
+        foundLeaf = leaf;
+        resolve(foundLeaf);
+      });
+      if (!foundLeaf) {
+        reject(Error("Could not find file explorer leaf."));
+      }
+    });
+  }
+  getDataTypeLabel(counts, countType, abbreviateDescriptions) {
+    if (!counts || typeof counts.wordCount !== "number") {
+      return null;
+    }
+    const getPluralizedCount = function(noun, count, round = true) {
+      const displayCount = round ? Math.ceil(count).toLocaleString(void 0) : count.toLocaleString(void 0, {
+        minimumFractionDigits: 1,
+        maximumFractionDigits: 2
+      });
+      return `${displayCount} ${noun}${displayCount == "1" ? "" : "s"}`;
+    };
+    switch (countType) {
+      case "none" /* None */:
+        return null;
+      case "word" /* Word */:
+        return abbreviateDescriptions ? `${Math.ceil(counts.wordCount).toLocaleString()}w` : getPluralizedCount("word", counts.wordCount);
+      case "page" /* Page */:
+        return abbreviateDescriptions ? `${Math.ceil(counts.pageCount).toLocaleString()}p` : getPluralizedCount("page", counts.pageCount);
+      case "pagedecimal" /* PageDecimal */:
+        return abbreviateDescriptions ? `${counts.pageCount.toLocaleString(void 0, {
+          minimumFractionDigits: 1,
+          maximumFractionDigits: 2
+        })}p` : getPluralizedCount("page", counts.pageCount, false);
+      case "percentgoal" /* PercentGoal */:
+        if (counts.wordGoal <= 0) {
+          return null;
+        }
+        const fraction = counts.wordCountTowardGoal / counts.wordGoal;
+        const percent = Math.round(fraction * 100).toLocaleString(void 0);
+        return abbreviateDescriptions ? `${percent}%` : `${percent}% of ${counts.wordGoal.toLocaleString(void 0)}`;
+      case "note" /* Note */:
+        return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
+      case "character" /* Character */:
+        return abbreviateDescriptions ? `${counts.characterCount.toLocaleString()}ch` : getPluralizedCount("character", counts.characterCount);
+      case "link" /* Link */:
+        if (counts.linkCount === 0) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${counts.linkCount.toLocaleString()}x` : getPluralizedCount("link", counts.linkCount);
+      case "embed" /* Embed */:
+        if (counts.embedCount === 0) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${counts.embedCount.toLocaleString()}em` : getPluralizedCount("embed", counts.embedCount);
+      case "alias" /* Alias */:
+        if (!counts.aliases || !Array.isArray(counts.aliases) || !counts.aliases.length) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${counts.aliases[0]}` : `alias: ${counts.aliases[0]}${counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""}`;
+      case "created" /* Created */:
+        if (counts.createdDate === 0) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${new Date(counts.createdDate).toLocaleDateString()}/c` : `Created ${new Date(counts.createdDate).toLocaleDateString()}`;
+      case "modified" /* Modified */:
+        if (counts.modifiedDate === 0) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${new Date(counts.modifiedDate).toLocaleDateString()}/u` : `Updated ${new Date(counts.modifiedDate).toLocaleDateString()}`;
+      case "filesize" /* FileSize */:
+        return this.fileSizeHelper.formatFileSize(
+          counts.sizeInBytes,
+          abbreviateDescriptions
+        );
+    }
+    return null;
+  }
+  getNodeLabel(counts) {
+    const countTypes2 = counts.isDirectory && !this.settings.showSameCountsOnFolders ? [
+      this.settings.folderCountType,
+      this.settings.folderCountType2,
+      this.settings.folderCountType3
+    ] : [
+      this.settings.countType,
+      this.settings.countType2,
+      this.settings.countType3
+    ];
+    return countTypes2.filter((ct) => ct !== "none" /* None */).map(
+      (ct) => this.getDataTypeLabel(counts, ct, this.settings.abbreviateDescriptions)
+    ).filter((display) => display !== null).join(" | ");
+  }
+  setContainerClass(leaf) {
+    const container = leaf.view.containerEl;
+    const prefix = `novel-word-count--`;
+    const alignmentClasses = alignmentTypes.map((at) => prefix + at);
+    for (const ac of alignmentClasses) {
+      container.toggleClass(ac, false);
+    }
+    container.toggleClass(prefix + this.settings.alignment, true);
   }
 };

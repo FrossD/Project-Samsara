@@ -11,9 +11,8 @@ A small space for quickly rebuilding docs that have been changed as a result of 
 
 ## Work: Questions
 A bank of questions relevant to ongoing development.
-- [ ] Nuthin'
+- [x] Nuthin'
 
--  What is a protocol?
 
 ## Work: Active Development
 A staging ground for work currently in progress. Tasks here are often new. 
@@ -86,6 +85,7 @@ Entries under here are either existing but fairly undeveloped documents, or exis
 	- **PROPOSAL**: Macroscopic Material Properties, handled in [[Prop.CalcicChemistry]], all properties of all things in the Switchboard arise by virtue of chalk weave. This proposal will be appended to [[The Hands as Chalk]] and be linked to [[Switchboard Technology#SBTech: Mechanical, Manufacturing and Heavy Technology |SB Tech Materials Science]].  
 	- Awaiting Hex's response to [[Post-Proposal Notes]].
 		- Hex's response is that we need an explanation for how light works. 
+	- Ask them what they meant by 'walls'.
 
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'
@@ -110,11 +110,6 @@ Entries under here are either existing but fairly undeveloped documents, or exis
 	- Update [[Prop.Blackjack]] and other Void documents where necessary with the concept of **Skews**, slight 'changes' added to things Given by or Taken from the Void, decided and placed there by the working's of Brother Vahn's **Anchor Variables**.
 	- Consider moving the Void related sections in [[The Skywards Pursuit]] to their own doc and link them back to SkyPur.
 	- Merge [[Prop.Blackjack]] and [[The Void]] as an update to 'The Void as a Being'
-
-- (nWB) **The DevitNet's Netmasters**; Under [[Switchboard Technology]]
-	- The Fel-Arcad run the DevitNet on the digital side. While Sil'khan and Lancaster actors are usually the ones doing the physical onsite maintenance of anarhiza nexuses and data wells, the Fel-Arcad have fairly unchallenged dominion over the Net in the digital domain.
-	- The **Netmasters** - perhaps because the job selects for this kind of thing - happen to be varying kinds and levels of eccentric, interwoven with extreme senses of what the DevitNet should be, and a Machiavellian willingness to see it realized to their view.
-	- This has resulted in wars.
 
 ### Synthesis Sites
 Entries here have left the Thoughts Repository, and are confirmed to be entering the Samsara canon in some way.
