@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "d2ea66b70d51b8ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "537409a2abfc2cbb",
             "type": "leaf",
             "state": {
@@ -34,12 +47,12 @@
             }
           },
           {
-            "id": "d2ea66b70d51b8ed",
+            "id": "a39d1dd7637d04b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+                "file": "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -172,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,9 +205,11 @@
   },
   "active": "537409a2abfc2cbb",
   "lastOpenFiles": [
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/SpyndlAcademy.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "C4.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
@@ -203,7 +218,6 @@
     "3. Scribbling/README 1.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Mechanical Pillars/The Void.md",
     "2. Development/Foundational Pillars/The Switchboard.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
@@ -217,7 +231,6 @@
     "1. Drawing Board/2. Offshore/Z. Scenario Codes.md",
     "1. Drawing Board/2. Offshore/HexLore2.md",
     "1. Drawing Board/Offshore/Terraria.md",
-    "1. Drawing Board/2. Offshore/HexLore.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",
