@@ -46,8 +46,9 @@ Revisions to existing canon, particularly with the aim of reconciling old canon 
 #### Class Alpha - High Priority
 - [ ] Nuthin'
 
-- (nWB) **The Formation of the Wheelhouse**: Under [[The Dawn of the Dancirah]]
-	- Amend the Dancirah's Dawn canon - specifically the section on the Mind Hunts. The Wheelhouse was formed after a Mind Hunts by those Operators who distinguished themselves in the pursuit of the last of the Minds.
+- (nWB, pWB) **Slates**
+	- A lookover of Slates and computers in the Switchboard.
+	- https://www.youtube.com/watch?v=FU_YFpfDqqA
 
 #### Class Beta - Reduced Priority
 - [x] Nuthin'
@@ -69,8 +70,6 @@ Structural rebuilds of some documents, necessary when they grow particularly lon
 
 - (meta) **Vault-wide Rebuild of Text Formatting**
 	- A vault-wide rebuild of how text is formatted in the vault, using isolated tabs before text to show **my thoughts** and greater than indents to show **additional details or footnotes**.
-
-
 
 ## Work: Backburner Development
 Ongoing work, but not as urgent, often due to subject matter or dependency upon other uncompleted docs.
@@ -116,12 +115,6 @@ Entries here have left the Thoughts Repository, and are confirmed to be entering
 
 #### Class Alpha - High Priority
 - [ ] Nuthin'
-- (nWB) **The Wheelhouse**: Under [[C4-Organizations]]
-	- A coalition of legendary Striders with a legacy dating back to the Second Praxis war. They earned their repute through the various feats of their individual members, and their collective contributions to the knowledge body of all Third Kin, in the form of 'bubble-skating' and other advanced striding techniques, as well as the creation of quis and qui-wheels.
-	- Refer to notes for more info.
-	- They also maintain the **FOPL.db** or Final Ontological and Phenomological Ledger.
-	- Update Dancirah's Dawn post-Mind Hunts too.
-	- Firefly Regalia.
 
 #### Class Beta - Reduced Priority
 - [ ] Nuthin'

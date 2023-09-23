@@ -6,9 +6,9 @@ The pride of the Third Kin, and the symbol of their triumph over the First Think
 The consolidation of powers and dreams; that is the Spyndl Academy. 
 
 ## Development Checklist
-1. [ ] Name, Abbreviations and Contractions
+1. [x] Name, Abbreviations and Contractions
 2. [ ] Mission, Purpose, Future Goals and Aspirations
-3. [ ] History and Origins
+3. [x] History and Origins
 4. [ ] Leadership and Structure
 5. [ ] Membership and Recruitment
 6. [ ] Core Values and Beliefs
@@ -34,6 +34,23 @@ Those within it have more fond names for it. 'The Oldest/Old House' is a term us
 > Those who value it for its religious significance call it the; (Aspire, Starspire, Astralpex) in reverence to the old Danseers and the lofty heights they attained.
 
 ### 2. Mission
+Class A
+- Finding a means to close the Vitric Shelf
+- Preventing a Second Refrain
+- Opposing the First Thinker Minds
+- Preserving the existence of the Third Kin
+- Deep inquiry into the Switchboard's secrets and nature.
+
+Class B
+- Training of interested individuals to realize their potential as Operators and other Spyndl personnel
+- Defense of the Third Kin from various threats in the Switchboard.
+- Maintenance of law and order beyond the reaches of region-constrained authorities.
+- Research and knowledge acquisition.
+- Recovery of lost treasures and relics.
+- Serving as the power seat of the Sil'khan.
+- Acting as the first response to Switchboard threats.
+- Establishment and maintenance of Switchboard i
+
 ### 3. History
 > Recommend reading; [[The Dawn of the Dancirah]]
 
@@ -54,6 +71,30 @@ They cemented their victory in the storming of the Trinary Complex, gaining domi
 Following this, a sort of schism formed in the Spyndl Academy. Over the processions where the Kin fought the Minds, the Danseers in their ranks gained prominence, many even undergoing a form of apotheosis and becoming nigh-gods. The influence and soon, the dominance of the Danseers couldn't be denied, and it caused many a fair bit of concern. The Skydancers as they came to be called, became common names due to their feats both on and off the praxis battlefields, and their near-deity status saw that they cultivated considerable followings.
 
 Thus when the future of the Spyndl Academy came under deliberation following the close of the Second Praxis War, many watched in consternation as the Academy was split seemingly by the Skydancers. Skydancers Zahir, Cicerè, Ryjik and Morrigan went on to form the **Combined Strider Operations**; the dedicated paramilitary arm of the Spyndl Academy and the source of plenty of conflict for processions to come.
+
+The CSO would then go on to carry out the Fifth Offensive; the infamous Mind Hunts that would see the solidification of what many call the 'modern Strider doctrines', and the particularly controversial formation of the **Spyndl Wheelhouse**. Seen by many as a once Danseer, later Sil'khan 'clique', it boasted exclusive membership for only the most distinguished of Spyndl personnel, and thus came to wield a nontrivial amount of influence in the Academy and throughout the Switchboard. 
+
+It did not help that once the Danseers passed due to the curse of the Refrain, the Sil'khan took over the Spyndl Academy - as many agreed it was theirs to 'inherit' as the descendants of the Danseers - and summarily set about cleaning house, placing Sil'khan and some Fel-Arcad in all noteworthy positions and pushing the other families out. Many argued that these actions flew in the face of the Spire Summit's outline for the conduct and construction of the Spyndl Academy, their complaints dismissed by the Sil'khan and their sympathizers on a number of grounds, ranging from the need of 'greater competency' in the Spyndl ranks, the nature of Spyndl as a majorly Danseer institution from the get-go, and a final argument that took the form of demands to stop them. 
+
+Despite this internal turmoil, the Academy grew all the same into the institution it is today, branching out and exerting its influence in every sphere imaginable, to the benefit and consternation of many.
+
+#### The Pioneers
+The founding members of the Spyndl Academy at the Spire Summit are seven;
+
+Danseer
+1. M
+2. M
+3. F
+Arcad
+4. N
+5. F
+Vahnkin
+6. F
+Lancaster
+7. M
+
+> Tentative naming;
+> D-M: Salis Karatoss
 
 
 ### 4. Leadership
@@ -78,16 +119,86 @@ King
 10 'grunts'
 
 
-
 ### 5. Membership
+Varies depending on what part of the Academy someone wants to work for. 
+
+**Schools** (PHldr.)
+- School of Academics
+	- The school for study of all things in the Switchboard.
+- School of Flight (CSO)
+	- The school that trains Operators
+- Fellowship of the Sabai
+	- The sect devoted to worship of the Skydancers and the Danseers.
+- School of Civilization
+	- General education and studies.
+
 ### 6. Principles
 ### 7. Operations
+CSO is in charge of all Academy Operations, divided into internal and external ops.
+
+Internal
+- Various internal competitive activities listed in the notebook. (Under PvP)
+- The CSO 'School' that trains operators
+
+External
+- External ops listed under PvE in the notebook.
+- Non-combat missions such as infrastructural maintenance.
+
 ### 8. Influence
 ### 9. Location
+- Spyndl Academy Complexes
+- Locales
+	- Regions
+	- Defunct/conquered Vaults
+	- Orbital Platforms
+	- Deep Space Platforms
+	- Fleets
+	- Isalveh forward bases
+- Architecture
+	- Spires, tall ones
+	- Building on elevated placements
+
 ### 10. Symbols
 ### 11. Friends & Foes
+**The Wheelhouse**
+- A coalition of legendary Striders with a legacy dating back to the Second Praxis war. They earned their repute through the various feats of their individual members, and their collective contributions to the knowledge body of all Third Kin, in the form of 'bubble-skating' and other advanced striding techniques, as well as the creation of quis and qui-wheels.
+- They also maintain the **FOPL.db** or Final Ontological and Phenomological Ledger.
+	  Might not be the case in later iterations as this would be strange for the hyper combat-focused arm to work on.
+- Firefly Regalia
+
+
 ### 12. Resources
 ### 13. Feats & Failures
+**Feats**
+
+**Failures**
+- Didn't anticipate and stop the Refrain.
+
 ### 14. Heritage
+**Dates**
+Marked Dates (Official)
+- The Spire Summit
+- The Formation of CSO
+- The Formation of the Wheelhouse
+- The End of the Mind Hunts
+- The End of the Second Praxis War
+- The Day of the Refrain
+- The Attack on the Trinary Complex
+
+Marked Dates (Religious)
+- The birth dates of all Skydancers
+	- Shalkarah's and Leilani's celebrated specially
+- The turn of the procession and each season
+
+**Ceremonies**
+- Leilani's games day/week/period
+- Inaugural addresses for new intakes
+- Welcoming a new person to the wheelhouse
+- Welcoming a new person to the brass
+
+**Others**
+- The Wheelhouse Regalia
+
 ### 15. Impact
 ### 16. Conflicts
+
