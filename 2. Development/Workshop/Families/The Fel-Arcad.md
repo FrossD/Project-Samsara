@@ -42,7 +42,7 @@ Tracking progress on the doc.
 ### Snap Thoughts
 Spur of the moment thoughts that could use work.
 
-- ~~Fel-Arcad derive their last names from names chosen by collections of Kin, and often bear 'of' preceding that name as their last name.~~ New naming methodology for the Fel-Arcad needs to be devved. I am considering a mix of Japanese and maybe Swedish? Scottish? Gaelic? names. Look up where most of Europe's fairytales.
+- ~~Fel-Arcad derive their last names from names chosen by collections of Kin, and often bear 'of' preceding that name as their last name.~~ New naming methodology for the Fel-Arcad needs to be developed. I am considering a mix of Japanese and maybe Swedish? Scottish? Gaelic? names. Look up where most of Europe's fairytales.
 - There are avenues for non-Fel to come to inhabit an arcology, but often they must undergo rigorous processes along the lines of questioning to see if they would be a good fit for it.
 - Whether the Vahnkin and the Void would actually be responsible for a Second Refrain and if they were responsible for the first one is possible, but disputed. In actuality, many Fel-Arcad, unable to accept the possibility they shot themselves in the foot with the Mind Hunts, choose instead to blame the Void and the Vahnkin.
 - History and Mythology section has notable persons in it.

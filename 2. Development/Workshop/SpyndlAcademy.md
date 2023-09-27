@@ -23,6 +23,26 @@ The consolidation of powers and dreams; that is the Spyndl Academy.
 15. [ ] Impact on the World
 16. [ ] Challenges and Conflicts
 
+## Writer's Forum Feedback
+**#1**
+> The only thing I don't see is what are their relationships with "selves"? (which was kind of mentioned in perceptions in an earlier post too). And I would be interested to see how they navigate these things. I mean, how does cognition, self-awareness, awareness of other selves, and conscious work for these people? What makes humans interesting is the fact that we have a ton of cognitive holes and a "unsolved question" consciousness for example, and the list you mention are more so distractions from our large unsolved questions that exist and drive us different ways. It is mysterious. It is hidden in plain sight. So there will be something between the lines in the list you have.  
+> 
+> **What is the universal, large question that begs the question that drives this faction? What can't, regardless of all those things listed, cannot be either solved or ignored? For humans we are all the things you listed and despite that are still stuck with these plagues (all in which branch off into different schools of thought and opinion):**  
+> 
+> 1. Consciousness  
+> 2. Mind  
+> 3. Death  
+> 4. Biological distinctions  
+> 5. Identity  
+> 6. Epistemological uncertainties
+
+	Feel this is somewhat related to the Core Beliefs and Values subheading.
+
+> Perception; how is the Spyndl Academy viewed by the general public? Are there significant differences between that and the perception of the students, staff and the higher ups?
+
+	Feels like this goes under 'Impact on the World', though I could additionally expand that to include 'Repute'.
+
+
 ## Outline
 ### 1. Name
 To many, it is simply the Spyndl Academy. Nothing more needs to be added to it. For many, even just 'Spyndl' or 'the Academy' suffices, bringing to the fore the imagery and repute of the Switchboard's oldest coalition.

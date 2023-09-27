@@ -12,7 +12,7 @@ A template for writing out the docs for each progenitor family.
 This checklist is copied to the design doc for each family. As the family is developed and sections completed, checkboxes are filled in, indicating progress made.
 
 **Strata One**
-01. [ ] Doctrine+
+01. [ ] Doctrine
 02. [ ] Calcic Affinity
 
 **Strata Two**
