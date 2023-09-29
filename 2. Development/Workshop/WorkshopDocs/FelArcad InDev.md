@@ -73,19 +73,29 @@ Fel-Arcad courts are presided over by multiple judges at the bench, all who serv
 4. Role of Juries
 In an overwhelming majority of Fel-Arcad legal proceedings, a jury is called for and assembled. 
 
-Jury selection is the first task, and begins with determining eligibility. The pool for determining eligibility is by default, the entire population of the arcology or arcologies most relevant to the case. The first stage of selection is twofold; 
+Jury selection is the first task, and begins with determining eligibility. The pool for determining eligibility is by default, the entire population of the arcology or arcologies most relevant to the case. The first stage of selection is twofold; an opportunity to opt in to the service, and a written exam that must be taken by all who are eligible. This exam is a general knowledge test meant to asses a level of intelligence, a civics test to determine how learned one is about legal proceedings, and a no-wrong-answers test about morality. 
 
-[US Constitution Overview (openai.com)](https://chat.openai.com/c/34244a2b-45e8-4375-8182-41922e087d6a)
+Selection is undertaken in a familiar manner; that of '**voire dire**', a selection process used to determine the biases within individual potential jurors. This is done via questioning the jurors, and working to determine if their background, experiences, beliefs and/or connections with the case or the parties involved might present a conflict of interest, rendering them incapable of being fair to the parties involved. Should the acting legal counsel present a tangible case why a juror should be dismissed, it is left to the panel of sitting judges to deliberate and approve or deny the decision.
+
+A core difference is that under the Fel-Arcad, they are not given **preemptory challenges**, as their usage is rife with concealed, plausibly deniable biases.
+
+Fel-Arcad legal scholars have always shaped the legal system such that the jury takes a slightly different approach. Fel-Arcad juries consist of **twelve members selected from the arcology or arcologies most relevant to the case**, as well as **six additional jurors** who have **lived minimally in arcologies** in their lifetime. The reason for this is that it is widely postulated arcologies breed a form of 'moral uniformity' among the Fel-Arcad that is good for running society, but may be suboptimal for judging those who flout it. Those who haven't dwelt in arcologies are thus brought on to give an otherwise unobtainable perspective. 
+
+For the Fel-Arcad pool, they have four alternates, and two for the non-arcology pool, resulting in **twenty four jurors** in all. In cases involving multiple arcologies, the Fel-Arcad pool is divided into a larger and smaller pool, with the larger pool being drawn from the arcology the defendant is most tied to, this often being a 60% split in their favor. If three arcologies are involved, it can be split 50-25-25 in the defendant's favor. This in pursuit of the philosophy of 'jury of their peers', with peers being very much a product of the arcology one has dwelt in.
+
+The task of the jury after their selection is, summarized, to reach a verdict. This they will do through being the audience of what could be a very long bout of legal theater. In this time, the courts and auxiliary legal institutions will work towards preserving their safety and compensating them for the time spent. In the court room they will be presented the evidence, question witnesses, discuss facts, and ultimately deliberate upon the matter. If a verdict is not reached, they will be given time to deliberate again, and again, again, until a decision is reached. In all this they are to remain fair and impartial, and work towards the delivery of justice - in whatever form that may be.
 
 5. Legal Codes and Statutes
 The legal codes and statutes adhered to by the Fel-Arcad are encoded in the **Arcal**, which is an expanded compendium of documents featuring material taken from the Annals of the Eight, Mouths that Spit and Sing, and The Farseer's Lament
 
 The Arcal is divided into various super-sections, sections and subsections, dealing with a litany of subject matters, civil and criminal, from the conduct of individuals to that of all Fel-Arcad. It outlines the structure of government and the extent of each branch's powers, and contains a supremacy clause that declares it the supreme doctrine the Fel-Arcad must adhere to. It contains information on how to amend the Arcal, adding additional clauses and the like where necessary; as the people who are subject to it grow and evolve, so too does the document they are subject to.
 
-6. Legal Education
-7. Legal Profession
+6. Legal Education & Profession
+
 8. Legal Procedures
 9. Rights and Liberties
+- Refer to the notebook.
+
 10. Punishment and Sentencing
 > This part is indev.
 
@@ -106,7 +116,7 @@ This has led to many instances of slighted Fel-Arcad who felt the punishment dea
 There are of course arcologies that embrace harsher methods of punishment, including imprisonment and occasionally even the death penalty, obtaining a mixed - but mostly disapproving - reception, by the wider Fel-Arcad community. Studies naturally exist for either side of this divide, arguing for one method over the other. Rosenthalists in particular favor harsher approaches.
 
 11. Legal Institutions
-
+- The Sekators.
 
 12. Appeals and Review
 It is the right of all Fel-Arcad who are dissatisfied with a ruling to escalate the matter in the form of an appeal to a higher court. This is only doable when circumstances facilitate it however, and these circumstances must be established in the form of an appeal proposal.
@@ -133,3 +143,8 @@ The highest court among the Fel-Arcad is the Rosenthal Court of the Fallen, and 
 
 13. Legal Philosophy
 14. Cultural and Societal Influences
+
+
+### Naming & Language
+#### Language
+
