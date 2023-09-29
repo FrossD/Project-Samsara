@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "648d6f4cda2720af",
+            "id": "08d78048b8ccb44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "611bb7150d25dcd4",
+            "id": "a73f0f344fa84146",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -203,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,12 +217,12 @@
   },
   "active": "5ea8baaa8e0d9855",
   "lastOpenFiles": [
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Workshop/SpyndlAcademy.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
