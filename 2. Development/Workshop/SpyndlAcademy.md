@@ -138,6 +138,13 @@ Queen
 King
 10 'grunts'
 
+**Final Classes**
+- Staff - Ace
+- Sovereign - King
+- Sage - Queen
+- Sentinel - Knight
+- Seeker - Page
+
 
 ### 5. Membership
 Varies depending on what part of the Academy someone wants to work for. 

@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "08d78048b8ccb44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a73f0f344fa84146",
             "type": "leaf",
             "state": {
@@ -66,6 +53,19 @@
               "type": "markdown",
               "state": {
                 "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54f768dee8c04b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/SpyndlAcademy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -217,12 +217,12 @@
   },
   "active": "5ea8baaa8e0d9855",
   "lastOpenFiles": [
-    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
-    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Workshop/SpyndlAcademy.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",

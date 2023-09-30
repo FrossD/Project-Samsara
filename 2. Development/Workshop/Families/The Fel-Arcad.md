@@ -935,21 +935,95 @@ Is the correct position to hold. While the former is the most philosophically co
 
 Ultimately the matter remains a bitter pill the Fel-Arcad must swallow every single day, the nature of the dilemma seemingly having no outlet that assures maximum alignment with their core utilities.
 
-#### Fel-Arcad Law
-Each arcology has their individual laws, built off of the baseline law established in the Fey Curlicue. This baseline law is compiled from the **Farsee**, the **Annals of the Eight**, and **Mouths**, that outline respectively how arcologies should operate, how individual and groups of Fel-Arcad should behave and relate, and the relationship they should have towards violence. Upon this foundation, appendum and amendments are added by individual arcologies as is needed. These combine to form the **Arcal**, the collation of all an arcology's law.
+#### The Shape of Fel-Arcad Law
+Below is a relative outline of the shape of Fel-Arcad law, how they have built and run their legal systems to be in line for their vision of optimal Switchboard societies.
 
-#### Crime & Punishment
-> Build the Fel-Arcad government and court/legal system.
+1. **Legal Structure**
+The Fel-Arcad possess a legal architecture featuring tiered courts. Each court grows in prominence and the kinds of legal matters it can handle, presiding over larger numbers of Fel-Arcad, and greater levels of legal dispute.
 
+Regarding the tiers of courts, there are four;
+
+- **District Benches**, which serve the individual districts of an arcology. In an arcology's topology, a **district** is a collection of **blocs**, with blocs being the smallest unit of measurement for arcology living. District Benches serve the district, and districts are made up of a number of blocs. These benches work often as mediators on the smallest issues spanning upwards, such as contract disputes, personal injury cases, family law and the like, moving upwards to smaller scale criminal cases.
+
+- **Wing Courts**, which serve an arcology's wings. Wings are collections of districts, and thus Wing Courts oversee a larger share of an arcology's population. Affairs that begin in the District Benches can be escalated to the Wing Courts if deemed necessary, as Wing Courts deal primarily in manners of legal review. That being said, Wing Courts do conduct trials of their own, in cases where it is agreed more legal muscle is required. Wing Courts handle large-scale criminal and civil cases as is necessary.
+
+- **Nadiran High Courts**, which are the highest legal institution within an arcology, serving to represent all the peoples of that arcology and the arcology itself. Matters that reach insufficient resolution in the Wing Courts are resolved here, and the Nadiran Court largely does legal review of the decisions made by lower courts rather than conduct much legal theater of its own. That being said, in affairs that involve non-arcology denizens, such as a civil or criminal suit involving non-Fel, they are handled exclusively at the Nadiran High Courts. For this reason, they work closely with External Affairs.
+
+- **The Rosenthal Court of the Fallen**, the final tier of court, and the highest legal authority recognized by the Fel-Arcad. Sequestered at the Second Arcology at Sanscrii, the Fallen Justices are elected by all Fel-Arcad the Switchboard over, and serve the Fel-Arcad as the final arbiters of justice. All decisions made by them are law. On the administrative front, they are the authority that presides over the contents of the **Arcal**, revising and making amendments to it as necessary. For these many reasons, much of the Fel-Arcad's power is spent in protecting these figures from external powers that seek to interfere with the proceedings of the court.
+
+2. **Role of Judges**
+Fel-Arcad courts are presided over by multiple judges at the bench, all who serve various functions in the entirety of the process.
+
+- **Legal Proceedings**; They work as impartial arbiters over the entire affair, give rulings on issues that arise in proceedings using their wealth of expertise, manage witnesses and evidence, and settle matters both before and after the trial concludes, such as motions to dismiss. Thy additionally pass judgement at the end of the affair if necessary.
+- **Jury Handling**; Judges are involved with the jury, both in the selection process and in educating them in their duties once selected.
+- **Trial Proceedings**; Judges work to maintain order from the bench, especially in the case of particularly impassioned cases. They generally work to provide oversight of the entire affair, to ensure that the legal theater is played as by the book is possible.
+
+As one ascends the ladder of Fel-Arcad courts, the number of judges at the bench increases. District Benches have **four judges**, and in decisions that require judges to vote, a three vote majority is needed for a decision to be made. Wing Courts seat **six judges** and need a **four-two majority**. Nadiran High Courts seat **eight** and need a **five-three** majority to reach a decision.
+
+The Rosenthal Court of the Fallen seats **nine** supreme justices, and an **seven-two** majority is needed to pass a decision. Due to the weightiness of the matters decided by the Fallen Court, it is paramount that as many on the bench agree with a decision made as possible.
+
+3. **Role of Juries**
+In an overwhelming majority of Fel-Arcad legal proceedings, a jury is called for and assembled. 
+
+Jury selection is the first task, and begins with determining eligibility. The pool for determining eligibility is by default, the entire population of the arcology or arcologies most relevant to the case. The first stage of selection is twofold; an opportunity to opt in to the service, and a written exam that must be taken by all who are eligible. This exam is a general knowledge test meant to asses a level of intelligence, a civics test to determine how learned one is about legal proceedings, and a no-wrong-answers test about morality. 
+
+Selection is undertaken in a familiar manner; that of '**voire dire**', a selection process used to determine the biases within individual potential jurors. This is done via questioning the jurors, and working to determine if their background, experiences, beliefs and/or connections with the case or the parties involved might present a conflict of interest, rendering them incapable of being fair to the parties involved. Should the acting legal counsel present a tangible case why a juror should be dismissed, it is left to the panel of sitting judges to deliberate and approve or deny the decision.
+
+A core difference is that under the Fel-Arcad, they are not given **preemptory challenges**, as their usage is rife with concealed, plausibly deniable biases.
+
+Fel-Arcad legal scholars have always shaped the legal system such that the jury takes a slightly different approach. Fel-Arcad juries consist of **twelve members selected from the arcology or arcologies most relevant to the case**, as well as **six additional jurors** who have **lived minimally in arcologies** in their lifetime. The reason for this is that it is widely postulated arcologies breed a form of 'moral uniformity' among the Fel-Arcad that is good for running society, but may be suboptimal for judging those who flout it. Those who haven't dwelt in arcologies are thus brought on to give an otherwise unobtainable perspective. 
+
+For the Fel-Arcad pool, they have four alternates, and two for the non-arcology pool, resulting in **twenty four jurors** in all. In cases involving multiple arcologies, the Fel-Arcad pool is divided into a larger and smaller pool, with the larger pool being drawn from the arcology the defendant is most tied to, this often being a 60% split in their favor. If three arcologies are involved, it can be split 50-25-25 in the defendant's favor. This in pursuit of the philosophy of 'jury of their peers', with peers being very much a product of the arcology one has dwelt in.
+
+The task of the jury after their selection is, summarized, to reach a verdict. This they will do through being the audience of what could be a very long bout of legal theater. In this time, the courts and auxiliary legal institutions will work towards preserving their safety and compensating them for the time spent. In the court room they will be presented the evidence, question witnesses, discuss facts, and ultimately deliberate upon the matter. If a verdict is not reached, they will be given time to deliberate again, and again, again, until a decision is reached. In all this they are to remain fair and impartial, and work towards the delivery of justice - in whatever form that may be.
+
+4. **Legal Codes and Statutes**
+The legal codes and statutes adhered to by the Fel-Arcad are encoded in the **Arcal**, which is an expanded compendium of documents featuring material taken from the **Annals of the Eight**, **Mouths that Spit and Sing**, and **The Farseer's Lament**.
+
+The Arcal is divided into various super-sections, sections and subsections, dealing with a litany of subject matters, civil and criminal, from the conduct of individuals to that of all Fel-Arcad. It outlines the structure of government and the extent of each branch's powers, and contains a supremacy clause that declares it the supreme doctrine the Fel-Arcad must adhere to. It contains information on how to amend the Arcal, adding additional clauses and the like where necessary; as the people who are subject to it grow and evolve, so too does the document they are subject to.
+
+Revisions and amendments to the Arcal are made by the Fallen Justices that sit in the Rosenthal Court of the Fallen at Sanscrii. As with other decisions, a seven-two majority of the justices is needed to reach a decision on what changes should be made to the Arcal.
+
+5. **Legal Education & Profession**
+Under the advanced instruction schools umbrella are **Arcal Colleges**, where those who will work in the legal profession are trained. Here, there are specific training tracks for those who want to become lawyers, judges, jury consultants, cross-examiners, mediators, in-house counsels, various flavors of administrative staff such as court reporters, secretaries and paralegals, researchers and law educators, as well as an introductory program for those who will later train to be law enforcement at Sekatorial Camps.
+
+Each varies in the number of years necessary to attain a state of having completed the work allotted to one and thus earn the title tied to that completion. At this, many can choose to go into public, private or individual practice for the various subfields they might find themselves drawn to.
+
+It is from this bunch after they have obtained a fair bit of experience on many legal fronts that the judges of various courts are selected. Those interested in becoming judges can indicate their interest with the relevant bodies, and have to pass a fair bit more training and testing before they can. It is also often the case that Fel-Arcad may vote for particularly beloved figures even if they did not run for office, and as such they are strong-armed into service.
+
+6. **Rights and Liberties**
+The section of the Arcal that outlines much to all of the Fel-Arcad's rights and liberties is very much similar - as to be almost derivative - of our world's [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). As the Fel-Arcad work towards the establishment and maintenance of a maximally egalitarian society, the creation of a fundamental outline of the shape of beings in that society was necessary, and was reached after much deliberation among thinkers and scholars over the many earliest processions of the Arcad's and later Fel-Arcad's existence.
+
+That being said, there are some articles of the UDHR that do not carry over totally to the Fel-Arcad's own approach to shaping an optimal society.
+
+The nature of arcology living - and in reality, the arcology model itself - has made it necessary for arcology administrative powers to be more involved in the on goings of individual Fel-Arcad and their families, in a manner that many would find to violate **Article 12**. It is no secret that arcologies are under heavy and active surveillance, often up to the doorsteps of individual residents, to maintain the optimal state of the arcology desired by those who have established the rulebooks on such things. The nontrivial results of this hasn't stopped critics of the Fel-Arcad and the arcology model, particularly scholars outside of the Fel-Arcad, from critiquing it on this point.
+
+The construction of arcologies also means **Article 17** is under some contention. While Fel-Arcad can indeed purchase property beyond their initial allotments within an arcology, all land-related matters are ultimately subject to the whims of the Soleri, who shape the arcologies as they see fit. Compensation is indeed given to those who's land needs to be repossessed, but under most circumstances they are not exactly given a choice in the matter.
+
+**Article 18** causes some friction on how individual arcologies choose to deal with Rosenthalist cells. Many employ the oft-cited 'paradox of tolerance' and thus make it a point to exile Rosenthalists and oppose their proliferation wherever possible. Others argue that to deny Fel-Arcad their intrinsic right to dwell within the arcologies flies in the face of doctrine spanning back to the days of the Arcad; the arcologies have always been their homes, and as a cultural and physical institution they cannot possibly be denied to Fel-Arcad, irrespective of creed, irrespective of the contents of that creed. 
+
+It additionally raises conflicts with **Article 19**, in that while some arcologies are tolerant if not outrightly dismissive of Rosenthalist presence, they may restrict their ability to express their beliefs through avenues normally available to others, believing that containment and curtailment of Rosenthalist sentiment and its spread is necessary for the health of an arcology and its people. **Article 20** can see some infringement in this regard as well, regarding assembly.
+
+In many cases, it is widely accepted that Rosenthalists in government is less than ideal, though the means of preventing this is up for debate. Some opt to simply fight ideas with ideas, and work towards large information campaigns to expose and criticize Rosenthalist doctrine. Some arcologies are far less inclined to this however, and choose simply to dismiss with **Article 21**, disallowing Rosenthalists from running for office, and even dismissing with the desires of a largely Rosenthalist populace. 
+
+In some cases **Article 23** comes under minor fire. While all Fel-Arcad are guaranteed employment in some form, and fair compensation for work done, arcologies as machines have very specific needs, and individual Fel-Arcad may be more-than-persuaded to work certain jobs or professions, especially if they are directly related to the upkeep of the arcology, even if they may not be so inclined towards these positions.
+
+The compulsion to attend arcology-run schools and thus imbibe arcology-developed curricula is seen by some to violate **Article 26**, regarding what parents can teach their descendants. Private educational arrangements or 'homeschooling' is largely frowned upon by the arcologies, and while some may not actively forbid it, and some may even provide 'educational tracks' that can be followed by those who choose that route, there are many checks and balances in place that some may argue are 'excessive', enough so to dissuade the undetermined from the entire endeavor. 
+
+**Article 27** has been under major contention regarding the topic of intellectual property. Under most arcologies, the intellectual creations of denizens of that arcology are done under the contractual obligation that the author be author in name only, and the actual intellectual product is the property of the arcology within which it was developed, the argument being that such inventions wouldn't be possible without the conducive environment for existence provided by the arcologies. 
+
+The boons reaped by usage of intellectual inventions are thus also the property of an arcology, and while the creators do enjoy a share, it is given as a matter of courtesy rather than compulsion, and this is widely understood by most. It isn't accepted by most though, and there are many cases of Fel-Arcad hopping to arcologies that do not enforce these rules or outside of arcologies entirely to birth their creations, which they then reap maximally from, or offer to sell them to their parent arcologies for upfront sums and additional royalties over a period. Some arcologies are more stringent about these things however, with the creations of all Fel-Arcad within them *from time of birth* being the property of the arcology they are born in. Some arcologies have employed Sekators to pursue those who try to flout this, and it has been met with proportionate criticism and condemnation, but nothing by way of outright forbiddance. 
+
+As a note, **Article 29** ties in to - and is in fact and argument and justification for - the semblance doctrine, in that individual development and wellbeing is intricately tied to overall community health. It is for this reason that visits to the sembleworks by Fel-Arcad is largely subsidized by the arcology administration, who have come to view it as an investment into the productivity of the arcology itself.
+
+The second part of Article 29 is also used as justification for the various infringements on other articles or so, small and large, as stated above. Coupled with one's own rights is a compulsion to respect the rights of others, and to sacrifice in some ways for the wellbeing of larger collectives.
+
+7. **Punishment and Sentencing**
 Criminal law among the Fel-Arcad is handled by their (legisjudiciary PHldr.) that is responsible for both proposing, drafting, deliberation upon, enacting and interpretation of arcology law as well as enforcement of it. These laws are written into an arcology's Arcal, the binding document of rules that all within the arcology are beheld to.
 
-Necessary investigations and eventual punishment are handled by the Sekators, the only Fel-Arcad empowered to use violence by virtue of being specifically trained in its just application. Actual judicial proceedings are handled by the LJ.
+Necessary investigations and eventual punishment are handled by the Sekators, the only Fel-Arcad empowered to use violence by virtue of being specifically trained in its just application. 
 
-> Following sections are somewhat tentative.
-
-Fel-Arcad courts are somewhat familiar affairs with judges, defendants, prosecutors and a jury. Though as a point of difference, juries in one arcology are drawn from other arcologies, and it is common practice for one arcology to request for jurors from another. 
-
-> This has been changed, and is part of a much larger redesign of how Fel-Arcad courts work. They feature triple juries, one consisting of Fel-Arcad drawn from the arcology where the incident in question took place, one consisting of Fel-Arcad drawn from other arcologies (often just one or two) and one consisting of non Fel-Arcad, meant to provide a non-Fel, outside perspective on the matter. 
+When a jury reaches a verdict in a Fel-Arcad trial, they have the opportunity to either determine the severity of the punishment among themselves, or waive that right and leave sentencing to the judges overseeing the case.
 
 Most punishments given down by Fel-Arcad courts are tempered by the fact the Fel are a philosophically-mandated pacifistic people, and thus many would consider their punishments 'soft'. Financial penalties such as fines or reductions in monetary allotments, uncompensated work, restriction of freedoms within the arcology such as access to various facilities, temporary exile - or in the worst cases - permanent exile, encompasses the majority of punishment methods afforded to the Fel-Arcad. Many families and groups within and outside of the Fel-Arcad have criticized the Fel-Arcad as 'too lenient', met with counterarguments in the form of mentioning how most 'harsher' methods are incompatible with their doctrine.
 
@@ -957,12 +1031,42 @@ This has led to many instances of slighted Fel-Arcad who felt the punishment dea
 
 There are of course arcologies that embrace harsher methods of punishment, including imprisonment and occasionally even the death penalty, obtaining a mixed - but mostly disapproving - reception, by the wider Fel-Arcad community. Studies naturally exist for either side of this divide, arguing for one method over the other. Rosenthalists in particular favor harsher approaches.
 
-#### Jurisdiction Within the Dancirah
+8. **Legal Institutions**
+The auxiliary non-court legal institutions such as law enforcement agencies and correctional facilities are the domain of an arcology's **Sekators**. Being the only Fel-Arcad allowed to perform acts of violence within tightly-controlled bounds, they are thus necessary at various stages in the legal process, such as arrests, investigations, moving relevant parties from locale to locale, protection of relevant parties, case-relevant materials such as evidence, and the physical locations relevant to cases, such as crime scenes and the actual court building.
+
+In addition, the Sekators enforce whatever sentence is levied against the convict. Exiles and imprisonments are overseen by the Sekators, and in arcologies where more severe methods are employed, the Sekators oversee these as well.
+
+It is worth noting that the monopoly the Sekators have over violence thus makes them uniquely liable for excessive harms done in its usage, established through continuous reviews of Sekator conduct by relevant bodies.
+
+9. **Appeals and Review**
+It is the right of all Fel-Arcad who are dissatisfied with a ruling to escalate the matter in the form of an appeal to a higher court. This is only doable when circumstances facilitate it however, and these circumstances must be established in the form of an appeal proposal.
+
+If it can be established, for example, that there were considerable errors made in proceedings by various parties, this is grounds for an appeal. Other grounds include errors of procedure and process, allegations of bias, excessive sentencing, conflict of law and jurisdiction, and the appearance of new evidence. When a case is sufficiently made, the next court on the ladder can take the case up for review.
+
+The conclusive list for grounds of appeal is as follows;
+- Errors of Law
+- Misconduct or Bias
+- Procedural Errors
+- New Evidence
+- Inadequate Legal Representation
+- Excessive or Inappropriate Sentencing
+- Errors in Jury Instructions
+- Constitutional Violations
+- Jurisdictional Issues
+- Abuse of Discretion
+- Conflict of Laws
+- Errors in Findings of Fact
+
+While measures are taken to curtail each of these, the system - even the Fel-Arcad's - is imperfect, and as such it is important that measures exist to demand lookovers of various legal decisions.
+
+The highest court among the Fel-Arcad is the Rosenthal Court of the Fallen, and their decision is final.
+
+10. **On Jurisdiction**
 The jurisdiction of an arcology is often a point of contention. Generally, it is accepted that the jurisdiction of an arcology ends at the physical end of the arcadia it is situated within, a boundary between legally-bound space and the unclaimed waters that remains fairly static as arcadias are often programmed to stop growing once a desired size is reached.
 
-Fel-Arcad generally make it a point not to punish offenders for crimes against them if those offenders are not subject to arcology jurisdiction. A crime committed by a non-Fel against a Fel-Arcad within the bounds of arcology space is handled by that arcology, and punishment is meted out to the offender by the arcology's administration due to the fact visiting an arcology is done with the awareness and thus acceptance of being bound by arcology law. 
+Fel-Arcad generally make it a point not to punish offenders for crimes against them if those offenders are not subject to arcology jurisdiction. A crime committed by a non-Fel against a Fel-Arcad within the bounds of arcology space is handled by that arcology under the Nadiran High Court, and punishment is meted out to the offender by the arcology's administration due to the fact visiting an arcology is done with the awareness and thus acceptance of being bound by arcology law. 
 
-Offences committed outside an arcology's jurisdiction against a member of that arcology are handled somewhat differently. Investigations are carried out to find the nature of the offence and the perpetrators, and then this information is passed over the arcology's External Affairs. EA contacts relevant parties that the perpetrator is subject too - such as another arcology in the case of a Fel-Arcad offender - and issues their demands regarding a desire for punishment and the degree of severity in its dispensation. Noncompliance is met with sanctions from the Fel-Arcad, often in the form of trade refusal by the relevant arcology and other arcologies that feel so inclined. The economic value of the Fel-Arcad sees that their demands are often answered sooner rather than later.
+Offences committed outside an arcology's jurisdiction against a member of that arcology are handled somewhat differently. Investigations are carried out to find the nature of the offence and those involved, and then this information is passed over the arcology's External Affairs. External Affairs works closely with the NHC and contacts relevant parties that the perpetrator is subject too - such as another arcology in the case of a Fel-Arcad offender - and issues their demands regarding a desire for punishment and the degree of severity in its dispensation. Noncompliance is met with sanctions from the Fel-Arcad, often in the form of trade refusal by the relevant arcology and other arcologies that feel so inclined. The economic value of the Fel-Arcad sees that their demands are often answered sooner rather than later.
 
 #### The Sekators
 An arcology's fighting force is its Sekators; trained Fel-Arcad solely empowered to utilize violence. Securing a given arcology and the Fel-Arcad within from internal and external threats summarizes their charge fairly well. While the Sekators tend to thus being fiercely loyal to Fel-Arcad kin, this loyalty has led many to strike out against enemies of the Fel-Arcad often without adequate clearance, especially as means to right wrongs done by other parties, and out of the frustration with External Affair's methods of dialogue and cajoling. There are many cases where an offender simply vanishes, and External Affairs and the party representing the offender are left with no real way to proceed, more than abundantly aware of what caused such a disappearance. 
