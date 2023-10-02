@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "337112d3e18b2563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5ea8baaa8e0d9855",
             "type": "leaf",
             "state": {
@@ -58,22 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "54f768dee8c04b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/SpyndlAcademy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sekators",
+                "query": "spinmetal",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -219,13 +219,13 @@
   "lastOpenFiles": [
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-    "2. Development/Workshop/SpyndlAcademy.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
+    "2. Development/Workshop/SpyndlAcademy.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "C4.md",

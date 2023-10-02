@@ -22,7 +22,7 @@ Tracking progress on the doc.
 09. [ ] Quirks
 
 **Strata Three**
-10. [ ] Naming and Language
+10. [x] Naming and Language
 11. [x] Faith and Religion
 12. [x] Factions, Philosophies & Divides
 13. [x] Education
@@ -277,7 +277,7 @@ The intricacies of these ceremonies are worth discussing. Concerning birth, I re
 
 Birth via traditional methods - though uncommon - follows a familiar procedure that I will derive from my own culture; that of the naming ceremony, in which eight days (six in the Switchboard) after a child's birth, all the kin and well-wishers gather to bestow the child with names. The ceskin make their first choices, followed by existing kin to the child, then the wider arcology.
 
-Offspring from the Conjugation however, are able to pick their names themselves, and the ceremony is often done at their behest - when they feel they are ready. They choose their first name, the one they will most commonly go by, then their ceskin will choose one for them, their kin choose another, and then the wider arcology may bestow one upon them as they see fit. As such, most Fel-Arcad have four names; the one taken, the one given by ancestors, the one given by siblings, and the one given by the wider Fel-Arcad body. Once the names are chosen, the subject inscribes them on the branches of the Curlicue growing at the center of every arcology, adding to it's vast canon. The ceremony is capped off with the expected; music, dancing, theatre, eating and drinking.
+Offspring from the Conjugation however, are able to pick their names themselves, and the ceremony is often done at their behest - when they feel they are ready. They choose their first name, the one they will most commonly go by, then their ceskin will choose one for them, their kin choose another, and then the wider arcology may bestow one upon them as they see fit. As such, most Fel-Arcad have four names; the one taken, the one given by ancestors, the one given by siblings, and the one given by the wider Fel-Arcad body. Once the names are chosen, the subject inscribes them on the branches of the Curlicue growing at the center of every arcology, adding to its vast canon. The ceremony is capped off with the expected; music, dancing, theatre, eating and drinking.
 
 	The coming of age ceremonies are the next in the stack, and because I have not written DocPass, this section will remain unwritten. That being said, the structure of these is a ceremony held every eight processions - representative of the Eight - signifying the rise to adulthood, concluding at twenty-four processions.
 
@@ -292,6 +292,46 @@ Single ceskin-hood (parenthood) and outright orphaning of cenkin doesn't really 
 Funerals are fairly straightforward; the kin gather in a ceremony of 'dust to dust', in which the body of the deceased (unless otherwise asked) is buried at the foot of the Curlicue tree at the heart of the arcology, and then end of their canon is inscribed on its branches. The body is broken down into chalk and assimilated into the replichrome of the arcology and the body of the tree, a symbolic gesture showing that, though gone, the dead remain - forever - close to us. 
 
 ## Strata Three
+### Naming & Language
+#### Names
+For the Fel-Arcad, I decided that on a naming aesthetics front they will be culturally Japanese, thus individual Fel-Arcad and various names for other things relevant to them will use Japanese or adjacent nomenclature.
+
+The Fel-Arcad often bear four names, the taken name, the one given by ancestors (or family/last name), the name given by siblings and friends, and the name given by the arcology. The names follow a number of paradigms based on certain skews. 
+
+At base, a Fel-Arcad's roster of names are;
+- A Japanese name.
+- A name of something relating to nature; particularly flowers.
+> VoiFleur when.
+
+and this is modified by certain sects that the Fel-Arcad may belong to, examples of this being;
+
+- Feljourn often take Sil'khan names, or append 'Sil' or 'Khan' to one of the names they already bear. They may also take names that allude to the Skydancers, or the names of distant regions.
+- Rosenthalists have a habit of calling themselves Arcad in place of their family names, or having 'Rosen' somewhere in their names.
+- Soleri have names that allude to light or suns, or have 'sol' somewhere in their names.
+- Fel-Arcad artists and artisans take their profession as a name, or a corruption of the word itself or words relating to it. There are many Fel bearing the names Painter, Weaver, Mason, Spinner, and the like. Sembleworkers in particular are fond of names referring to spinning, weaving and the like.
+> Regarding the above name, these are naturally transformed into their Japanese equivalents.
+
+	As a final note regarding naming, I may expand beyond merely Japanese and instead utilize names from adjacent cultures, perhaps if I need to differentiate between various schisms or sub-factions of Fel-Arcad. Time will tell.
+
+#### Language
+At the dawn of the Third Kin, they all arose speaking a fairly elementary proto-language. As they spread across the astrolabic regions and gradually began to differentiate into the families at the time, they naturally evolved differing languages as well, reflective of their individual and collective natures. 
+
+The first language spoken by the Third Kin was, rather simply, dubbed the '**Kinspeak**' by historians on the matter. Recognized for what it was and appropriately named so, the Third Kin at the time spoke it in the company of other Third Kin that differed from their own families, and reverted to the slowly emerging second generation tongues in the company of their own folk. 
+
+The earliest Arcad's language evolved primarily around the time of the construction of the First Arcology at Rosenthal. As the Arcad of the time were compelled into working together and thus interacting fairly closely with one another, their language gradually took form, reaching a state of differentiation from the Kinspeak that historians came to call **Thalian**. The Arcad majorly spoke Thalian for much of the time that they operated in the Switchboard, and Thalian held sway over the Arcad right up until the Refrain.
+
+When the Arcad became the Fel-Arcad and began their nomadic period, Thalian was the language they spoke, but it gradually became corrupted as the Fel-Arcad moved and dwelt among the various other denizens and locales of the Switchboard, becoming a collection of slightly differing 'pidgins' that were localized to various sectors of the Switchboard. As Fel-Arcad gradually began to come together again in larger groups, the pidgins began to homogenize into a new tongue. These **Losthals** or 'lost Thalian' dialects would later come to be studied in the formation of the larger tongue used by the vast majority of the Dancirah.
+
+With the formation of Sanscrii and the homogenization of the Losthals, Fel-Arcad linguists settled to the task of the formation of a new language that would enter the service of the Fel-Arcad, with the intention that it be used for possibly, until the extinction of the Fel-Arcad as a people. Endless deliberation led to the formation of the **Sanscryvan**, the most widely-accepted vernacular for the Fel-Arcad and sees extensive use in majorly Fel circles such as within arcologies.
+
+However, it became necessary for their to be a means to communicate among other peoples in the Switchboard, a 'lingua franca' that would be adopted into Dancirah-wide use. Fel-Arcad linguists met with the then Danseers, Lancasters and some Vahnkin to pool their ideas together in a series of conventions and many processions of study and iteration, leading eventually to the formation of the **New Danciran Standard**, which saw widespread adoption among the denizens of the Dancirah, but not nearly as much proliferation among the Vahnkin and other dwellers in Isalveh, the Challenger Dark. 
+
+The NDS's roots being primarily Sanscryvan gave the Fel-Arcad an advantage in learning it, but this reason is cited as why the kin of Vahn were disinclined to using it, seeing it as one of the many 'creations of the sky' they were slowly growing to view with disregard.
+
+As such, Sanscryvan or 'Scryvan' became the commonly used tongue by Fel-Arcad amongst themselves, with courtesy demanding they employ NDS or 'Standard' in the presence of others.
+
+Listeners have describe the various Fel-Arcad tongues as long-winded, elegantly cadenced, and downright musical. Much Fel-Arcad discussion sounds like singing, or poetry recitations, with truly angry exhortations delivered in Scryvan mimicking theatrical displays. Some have disapprovingly called it a 'tongue of weaklings' or 'the verbal preening of self-important birds'. While the Fel-Arcad aren't ones to be particularly wounded by such remarks, it was taken into consideration during the creation of the Standard. 
+
 ### Faith & Religion
 The Fel-Arcad as a people are largely atheistic. Concrete records of their history allows for the tracing of their descent from the origination of all Third Kin down to now, and going through this history has led most to conclude that no power guided the choices made and their resultants other than mundane calcic mechanics. That being said, there are some who do hold some certain figures, constructs and concepts in high regard, and while it can be said that there are subtle or even overt religious undertones exhibited by members of given groups, deeper inquiry will lead to the conclusion that 'worship' of 'godlike figures' isn't being practiced.
 

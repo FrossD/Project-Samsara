@@ -141,15 +141,9 @@ Thoughts and new concepts to incorporate into the Samsara canon. While thoughts 
 - Scintillate; a 'neutered' form of Glass used as a drug by Striders.
 - The Red Pleasures of Leilani; the doc on Switchboard vices.
 - Something about Strider 'casualism', talking about some of the quirkier bits of Strider existence and the like, custom around smoking, alcohol, games shit.
-- A **Lingua Dancirah**; seeking to define a sort of language used across the entire Switchboard. Call it the Star-wild Common or 'Starwil'.
-	- Perhaps the Fel-Arcad created a language that is a pidgin of the other tongues, and is called maybe the 'Common Danciric' or Danciric or the Anciric.
-	- Replace common swears.
-		- 'Idolo!' - Fuck
-		- Salva! - Hell
-	- Sil'khan/Danseers - Yoruba/Y-naming
-	- Fel-Arcad - European (Swedish? Scottish? Welsh?)
-	- Vahnkin - Mediterrean?
-	- Lancasters - Asian?
+
+**Tongues of the Switchboard**
+- The Sil'khan unintentionally formed a tongue of their own, the **Starwyld Common** or **Starwyl**, that came to major use among the Switchboard's many nomads, drifters, outlaws, mercenaries, the Sil's own Sabai, malcontents and rogues. Contrasted with the NDS, it is said to be spoken sharply, crassly, and hurriedly, with many verbal timesavers and a noteworthy hand component that allows for skewing the context of a verbal statement, adding additional meaning, or weaving in a layer of subterfuge in the presence of those who aren't familiar with it.
 
 **Sentiments**
 - 1 Timothy 4:13-14
