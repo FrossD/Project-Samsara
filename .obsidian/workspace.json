@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md"
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,13 +216,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ea8baaa8e0d9855",
+  "active": "a73f0f344fa84146",
   "lastOpenFiles": [
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
     "2. Development/Workshop/SpyndlAcademy.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",

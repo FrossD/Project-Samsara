@@ -975,7 +975,7 @@ Is the correct position to hold. While the former is the most philosophically co
 
 Ultimately the matter remains a bitter pill the Fel-Arcad must swallow every single day, the nature of the dilemma seemingly having no outlet that assures maximum alignment with their core utilities.
 
-#### The Shape of Fel-Arcad Law
+#### Fel-Arcad Law
 Below is a relative outline of the shape of Fel-Arcad law, how they have built and run their legal systems to be in line for their vision of optimal Switchboard societies.
 
 1. **Legal Structure**
@@ -1114,7 +1114,74 @@ An arcology's fighting force is its Sekators; trained Fel-Arcad solely empowered
 In cases where it is clear someone has taken matters of justice into their own hand, it is declared that 'the unknowable forces of cause and effect have issued us what we interpret to mean justice' and often, the matter ends there. Arcologies have found themselves in dire straits after Sekators or other parties acted out of line before, however, thus the practice is heavily frowned upon, though this hardly does the work necessary to curtail the pursuit of restoring pride in one's own people. 
 
 ### Politics & Economy
+#### Politics & Governance
+Within each arcology is their seat of governance, the structure and workings of which are outlined in the **Arcal**, the Fel-Arcad's constitutional document, assembled from various other works that make up the larger body of the Fey Curlicue works of literature. In structuring their government, the Fel-Arcad adhered to a number of familiar principles, including having a constitutional backing, insistence upon the Rule of Law, free elections under a representative democracy, and the separation of powers. While political theory-crafters continue to study the systems in place and work upon their improvement where necessary, they have reached a fairly workable state over many processions.
 
+Below thus, are notes on the subject, outlining the various intricacies surrounding Fel-Arcad and arcology government.
+
+##### Governmental Structure
+For the purposes of analysis we shall look at what can be called a 'baseline' for an arcology's governmental structure. This baseline is built off of a number of presuppositions, these being in particular regarding the demographic makeup of the arcology. The baseline thus refers to an arcology that is majorly Nadiran in population and philosophy, in that they reject Rosenthalist thought and operate on principles outlined by the ArcDanseer Nadira, such as the Semblance Doctrine and conscientious objection to violence unless critically necessary. Certain skews are made to the baseline 
+
+With that established, we may then look at the structure of Fel-Arcad government. Collectively, it is known as the **Rozencraun**, and it is a five-armed model that sees each arm handle individual, differing aspects of an arcology;
+
+- Executive - the **Craun Tenders**
+- Legislature and Judiciary - the **Craun Justiciars**
+- External Affairs - the **Circuit of Extra-Arcology Relations**
+- Military and Law Enforcement - the **Sekatariat**
+- Arcology Management - the **Craun Soleri**
+
+**The Craun Tenders**
+An arcology's High Tenders are its highest authority excluding all checks and balances that may be imposed by other arms. Separated in the **High, Mediate and Low Tenders**, each strata presides over a number of executive functions within the arcology. 
+
+The **High Tenders** can number between three and half, and serve functions not dissimilar from the role of a president in other systems. They are the arcology's chief executives, and generally if a matter needs to be addressed and actions taken as a result, they are the ones who make it possible. In particular their functions are on matters of;
+
+- Administration
+- Economics
+- Crisis Management
+- External Relations and Diplomacy
+- Military Proposals
+- Ceremonial Duties
+
+And a number of other duties that generally require a high, tightly-knit authority to make decisions that affect the entirety of an arcology and those within it. The fragmentation of Fel-Arcad governmental power does mean that the High Tenders must consult and can even have their actions constrained by other bodies within the Rozencraun, but in a majority of cases, they are able to take actions relatively unchallenged, this efficiency of decision-making necessary for running the arcologies.
+
+The **Mediate Tenders** are a large group of high-level personnel for various administrative agencies and departments. Ministries on larger arcology subject matters such as employment and labor, the sembleworks, trade, education, manufacturing, health, immigration, information and technology, naval matters; persistent committees on various smaller matters, and purpose-built task forces to address brief, but highly important, rapidly emerging issues. These middle-managers of sorts are essential for the smooth operating of the Rozencraun, and they work in tandem with the many other arms of government towards the overall stability of the arcology.
+
+The **Lower Tenders** refers to a class of 'civil servants' of sorts, who work sometimes directly under the High and Mediate Tenders as various flavors of administrative staff. When a Fel-Arcad has dealings with the Rozencraun, their first encounter is with these Lower Tenders, who are the cogs of the entire machine as well as the lubricant that keeps the entire ensemble functioning. 
+
+**The Craun Justiciars**
+> Their functions are thrashed fairly thoroughly under the [[The Fel-Arcad#Fel-Arcad Law|Fel-Arcad Law]] section of this document, and to repeat what is said there would be redundant.
+
+The highest legal and judicial authorities within an arcology are its **High Justiciars**, a body of eight veteran legal scholars who warm the benches of an arcology's Nadiran High Court. Their function is primarily administrative and that of review, assessing the decisions made by lower courts, as well as the actions taken by various other arms of the Rozencraun. In matters where they are not actively handling legal cases, they are called the **Arbiter-Administrators**, colloquially shortened to '**Arbads**'.
+
+In this manner they serve as a check to the others' power. A vast majority of the decisions made by the rest of the Rozencraun is subject to legal review, and in fact many of such actions taken must receive some kind of sign-off or general approval from those working within the Justiciar. This has of course led to criticism, in the form of "Who polices the police?" and every answer being just another, higher-ranking policing authority has been understandably regarded as no answer at all.
+
+One of their additional functions include the fact the role of federal pardons that would normally be the domain of the President or their analogue is instead left to the decision of the High Justiciars. While requests for these pardons can be made by other arms of the Rozencraun in the form of formal applications outlining reasons why, the final say is left to the High Justiciars.
+
+Matters of elections and polls are also handled by the Justiciar, and indeed an entire sub-body exists for the calling and conduction of decision-making exercises that involve the wider arcology. 
+
+**The Circuit of Extra-Arcology Relations**
+This arm of the Rozencraun has earned its name from the physical architecture of its buildings in general; that of stacked 'rings' within which various offices and other relevant infrastructure are placed. The Circuit is headed by the **Circuit Director** and the **Office of the Circuit**, and within the arcologies they are tasked with matters of relations with other parties in the Switchboard.
+
+Working just under the Office of the Circuit and the Director - in hierarchy and often also in physical building layout - is the **Circuit of Ambassadors**, which refers to a collection of high-ranking authorities that work as liaisons with individual arcologies and various other entities in the Switchboard. In particular these are;
+
+- **Major Entities**
+	- The Arcology at Sanscrii
+	- The Sil'khan
+	- The Lancasters
+	- The Vahnkin
+- **Minor Entities**
+	- Spyndl Academy
+	- Lancaster Innovations
+	- The Starwylds (a blanket term for the Feljourn, Sil'khan nomads, and various other flavors of star-journeying Danciran denizen) 
+	- The Rosenthalists
+
+In nearly all matters that involve parties outside of the arcology in question, the Circuit is in charge of dealings and resolution, and they work in tandem with the other arms of the Rozencraun on issues relevant to them; the Craun Tenders on dealings with other top-level authorities and decisions that affect non-Arcad peoples, the Justiciar on legal cases involving non-Arcad, the Sekatariat on matters of defense and rarely, offense, and the Soleri's Craun Sanctum on matters revolving around the physical structure of the arcology itself and the arcadia that surrounds it, and how they may affect others in their vicinity. 
+
+It is thus also often the case that some of these ambassadorial figures are missing from the Circuit, due to a number of reasons - and few of them savory. 
+
+
+
+#### The Fel-Arcad Economy
 #### The Fel-Arcad Economy & The Wider Switchboard
 How does the Fel-Arcad economy work?
 

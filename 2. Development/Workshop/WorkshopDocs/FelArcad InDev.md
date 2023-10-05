@@ -50,18 +50,38 @@ Structure of Government - the **Rozencraun**
 - Soleri - the **Craun Sanctum**
 
 
+Structure of Government - the **Rozencraun**
+- Executive - the **Craun Tenders**
+- Legislature and Judiciary - the **Craun Justiciars**
+- External Affairs - the **Circuit of Extra-Arcology Relations**
+- Military and Law Enforcement - the **Sekatariat**
+- Arcology Management - the **Craun Soleri**
 
+Notebook Details
+- Democratic Republic Elements (D)
+	1. [x] Representative Democracy
+	2. [x] Separation of Powers
+	3. [x] Constitutional Framework
+	4. [x] Rule of Law
+	5. [x] Protection of Individual Rights
+	6. [x] Free and Fair Elections
+	7. [x] Civic Participation
+- Social Democracy Elements (S)
+	1. [x] Welfare State
+	2. [x] Economic Regulation and Mixed Economy
+	3. [x] Equality and Social Justice
+	4. [x] Balancing Individual Freedom and Collective Responsibility
 
+Notes
+- DRE #3 and #4 can go under the legal section.
 
-	- Executive - 
-	  Getting stuff done
-	- Legisjudiciary - 
-		Law; making, interpretation and enforcement
-	- External Affairs - arcology dealings with the outside
-	- Sekators - internal and external defense
-	- Soleri - arcology management
-- Aspects of governance (refer to the notes in the notebook)
-
+Build Stratagem
+- (D2) Separation of Powers -> **Governmental Structure**
+- (D1, D6, D7) Representative Democracy, Elections and Civic Participation all culminate into a point on **Electoral Civics**
+- (D3) Constitutional Framework comments on the **Arcal**
+- (D4, S3) Rule of Law, Equality and Social Justice on a larger point about the **equality of all Fel-Arcad before the law, all institutions, and to each other**. 
+- (D5, S4) Rights, Freedoms and Responsibilities allotted to every Fel-Arcad, and subject to the defense by and of arcology authorities.
+- (S2, S1) Part of the broader point on economics.
 
 
 #### Money and Economy
