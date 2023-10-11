@@ -23,8 +23,6 @@ Development of the EPITs for the Switchboard then, is fairly simple. We will def
 - Creature Quality (wings, tail, claws, armor, poison)
 - Creature Class (grunt, soldier, elite, flying, technical, boss)
 
-
-
 ## The Switchboard's Threats
 ### The Mindspun
 The Mindspun are [[On Birthing and Being#Emergent Minds|Emergent Minds]] born from chalk and taking on vessels with which to interact with the wider Switchboard. While 'Mindspun' is an umbrella term for various forms of elementary, primal thinking chalk, the 'Mindspun' as it is most commonly used refers to a category of Switchboard fauna often violent to dwellers in the Switchboard, possessing abilities that are somewhat psychic in practice.

@@ -1,32 +1,31 @@
 # Families Design Doc
 A place for keeping resources useful for developing the families.
 
-## Strata One
-### 1. Doctrine
-### 2. Calcic Affinity
+## STRATA ONE
+### 01. Doctrine
+### 02. Calcic Affinity
 
-## Strata Two
-### 3. History and Mythology
-### 4. Appearance
-### 5. Clothes and Bodily Adornments
-### 6. Individuals and Families
-### 7. Respect and Hierarchies
-### 8. Rituals and Periodicals
-### 9. Quirks
+## STRATA TWO
+### 03. History and Mythology
+### 04. Appearance
+### 05. Clothes and Bodily Adornments
+### 06. Individuals and Families
+### 07. Respect and Hierarchies
+### 08. Rituals and Periodicals
 
-## Strata Three
-### 10. Naming and Language
+## STRATA THREE
+### 09. Naming and Language
 > ABCDEFGHIJKLMNOPQRSTUVWXYZ
-### 11. Faith and Religion
-### 12. Factions, Philosophies and Divides
-### 13. Education
-### 14. Arts, Entertainment and Recreation
-### 15. Iconography and Architecture
+### 10. Faith and Religion
+### 11. Factions, Philosophies and Divides
+### 12. Education
+### 13. Arts, Entertainment and Recreation
+### 14. Iconography and Architecture
 
-## Strata Four
-### 16. Technology
-### 17. Food and Agriculture
-### 18. Law and Rules
+## STRATA FOUR
+### 15. Technology
+### 16. Food and Agriculture
+### 17. Law and Rules
 **Resources**
 [Legal system - The World Factbook (cia.gov)](https://www.cia.gov/the-world-factbook/field/legal-system/)
 
@@ -159,7 +158,7 @@ Creating a fictional judicial and legal system for a story or world-building exe
 By carefully considering these elements and how they interact within your fictional world, you can create a legal system that adds depth and authenticity to your storytelling or world-building project.
 
 
-### 19. Politics and Economy
+### 18. Politics and Economy
 #### Research On Democratic Republics and Social Democracies
 **Democratic Republic**
 The democratic republic system of government is a form of government that combines elements of democracy and republicanism. In this system, the ultimate authority rests with the people, who exercise their power through elected representatives. It is characterized by the following key features:
@@ -200,7 +199,7 @@ Social democracy is a political and economic ideology that combines elements of 
 Notable examples of countries that have embraced social democracy to varying degrees include the Nordic countries (such as Denmark, Sweden, Norway, and Finland), Germany, and the Netherlands. It is important to note that the specific implementation and policies of social democracy can vary across countries and over time, reflecting different cultural, historical, and political contexts.
 
 
-### 20. Social Problems
+### 19. Social Problems
 #### Classification of Social Problems
 > Provided by ChatGPT
 
@@ -232,5 +231,5 @@ Social problems in a society can be classified in various ways, depending on the
 
 It's important to note that these classifications are not mutually exclusive, and many social problems intersect with each other. Moreover, the perception and categorization of social problems may vary depending on cultural, regional, and historical contexts.
 
-### 21. Repute
+### 20. Quirks and Repute
 

@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dda6983ea49012a3",
+        "id": "c3f942212a73839e",
         "type": "tabs",
         "children": [
           {
-            "id": "1da82ee0026f8c97",
+            "id": "cf05c6051eaf5495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337112d3e18b2563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ea8baaa8e0d9855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a73f0f344fa84146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e6026001945697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -93,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spinmetal",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -125,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -142,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -152,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,15 +162,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a73f0f344fa84146",
+  "active": "cf05c6051eaf5495",
   "lastOpenFiles": [
-    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Workshop/Families/The Lancastars.md",
+    "2. Development/1. R&D/Research & Development.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
+    "2. Development/Workshop/Families/The Sil'khan.md",
     "2. Development/Workshop/SpyndlAcademy.md",
+    "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/CX-Character-Arsenal-Ideas.md",
+    "2. Development/Narrative Worldbuilding/Characters/CX-The Starsailors.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
@@ -238,12 +190,6 @@
     "2. Development/Mechanical Pillars/The Void.md",
     "2. Development/Foundational Pillars/The Switchboard.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ventura's Arsenal Card.md",
-    "1. Drawing Board/1. Samsara/Meta/Patreon.md",
-    "orphaned files output.md",
-    "2. Development/MDT.md",
-    "broken links output.md",
-    "1. Drawing Board/1. Samsara/Meta/Site Dev.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",

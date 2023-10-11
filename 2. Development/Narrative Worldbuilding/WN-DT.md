@@ -27,7 +27,7 @@ Works are paper drafted in the notebook, and then transferred here so they may b
 ### Ongoing Development
 Entries and docs here are actively under development, and just under transcribing they are the highest priority work in Samsara. 
 
-#### Class Alpha - High Prority
+#### Class Alpha - High Priority
 - [ ] Nuthin'
 
 - (nWB) **The Fel-Arcad Family**
@@ -133,6 +133,19 @@ Entries here have left the Thoughts Repository, and are confirmed to be entering
 	- While Spyndl was the first Academy and thus the most prestigious, various other allied and rivalling schools exist throughout the Switchboard, with their own histories, doctrines and methodologies.
 	- For now, directly rivalling Spyndl is **Sakerfel**, a Rosenthalist-run academy that has very poor relations with the Sil'khan.
 
+- (nWB, pNt) **EPIT 'The Lustrous'**: Under [[The EPIT]]
+	- Things do not truly die in the Switchboard; the Current ensures this. All there ever will be already is, and all that there is was once before. The desire to exist vastly outstrips the power to end existence.
+	- 'Lustrous' is a placeholder name for a larger, far more prominent 'enemy faction' in the Switchboard.
+	- Their motif from now borrows from a number of sources;
+		- Destiny 2's original ''**moth people**'' concept art; [Destiny Concept Art by Daniel Chavez | Concept Art World](https://conceptartworld.com/news/destiny-concept-art-by-daniel-chavez/)
+		- Starbound's **Saturnians and Thaumoths**; [The Saturnians | Chucklefish Forums (playstarbound.com)](https://community.playstarbound.com/resources/the-saturnians.4918/)
+		- This random **World Anvil** link; [4.4 - Saturnian / Thaumoth Species in Astral Confined | World Anvil](https://www.worldanvil.com/w/astral-confined-elcadrane/a/44----saturnian-2F-thaumoth-article)
+		- They have a moth motif of sorts.
+	- I had the snap idea for spider-themed people relating to the whole 'weave' motif that permeates Samsara.
+		- Light and Weave are perhaps their motifs? Stars and the Current?
+	- Their origin is somewhat related to the Minds.
+		- Another idea is that they are the Kin 3.5; the result of an Astrolabic resolution that for reasons, flew under the radar. 
+
 ## Work: Thoughts Repository
 Thoughts and new concepts to incorporate into the Samsara canon. While thoughts had are stored here, they may not necessarily make it into the Samsara canon.
 
@@ -150,23 +163,11 @@ Thoughts and new concepts to incorporate into the Samsara canon. While thoughts 
 - The defining line of the book(?); tradition is not the worship of ashes, but the preservation of fire.
 - "Fear the wrath of the patient man, and respect the elder in a profession where men die young."
 - Dare mighty things.
+- Love Elementalism: [https://www.vxtiktok.com/t/ZPR7mL1PT/](https://www.vxtiktok.com/t/ZPR7mL1PT/ "https://www.vxtiktok.com/t/ZPR7mL1PT/")
 
 **Nomenclature**
 - Names are needed for the various tech professionals in ICT.
 - Consider renaming Skydancer Cicerone to Cicere.
-
-**Families**
-[[The Sil'khan]]
-- **The King of Roads**: ~~The First Strider and somehow related to the practice of the Strider Protocol at large. A sort of story-like figure. Something similar to a non-divine deity.~~ He's a dude in Silkhand Canon; Skydancer, inspirer of hope for Striders everywhere.
-- Sil'khan Sabai, their pure nomadic faction.
-- Sil'khan technology like the **Jaunteer engine**, devices designed to emulate the Strider Protocol, and what allows the Sil's fleet of starships to operate.
-
-[[The Lancastars]]
-- **The Grounded**: Origins; First idea that comes to mind is that the first Striders using the Strider Protocol had no idea the mechanics of their universe and flew - quite literally - too close to their suns. Repeated damage to their lattices damaged their Strider Protocol beyond repair, and led to the first generations of Grounded.
-	- Intermingling between Striders and Grounded led to the proliferation of the Grounded, and due to the general danger of Striding and the reduced life expectancy of Striders, the Grounded grew in population.
-- Lancastars, 'line' 'casters'.
-- How the Lancastars use Glass as an equalizer between them and Striders.
-	- Glass as an essential part of their culture.
 
 **Tentative Narrative**
 - **Ellaine Hex**; ~~non-Strider, becomes Strider somehow. Walks the hated path. Meets the King of Roads somehow.~~ Probably not lol.

@@ -22,23 +22,22 @@ This checklist is copied to the design doc for each family. As the family is dev
 06. [ ] Individuals and Families
 07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals
-09. [ ] Quirks
 
 **Strata Three**
-10. [ ] Naming and Language
-11. [ ] Faith and Religion
-12. [ ] Factions, Philosophies & Divides
-13. [ ] Education
-14. [ ] Arts, Entertainment and Recreation
-15. [ ] Iconography and Architecture
+09. [ ] Naming and Language
+10. [ ] Faith and Religion
+11. [ ] Factions, Philosophies & Divides
+12. [ ] Education
+13. [ ] Arts, Entertainment and Recreation
+14. [ ] Iconography and Architecture
 
 **Strata Four**
-16. [ ] Technology
-17. [ ] Food and Agriculture
-18. [ ] Law and Literature
-19. [ ] Politics and Economy
-20. [ ] Social Problems
-21. [ ] Repute
+15. [ ] Technology
+16. [ ] Food and Agriculture
+17. [ ] Law and Literature
+18. [ ] Politics and Economy
+19. [ ] Social Problems
+20. [ ] Quirks and Repute
 
 ## Building - The Yarn
 The story from T=0 to the Post Mysticism of the family, outlining significant events that earned them their names and repute.
@@ -59,8 +58,8 @@ The family's relationship with calcic matters such as the Strider Protocol and c
 ## Building - General
 The more general building of the Switchboard's families and cultures.
 
-### Strata Two
-#### History & Mythology
+### STRATA TWO
+#### 03. History & Mythology
 > Updated. Now contains what the 'Yarn' section previously did; a brief synopsis of the family's history. 
 
 Noteworthy members in the family from long ago and mythologies.
@@ -73,7 +72,7 @@ Noteworthy members in the family from long ago and mythologies.
 	- How are these mythologies passed down?
 		- Written? Oral?
 
-#### Appearance 
+#### 04. Appearance 
 The physical appearance of members of the family, and the reasons behind them if any. How their appearance affects interactions within the family and with other families, and the origin of certain aesthetic qualities.
 - Skin color
 - Hair
@@ -82,7 +81,7 @@ The physical appearance of members of the family, and the reasons behind them if
 - Uncommon features (Human Plus or H+)
 - Visual Gender Differentiation
 
-#### Clothing and Bodily Adornments
+#### 05. Clothing and Bodily Adornments
 The physical appearance of the family in the form of clothes and bodily adornments, and what place they have, as well as purpose they serve in the family's culture.
 **Clothes**
 - Preferred fabrics?
@@ -102,7 +101,7 @@ The physical appearance of the family in the form of clothes and bodily adornmen
 - Hair colors and styles?
 - Deliberate scarification?
 
-#### Individuals and Families
+#### 06. Individuals and Families
 How are families or otherwise equivalent smallest units of their society structured?
 - Matriarchal or patriarchal or something else?
 - Nuclear preferred or extended?
@@ -115,7 +114,7 @@ How are families or otherwise equivalent smallest units of their society structu
 	- Single-parent households and orphans?
 - What are the expected behaviors/roles of children?
 
-#### Respect and Hierarchies
+#### 07. Respect and Hierarchies
 - How are people addressed? 
 - What honorifics exist? 
 - What part of social convention is used to allocate 'honor'?
@@ -126,25 +125,15 @@ How are families or otherwise equivalent smallest units of their society structu
 	- Wealth and status (such as a product of birth)?
 - What form do interpersonal interactions take between people bearing differing amounts of respect?
 
-#### Rituals & Periodicals
+#### 08. Rituals & Periodicals
 Periodic practices with temporal triggers. 
 - Birth, birthdays, coming of age, celebration of life stages, death ([[The Doctrine of Passing]]) and ceremonies commemorating them. 
 - Symbolic body modifications, such as scarring, tattooing or piercing.
 - Annual holidays marking significant events.
 
-#### Quirks
-The various 'don'ts' that exist and their origins.
-- What are some taboos?
-	- Why are they seen as such?
-- What are some mundane things seen as signs/omen of bad luck?
-	- What about good luck?
-- What are some ways of warding off bad luck/omens?
-- In what ways do superstitions interact with calcic mechanics?
-
-
-### Strata Three
-#### Naming and Language
-#### Faith & Religion
+### STRATA THREE
+#### 09. Naming and Language
+#### 10. Faith & Religion
 Faiths and religions held by the family if any, its nature and significance.
 - How did the faith start?
 - What is 'worshipped', if anything?
@@ -165,7 +154,7 @@ Faiths and religions held by the family if any, its nature and significance.
 	- Usage of ceremonial intoxicants?
 	- Ritual sacrifice of animals or something else?
 
-#### Factions, Philosophies & Divides
+#### 11. Factions, Philosophies & Divides
 - What is the dominant philosophy or school of thought in the family?
 - How did it emerge?
 - What are some additional philosophies/schools of thought held by members of the family?
@@ -182,7 +171,7 @@ Faiths and religions held by the family if any, its nature and significance.
 	- Subtle opposition?
 	- Overt opposition?
 
-#### Education
+#### 12. Education
 While the Spyndl Academy is the foremost institution for educational pursuits in the Switchboard, families have their own educational paths for those who choose not to follow the Academy's.
 - What is the structure of the educational system?
 	- When do students enter?
@@ -200,7 +189,7 @@ While the Spyndl Academy is the foremost institution for educational pursuits in
 - What is the attitude of schools and the family towards the Spyndl Academy?
 	- What is the Spyndl Academy's attitude towards them?
 
-#### Arts, Entertainment and Recreation
+#### 13. Arts, Entertainment and Recreation
 Art and what people do for fun. 
 - What counts as fun for children? Adults?
 - What counts as 'art'?
@@ -213,7 +202,7 @@ Art and what people do for fun.
 	- Is there a lot of vocals?
 	- Where and when is music played?
 
-#### Iconography and Architecture
+#### 14. Iconography and Architecture
 What makes the culture visually distinct from others?
 - Insignias and patterns employed?
 - Architectural style? (derive from existing cultures here)
@@ -225,8 +214,8 @@ What makes the culture visually distinct from others?
 
 
 
-### Strata Four
-#### Technology
+### STRATA FOUR
+#### 15. Technology
 The level of and relationship held towards technology by the family.
 - What is the technology level of the family relative to the wider Switchboard?
 - What are some technologies unique to the family?
@@ -236,7 +225,7 @@ The level of and relationship held towards technology by the family.
 - Is usage of some technologies restricted in any way?
 - How does the technology intertwine with the family's calcic affinity?
 
-#### Food and Agriculture
+#### 16. Food and Agriculture
 The specifics of diet. What is eaten, when are meals and what are some examples of common foods? What are the agricultural techniques employed?
 - Vegan, vegetarian, pescatarian, lacto-ovo, omnivore, carnivore?
 - What are some staple foods?
@@ -247,7 +236,7 @@ The specifics of diet. What is eaten, when are meals and what are some examples 
 - Is non-food-production agriculture carried out, such as horticulture?
 - What is the general attitude towards food and eating?
 
-#### Law and Literature
+#### 17. Law and Literature
 The various laws, rules and moral codes that exist in the family and their origins, as well as literature on the family that has instructed these laws and other subject matter.
 - What counts as a law?
 	- How are these laws formed?
@@ -258,7 +247,7 @@ The various laws, rules and moral codes that exist in the family and their origi
 - How are infractions punished?
 	- Who carries out the punishment?
 
-#### Politics and Economy
+#### 18. Politics and Economy
 The structure of governance and economy employed in the family.
 - Structure of government and governance?
 	- As a product of the above, how are governments established?
@@ -277,7 +266,7 @@ The structure of governance and economy employed in the family.
 	- What are some occupations that exist that are unique to that family?
 - Where present, how big a role does religion play in the government?
 
-#### Social Problems
+#### 19. Social Problems
 The various social issues that plague each family, due to other cultural characteristics, particularly that of doctrine. This part in particularly is deeply important, as this is a crux of conflict particularly as regards characters.
 - What are some of the most prominent social issues?
 	- What caused them?
@@ -289,7 +278,17 @@ The various social issues that plague each family, due to other cultural charact
 - Who are the rebels and counter-cultural figures?
 	- What particular aspect of the family/their culture compels them to become so?
 
-#### Repute
+#### 20. Quirks and Repute
+**Quirks; was initially taboos and superstitions**
+The various 'don'ts' that exist and their origins.
+- What are some taboos?
+	- Why are they seen as such?
+- What are some mundane things seen as signs/omen of bad luck?
+	- What about good luck?
+- What are some ways of warding off bad luck/omens?
+- In what ways do superstitions interact with calcic mechanics?
+
+**Repute**
 What do other families think of them?
 - What do other families think of them?
 	- Positive or negative?
@@ -317,54 +316,52 @@ Tracking progress on the doc.
 06. [ ] Individuals and Families
 07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals
-09. [ ] Taboos and Superstitions 
 
 **Strata Three**
-10. [ ] Naming and Language
-11. [ ] Faith and Religion
-12. [ ] Factions, Philosophies & Divides
-13. [ ] Education
-14. [ ] Arts, Entertainment and Recreation
-15. [ ] Iconography and Architecture
+09. [ ] Naming and Language
+10. [ ] Faith and Religion
+11. [ ] Factions, Philosophies & Divides
+12. [ ] Education
+13. [ ] Arts, Entertainment and Recreation
+14. [ ] Iconography and Architecture
 
 **Strata Four**
-16. [ ] Technology
-17. [ ] Food and Agriculture
-18. [ ] Law and Literature
-19. [ ] Politics and Economy
-20. [ ] Social Problems
-21. [ ] Repute
+15. [ ] Technology
+16. [ ] Food and Agriculture
+17. [ ] Law and Literature
+18. [ ] Politics and Economy
+19. [ ] Social Problems
+20. [ ] Quirks and Repute
 
 ### Rough Outline
 ### Snap Thoughts
 
-## Strata One
-### Doctrine
-### Calcic Affinity
+## STRATA ONE
+### 01. Doctrine
+### 02. Calcic Affinity
 
-## Strata Two
-### History and Mythology
-### Appearance
-### Clothes and Bodily Adornments
-### Individuals and Families
-### Respect and Hierarchies
-### Rituals and Periodicals
-### Quirks
+## STRATA TWO
+### 03. History and Mythology
+### 04. Appearance
+### 05. Clothes and Bodily Adornments
+### 06. Individuals and Families
+### 07. Respect and Hierarchies
+### 08. Rituals and Periodicals
 
-## Strata Three
-### Naming and Language
+## STRATA THREE
+### 09. Naming and Language
 > ABCDEFGHIJKLMNOPQRSTUVWXYZ
-### Faith and Religion
-### Factions, Philosophies and Divides
-### Education
-### Arts, Entertainment and Recreation
-### Iconography and Architecture
+### 10. Faith and Religion
+### 11. Factions, Philosophies and Divides
+### 12. Education
+### 13. Arts, Entertainment and Recreation
+### 14. Iconography and Architecture
 
-## Strata Four
-### Technology
-### Food and Agriculture
-### Law and Literature
-### Politics and Economy
-### Social Problems
-### Repute
+## STRATA FOUR
+### 15. Technology
+### 16. Food and Agriculture
+### 17. Law and Literature
+### 18. Politics and Economy
+### 19. Social Problems
+### 20. Repute
 

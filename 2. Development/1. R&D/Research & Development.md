@@ -74,3 +74,13 @@ https://www.reddit.com/r/cavesofqud/comments/trtwye/some_qud_inspired_reading/
 
 House of Leaves
 ['House of Leaves changed my life': the cult novel at 20 | Books | The Guardian](https://www.theguardian.com/books/2020/apr/02/house-of-leaves-changed-my-life-the-cult-novel-at-20)
+
+## Interesting Stuff
+**Destiny Concept Art**
+[Sung Choi | Concept Art World](https://conceptartworld.com/artists/sung-choi/)
+
+Mega Compendium
+[Results for | Concept Art World](https://conceptartworld.com/?s=Destiny)
+
+**Something Starbound?**
+[Astral Confined Homepage | World Anvil](https://www.worldanvil.com/w/astral-confined-elcadrane)

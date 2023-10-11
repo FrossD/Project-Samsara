@@ -19,37 +19,35 @@ Tracking progress on the doc.
 07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals (**Indev**)
      - Very incomplete; revisit for further drafting.
-09. [ ] Quirks
 
 **Strata Three**
-10. [x] Naming and Language
-11. [x] Faith and Religion
-12. [x] Factions, Philosophies & Divides
-13. [x] Education
-14. [x] Arts, Entertainment and Recreation (**Paper Drafted**)
-15. [x] Iconography and Architecture
+09. [x] Naming and Language
+10. [x] Faith and Religion
+11. [x] Factions, Philosophies & Divides
+12. [x] Education
+13. [x] Arts, Entertainment and Recreation (**Paper Drafted**)
+14. [x] Iconography and Architecture
 
 **Strata Four**
-16. [x] Technology
-17. [x] Food and Agriculture
-18. [x] Law and Literature
-19. [ ] Politics and Economy (**Paper Drafted**)
+15. [x] Technology
+16. [x] Food and Agriculture
+17. [x] Law and Literature
+18. [ ] Politics and Economy (**Paper Drafted**)
      - Some if not most of the questions asked in the outline aren't well answered, though this might be the case that those particular questions shouldn't be there at all.
 	- Finalize governmental structure, considering we're missing a lot of proper nouns/names for things.
-20. [ ] Social Problems
-21. [ ] Repute
+19. [ ] Social Problems
+20. [ ] Quirks and Repute
 
 ### Snap Thoughts
 Spur of the moment thoughts that could use work.
 
-- ~~Fel-Arcad derive their last names from names chosen by collections of Kin, and often bear 'of' preceding that name as their last name.~~ New naming methodology for the Fel-Arcad needs to be developed. I am considering a mix of Japanese and maybe Swedish? Scottish? Gaelic? names. Look up where most of Europe's fairytales.
-- There are avenues for non-Fel to come to inhabit an arcology, but often they must undergo rigorous processes along the lines of questioning to see if they would be a good fit for it.
 - Whether the Vahnkin and the Void would actually be responsible for a Second Refrain and if they were responsible for the first one is possible, but disputed. In actuality, many Fel-Arcad, unable to accept the possibility they shot themselves in the foot with the Mind Hunts, choose instead to blame the Void and the Vahnkin.
 - History and Mythology section has notable persons in it.
 	- Fel-Arcad originator of cinema.
+- Add 'Individuals' to #07.
 
-## Strata One
-### Doctrine
+## STRATA ONE
+### 01. Doctrine
 I think a functional baseline for the Fel-Arcad would be the ideological movement of **transhumanism** and working from there. Transhumanism is the belief that the limits of the human body can be transcended via technology, and it's something I've looked into quite a lot. My interest in it arose around the time I began losing my Christianity, and 'shopped' for what might serve as something preferable if not superior to latch on to. In a strange way the transhumanist's desire to be more than themselves isn't that much different from the Christian's is it? It's a debate for another time.
 
 A lot of things converged to synthesize the Fel-Arcad. There was the idea of the lofty, learned, isolated thinkers who spent their days seeking higher truths rather than surviving against harsh elements and the like. And so there needed to be some higher truth to pursue. There's a school of thought for transhumanists that feels that **aesthetic modifications of our persons will help us reach versions of our physical forms that best mirror how we see ourselves inwardly, and that this will lead to positive outcomes mentally**. And so I played around with the idea of Information Tangibility being a way to **modify your own lattice**; you sequence your strings and find what decides your eye color, and you change it. And thus, **you become truer to yourself**.
@@ -70,7 +68,7 @@ And so the Fel-Arcad are the Switchboard's 'weird people'. They're easy to spot 
 
 But I feel it's worth exploring nonetheless. Of course, some Fel-Arcad disagree with this doctrine, and I will be tasked with developing reasons why. The fear of difference goes a long way though, as we can see even in our world today, but we cannot have the 'opposition' be wholly, inarguably irrational as that will make for poor storytelling. But I feel I've gotten what I consider to be their doctrine across as well as I feel I could.
 
-### Chalk Affinity
+### 02. Chalk Affinity
 This one is fairly straightforward, but still rather interesting. I designed the PFam using a litany of parameters and arranging them on spectra that sought to differentiate each family from one another. One of this was chalk affinity and I read it in two ways; actual proficiency with chalk - as in [[The Hands as Chalk]] - and proficiency with the Strider Protocol.
 
 For the Fel-Arcad I chose to make them powerful chalk*weavers* but not particularly notable chalk*striders*. The reason for this is in their Yarn; **the Fel-Arcad don't go outside**. Their arcologies are simply better than most places you could go to so long as your judgement criteria was the living experience within them. People come *to* the Fel-Arcad and trade the vast bounty of the Switchboard for the knowledge obtained by the Fel-Arcad from their study of the sack of odds and ends you brought last time. **Arcology living has made them disinclined to seeing the sights**, as it were, and so they had no real reason to become particularly adept at the Strider Protocol.
@@ -83,8 +81,8 @@ However, the Fel-Arcad rarely have cause to fight as - mentioned before - they d
 
 The Fel-Arcad play like mages; **they forgo the fast, easy powers of weaving constructs and implements, teks and relics and focus wholly on using rituals to fight**. Their logic is, okay, a tek lets you throw fire, but they'd much rather draw concentric circles and intersecting triangles and place candles on every vertex and a flower at the center to call down a meteor. Theirs' is power through complexity, as it were - a bomb over a sword.
 
-## Strata Two
-### History & Mythology
+## STRATA TWO
+### 03. History & Mythology
 #### The History of the Fel-Arcad
 **They That Fell #1 - Origins of the Fel-Arcad**
 The Fel-Arcad - though not bearing this name at the time - arose alongside the other Third Kin after the Astrolabe's resolution of its celestial calculus in the aftermath of the First Praxis War. Around this time, though before their rise from chalk, the astrolabic regions arose, and the **Arcad** as they would come to be called arose on the astrolabic region **Rosenthal**. Along with them and the other Third Kin was the Strider and Weave Protocols, which arose in tandem, and the Arcad were gifted particularly with command over chalk through weaving. They gained the power to interact with the Switchboard at its core foundations; the ribbon level.
@@ -194,7 +192,7 @@ From these findings and philosophies they penned one of the more controversial t
 **They That Rose #10 - Starwards**
 And with this, the Fel-Arcad grew into the future. In this time they expanded across the Dancirah, building arcologies as they went. The Refrain's curse upon the Danseers struck and the Fel-Arcad were there to help their ancient allies, utilizing the Triptych Crucible to give rise to the Sil'khan. Philosophies formed and fell. Fel-Arcad did mighty things the Dancirah-over. Procession after procession came and went, but the Fel-Arcad stood strong, their place as one of the great families more than secured.
 
-### Appearance
+### 04. Appearance
 I planted two baselines for the Fel-Arcad's appearance, one being their doctrine and the second being my desire to create my take on the elf/fae race that is a staple in fantasy fiction. 
 
 In an old iteration, they were called they Fae or Fey-Arcad, and their arcologies were replaced instead by verdant coves and forests insulated from the big, scary outside world by chalk rituals. This was from a much older iteration from Samsara that I either don't remember particularly well for no particular reason, or there actually wasn't anything to remember because the idea got that far and then not a step further. I lean towards the latter.
@@ -217,7 +215,7 @@ I then pondered the question of sexual dimorphism.
 
 The point I will make on this topic is that as humans, we have very little by way of sexual dimorphism to begin with, exemplified by how our bodies know how to make us look more like one end of the spectrum or the other. The blueprints are there, as it were, dormant and merely asking for the right compounds to be fed to it to activate them. Considering how far we've come (relatively) on the mutability of our physical persons, and how the Fel-Arcad have taken the topic to its natural conclusion, it's fair to say that - ironically - **the sexual dimorphism that exists in them is exactly the same as ours** - but **the culture *around* that dimorphism is - for want of a better phrase - far less exacting**. 
 
-### Clothes & Bodily Adornments
+### 05. Clothes & Bodily Adornments
 This is an interesting one. Clothes are important to us, and a thorough thrashing of what clothes means to humans is - at minimum -  a minor in Art History. Instead we'll narrow the scope and broaden from there. We can begin with a couple of questions;
 
 - What is the social perception of nakedness?
@@ -246,7 +244,7 @@ So now for the social purpose of clothing. Lawyers and businessmen wear suits. D
 
 Body adornments we can do fairly easily, in that their approach to it isn't much different from ours. Jewelry and piercings serve to beautify, with some some carrying special significance where applicable. Similarly is the case for tattoos. Hair styles are typically ornate, with styling involving jewelry woven into the hair, with the hair itself taking on a litany of styles. Particularly favored are collections of braids that culminate in bundles of hair resembling the various blooms that grow in the arcadia. 
 
-### Families & Family Structure
+### 06. Individuals and Families
 Lets discuss Fel-Arcad society. What conclusions can we draw from their history and present about how they structure it? What do their families look like across the size and relationship spectra? 
 
 There is something I want to avoid and that is the cliché 'enlightened' post-everything society where all social constructs have been done away with and they've reached manners of being that we haven't even begun to speculate - the descendants of the discourse about society that exists now, as it were. Why am I opposed to this? Because I feel it's been done before for one, and I don't see the narrative potential that can emerge from it except when it inevitably clashes with the ways of being exhibited by other families. There is realism in imperfection. There is beauty to be found in striving towards an ideal end. I value those two things more than whatever statement - political, economic, social or otherwise - that I make by saying "This is how this society exists, notice how I describe it as a utopia."
@@ -291,8 +289,8 @@ Single ceskin-hood (parenthood) and outright orphaning of cenkin doesn't really 
 
 Funerals are fairly straightforward; the kin gather in a ceremony of 'dust to dust', in which the body of the deceased (unless otherwise asked) is buried at the foot of the Curlicue tree at the heart of the arcology, and then end of their canon is inscribed on its branches. The body is broken down into chalk and assimilated into the replichrome of the arcology and the body of the tree, a symbolic gesture showing that, though gone, the dead remain - forever - close to us. 
 
-## Strata Three
-### Naming & Language
+## STRATA THREE
+### 09. Naming & Language
 #### Names
 For the Fel-Arcad, I decided that on a naming aesthetics front they will be culturally Japanese, thus individual Fel-Arcad and various names for other things relevant to them will use Japanese or adjacent nomenclature.
 
@@ -332,7 +330,7 @@ As such, Sanscryvan or 'Scryvan' became the commonly used tongue by Fel-Arcad am
 
 Listeners have describe the various Fel-Arcad tongues as long-winded, elegantly cadenced, and downright musical. Much Fel-Arcad discussion sounds like singing, or poetry recitations, with truly angry exhortations delivered in Scryvan mimicking theatrical displays. Some have disapprovingly called it a 'tongue of weaklings' or 'the verbal preening of self-important birds'. While the Fel-Arcad aren't ones to be particularly wounded by such remarks, it was taken into consideration during the creation of the Standard. 
 
-### Faith & Religion
+### 10. Faith & Religion
 The Fel-Arcad as a people are largely atheistic. Concrete records of their history allows for the tracing of their descent from the origination of all Third Kin down to now, and going through this history has led most to conclude that no power guided the choices made and their resultants other than mundane calcic mechanics. That being said, there are some who do hold some certain figures, constructs and concepts in high regard, and while it can be said that there are subtle or even overt religious undertones exhibited by members of given groups, deeper inquiry will lead to the conclusion that 'worship' of 'godlike figures' isn't being practiced.
 
 ##### The Fel-Arcad Peoples
@@ -391,7 +389,7 @@ They've attracted a fair bit of criticism on this point however - even among mor
 
 While some arcologies choose to oust pockets of Rosenthalists sentiment that form, others view this as a draconian measure, choosing instead to allow them exist somewhat separately from the rest of the population, with the aim that they can be swayed from their manner of thinking. The Rosenthalists remain a concern to many Fel-Arcad all the same however, particularly the Nadiran who they most directly oppose on many fronts. The Feljourn remain mostly indifferent to them, with the somewhat unsavory dealings of black arcologies often being in demand by others, and the Feljourn acting as a suitable liaison between black arcologies and prospective clientele.  
 
-### Factions, Philosophies & Divides
+### 11. Factions, Philosophies & Divides
 Differing somewhat from the various faiths held by the Fel-Arcad are some of the resultant factions from the various philosophies that have evolved in their time in the Switchboard, and the ideological divides formed between them. While some manage to coexist with each other and the various faiths, others hold considerable distrust or violent malice towards the others.
 
 ##### The Factions
@@ -450,7 +448,7 @@ And as a further note, while not necessarily a faction, **fallen arcologies** ex
 ##### Closing Notes on the Factions
 If we asked what is the archetypal regular Fel-Arcad then, we see that most of them adhere to the Eight, their writings serving as their primary source of moral instruction. Most Fel-Arcad also adhere to the Semblance Doctrine, believing that the Current may not be reliable as a physical phenomena, 'reliable' being a question of how commonly its apparent aims align with those of individual Fel-Arcad. Many border on milder forms of Soleism, holding the arcologies that house them and the people that keep them functional in high regard. 
 
-### Education
+### 12. Education
 While the Spyndl Academy remains chief among educational institutions in the Switchboard, individual families such as the Fel-Arcad have their own institutions as well, some serving as preparation to enter the Academy, while many others serve as alternatives, aiming to prepare members of the family different paths useful to both themselves and the family at large.
 
 Speaking more specifically on the Fel-Arcad, their nature of arcology livings sees that schools - even with the aim to teach the same things and prepare their students fairly similarly - may still differ in some ways. 
@@ -477,7 +475,7 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 
 - The **Rosenthalists** pride themselves on being almost Fel-Arcad aristocracy, and though this position comes under extensive challenge from many sides, their underhanded dealings and willingness to cut throats and hustle has seen Rosenthalists find their way into various arcologies, Fel-Arcad institutions and institutions outside the Fel-Arcad entirely. When there, however, and even before that, the Rosenthalists work to ensure that their various agents are well equipped to further their ambitions in secret. The skills necessary for such a task are learned in their underground, deceptively named **Aristocratic Courts**, or more simply **Courts**. These Courts aim to teach all that pass through them in the arts of infiltration, manipulation and subversion, bestowing skills ranging from pickpocketing and lockpicking to manipulation, kidnapping, extortion and assassination. These Courts are hidden, known only by a select few, entry to them being difficult and tutelage under them being harsh. Often they are confined to the **Black Arcologies**, with channels existing for funneling new students to them and graduates from them to places where the Rosenthalists may need them. In addition to Fel-Arcad, other interested parties from other families are known to seek out their teachings.
 
-### Arts, Entertainment & Recreation
+### 13. Arts, Entertainment & Recreation
 **Discussion Points**
 - The **seed-weave**; a unique calcic clause to all Curlicue trees that manifests as a traceable skew in all things produced by an arcology. It's functionally a randomization algorithm, but the algorithm itself is traceable through the works skewed by it.
 **Art Categories**
@@ -652,7 +650,7 @@ Aiming to curb the ills created in its wake, the sport was formalized as a commo
 
 It's almost guaranteed, of course, that there is an agent from one of the many of the Switchboard's academies and paramilitary outfits in the crowd of adoring onlookers, out to scout material that could be refined into some of the Dancirah's mightiest weapons.
 
-### Iconography & Architecture
+### 14. Iconography & Architecture
 Here we talk about symbols, and I loathe my inability to draw.
 
 This is a section where I would display the various symbols unique to each family, ranging from minimalistic soulless fast-food chain style logos to full blown coats-of-arms, and talk about what inspired each. That I am simply unable to do, and so we will mark the iconography as fairly incomplete to begin with.
@@ -681,8 +679,8 @@ The architecture of various purpose-built rooms will of course feature necessary
 
 
 
-## Strata Four
-### Technology
+## STRATA FOUR
+### 15. Technology
 The Fel-Arcad, more than any family, have bridged the gap between the calcic and the technological, realized as extensive usage of calcic ritualism in their designs of technological subject matter, which in turn serves to enrich their day-to-day living particularly within the arcologies. Most unique Fel-Arcad technologies are seen in the Sembleworks and in the arcologies themselves, though various creations of theirs exist apart from those two subjects.
 
 #### Purposed Minds
@@ -825,7 +823,7 @@ The final major innovation was the integration of **Jaunteer equations**. Origin
 
 When the technology's foundation reached its nigh-apex, all further innovation took the form of side-upgrades and modifications made to meet new demands of the sport and practice. Slate-enabled Skates became more commonplace when the velocity floor for skating started approaching the limits of reaction times. When skating gained a combat component, boots upgraded to armored half-suits going up to thighs, allowing for various offensive measures and maneuvers. Particularly advanced iterations were capable almost of elementary flight - a form of 'air walking' that saw rocketskates escape the bounds of terrain and gravity entirely, and perhaps even their arcology homes, as they became a rare but emerging sight in the Switchboard, on the feet of Fel-Arcad who had learned to use them beyond merely outrunning the law.
 
-### Food & Agriculture
+### 16. Food & Agriculture
 This is where we can really take a bit to talk about the arcologies of the Fel-Arcad. The arcology concept is one that seeks to challenge how we think about human habitations. It demands us to look at the various issues implicit in the 'city model' and proposes various solutions powered by science and technology as well as changes in behavioral patterns and our attitudes towards consumption. 
 
 A tenet of arcology design is agricultural nexuses; we are detached from the production of our food because it is resigned to somewhere out of sight. By design, metropolitan living is far away from where it sources its food, and as a result we lack appreciation for the various steps between farm and table. Arcologies seek to rectify this; by keeping agricultural processes close to our habitations and involving those who will consume its products in its production, we cultivate a sense of connection with what we eat.
@@ -834,7 +832,7 @@ This is a philosophical explanation for a physical change. The Fel-Arcad arcolog
 
 As regard actual diet, once again it differs based on the upbringing of the Fel-Arcad. Those who spent most of their time or still reside in the arcologies began with vegetarian as the baseline, and lean vegan, while Fel-Arcad outside the arcologies are fairly hard to pin down. While many keep the same eating habits as is inculcated within them in the arcologies, many adopt differing ones from their environment. It's also an observed phenomena that some Fel-Arcad, upon tasting meat, become unable to live with out almost, finding its flavor irresistible.
 
-### Law & Literature
+### 17. Law & Literature
 The Fey Curlicue is an essential part of the culture and customs of the Fel-Arcad. Standing at the center of their arcologies, it plays an essential part of their everyday lives as well as the greater symbolism of the Fel-Arcad as a people. Additionally, and perhaps it's most lauded purpose, is as an avenue for passing down the dense canon of the Fel-Arcad from arcology to arcology, people to people, generation to generation. When words are written on the trunk of a fully-matured Curlicue, they become part of its lattice, which is then encased in seeds from that tree. Trees grown from these seeds will have the written text of their parentage on them as well when they reach maturity. Through this means, the writings and canon of the Fel-Arcad are preserved and passed on.
 
 Thus the Fey Curlicue is a collection of a great many bits of lore, law and literature relevant too, and created by, the Fel-Arcad, being passed down from arcology to arcology and people to people. The centering of the Fey Curlicue in arcology is perceived as physical metaphor of the centering of the Curlicue - and their history - in the minds and hearts of every Fel-Arcad.
@@ -1113,7 +1111,7 @@ An arcology's fighting force is its Sekators; trained Fel-Arcad solely empowered
 
 In cases where it is clear someone has taken matters of justice into their own hand, it is declared that 'the unknowable forces of cause and effect have issued us what we interpret to mean justice' and often, the matter ends there. Arcologies have found themselves in dire straits after Sekators or other parties acted out of line before, however, thus the practice is heavily frowned upon, though this hardly does the work necessary to curtail the pursuit of restoring pride in one's own people. 
 
-### Politics & Economy
+### 18. Politics & Economy
 #### Politics & Governance
 Within each arcology is their seat of governance, the structure and workings of which are outlined in the **Arcal**, the Fel-Arcad's constitutional document, assembled from various other works that make up the larger body of the Fey Curlicue works of literature. In structuring their government, the Fel-Arcad adhered to a number of familiar principles, including having a constitutional backing, insistence upon the Rule of Law, free elections under a representative democracy, and the separation of powers. While political theory-crafters continue to study the systems in place and work upon their improvement where necessary, they have reached a fairly workable state over many processions.
 
@@ -1179,6 +1177,22 @@ In nearly all matters that involve parties outside of the arcology in question, 
 
 It is thus also often the case that some of these ambassadorial figures are missing from the Circuit, due to a number of reasons - and few of them savory. 
 
+The Circuit also handles arcology migration, both in and out of the arcology. Those coming in to the arcology as visitors are monitored, and those coming in to the arcology to request a place to stay will be subjected to a number of tests and vetting procedures to ascertain whether they'll be a good fit for the Fel-Arcad environment. Those voluntarily leaving the arcology and those being exiled are also processed by the Circuit.
+
+**The Sekatariat**
+The Sekatariat oversees an arcology's Sekators, Fel-Arcad uniquely empowered to use violence, under the principles outlined in *Mouths that Spit and Sing*. Under their command are all Sekatorial instruction institutions - these being the Sekator Camps - the arcology's law enforcement, and the arcology's external defense corps. 
+
+The Sekatariat's **Cabinet of Strife** consists of the **Arasaya**. the **Araken**, and a hand-picked roundtable of veterans in the studies relevant to their duties as Sekators. The Arasaya is the default leader of the Sekatariat, and their standpoint is in fact, one of non-violence. It is the task of the Araken and the Cabinet to sway them from this position, and actually convince them that a certain matter requires the deployment of the Sekators.
+
+Actions taken by the Sekatariat are often subject to review by the Justiciar, and there are times when the Sekatariat must be mobilized against the Rozencraun itself. Situations like this may often devolve into external arcologies having to intervene in the affairs of the one in question. These inter-arcology conflicts are fairly uncommon, but it is not unheard of that conflicts in the Sekatariat can lead to decisions being made that earn the disapproval of Justiciar review authorities. For this reason, the Sekatariat is widely known to have some of the shortest-serving leaders and staff, as almost every Justiciar review body can find some means to decry a choice made by the Arasaya as hasty, unneeded, and not thoroughly thought out.
+
+**The Craun Soleri**
+When an arcology is newly being seeded, the Soleri building it act as the proto-Rozencraun until a fully-established proper Rozencraun can be established. Even when this is achieved, the Craun Soleri maintain their authority in all manners concerning the physical structure of the arcology and its surrounding arcadia. The **Craun Sanctum** is the arcology's highest Soleri Sanctum, and thus in charge of maintenance, growth and - if necessary - decommissioning of the arcology structure.
+
+The **Nai'sol of the Craun Sanctum** are a number of highly trained, veteran Soleri who manage its affairs, working alongside the lower **Du'sol** who serve an number of functions ranging from administration, to aiding in planning trimming or growths, to physical growing of the arcology, through programming replichrome and trimming where necessary. 
+
+Most of their interaction with the other arms of the Rozencraun are restrained to the Craun Tenders, as while the Soleri maintain the arcology, it is the Tenders with their executive powers that decide how the internal space of the arcology is used. When rearrangements need to be made, it is done with the Craun Soleri and Craun Tenders working in tandem.
+
 
 
 #### The Fel-Arcad Economy
@@ -1205,7 +1219,7 @@ Though not nearly to the degree of the Sil'khan, the Fel-Arcad pride themselves 
 
 Internal handling of an arcology's wealth is down by its Executive, who compute incoming revenue, outgoing expenses and generally handle all accounting. They also handle how this wealth is spent and distributed among the Fel-Arcad, allotments being issued to various sectors and parties as necessary. 
 
-### Social Problems
+### 19. Social Problems
 **Problem Classes**
 1. Structural
 2. Economic
