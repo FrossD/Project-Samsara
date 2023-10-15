@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "055a17850e2d0bf9",
+        "id": "1ff2253d1d54adad",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2b59fe7e2b5b3d",
+            "id": "3bcd392ecf43bb96",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -69,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md"
               }
             }
           },
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,23 +162,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa2b59fe7e2b5b3d",
+  "active": "3bcd392ecf43bb96",
   "lastOpenFiles": [
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1.AC_Template.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ventura's Arsenal Card.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "1. Drawing Board/2. Offshore/HexLore2.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
+    "2. Development/Workshop/SpyndlAcademy.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Workshop/Families/The Lancastars.md",
     "2. Development/1. R&D/Research & Development.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
-    "2. Development/Workshop/SpyndlAcademy.md",
     "2. Development/Workshop/WorkshopDocs/FamDesignDoc.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/CX-Character-Arsenal-Ideas.md",
     "2. Development/Narrative Worldbuilding/Characters/CX-The Starsailors.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre's Arsenal Card.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
@@ -187,8 +190,6 @@
     "3. Scribbling/README 1.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
-    "2. Development/Mechanical Pillars/The Void.md",
-    "2. Development/Foundational Pillars/The Switchboard.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",

@@ -1193,6 +1193,41 @@ The **Nai'sol of the Craun Sanctum** are a number of highly trained, veteran Sol
 
 Most of their interaction with the other arms of the Rozencraun are restrained to the Craun Tenders, as while the Soleri maintain the arcology, it is the Tenders with their executive powers that decide how the internal space of the arcology is used. When rearrangements need to be made, it is done with the Craun Soleri and Craun Tenders working in tandem.
 
+##### Further Notes
+Further notes relevant to the matter of Fel-Arcad governance.
+> Further or precursor reading in the form of [[The Fel-Arcad#Fel-Arcad Law|Fel-Arcad Law]] is encouraged.
+
+**Electoral Civics**
+The Rozencraun exists as a representative democracy, with individual Fel-Arcad voting for their leaders when the time arises for such to occur. Arcologies as structures are subdivided under physical and social lines; arcologies themselves being divided into **wings** or **branches**, these being divided into **districts**, and districts being divided into **blocs**. Blocs are further divided by social lines, into clans, families and individuals.
+
+These units of Fel-Arcad social measure are invoked often when electoral and decision-making instances. In most matters, Fel-Arcad are dealt with as blocs and districts, with the members of each unit having the majority vote under their representative umbrella counting as the vote for their unit.
+
+It goes without saying that with much of the Fel-Arcad arcology running process heavily involving the votes and contributions of many, it is thus paramount that the fairness and sanctity of the electoral process be upheld. The intricacies of calcic dynamics are used, with each Fel-Arcad voting with unfalsifiable chalk ribbon created from the stuff of their lattice at birth, and electoral counting is often done by other arcologies or handled by non-human actors, the entire process being done calcically.
+
+On the note of voting chalk ribbon, and perhaps on the note of the functionality of arcologies in general, civic participation and general participation in Fel-Arcad society is necessary for both Fel-Arcad electoral civics and arcology functioning as a whole. Mentioned and discussed endlessly by Fel-Arcad social architects is that the arcology model is necessarily collectivist and indeed requires many individual elements working selflessly to guarantee its functioning. For many, this is criticized as a flaw, but also understood as something with no real work-around that doesn't undermine or compress the integrity of the arcology model.
+
+**Constitutional Framework - the Arcal**
+All of Fel-Arcad law and guiding principles is outlined in the **Arcal**, the works of the Curlicue it derives its foundation from, and the various derivative works that emerge from it. Each arcology possesses their own individual Arcal, all of build off of the central, baseline arcology that is housed and thus dictated by the legal scholars of the Second Arcology at Sanscrii. The various writings within the Arcal dictate Fel-Arcad conduct, from individual behavior to the building of nation-states.
+
+All of Fel-Arcad society is built with the Arcal as its backbone; it enshrines the rights, privileges and responsibilities of Fel-Arcad the stars-over and the powers and function of the Rozencraun government. It enshrines the rule of law, the protection if individual rights and the procedures of its own amendment. Above all, the Arcal declares its own supremacy, given that power and relevance by the Fel-Arcad who write it, and the Fel-Arcad subject to it.
+
+**Egalitarianism in Word and Deed**
+The enshrinement of the rule of law in the Arcal declares all Fel-Arcad to be equal to one another, in the eyes of both other Fel-Arcad and the various institutions under the Fel-Arcad umbrella. For this reason, the fabric of Fel-Arcad - more specifically, arcology - society is built around upholding this equality, and working towards more equal shapes of society in general.
+
+It is for this reason that the Fel-Arcad generally reject Rosenthalist thinking, the structure of Vahnkin society, and - despite being good allies - much of Sil'khan thought about the placement of persons in society as well. To various extents these philosophies are judged to have non-trivial deviations from Fel-Arcad conclusions about the equality of beings in the Switchboard, and thus face critique in Fel-Arcad circles.
+
+In actual practice, various systems exist towards this end, ranging from policies such as universal basic incomes, social safety nets, free education and healthcare, wealth redistribution, community engagement and individual empowerment and the like. Much of this is due to the necessity of a general sense of equality for all actors as regards the operation of arcologies. No single individual can be worth more than another under the arcology model, and the model needs all individuals acting with this in mind for it to succeed.
+
+This is naturally met with considerable criticism even from Fel-Arcad themselves, who inevitably come across moment after moment in which some action they would've have liked to take, or pleasure they could have enjoyed must be foregone as the arcology model demands it. It faces continuous criticism on how arcologies incentivize laziness, kill drive, stifle innovation, encourage a form of self-absorbed hedonism, and generally breed all manners of vices. It has led many Fel-Arcad to leave the arcologies and become Feljourn, living nomadic lives under a differing definition of freedom, declaring the arcologies as antithetical to that philosophy. 
+
+The vectors of critique vary; the Rosenthalists, Vahnkin, Feljourn and Sil'khan all espouse differing extents of the same view, that being the relative inequality of kin. The Rosenthalist and Vahnkin entertain a version of this idea that stems from birth, and the Feljourn and Sil'khan espouse one dictated by deed. It is because the Fel-Arcad entertain the Sil'khan and Feljourn as allies that they are far more inclined towards entertaining their antithetical philosophy, and there is much debate between them on whether it is possible to raise the value of any individual being. The Sil'khan believe so as a matter of nigh-religious creed; that the ontology of beings in the Switchboard is in constant flux, and that 'value' according to calcic yardsticks is accumulated through living and the actions taken while living. The Feljourn believe this but to a lesser extent; espousing a more utilitarian view of the word where a being that can wield a hammer is greater than one who cannot.
+
+The Lancasters espouse a mix of both; believing both in high-born and low-born heritage, as well as rejecting the hand that one is dealt in favor of forging one's own path. That the heights one can go are dictated by the circumstances of birth - but only loosely - and that the driven, dedicated and disciplined are more than capable of reaching the utmost heights allotted to them, and even breaking past that ceiling to transcend it.
+
+The Fel-Arcad reject all, embracing an oft-declared 'naïve' idealism, that sees them striving towards shaping the Switchboard where such dynamics of the value of beings or the lack thereof are unnecessary. Beings can simply be, and be to the utmost extent that they are inclined towards, without worrying about whether their being is valuable in manners that satisfy primordial ledgers or within-scarcity societies. 
+
+**On Rights, Freedoms and Responsibilities**
+The Fel-Arcad Arcal enshrines the various rights and freedoms enjoyed by arcology-dwelling Fel-Arcad and other Fel-Arcad beyond the arcologies. It is generally accepted and enforced that freedoms and rights in particular cannot be curtailed or denied except under gross circumstances, and even then it is subject to the decision of relevant authorities, and after-the-fact criticism by other authorities. Generally, the curtailment of certain more physical freedoms is made possible by the Sekators, who are trained to handle such affairs with utmost delicacy and effectiveness, the crux of their training being striking the balance between those two. 
 
 
 #### The Fel-Arcad Economy
