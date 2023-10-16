@@ -1,4 +1,5 @@
-# Fyresworde Arsenal Card
+# Arsenal Card: Wydlsman Cendyr
+Scorning the arcology of their birth in favor of the vast challenge of the Starwylds, once Fel-Arcad - now Feljourn - Cendyr wears the mantle of a wyldsman, and walks the Dancirah in search of plunder and foes. Their many sojourns has placed them on both sides of the Spyndl Academy, and its Operators have come to know him as a shadowed figure of varying repute. His wyld-forged **swordplay** is cited as second to none, and his **dual-form flames** has ended many fights before they've even began. 
 
 ## T1 - Relic Armaments
 ### Martial Arms 1
@@ -73,6 +74,7 @@ Axle: Tek | Starfire Conduit
 ### Tek
 **Starfire Conduit**
 *"It burns a little sometimes."*
+
 Accumulators, reservoirs and conduits built into the local lattice allows for the synthesis and dissemination of **Starfire**, chalk woven into matter that embodies the ferocity of stellar cores. The starfire can be casted normally in various offensive and defensive forms, augment other abilities, and be expended in rituals. Where starfire is used, it creates **starfire flames**, white-gold fire that burns incredibly hot and inflicts considerable amounts of induction damage.
 
 Utilizing the starfire is done by opening pathways to relevant parts of the body, achieved through 'popping' the joints at those regions. Beginning the flow of starfire throughout the local lattice is done by cracking the neck, which opens a computational strait pathway that awakens the sub-lattice systems. Conduction of starfire to the fingers is achieved by cracking the knuckles, and to the legs by doing similar for the ankles. Massaging the temple opens channels to the eyes, doing similar for the hinge of jaw opens channels to the mouth, and various other stretches and massaging motions opens channels to the rest of the body.

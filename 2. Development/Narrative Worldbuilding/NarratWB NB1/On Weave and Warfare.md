@@ -341,12 +341,12 @@ Powers that borrow from Chalkweavers and the domain of Chalk. In the Polarity po
 	Similar to the Weave Strike, but the control over local depths allow Pale Amarans to tap into the Stardrip Cycle. This deep reservoir of chalk allows for Spectrum Strikes to hit significantly harder than the Weave Strikes, but require drawing from the depths of the Void for a period of time.
 	
 - T2 - **Spectrum Charge**
-	Again, similar to the Weave Charge, but able to be charged from the reservoir of Chalk in the Stardrip Cycle. Additionally, plundered boons from the Void can be bound into the Spectrum Charge, and used as blasts and hurled grenades. 
+	Again, similar to the Weave Charge, but able to be charged from the reservoir of Chalk in the Stardrip Cycle. Additionally, plundered boons from the Void can be bound into the Spectrum Charge, and used as blasts, hurled grenades, or channeled imbues.
 	
 - T2 - **Spectrum Shift**
 	In place of the Spectrum Dash, Pale Amarans posses the **Spectrum Shift**. This ability used by Pale Amarans is a rather interesting one; in place of a dash technique, they perform a short '**blink**'. By delving briefly - but not totally - into the Void and reemerging elsewhere, Pale Amarans are able to reposition without interference from threats in the Dancirah. Similarly, delving briefly into the Dancirah from the Void and reemerging elsewhere allows for a similar effect. Delving in and out of realms sees them emerge with a 'corona' of the nature of the realm they are emerging from, and allows them to perform an attack or action similar to the Depthstrider's Draw Strike, known as the **Aura Strike**.
 	
-- T3 - **Tainted Teks**
+- T3 - **Tainted Tek**
 	Pale Amarans are still able to wield Teks, and often they obtain Teks from the reservoir of the stardrip cycle. While mostly unchanged from regular Teks, occasionally Teks that are 'tainted' with stardrip arise in the Stardrip Cycle, and differ from regular Teks in that they may possess dynamic Skews, or are able to manipulate curvature. These Teks are preferred by Pale Amarans.
 
 T2/3 - **Polar Black**
@@ -367,7 +367,7 @@ The juxtaposition of the opposing powers and doctrines of the calcic and the dep
 - **Horizon Ritualism**
 	The Horizon Ritualism is a branch of the elementary Chalk Ritualism, differing in that the Horizon Ritualism can make use of Void-originating components and ritual geometry is drawn with pale amara in dust form. Horizon ritual schema are able to interact with the Void and Void subject matter such as Giving, Taking, forging, Shaping, curvature manipulation, the depthstride, stardrip and the control of time. Offensive Horizon rituals see great effectiveness against calcic targets.
 	
-- **Aura Strikes**
+- **Aural Riposte**
 	Briefly shunting to one plane from another gathers up the aura of that plane, and upon reemergence this aura can be woven into powerful casts against those awaiting them on the other side. Blinking in and out of these planes sees shifts in the aura that can be imbibed to increase one's own power, or weaponized against targets of the opposing polarity.
 
 T5 - **Full Spectra**
@@ -894,7 +894,7 @@ A distinct character trait of Striders especially in the Switchboard is their de
 
 The narrative result of this is '**character arsenals**'; the total sum of all the offensive, defensive and utility powers at an actors disposal in the Switchboard. All these things outlined in a singular document - particularly in an individual character's profile, creates an **arsenal card.**
 
-> We have an example of one such arsenal card in the form of [[Fyre's Arsenal Card]].
+> We have an example of one such arsenal card in the form of [[Fyre_AC]].
 
 #### Example: Adven Ventura (Deprecated)
 > Deprecate this; use Fyresworde as a study.
@@ -947,7 +947,7 @@ A case study/example outline of a Character Arsenal using Adven Ventura.
 
 
 #### Live Arsenal Card Draft
-![[Fyre's Arsenal Card]]
+![[Fyre_AC]]
 #### Loadouts
 Chalkweaver
 - T1 - Relic Armaments
