@@ -102,19 +102,16 @@ Despite this internal turmoil, the Academy grew all the same into the institutio
 The founding members of the Spyndl Academy at the Spire Summit are seven;
 
 Danseer
-1. M
-2. M
-3. F
+1. Femi Bardeya (M)
+2. Salis Karatross (M)
+3. Yinka Myrh (F)
 Arcad
-4. N
-5. F
+4. Hyacinth Ryllis (N)
+5. Raphael Hex (F)
 Vahnkin
-6. F
+6. Daughter Lucerval (F)
 Lancaster
-7. M
-
-> Tentative naming;
-> D-M: Salis Karatoss
+7. Kento Diori (M)
 
 
 ### 4. Leadership

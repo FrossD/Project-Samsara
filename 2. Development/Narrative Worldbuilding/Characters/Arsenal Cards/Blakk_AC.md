@@ -34,7 +34,7 @@ Axle: Formshift | Re-Innovate
 	 Blakk throws the Crash Spanner ahead of them and uses curvature manipulation to spin it rapidly in the air, blocking oncoming projectiles. Sturdier attacks can interrupt the spin, and thus it is not effective against them.
 
 ### Forged Armament
-(N/A)
+**(N/A)**
 *"In time."*
 
 ## T2 - Curvature Manipulation
@@ -131,7 +131,7 @@ Axle: Formshift | Re-Innovate
 	When Blakk executes her **Innovation Routine** formshift, one of six phenomena occur, randomly chosen;
 	- Three to five weave-seeking missiles emerge from the rift and hunt down the strongest discernable targets in the vicinity, exploding once sufficiently close-by. 
 	- The vicinity is suffused with toxic gas, doing damage exclusively to those bearing the Strider Protocol.
-	- A blinding flash, disorienting sonic follow-up, and a final devastating repelling wave surge from the rift, stunning all targets and flinging them back considerable
+	- A blinding flash, disorienting sonic follow-up, and a final devastating repelling wave surge from the rift, stunning all targets and flinging them back a considerable distance away.
 	- An explosion of lacerating depthstone shrapnel that rips through friend and foe alike, defeating defenses and armor.
 	- A shower of oil that suffuses the air and slicks the ground beneath, before violently igniting.
 	- A burst of immensely powerful hyperweave that crackles indiscriminately through the air, sundering chalk and weave with destabilizing ribbon.

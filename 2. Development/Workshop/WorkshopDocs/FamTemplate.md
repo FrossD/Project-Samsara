@@ -102,7 +102,58 @@ The physical appearance of the family in the form of clothes and bodily adornmen
 - Deliberate scarification?
 
 #### 06. Individuals and Families
-How are families or otherwise equivalent smallest units of their society structured?
+For individuals; 
+**Draft One**
+Personal Development
+- Education
+- Skills and Talents
+Belief Systems
+- Spirituality
+- Life and Death
+Expression
+- Artistic Expression
+- Personal Expression
+- Communication Styles
+Friendships and Relationships
+- Formation and Maintenance
+- Social Bonds
+Relationship with Community
+- Dynamics
+- Contribution
+
+**Draft Two**
+1. **Consciousness and Awareness:**
+    - The capacity for self-awareness and reflection.
+    - The subjective experience of thoughts, feelings, and perceptions.
+2. **Emotions and Relationships:**
+    - The rich tapestry of emotions, from joy and love to sorrow and anger.
+    - The formation of relationships, including family, friendships, and romantic connections.
+3. **Learning and Growth:**
+    - The pursuit of knowledge and understanding.
+    - Personal development, maturation, and the acquisition of skills throughout life.
+4. **Challenges and Resilience:**
+    - Facing adversity, overcoming obstacles, and learning from failures.
+    - The development of resilience and coping mechanisms.
+5. **Cultural and Societal Context:**
+    - The influence of cultural norms, values, and traditions on individual identity.
+    - Interaction with societal structures and institutions.
+6. **Creativity and Expression:**
+    - The expression of creativity through art, music, literature, and other forms.
+    - The ability to communicate and share one's unique perspective with the world.
+7. **Mortality and Transcendence:**
+    - The awareness of mortality and the passage of time.
+    - The quest for meaning, purpose, and, for some, a search for something beyond the immediate material world.
+8. **Connection with Nature:**
+    - The relationship with the natural world and the environment.
+    - The impact of human actions on the planet.
+9. **Spirituality and Existential Questions:**
+    - Exploring questions about existence, purpose, and the nature of reality.
+    - The pursuit of spiritual beliefs or philosophies.
+10. **Altruism and Empathy:**
+    - Acts of kindness, compassion, and empathy toward others.
+    - The interconnectedness of individuals and the shared human experience.
+
+For families; How are families or otherwise equivalent smallest units of their society structured?
 - Matriarchal or patriarchal or something else?
 - Nuclear preferred or extended?
 - What 'superdivisions' are above families? Tribe? Clan?
@@ -280,6 +331,14 @@ The various social issues that plague each family, due to other cultural charact
 
 #### 20. Quirks and Repute
 **Quirks; was initially taboos and superstitions**
+Quirks themselves;
+1. **Behavioral Quirks:** Unusual habits or behaviors that deviate from commonly accepted norms. These can range from specific ways of speaking, walking, or interacting with others.
+2. **Personality Quirks:** Distinctive features of a person's character that make them stand out. This might include eccentricities, particular preferences, or unique ways of approaching life.
+3. **Physical Quirks:** Unusual physical characteristics or features that set individuals apart. These can be distinctive facial expressions, gestures, or even physical anomalies.
+4. **Cognitive Quirks:** Unique thought patterns, perspectives, or cognitive approaches that differ from conventional thinking. This might include unconventional problem-solving methods or creative thinking styles.
+5. **Social Quirks:** Unusual ways of interacting with others or navigating social situations. This can involve unique communication styles, approaches to friendships, or even unconventional social rituals.
+6. **Artistic Quirks:** Distinctive expressions of creativity that set individuals apart in artistic pursuits. This might include unique artistic styles, writing techniques, or musical approaches.
+
 The various 'don'ts' that exist and their origins.
 - What are some taboos?
 	- Why are they seen as such?

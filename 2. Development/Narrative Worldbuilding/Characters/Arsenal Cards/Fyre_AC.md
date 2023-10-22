@@ -16,23 +16,27 @@ Scorning the arcology of their birth in favor of the vast challenge of the Starw
 *"Lol."*
 	Turning the Centigrade's flat side towards a target will - if they are capable of using it - parry their weavesight or other calcic-reliant sight abilities back at them, coupled with weave baked into the weapon, inflicting a blind induction that lingers momentarily.
  
-- ~~Utility~~
+- Utility
+**(N/A)**
 
-- ~~Feat~~
+- Feat
+**(N/A)**
 
 ### Martial Arms 2
 **Plan C** (PHldr.) - Vault Relic - Club
 *"I wouldn't recommend it; it's gotten too easy to not feel."*
 (Description)
 
-- ~~Offensive~~
+- Offensive
+**(N/A)**
 
 - Defensive
 **Guntrigger Parry**
 *"Immensely cool."*
 	The Plan C is holstered in an specially-engineered sheath that is mounted to the non-dominant arm. Tied to this sheath's engineering is a trigger that can be engaged by a single finger of the non-dominant hand. When engaged, renewable gas-firing mechanisms at the bottom of the sheath fire, launching the Plan C until it comes to a harsh stop at the end of the sheath, exposing inches of the weapon's blade. Any calcic attack that strikes the blade will complete a ritual in the blade's inner workings, and be summarily redirected.
 
-- ~~Utility~~
+- Utility
+**(N/A)**
 
 - Feat
 **Sun-smitten Apathy** - Prax
@@ -41,7 +45,7 @@ Axle: Flashcharge, Relic Defensive | Gun-trigger Parry
 	When a flashcharge is available, Gun-trigger Parry is upgraded into Apathy of the Sun-smitten. When an event is occurring in the vicinity in a manner that can be interpreted as 'occurring **to** the caster', the flashcharge can be expended to parry it a the doctrinal level, eliminating whatever effects it would have had on the caster. This power can be used to parry nearly anything, from the flashes of other Striders to the emotional response upon hearing bad news.
 
 ### Fire Arms
-(N/A)
+**(N/A)**
 *"There should be honor in these things."*
 
 ## T2 - Elementary Calcic
@@ -67,7 +71,7 @@ Axle: Tek | Starfire Conduit
 	A short roll performed on the ground, the athleticism of the move enhanced by weave. Lowering the size of the effective profile allows for meandering past attacks, especially from larger targets with equally larger weapons.
 
 ### Weave Armament
-(N/A)
+**(N/A)**
 *"I carry enough weapons as it is."*
 
 ## T3 - Advanced Calcic
@@ -105,7 +109,7 @@ Axle: Martial Arm | 1530 Centigrade
 	Ashflame is suffused into a weapon, and a series of powerful, sweeping cuts are made against a target, shattering their defenses, inflicting inductive cold-burns, and siphoning a considerable amount of chalk. This attack can only be performed when the starfire reserves are majorly filled with ashflame. Upon cast, half of all ashflame expended is refunded as starfire in the reserves.
 
 ### Quis
-(N/A)
+**(N/A)**
 *"Never was good at the damn things."*
 
 ## T4 - Grand Calcic
@@ -118,7 +122,7 @@ Axle: Tek | Starfire Conduit
 - **Stargift: Leyndell Squall** - Channeled - Induc, Siph
 Axle: Tek | Starfire Conduit
 *"I hate to see what Spyndl has become, but perhaps it is what we deserve. Perhaps something will rise from this ash, but I am not hopeful."*
-	The caster creates a site of ritual geometry and expends components, including a considerable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
+	The caster creates a site of ritual geometry and expends components, including a co(N/A)nsiderable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
 
 
 ## T5 - Flash Protocol

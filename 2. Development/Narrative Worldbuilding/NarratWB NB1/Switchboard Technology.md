@@ -221,6 +221,7 @@ Below is a collection of links to images that serve to better illustrate the app
 - https://www.reddit.com/gallery/szy02i
 - https://i.redd.it/gjvoad6lxpv41.jpg
 - https://i.redd.it/bmigllk8do1a1.jpg
+- [(5) Framework Cyberdeck - DIY Portable PC - YouTube](https://www.youtube.com/watch?v=qzEd50uzdF0) (MAJOR)
 
 #### History of Slates
 The first Slates were created as a matter of necessity. Engineered by Sixth Skydancer Onuris, the Hammer, they were a response to the Vault's and Nexus' security systems as created by the First Thinkers back in the dawning Third Thinkers' Era. The discovery of the Mind's network hosted in the Vitric Shelf, the Anarhiza and how it facilitated long-distance communication between Minds, and the reverse-engineering of the internals of Chromelings led Striders to develop the first computers, and Slates are the result of integrating command over the calcic with computers.
@@ -232,7 +233,7 @@ Though they saw primarily utility in the conflicts against the Vault Minds then,
 #### The Breach Protocol
 As Striders wielded the Slates, they developed new techniques and methods for contending with Minds and their constructs, as well as digital entities, mechanical constructs, and local calcic reality. In particular, a repertoire of tools was gradually developed to fight the Mind Networks, particular when it came to breaching the various flavors of Glasswall that the Vault Minds deployed to shield themselves and the Vaults from raiding parties of Striders. This ever-evolving toolbelt came to be known as the **Breach Protocol**. 
 
-These tools and methods took on power of their own by passively becoming a doctrine themselves. The most notable of the Breach Protocol repertoires was engineered by Onuris, The Hammer himself; the **'PRISMpick'**, a chalk construct deployable over a network bridge to breach Glasswalls through directed effusions of chalk.
+These tools and methods took on power of their own by passively becoming a doctrine themselves. The most notable of the Breach Protocol repertoires was engineered by Onuris, The Hammer himself; the **'PRISMpick'**, a thought-impossible chalk-glass construct deployable over a network bridge to breach Glasswalls through directed effusions of weave.
 
 #### FRONTIER-SCM
 The FRONTIER Subsystems Command Matrix is the software backbone of the Slate's computational core, designed, maintained and improved upon by the Academy. It is the spearhead of the Slate's ability to bridge Chalk and the digital. Originally, it was a software meant solely for navigation and cartography; coordinating apparatus and running calculations with variables obtained from measuring instruments - but it expanded to become a formidable software multitool capable of innumerable calcic and digital functions, particularly so when the utility of Slates in the fight against the Minds became apparent.

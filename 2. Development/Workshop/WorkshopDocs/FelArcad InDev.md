@@ -80,8 +80,8 @@ Build Stratagem
 - [x] (D1, D6, D7) Representative Democracy, Elections and Civic Participation all culminate into a point on **Electoral Civics**
 - [x] (D3) Constitutional Framework comments on the **Arcal**
 - [x] (D4, S3) Rule of Law, Equality and Social Justice on a larger point about the **equality of all Fel-Arcad before the law, all institutions, and to each other**. 
-- [ ] (D5, S4) Rights, Freedoms and Responsibilities allotted to every Fel-Arcad, and subject to the defense by and of arcology authorities.
-- [ ] (S2, S1) Part of the broader point on economics.
+- [x] (D5, S4) Rights, Freedoms and Responsibilities allotted to every Fel-Arcad, and subject to the defense by and of arcology authorities.
+- [x] (S2, S1) Part of the broader point on economics.
 
 
 #### Money and Economy

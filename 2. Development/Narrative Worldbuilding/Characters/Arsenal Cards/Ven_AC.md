@@ -112,7 +112,7 @@ Axle: Flashcharge
 ### Quis
 - **Hardpoint Rounds**
 - **Unravelling Rounds**
-- **Anti-Amaran Rounds**
+- **Antamaran Rounds**
 - **Noble Rounds**
 - **Starblight Rounds**
 - The above use ballistics data
@@ -123,6 +123,6 @@ Axle: Flashcharge
 **Vitric Rounds**
 
 ## T5 - Flash Protocol
-**Sil'khan Stars** - Flash Weave - Cado
+**Sojourner's Summit** - Flash Weave - Cado
 *"Never forget where you came from. You will need that for the road ahead."*
 	Ventura musters up his strength, focus and calcic reserves, and conjures forth a restrained salvo of destructive hyperweave, performing a feat of chalkweaving only made possible by having lived through ten thousand battles. With a gesture he can launch individual projectiles or the full salvo, which move at near-instantaneous speed and upon arrival at a destination, detonate with magnificent calcic force. Forgoing all higher intricacies of chalkweaving, Ventura embraces the purest aspects under the discipline; immense power and uncanny control. 
