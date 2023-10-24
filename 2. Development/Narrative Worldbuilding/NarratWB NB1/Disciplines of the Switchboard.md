@@ -1,4 +1,4 @@
-# Weave and Warfare Appendum: Martial Disciplines
+# Weave and Warfare Appendum: Disciplines of the Switchboard
 How the various people and creeds of the Switchboard standardized the methods of hurting each other.
 
 ## Rough #1 - Skeletal Classes
@@ -37,17 +37,17 @@ Subdivisions
 	- Marksman Rifles
 
 **Esoterics**
-- Combinations of Martial and Fire Arms
+- Combinations of Martial and Fire Arms and various powers
 
 ## Rough #2 - Named Classes & Disciplines
-**Template**
-Name
-Origin
-Style
-Weapons A
-Weapons B
+### Template
+**Name**
+**Origin**
+**Style**
+**Weapons A**
+**Weapons B**
 
-**Drafts**
+### Drafts
 Wyldsman Blade
 - Blade and dagger usage
 

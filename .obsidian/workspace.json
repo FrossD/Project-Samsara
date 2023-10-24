@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "087cdb396bfe48a4",
+        "id": "5410579c386c7c1d",
         "type": "tabs",
         "children": [
           {
-            "id": "f90351a9b5084d07",
+            "id": "05d5b08cf7ed9c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/MartialDisciplines.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           }
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Soleian",
+                "query": "wedge",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -88,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/MartialDisciplines.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/MartialDisciplines.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/MartialDisciplines.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,23 +161,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f90351a9b5084d07",
+  "active": "05d5b08cf7ed9c64",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/MartialDisciplines.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "C4.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md",
+    "Untitled.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
     "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
     "3. Scribbling/~$sessment.docx",
     "3. Scribbling/~WRL1062.tmp",
     "3. Scribbling/~WRD1016.tmp",
     "3. Scribbling/Assessment.docx",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Mechanical Pillars/Glass.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
     "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
@@ -191,10 +194,6 @@
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
     "2. Development/MDT.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC_Legacy.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/2. CX-Character-Arsenal-Ideas.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk's Arsenal Card.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",

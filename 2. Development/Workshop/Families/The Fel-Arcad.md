@@ -251,8 +251,6 @@ Body adornments we can do fairly easily, in that their approach to it isn't much
 
 
 
-
-
 #### On Families
 Lets discuss Fel-Arcad society. What conclusions can we draw from their history and present about how they structure it? What do their families look like across the size and relationship spectra? 
 
