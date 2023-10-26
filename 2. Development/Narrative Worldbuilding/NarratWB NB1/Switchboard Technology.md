@@ -379,9 +379,9 @@ This purple crystal-metalloid is the product of harnessing '**amaranthite**', a 
 
 Pale Amara appears as a deep purple solid seemingly variegated with white and black streaks through its crystalline structure. It also boasts immense hardness, and it finds its way into various cutting tools used in the Switchboard. ^37fdd7
 
-It sees two particularly prominent uses however; in accelerator weapons and in the hands of Depthstriders. 
+It sees two particularly prominent uses however; in devices that need to interface with both chalk and aspects or phenomena of the Void, and in the hands of Depthstriders. 
 
-In axxel weapons or accelerator weapons, crystals of pale amara are used to accelerate matter by rapidly sending it forwards and backwards between the Switchboard and Isalveh, via shining light through it onto the piece of matter in an enclosed space. Providing an opening sees the material shunted out at immense velocity and possessing concerning amounts of energy, thus granting axxel weapons their lethality.
+In chalk-void spanning devices, they often need to exploit some trick to function, combining chalkweaving and ritualism with curvature manipulation and randomness to function. An example of this are the **entropic weft compressors** used in accelerator weaponry and elsewhere, to manufacture hyperweave by compressing down chalk with curvature.
 
 In the hands of depthstriders, their Void-gifted powers of curvature control are performed more powerfully when used with weapons formed from pale amara. Particularly, pale amara is capable of disrupting chalk systems, allowing depthstriders to counter attacks and rituals used by the chalkstrider cousins. Pale amara weaponry can magnify local curvature and anti-curvature, allowing them to induce strong gravitational fields. 
 
@@ -435,3 +435,13 @@ For all the various artifact materials that exist in the Switchboard.
 - Third of these programmable clauses is the **assimilation clause**. Replichrome also has the ability to assimilate other materials into itself, and the weaver programming it is capable of instructing it to do different things with it. While replichrome is not able to create more of the materials assimilated into it, it *is* able to redistribute them and form them into new shapes. Replichrome can be fed a block of copper for example, and spit out wire coils. Programming replichrome to assimilate materials like this grant it the power to 'build' structures out of those materials. Replichrome can assimilate plastic and reform it into plumbing, assimilate copper and lay wiring, assimilate glass and place windows at intervals as the growing replichrome forms a wall around it, assimilate wood and lay panel of it over itself to hide it from view. As such it sees its ultimate utility in construction. 
 
 - Outside construction, replichrome sees some utility in the sembleworks space, as its replicating properties can be easily transformed into self-healing properties, which find utility in self-repairing chromegrafts. 
+
+### Devices
+Gadgets, gizmos, thingamajiggers, doodads. All manners of devices in the Switchboard that serve either on their own or as components in larger assemblies. Here, they are grouped by use case and/or related subject matter.
+
+#### Hyperweave Handling
+A number of devices exist for handling hyperweave;
+
+- **Entropic weft compressors**; a component of larger assemblies, and used primarily as the core of weapon systems that rely on hyperweave to function. By harnessing pale amara and how it allows  for constructive rather than destructive interaction between chalk and the depths, it induces an oscillating point of immense curvature, causing chalk to be scrambled while simultaneously being drawn in. It can be imagined as a whirlpool with a blender in the center. As chalk is drawn in more and more, packed more tightly and scrambled to become more chaotic, bottled lightning - hyperweave - is formed.
+- **Hyperweave cells/batteries and capacitors**; storage devices for hyperweave, meant to maintain hyperweave as stable as possible and then released into a system as needed. Ritualism in the make of each device's physical structure stabilizes the hyperweave within, allowing for the cell to power its own ability to stabilize its contents, though at the expense of being poorly suited for longer term storage. Additional ritualism controls the flow rate; batteries let hyperweave trickle out, capacitors almost blow themselves apart in the process of letting hyperweave escape as fast as possible.
+- **Apertures**; pits of sheet metal inscribed with ritualism, cut to resemble rings, designed to be slotted at the end of hyperweave emitters. They act as restraining fields, mildly folding and spinning close the 'edges' of a bolt of hyperweave to constrain it down to beam-like shape. 

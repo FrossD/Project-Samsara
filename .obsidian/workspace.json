@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5410579c386c7c1d",
+        "id": "66b9b626a59f38da",
         "type": "tabs",
         "children": [
           {
-            "id": "05d5b08cf7ed9c64",
+            "id": "7e160159557afe9e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,19 +159,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05d5b08cf7ed9c64",
+  "active": "7e160159557afe9e",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "C4.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md",
     "Untitled.md",
     "2. Development/Foundational Pillars/The Strider Protocol.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
+    "C4.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
     "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
     "3. Scribbling/~$sessment.docx",
@@ -193,7 +192,6 @@
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
     "2. Development/MDT.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",

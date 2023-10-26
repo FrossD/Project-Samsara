@@ -109,6 +109,31 @@ Happening on a much smaller scale, a spontaneous equation can evolve using some 
 
 Teks are another product of the micro-spontaneous equations. These are powerful equations that grant Weavers powers, taking the form of chalk ribbon, often encased in chalk crystal, or in transit across the Switchboard on chalk currents. Finding one of such Teks is no mean feat. A vast majority of Teks wielded by Weavers are seeded by scraps of patterned chalk moving across the Switchboard Sky; ideas from Weavers themselves, bits from other concepts lost in the Switchboard, etc. 
 
+## Hyperweave
+> We can't have lasers or lightning in the Switchboard so this is the next best thing.
+
+By most metrics, chalk can be viewed as somewhat inert. Chalk in latent dust form, solid crystalline form, activated ribbon form, bound pattern form and stable weave form all share a somewhat common thread between them; they are stable forms of chalk that outside of most calcic interference, will remain in their current states. There is a final form of chalk however, that is defined by its instability. This is chalk in the 'hyperwoven' state, more commonly referred to as **hyperweave**.
+
+### Nature & Formation
+Hyperweave is most commonly is densely - but haphazardly - packed chalk. One can imagine trying to pack a box of identical springs into a space smaller than what would be adequate. Done properly, it is possible to form arrays of springs that push on all sides of the box equally, resulting in a fair amount of pressure on all sides, but otherwise a stable structure. Hyperweave would be simply tossing all the springs in the bag and then trying to compress it, pulling ever harder on the cord on the lip to shrink the available spence. Eventually, the energy must go somewhere, and it can result in the entire structure collapsing.
+
+When chalk does this, it follows a sort of 'line of best fit' through a space, which would result in a perfect line or beam of pure chalk. However, it is additionally skewed by an amount of randomness that stems from the conditions of its release and the nature of the medium it passes through, which can result in these stable beams behaving more like crackling bolts, cracking and splitting through the air. Their destination is usually the most chalk-dense weave in the environment - prioritizing complexity of weft over quantity of chalk used to make it - which in most cases results in released bolts of hyperweave targeting kin, especially Striders. 
+
+Forming hyperweave then is fairly easy, as a chalkweaver merely needs to be able to pack and restrain a large amount of chalk into a very tiny space, before providing it a crack in the unstable structure through which it can escape. Released hyperweave travels incredibly fast too, moving at speeds equivalent to the upper-middle launch velocities of skilled Striders. In a sense, forming hyperweave is even easier than doing proper chalkweaving, as hyperweave can indeed be viewed simply as poorly-woven chalk.
+
+Hyperweave is an unstable state of chalk, however, and if projected over long distances, it gradually loses the little integrity it still has, dissipating into the local environment as latent chalk.
+
+### Utilization
+It is possible to create calcic apertures through which to fire hyperweave, compelling it to travel in certain manners, most commonly the perfect beam shape that comes with hyperweave that is released with reduced interference. Considering hyperweave is made of very, very large amounts of chalk, hyperweave emitters and receivers can be used to transmit colossal amounts of it across long distances. This sees a number of industrial applications, such as moving calcic power between sections of a large structure or bits of a minuscule device.
+
+However, hyperweave sees plenty of use in offensive or weapons applications, either as a power source, or a weapon itself.
+
+### Effects
+Being hit by hyperweave has been described as - and is particularly similar to - being hit by the full calcic radiance of a Law Star. Though less powerful, it rips and cascades through the lattice of a target, inflicting considerable unravelling, and saturating a target with unharnessed, wild chalk. It takes on inductive properties and can ricochet throughout the lattice, and even strike a target, reform, and ricochet to another target, chaining between them and doing substantial, though diminishing damage. 
+
+### Chalkweaver Combat
+Hyperweave saw inevitable adoption in combat due to the considerable damage it does to all that it strikes, as well as its chaining, unravelling and inductive properties. How each individual subject used hyperweave - harnessing its raw damage potential, suppressing unravelling power, or spreading inductive power - is up to them. But those who can harness hyperweave cultivate considerable notoriety, as hyperweave in use is a memorable, visual spectacle, one to wow allies, foes and onlookers alike. 
+
 ## Teks
 > It was coming sooner rather than later anyway.
 
