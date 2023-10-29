@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66b9b626a59f38da",
+        "id": "1189a7e94e965378",
         "type": "tabs",
         "children": [
           {
-            "id": "7e160159557afe9e",
+            "id": "6e7d10861b87c470",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wedge",
+                "query": "Interdict",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -135,14 +135,15 @@
             }
           },
           {
-            "id": "29acdf2fd74e22bc",
+            "id": "84a900b42d8e8864",
             "type": "leaf",
             "state": {
               "type": "tlfItemView",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,28 +160,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e160159557afe9e",
+  "active": "6e7d10861b87c470",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "Untitled.canvas",
+    "2. Development/Workshop/Prop.CommsCompute.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "Untitled.md",
+    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+    "2. Development/Mechanical Pillars/Glass.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "Z. Assets/Pasted image 20231027212609.png",
     "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+    "3. Scribbling/E274D000",
+    "Untitled.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "C4.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md",
-    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
     "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
     "3. Scribbling/~$sessment.docx",
     "3. Scribbling/~WRL1062.tmp",
     "3. Scribbling/~WRD1016.tmp",
     "3. Scribbling/Assessment.docx",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
-    "2. Development/Mechanical Pillars/Glass.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
     "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
@@ -189,14 +195,10 @@
     "2. Development/Workshop/SpyndlAcaMaster",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
-    "2. Development/MDT.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",
     "1. Drawing Board/1. Samsara/Meta",
     "3. Scribbling/Concept AV.pdf",
-    "ProjectSamsara",
     "Z. Assets/Pasted image 20230804174944.png"
   ]
 }

@@ -55,5 +55,6 @@ As such, the task then is to highlight possible events that could have occurred 
 8. **Formation of the HighCastle Artisanry House**
 	- Furnishing fleets of Sil'khan ships.
 	- Building a fleet in general.
+9. **Building the Modern DevitNet**
 
 ### P#1

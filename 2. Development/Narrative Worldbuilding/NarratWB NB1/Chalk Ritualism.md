@@ -133,6 +133,8 @@ The seal isn't in a ritual's schema, and is instead a gesture unique to each Rit
 
 	Narratively, it serves to add more personailty to each character, and is simply cool to describe. 
 
+> As a note, the different families of the Switchboard have different common seals to them. The Vahnkin in their casts typically either fling their arms and hands downwards and outwards, hailing the 
+
 ### Endstep
 Performing the Seal typically ends the ritual, and the Ritualist can move to the Endstep. This usually involves cleanup; recovering non-consumables leftover consumables not wholly consumed, and drawing left-over chalk towards them if they choose, otherwise it dissipates into the environment as latent chalk.
 

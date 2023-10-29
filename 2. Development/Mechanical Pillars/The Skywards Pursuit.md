@@ -153,6 +153,7 @@ However, Striders frequently contract the names of the weeks for brevity. Contra
 
 With a sixteen-day week also being called a cycle, Striders further break down weeks or cycles into hacycles (half-cycles; eight days), quarcycles (quarter-cycles; four days) and oc'cycles (eight-cycles; two days). The Switchboard week is often taken as four quarcycles of alternating periods of work and rest.
 > Can be further shortened (maybe) into 'hacycs', 'quacycs', 'ocycs'.
+> Pronounced and written as hasik, quasiks, osiks and siks for just days.
 
 Numerical measures of time follow the syntax of;
 >'Day Between 1 and 16' / 'Region Number' , 'Season Number'
@@ -305,34 +306,7 @@ Areas of the sky with a mighty star and a handful of Wellsprings frequently evol
 ## Strider Wayfinding
 Wayfinding is the core of the Skywards Pursuit pillar of Ritualism. Wayfinding is the art and methodology of charting and navigating the Switchboard, using the various tools and methods developed by Striders. All Striders eventually learn a decent amount of Wayfinding, built either through experience provided by continuous travel, or through formal instruction. The Wayfinding, being the method of determining 'where' to go and 'how' to get there, is naturally heavily intertwined with the Strider Protocol as it is the means of travel itself.
 
-## Wayfinding Apparatus
-Striders use a variety of apparatus in the process of Wayfinding. 
-
-	Nearly everything here is open to name changes.
-
-### The Sextant
-Core to the principle of Wayfinding is the Sextant, an instrument designed and used for mapping paths and traversing across the Switchboard. It does so by determining the distances between the user and a Law Star, and Law Stars and other Law Stars. Sextants need to be adjusted based on the position of the Strider, as the same patch of Sky observed from two different locations appears differently. Thusly, Strider navigation involves calculations of where you currently are and where you will be next. 
-
-Determining distance is essential as crossing distances requires burning Stride momentum, and how much a Strider has left determines how much farther that Strider can go.
-
-### Void Spherometer
-A device for measuring the curvature at and around a given point. It functions by sending out a ribbon of chalk at a given velocity and monitoring it's behavior; the time it takes before being pulled into the Void, how swiftly it was pulled in once it was within the pull, etc.
-
-It is an essential component of travel as it allows anticipating and avoiding immensely curved pockets of Void, or navigating through where the curvature is least steep if passing through Void is absolutely unavoidable. It is particularly needed in detecting and avoiding Flux Storms - and often your only saving grace if you find yourself in the clutches of one.  
-
-As the Void is linked with the Switchboard Sky above it, turbulence in the Sky is always a result of turbulence in the Challenger Dark below it.
-
-### Astrolabic Timepiece 
-A clock linked to the Astrolabe, providing accurate measure of Switchboard time. The Astral Clock works in tandem with the Sextant and other instruments in navigating parts of the Switchboard subject to time-bound patterns, such as cyclical weathers.
-
-### Starcharts
-More conventional means of navigation. Details of paths and movements of stars and storms, hazards, stops, details not captured by instruments, but recorded by Striders who have gone before. Most Starcharts are personalized, created by individual Striders for personal use or copied for redistribution. 
-
-### Stream Guider
-A device that guides Striders to Chalk Streams; great currents of raw information moving across the Switchboard according to constructs linked by mighty equations. Entering and 'riding' one of these streams allows preserving and occasionally recuperating some momentum, allowing Striders to go farther with ease. Some regions are 'downstream' from others, allowing easier travel from one to the other.
-
-### Astro-Cartographer's Almanac
-A combination multitool carried by Striders, containing all of the instruments above, in addition to other odds and ends collected and created by Striders. It is better to think of it less as an Almanac in a book form, and more as a very large Swiss army knife the size of a binder, with parts of it able to fold and contort in inconceivable ways, thanks to Chalk engineering. 
+![[The Strider Protocol#Wayfinding Across the Dancirah]]
 
 ## The 'Weathers' of the Sky
 The Switchboard Sky presents dynamic, treacherous challenges in the form of weather or celestial events.

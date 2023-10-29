@@ -1,14 +1,7 @@
 # Weave and Warfare Appendum: Disciplines of the Switchboard
 How the various people and creeds of the Switchboard standardized the methods of hurting each other.
 
-## Rough #1 - Skeletal Classes
-Superdivisions of the disciplines (T1);
-- Unarmed/Fist Weapons
-- Weapons General
-- Caster-class Armaments
-- Esoterics
-
-Subdivisions
+## Rough #1 - Skeletal Class Divisions
 **Unarmed/Personal Defense Weapons**
 - Unarmed
 	- True Unarmed
@@ -48,11 +41,13 @@ Subdivisions
 **Weapons B**
 
 ### Drafts
-Wyldsman Blade
-- Blade and dagger usage
+Drafts and ideas for new styles come here.
 
+> All clear.
 
 ### Unarmed/Personal Defense
+These are fighting styles in the Switchboard all about the empty hand; fighting using only ones body and wits, to defend oneself or win fights. While weapons such as glove weapons and even daggers may come into play, the styles here prioritize all manners of unarmed tussling, from graceful, artistic displays, to bare-knuckle brawling.
+
 #### 1. Wyldsman Cyrculian - Wyrlian
 **Origin**
 - The Starwylds...
@@ -99,6 +94,8 @@ It would have been dismissed as utterly frivolous if not for the fact it looked 
 
 
 ### General Weapons
+The styles under this domain make extensive use of the Switchboard's various weapons. From up-close daggers and paired arms, to medium ranged swords and axes, to longer ranged glaives, halberds and spears; from stabbing thinswords to sweeping, slashing scythes, to crushing warhammers, there is a proper way to wield nearly everything, reaping the maximal benefits from each weapon's make, and securing victory in all situations. 
+
 #### 1. The Path of Oninan Monks and Giants - Oninan Path
 **Origin**
 - Vahnkin Onina Dwellers
@@ -262,8 +259,37 @@ Inevitably, and in accordance to the principles of threwfair, many have sought t
 
 It is the weaponplay of nomads, innkeepers, mercenaries, robbers, exiles, drunks and barkeepers alike, businesspeople, scorned ladies, beggars and paupers, the occasional curious princeling, and the assassin coming to kill him. It is everyman's weapon doctrine; the posterchild of deliberate violence in the Switchboard itself. 
 
+#### 8. Of the Ashfelds and the Wylds - Ashb'aiz
+**Origin**
+- The Ashfelds of Zahir
+- The Starwylds
+- Threwfair-Fam
+- Skidis
+- Wyrlian
+**Style**
+- Fighting hard opponents and fighting to win
+- High brutality and clever agility
+- Disarming and suppressing foes
+**Weapons A**
+- Longswords
+- Curveswords
+- Axes
+- Daggers
+- Glove Weapons
+**Weapons B**
+- Spears
+- Thinswords
+- Paired Arms
+
+A style forged by the unintentional collaboration between the various misfits that make up the dwellers and travelers of the Starwylds, and the nomad-zealot Sabai, created in the Ashfeld pits where blades clash and sing in worship of Skydancer Zahir, the Sword.
+
+Lauded as one of the most brutal and effective styles of the Switchboard, it features techniques that make maximal usage of the practitioner's strength and on-the-spot agility to utterly crush opponents. It is one of the few styles in the Switchboard - and chief among them too - that specialize in disarming opponents and even breaking weapons. With various blocking, parrying and countering techniques, it allows for effectively combating crowds of even skilled opponents, and existing in a state of constant combat flow.
+
+It is a style widely used by mercenaries, Sabai battle-nomads, Spyndl Operators, other academy's paramilitary actors, and pure, honest-to-the-word warriors, who simply relish the act of combat and conflict itself. It is a style conferred divine status as being the style developed under the watchful eyes of Skydancer Zahir, who ensured that every step made in it carried with it the full essence of war. 
 
 ### Caster Armaments
+The domain of styles that make extensive use of weaponry and weave. Whether to enhance the weapon or the wielder, change the battlefield, subjugate and weaken the enemy, and more, caster armament styles gain the additional edge that comes with the integration of chalkweave into one's combat doctrine. 
+
 #### 1. The Flight of Zahir - Divine Zahflir
 **Origin**
 - The Skydancers
@@ -281,6 +307,7 @@ It is the weaponplay of nomads, innkeepers, mercenaries, robbers, exiles, drunks
 - Scythes
 - Greatswords
 - Halberds
+- Combat Bows
 
 In the time of the rise of those who would come to be known as the Skydancers and the greatest Danseers, there were by little by way of formal weapons doctrines. While there were certainly various evolving ways of using weapons, some exhibiting more success over others, it would be a while before formal disciplines and schools for training practitioners of them would emerge.
 
@@ -288,7 +315,7 @@ This did not stop the Skydancers and the Danseer Sabai that followed them from p
 
 The Zahflir is part martial art, part act of worship of Skydancer Zahir, the Sword and Warmaker, and thus it sees use primarily in battlegrounds. Not small corridors or large rooms, literal, actual, wide battlegrounds, where all spatial dimensions must be used and conflict is waged between armies. The reason for this is the the Zahflir is performed while actively skydancing, or 'flying' to use a more graspable term, and the majority of the techniques performed in it make extensive usage of this fact.
 
-In a sense, Zahflir practitioners function like supermaneuverable fighter aircraft. A typical example of a maneuver would be a 'run', this being a singular cutting sweep across a length of a battlefield using one's long, bladed weapon and rapidly-woven, masterful chalkweaving to devastate an entire line of opponents, moving faster than they can anticipate, faster they can see, and far faster than they can counter. Groups of skydancing Sabai would perform joint runs, flying in formations and sweeping through space, ripping, tearing, and generally shredding through all that stood before them. The power of the Zahflir comes down to one's own proficiency in flight and how honed their reactions are, and seen in practice, it is not surprising that it has come to be called a divine form of martial art.
+In a sense, Zahflir practitioners function like supermaneuverable fighter aircraft, this being made possible by usage of the [[The Strider Protocol#The Graceflight|Graceflight]]. A typical example of a maneuver would be a 'run', this being a singular cutting sweep across a length of a battlefield using one's long, bladed weapon and rapidly-woven, masterful chalkweaving to devastate an entire line of opponents, moving faster than they can anticipate, faster they can see, and far faster than they can counter. Groups of skydancing Sabai would perform joint runs, graceflying in formations and sweeping through space, ripping, tearing, and generally shredding through all that stood before them. The power of the Zahflir comes down to one's own proficiency in flight and how honed their reactions are, and seen in practice, it is not surprising that it has come to be called a divine form of martial art.
 
 While the above is more so the flight component of it, its martial components specializes in dexterous, devastating wielding of polearms, particular glaives, a favored weapon class of the Danseers as beings of conquest. With glaives they can perform sweeping slashes, deep thrusts, crushing blows with their butts and block attacks with their sturdy handles. Being able to be kept in one hand during use, they free up another for powerful chalkweaving, further supplementing the power of the wielder. 
 
@@ -339,8 +366,9 @@ Due to the nature of the quarterstaff, the martial discipline component is decid
 
 There is, however, a final note in Trevelyan's Principles, that details the occasional necessary evil that is very violently, very visibly, very thoroughly... annihilating an unscrupulous fellow with potent chalkweave. This isn't because there is no other means of handling them - absolutely not, chapter after chapter has been spent before now proving exactly that. Instead, it must be done to place a fear in those who escape that spreads quickly among their ranks. By making an example of one accosting gang, the ten others further down the road learn that perhaps, they should leave this one fellow alone. To Danseer Trevelyan, after all, the greatest victory is not needing to fight to begin with. 
 
-
 ### Esoterics
+A dumping bin - almost - of all things outlandish, questionable and strange. But nonetheless effective. Whether it's integrating guns or chrome and lattice grafts, all things too unique for the other categories come here; the red-headed stepchildren of Switchboard combat discipline.
+
 #### 1. Spyndl Academy's HALOS Doctrine - HALOS
 **Origin**
 - Old Danseers
