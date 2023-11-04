@@ -35,7 +35,7 @@ Offensively, they possess two major powers; Five Strait disruption and a polterg
 
 Defeating the Mindspun can be done one of two major ways; completely destroying their body with overwhelming force, such that the shock prevents it from finding a new one, or killing the Mindspun itself with calcic and other methods. Concerning calcic methods, Mindspun are particularly vulnerable to 'Overwrite', and as such usage of calcic abilities against 'free' (lacking a vessel) Mindspun is an effective means of destroying them. 
 
-	It goes without saying that Glass is an immensely effective way to dispose of the Mindspun, due to their nature as calcic existences. 
+> It goes without saying that Glass is an immensely effective way to dispose of the Mindspun, due to their nature as calcic existences. 
 
 **Narrative Bits**
 - The Mindspun can also be controlled. Finding a means to either reason with their elementary thinking faculties, or subverting their will entirely grants a chalkweaver power over sentient entities they can direct to do their bidding. 
