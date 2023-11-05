@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1189a7e94e965378",
+        "id": "8a82fc083cb9b7fd",
         "type": "tabs",
         "children": [
           {
-            "id": "16ebad0f4383f61f",
+            "id": "c651b060c4e76545",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "62ea07af9e2a18d0",
+            "id": "fe42b754030ee88d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f203567aa416437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+                "file": "2. Development/Workshop/Prop.CommsCompute.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -188,16 +176,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ea7145198905749",
+  "active": "c651b060c4e76545",
   "lastOpenFiles": [
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Workshop/Prop.CommsCompute.md",
+    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
+    "1. Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
+    "2. Development/Mechanical Pillars/The Void.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/MDT.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "3. Scribbling/F7B12000",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md",
     "Untitled.canvas",
@@ -205,7 +198,6 @@
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Mechanical Pillars/Glass.md",
     "Z. Assets/Pasted image 20231027212609.png",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "3. Scribbling/E274D000",
@@ -220,9 +212,6 @@
     "3. Scribbling/~WRD1016.tmp",
     "3. Scribbling/Assessment.docx",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
-    "1. Drawing Board/2. Offshore/Prop.DT_CANTHAR.md",
     "2. Development/Workshop/SpyndlAcaMaster",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
     "1. Drawing Board/1. Samsara/Legacy Discussions",

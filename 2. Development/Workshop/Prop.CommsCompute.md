@@ -35,21 +35,19 @@ Grouping individual bits of the scope for targeted development.
 - [x] The Dendro-Vitric Root Network
 - [x] Netfrastructure
 - [x] The microlNet and Gated Networks
-- [ ] Netmasters and Management Authorities
 
 3. **Pure Compute**
 - [x] Compute Core Architecture
 - [x] Harnessing the Mindspun and APS Quotients
-- [ ] Slates and Switchboard Computation
+- [x] Slates and Switchboard Computation
+- [x] Weftloaders
 
-4. **Harnessing the Net and Compute**
-- [ ] Weftloaders
-- [ ] The Glazwyre
-
-5. **Net-Compute Offensives**
-- [ ] The Breach Protocol
+4. **Net-Compute Intersectionality**
+- [ ] Management Relevant and Authorities 
+- [x] The Breach Protocol
+- [x] Vaults and Kache-Krashing
 - [ ] The Teeth of Ryjik
-- [ ] Vaults and Kache-Krashing
+- [ ] The Glazwyre
 
 ### Material
 Material to be referenced, and external docs to generally deal with.
@@ -84,6 +82,8 @@ It would be ideal if this document was read as a simplified summary of a vast ar
 - First prototype of the Compute Core
 - The org behind Kin compute research
 - Mindspun containment chamber (call it something related to graves)
+- Main Weftloader Model
+
 
 ## Foundational Mechanics
 The foundational mechanics in the Switchboard that facilitate communications and compute.
@@ -125,7 +125,6 @@ It was theorized then, that if a lattice of glasswire exists, it would be possib
 
 ### The Braced-Weft Packet Doctrine
 Referring to old notes;
-
 ![[The Hands as Chalk#Pattern and 'Ribbon' Duality]]
 
 The section above on pattern-ribbon duality tells us about the dual nature of chalk in woven and ribbon form. An object can indeed be 'unfolded' down to calcic ribbon, and should a sufficient equation be provided, it is then possible to 'refold' that ribbon back into the original object. 
@@ -182,7 +181,7 @@ Before the anarhiza's roots could be used for the intensely involved infrastruct
 
 It is worth discussing some of the implications of the DevitNet being built upon the natural structure of the anarhiza's roots. 
 
-While the Anarhiza does allow communication across the Switchboard, it is more correct to say that it allows communication anywhere the tree is present. Though the tree occurs naturally, occasionally Striders must go to far-flung areas of the Switchboard to plant new ones to link new settlements or establish relay stations, as well as maintain old trees to avoid parts of the network collapsing. 
+While the Anarhiza does allow communication across the Switchboard, it is more correct to say that it allows communication anywhere the roots of the tree are present. Though the tree occurs naturally - and grows too, expanding to locales where it wasn't previously present - occasionally Striders must go to far-flung areas of the Switchboard to plant new ones to link new settlements or establish relay stations, as well as maintain old trees to avoid parts of the network collapsing. 
 
 The Switchboard's functionally internet-analogue is considerably similar to ours, but for the nontrivial difference that, for the most part, the entirety of the DevitNet is conducted on what can be described as hardline cable. This hardline cable being the anarhiza also means that the entirety of the DevitNet's digital space **is a mirror of the Dancirah's cosmo-geographical structure**. 
 
@@ -219,30 +218,7 @@ Many major organizations operate their own isolated nets, for internal sharing o
 ### Netmasters and Management Authorities
 A number of individuals, small groups and large organizations concern themselves with the affairs of the DevitNet and glasswire networks in general. Their functions and interests vary, expectedly, as do the power they exert over the vastness of the net. In particular order and not in their entirety are the following;
 
-- The Pan-Danciran Glasswire Research Coalition
-- The Endel Wyrewatch
-- Spyndl Academy
-- The Eaters of Ryjik
-- Ivory Tower Glasswire Solutions
-- The freeNet Netmasters
-- ArcolNet Oversight Authorities
 
-Elaborated upon further;
-
-- The Pan-Danciran Glasswire Research Coalition
-	- Research and innovation of much of the DevitNet knowledge and gadgetry.
-- The Endel Wyrewatch
-	- Serves multiple functions as establishers and maintainers of netfrastructure, and a policing/defense authority to protect that netfrastructure.  
-- Spyndl Academy
-	- Works with many other net-related groups, serving its shadowy goals and lending Operators to help or oppose others'. Spyndl with the help of the Ivory Tower and Wyrewatch developed the microlNet, in a bid to create a safer Switchboard.
-- The Eaters of Ryjik
-	- A Sabai religious faction, serving the Skydancer Ryjik the Eater. The deal in all matters of Glass and the Vitric Shelf in general, and are particularly involved in opposing Interdictory and Emergent Vault Minds. 
-- Ivory Tower Glasswire Solutions
-	- A Lancaster Innovations owned and operated provider of Netfrastructure to choice clientele, boasting enhanced security measures against breaches and the like.
-- The freeNet Netmasters
-	- A social, philosophical and self-proclaimed moral movement by small groups of shadowy individuals who oppose the monitoring and oversight of the Net by various other parties. The Netmasters have rather curiously obtained praxis powers from their convictions, and this has allowed them to explore and battle on the net in the between-space known as the Glazwyre.
-- ArcolNet Oversight Authorities
-	- A Fel-Arcad run overseeing body that manages the various isolNets and straitNets that connect Fel-Arcad arcologies.
 
 ## Switchboard Computation
 In which we delve into understanding the various devices in the Switchboard that link up to and across the various nets, these being the Switchboard's computers. They are similar to traditional, existing computers in macroscopic function, but their microscopic fundamentals differ considerably, in that Switchboard computers harness the collective intelligence of lower beings to both compute, and perform functions that allow them to interface with local, calcic reality. 
@@ -253,7 +229,6 @@ In which we delve into understanding the various devices in the Switchboard that
 
 ### Computational Core Architecture
 On the hearts of all compute in the Switchboard. 
-
 #### Origins
 Critical to all computers in the Switchboard is the **calcic computational core**, colloquially known as the '**cube**' (3C). However, it is not a Third Kin invention, and was rather discovered by the Third Kin during their conflicts with the First Thinkers. Destruction of the Mind-manufactured chromelings yielded the curious technology within them, and when the Third Thinkers began plundering the vaults of their contents - this being the Vermeil civilization - the conclusion was made that this technology had existed for a while, either created by the First Thinkers, or taken and perfected by the Second. Either way, the usefulness of this technology could not be scoffed at, once the Third Kin understood what it did and how it functioned.
 
@@ -272,16 +247,16 @@ Their final interesting quality, what differed them from the First Thinkers, wha
 When combined with the fact the Mindspun - lacking in wills of their own - can thus have their will bent by greater calcic intelligences, it was theorized that it was possible to create a device that packed mindspun into a space, fed them with external will and instruction, and thus compelled them to act in certain manners. The creation of the first prototype for what would later become all cubes - the **compute foundation one**, brought this theory to physical fruition.
 
 #### Mechanics 
-Compute cubes consist of two primary devices; a **containment chamber** for mindspun, and a device known as the **instruction set**. The instruction set is a device created by the Vermeilion Compute Society (VCS) that contains a ledger of basic instructions understandable by mindspun, coupled with a bit of calcic ritualism that channels the praxis of the entire VCS, as an organization that subjugates the mindspun, and thus allows for bending their function to the VCS' will, and by proxy, the will of all Third Kin.
+Compute cubes consist of two primary devices; a **containment chamber** for mindspun, and a device known as the **instruction set**. The instruction set is a device created by the Vermeilion Compute Society (VCS) that contains a ledger of basic instructions understandable by mindspun, coupled with a bit of calcic ritualism that channels the praxis of the entire VCS, as an organization that subjugates the mindspun, and thus allows for bending their function to the VCS' will, and by proxy, the will of all Third Kin. This instruction set is the baseline for nearly all comoute devices in the Switchboard, and the VCS has dubbed their constantly iterated-upon bit of ware the **Subsystems Command Matrix**. The VCS-SCM - as it has come to be called - is discussed further later on.
 
 The mindspun's desire for a vessel makes the containment chamber particularly effective for containing them, and by packing more and more of them in a space, it is possible to compel them to cooperate and thus vastly increase the computational capacity of a given cube. However, when mindspun are used in this manner, individual differences otherwise imperceptible bubble to the service, and it led to a science on the so-called '**speciation of mindspun**', creating a body of knowledge on what kind of mindspun are useful for computational ends, and the application of this in creating compute cubes for different types of device.
 
-## Harnessing the Mindspun and APS Quotients
+### Harnessing the Mindspun and APS Quotients
 The usage of mindspun in compute cubes harnesses the mindspun's ability to both think and cooperate, even at an elementary level. As more and more mindspun are set towards a goal, they become exponentially more capable at working towards it. When the mindspun are used in this manner however, individual differences emerge to the fore, which have tangible effects on the usefulness of certain mindspun in collections of mindspun, and the usefulness of collections of mindspun in different kinds of compute cores and towards different ends.
 
 This body of knowledge came to be called the **Speciation of the Mindspun**, and was among the first considerable inquiries into the nature of the mindspun, and it was no coincidence that the military atmosphere of the time drove it. The realization of the speciation of the mindspun came in the form of the work on **APS Quotients**.
 
-### APS Scores and Quotients
+#### APS Scores and Quotients
 **APS** refers to a three-fold numerical measure and expression of a mindspun's individual nature, and thus how suitable it would be for usage in a compute cube, as well as how suited it would be to usage in certain ends. The **APS Score** of a mindspun is determined by a number of alpha and beta level factors that act as base values and modifiers of those base values. Through a series of tests and analyses of a mindspun's Five Straits, it is possible to obtain numerical values for the following quantities that make up the APS designation; 
 
 - **Accuracy**: Refers to the mindspun's ability to perform complex tasks and yield accurate results.
@@ -294,7 +269,7 @@ Determining the A, P and S values of a mindspun is a product of their beta-level
 
 Thus, we can look at the components of the APS Quotients, roughly divided into a number of categories. As the various qualities that modify the APS scores of a mindspun are a product of differences in a mindspun's straits, qualities are accordingly called 'sub-' followed by the strait they are reliant on.
 
-#### Alpha-Level Sub-Strait Overall Modifiers
+##### Alpha-Level Sub-Strait Overall Modifiers
 A number of top-level modifiers that serve as overall modifiers to the mindspun's final score.
 
 **A - Accuracy - Score Modifiers**
@@ -327,7 +302,7 @@ A number of top-level modifiers that serve as overall modifiers to the mindspun'
 - **Coefficient of Growth**
 	A measure of the mindspun's ability to grow, which manifests as gradual inclines in its various other measures and overall APS quotient. Mindspun gradually grow as they perform computation and are subjected to various environments.
 
-#### Beta-Level Computational Strait Baseline Values
+##### Beta-Level Computational Strait Baseline Values
 These individual qualities listed below differ from mindspun to mindspun, but all modify the functionality and thus capabilities of the computational strait, thus determining - at an elementary level - their base viability in a compute cube. Additionally, they determine the **unmodified** APS score of a mindspun, which is further, finally modified by the alpha level modifiers.
 
 - **Multivariate**
@@ -369,22 +344,23 @@ These individual qualities listed below differ from mindspun to mindspun, but al
 
 > More to follow.
 
-### On Function
+#### On Function
 Baselines and mods needed for certain functions.
+> Refer to the notebook 
 
-### On Fabrication
+#### Compute Cube Fabrication
 A demand for compute devices translates into a demand for compute cubes, which in turn produces a demand for mindspun. While mindspun do occur in the wild, and there are even tangible advantages to using wild-formed mindspun over those produced in artificial conditions, it doesn't change the fact that much of the mindspun used in mass-produced compute cores are a result of synthesis. 
 
 Fortunately, the mechanics and nature of the Astrolabe sees to it that things, even intelligences, are always spawning into being, even more so in crafted, ideal conditions. Being emergent minds, they tend to arise wherever minds are already present - intelligence spawns intelligence - and as such simply having Kin present in an environment is enough to begin production of mindspun.
 
 What is far more commonly done is that First Thinker Minds are either acquired or synthesized, and then subjected to calcic tinkering that rapidly accelerates their thinking faculties, at the expense of their calcic stability and general longevity. Giving an 'overclocked' Mind a vast array of date to compute burns it out relatively quickly, but spawns and leaves behind plentiful mindspun in its wake - spun from the mind, as it were.
 
-## Slates and Switchboard Computation
+### Slates and Switchboard Computation
 The mechanics and general canon established above allows us to delve into the actualization of theorem; the utilization of principles to realize physical form. Many different kinds of computers are built and exist in the Switchboard, differing in form, function and even in underlying mechanics, but no single computational device in all of the Switchboard's canon has earned the repute that the **Slate** has. 
 
 Being a tool crafted by a Skydancer themselves, it began its days in the Dancirah as a tool wielded by a divine entity. From there, it descended into the hands of the Danseers and then all Third Kin, becoming the sidekick of many who stride the vast stars of the Dancirah.
 
-### The Slate
+#### The Slate
 > This one I have cherished.
 
 The Slate is a creation of the Third Kin, designed to find existing paths and forge new ones. With its power of grand computation and interfacing with local calcic reality, it serves as an interpreter between a wielder and the wider world. It solidified itself as a sidekick of all Kin alike, in functioning in the depths of the Switchboard. It facilitates the speaking of the calcic tongue in new ways, and serves - ultimately- to grant even greater power to the Third Kin, covering for their weaknesses and expanding upon their strengths. It is a digital multitool, engineered to be an unparalleled sidearm for living, surviving and thriving within the Switchboard.
@@ -395,7 +371,7 @@ The Slate is a creation of the Third Kin, designed to find existing paths and fo
 - Functionality
 - (Allusion to) the Breach Protocol
 
-#### Origins
+##### Origins
 ![[The Dawn of the Dancirah#^96990c]]
 
 The first Slates were created as a matter of experimentation tinged by necessity. The discovery of the anarhiza root network and the presence of the First Thinker Minds on them told the Third Kin of the time that they too needed a means to invade, fight and seize control of this utterly unknown and unprecedented frontier. The piles of research and knowledge accumulated from studying the Minds, the mindspun, the anarhiza and the network it created, the long-distance communication the Minds were capable off because of it, and the reverse-engineering of chromeling's internal workings and technology served as the foundation for all that would later become the theorems of communication and compute, all this spearheaded by the **Vermeilion Compute Society**, a subdivision of the **Vermeilion Interdiction Research Foundation**.
@@ -408,7 +384,7 @@ These breach operations were made possible by what later came to be known as the
 
 With the conclusion of the more overt of the praxis conflicts and the eventual demilitarization of the Third Kin, Slates moved from being primarily a weapon to a tool, still outfitted with a litany of capabilities that granted it offensive prowess, but also found its way into the hands of those who could generally benefit from powerful and portable computing, in applications such as navigation, industry and calcic ritualism. They gained civilian applications as well, serving as entertainment devices, or as tools in industries.
 
-#### Construction - Physical Design
+##### Construction - Physical Design
 A Slate is made up of a number of constituent parts. These are necessary for a baseline Slate, with ample avenues existing for the installation of periphery, that modify its function in various ways. For the baseline, we have;
 
 - A slab of crystalline chalk
@@ -416,12 +392,224 @@ A Slate is made up of a number of constituent parts. These are necessary for a b
 - A high-capacity blank ribbon spool
 - A cutting from the verrphagic anarhiza
 
+**The Baseplate**
 All Slates begin first as a hewn slab of crystalline chalk. To interface with local calcic reality, this large slab of chalk acts as a singular large potential strait for the entire Slate assembly. All other components will be inset into this chalk backboard, in slots cut for them by precise machine tooling. Beyond a mere baseplate, however, the constituent chalk of the slab itself can have subtle or even overt effects on the final Slate it creates, ranging from a general boost in its computational capabilities to granting wholly new powers. 
 
 The culture around Slates has led to many nomads of the Dancirah and denizens in general seek out and source the backplate of their Slates for themselves. The most common source of Slate baseplates are wellsprings, with Slate builders hewing and shaping crystalline chalk with simple hand tools. The general floor for Slates that will see use across the Dancirah for computational, calcic weft and combative function typically possess baseplates built from chalk hewn from deep inside a wellspring, the chalk within having been a party to more of the Switchboard's existence, and has thus matured and grown stronger with time.
 
 Some Slates don't use chalk, however, but rather crystalline alloys of other materials. Crystal amaranthite baseplates Slates are some of the only Slates capable of maintaining optimal operating status upon crossing the Challenger Horizon, enabling functionality in the Challenger Dark. Slates built from [[Switchboard Technology#Tiered Materials Metals and Alloys|hexic kacherock]] are granted them enhanced capabilities in breach-related functions, elaborated upon later.
 
-With slots cut out for the following components, we can then proceed to the brains of the entire assembly, the compute cube. Manufactured primarily by various parties using VCS-developed or based schematics, the cube houses the mindspun and the VCS's doctrinal instruction set. Additionally, many parties choose to overlay the VCS's instruction set with their own in-house bespoke instruction sets, built to draw function - on a praxis level - from a relevant doctrine, as well as bestow additional functions written in by the party in question. 
+**The Compute Cube**
+With slots cut out for the following components, we can then proceed to the brains of the entire assembly, the compute cube. Manufactured primarily by various parties using VCS-developed or based schematics, the cube houses the mindspun and the VCS's doctrinal instruction set, the Subsystems Command Matrix. Additionally, many parties choose to overlay the VCS's SCM with their own in-house bespoke instruction sets or command matrices, built to draw function - on a praxis level - from a relevant doctrine, as well as bestow additional functions written in by the party in question.
 
-#### Construction - Philosophy
+The functions of Slates also demand certain kinds of mindspun, regarding their overall APS scores as well as proficiencies in certain spheres. Slates that will be used for navigation, for example, benefit considerably from cubes with high A scores. Slates that will be used to operate **Weftloaders** and perform **breach functions** benefit from high P scores, as these functions depend particularly on raw calcic output. Slates that are integrated into the local lattice of a wielder benefit from high S - speed - scores, especially if these Slates control frequently updating mechanisms such as chromegrafts. 
+
+Slates that will be used in the Void, in addition to almost certainly needing a crystalline amaranthite backboard, also benefit from cubes possessing mindspun with high scores in 4D-Spatial compute. Cubes used in Slates built for breach functions additionally benefit from this quality in mindspun; a predisposition to breach methodologies. High Expedition score cores are useful for controlling chromegrafts, as they have the passive benefit of built in human-like clumsiness (which is surprisingly desired by many) while also gaining buffs to computation speed of the operations for controlling those chromegrafts. 
+
+The alpha-level modifiers - especially the wildcards - vastly shape cube functionality, with the Coefficient of Growth allowing Slates to grow better as they are used, and the Adversity Compute Proficiency measure being essential for cubes that will be used in **Weftloaders** and in calcic combat. High Interference Resistance doubles in usefulness in both combat and extreme environments, such as near law stars, in certain biomes on regions, or in the depths of the Void.
+
+Combinations of mindspun yield cores with various proficiencies, which in turn results in Slates built for varying functions. As a note, there is a relatively large scene of individual-built compute cores, manufactured by those who need cubes shaped with laser-focused purposes in mind. Many particularly skilled nomads of the Dancirah eventually build their own compute cores for their Slates, optimized for the way they use them.
+
+**The Ribbon Spool**
+A blank spool serves as the memory strait of the Slate. Inset into the chalk baseplate and then shielded by a chamber of glass, it is shielded from external calcic interference that could compromise the integrity of the information within. Calcic storage is incredibly dense per unit of space, which encourages information hoarding, but also increases the catastrophe that is instances of information corruption. 
+
+Information is stored in **braced-weft** form, making it readable by mindspun within the compute cube, and transferrable over glasswire. This form of storage also allows for the unfolding of larger weave - such as large objects - unfolding them into ribbon, storing them in the Slate, and refolding them elsewhere when needed, serving as a fairly effective way of moving things around the Switchboard. However, storing things in this manner occupies considerable space on the spool, and contributes to the overall **information mass** of the Slate, which is of major concern to Striders. Additionally, the equation for refolding must be known to the mindspun within the Slate or the wielder to enable refolding the ribbon of the unfolded object.
+
+**The Anarhiza**
+Integrating a cutting of the verrphagic anarhiza, an esoteric plant native to both the Dancirah and the Vitric Shelf, acts as a form of interface strait for the Slate assembly, and allows the Slate to make use of various forms of glasswire infrastructure, allowing communication over the DevitNet, microlNet, and various isolNets and straitNets as is applicable. It is also essential for staging breach operations, as breach methods are deployed over glasswire, thus mandating a Slate capable of interfacing with it.
+
+Typically it sits in a cylindrical recess cut into the baseplate for it, and linked to the compute core by chalk straits. Information to be sent over glasswire is packaged into braced-weft packets by the compute cube and sent to the branch cutting, which sends it down its stalk that straddles the Vitric Boundary just out of sight and reach. There, it makes use of the various DevitNet apparatus to traverse the root network and reach its destination. 
+
+There is a small quirk of communications with anarhiza cuttings in the Switchboard, however; greater information throughput is available to devices that are currently stationary. When an anarhiza cutting is moved, it is momentarily, partially severed from the rest of the network, leaving the branch cutting connected to the root by a stalk-like thread. When stationary, the anarhiza is rapidly fed chalk that grows and widens the stalk, and thus its ability to physically accommodate larger information packets. For this reason, Slates moving at high speeds - such as in the pack of a Strider - can really only interface with immensely low-throughput glasswire such as the microlNet, and to do any larger scale data transfer, movement must be slowed or paused to allow the anarhiza cutting to make a solid connection to the rest of the root network.
+
+##### Construction - Philosophy
+Slates are the perfected manifestation of the cassette-futurism design philosophy embodied by the Switchboard's technology. They are built with portability and durability in mind, taking on an industrial, almost militaristic silhouette. Ease of repair, tactility, modularity - these things are essentials of a Slate's design. As such, Slates appear somewhat dated, seemingly a generation or so behind the touchscreen, ultra-slim, voice-activated design paradigms of today. Thick glass, hard plastic, polymers and metals, big, repairable parts; Slates are designed with the knowledge that they'll take a beating and the intention that they survive it.
+
+Beginning with it's chalk-slab backing, in size it can reach that of a decently-sized cutting board, close to an inch thick in its thinnest sections, though this is somewhat skewed by the Slate's intended usecase and the whims of the wielder, assuming they are also its builder. Much of the internal workings, due to having been inset in the chalk baseplate, are thus hidden from view. 
+
+Much of the variation in shape and appearance of a Slate comes in the peripherals installed to complete its construction and make able to be used. Most - at minimum - are outfitted with a keyboard, display, and tracker controller such as a nib, small ball or full-sized touchpad. Ports take high priority as means to interface with other devices and chalk constructs, often done by running chalk ribbon between it and the subject. These connectivity ribbons enable communication between the compute cube within the Slate and other devices or phenomena in the Switchboard, and thus grants the Slate amount of versatility in what it can interface with. It's very common - for example - for Striders to fly their personal jumpships by hooking up their Slates to them, which serves as the ship's computer.
+
+Additional components are varied and up to individual Striders. Many Striders outfit theirs with a full suite of navigational tools (those listed under [[The Strider Protocol#Wayfinding Across the Dancirah|wayfinding apparatus]]) and have the whole process of calculating Stride routes handled by the Slate. Chalk ritualists outfit theirs for deeper ritual analysis. Combat-oriented wielders simulate the powers of their relics and Teks and use those simulations to determine the damage done to a lattice, and how better to maximize it, often installing hard-light projectors on their Slate to project human-sized targets to practice on. The portable and modular design philosophy intrinsic to Slates facilitates all this and more, and further leans into the the Slate's intended purpose as an unrivalled multitool, sidearm, and problem-solver.
+
+As a brief tangent regarding the portability of Slates, it's also worth noting how Slates are carried. Being portable by design, they are almost always worn on the person, facilitated by belts that allow it to be slung over the shoulder, or kept in a holster at the back or side of the body, or mounted in a quick-release system - such as held in place by a magnetic analogue. 
+
+> Depthstriders with their power from the Void typically store their Slates in a pocket void and retrieved whenever needed. Chalkstriders are not so lucky; attempting to do similar would require unfolding a Slate down to ribbon chalk, but the sheer complexity of a Slate means that the equation for folding a Slate back together is so complex as to effectively require the computational power of another slate.
+
+Some radically alter the design and form factor of their Slate to better suit their purposes. Many who use their Slates for combat typically split it into separate modules; relocating the display modules into somewhere more practical, such as a wrist display mounted by straps or a holster, or a HUD display mounted in eye-ware over one or both eyes. The core compute components are similarly distributed, the anarhiza meant for communications mounted into a helmet, and the baseplate kept at the back, along with the compute cube and other periphery.
+
+And perhaps in a display of one of the many philosophies - the lattice as a canvas, in particular - of the Switchboard, some choose to have the components of the Slate mounted directly on to their local lattice, their entire calcic form becoming the Slate's chalk baseplate. Mounting the components sub-dermally and linking them directly to the wielder's straits grants - in a sense - a second set of Five Straits, that results in the wielder gaining entirely new dimensions of performance. The wielders own computational straits further aided by the compute cube grants for much faster, much more accurate thinking, and the connectivity speeds granted by nearly eliminating the physical distance between components allows for supreme conduction of the will. This level of chromegrafting yields Kin that have gone beyond traditional measure, and while the payoff is considerable, there are consequences - as with everything - in the form of new weaknesses, new complexities, and the very unexplored sphere that is having other minds that close to one's own.
+
+##### Visual Resources
+Below is a collection of links to images that serve to better illustrate the appearance, construction and deployment of the Slate;
+
+- https://www.reddit.com/gallery/10fk91k
+- https://www.reddit.com/gallery/m4ifxk
+- https://i.redd.it/eeiz5e1j4hq71.jpg
+- https://www.reddit.com/gallery/uqejkx
+- https://www.reddit.com/gallery/qehvza (MAJOR)
+- https://www.reddit.com/gallery/twaoxa
+- https://i.imgur.com/Yvz7BtX.jpg
+- https://i.redd.it/9n7xcg4tquh61.png
+- https://v.redd.it/qjfbmnqf5iv71 (MAJOR)
+- https://i.redd.it/54s55hzz6hm61.jpg
+- https://i.redd.it/tvv7fcarhza81.jpg
+- https://www.reddit.com/gallery/xz8ngi
+- https://i.redd.it/ct5snc5xjfl71.jpg
+- https://www.reddit.com/gallery/zoiloq
+- https://www.reddit.com/gallery/ozx7vo
+- https://www.reddit.com/gallery/qwofx5
+- https://www.reddit.com/gallery/vbpptn
+- https://i.redd.it/346dkt3dpwq91.jpg
+- https://i.imgur.com/QunizWl.jpg
+- https://www.reddit.com/gallery/szy02i
+- https://i.redd.it/gjvoad6lxpv41.jpg
+- https://i.redd.it/bmigllk8do1a1.jpg
+- [(5) Framework Cyberdeck - DIY Portable PC - YouTube](https://www.youtube.com/watch?v=qzEd50uzdF0) (MAJOR)
+
+#### Function
+Discussing the Slate's function is best taken from the angle of its most extreme users; the Dancirah's most prolific nomads, the Strider. The Slate serves as a Strider's sidearm on their jaunts across the Switchboard. A Strider will typically carry a relic-weapon, wield a Tek, know rituals and posses some additional powers granted by knowledge or other implements on their person. The Slate seeks to complete this - rounding out the Strider's kit - by functioning as a tool with unmatched utility. 
+
+At its most mundane, a Slate is a computer and computers solve problems. Communication, information storage, retrieval and processing, productivity tasks and even entertainment, it helps to think of the Slate as occupying the intersection of a smartphone, laptop, supercomputer and purpose-built computers (such as the guidance computer for a smart missile system). Serving an array of purposes, the Slate is designed to be a digital Swiss-army knife; a tackler of tasks of immense shape and size. 
+
+The Slate's true power stems from the intersecting functions of the mindspun-based computational core, and the calcic baseplate. The Slate gains the power to reach out into local calcic reality with a sort of 'pseudo' Five Straits, allowing it to interface with other compute devices and wholly calcic phenomena.
+
+At its most elementary, for example, it can analyze a set of figures given by [[The Strider Protocol#Wayfinding Across the Dancirah|wayfinding measuring equipment]] and from it, produce a viable Striding path from any two given locations in the Switchboard. Taken further, it is capable of '**deep-weave analysis**', allowing it to scan and produce information about nearly *anything* in the Switchboard - regions, relics, Teks, rituals, ongoing Structural Casts and equations, other Striders - anything. It serves as an artificial upgrade to a user's [[The Hands as Chalk#Weavesight|Weavesight]]. It can run the complex calculations a Strider may need in their chalk-weaving, and simulate fold operations to anticipate the result. It can interface with chalk rituals, serving as the interpreter for ongoing loop rituals as well as provide insight on modification and development of countermeasures, working alongside databases of information on the subject. 
+
+The power of the Slate lies in bridging the user and the wider world. It can create certainty where it was previously thought impossible. It can wrench patterns from arcane engines and charts from amorphous clouds of principles. It pulls hard numbers and gives exact information, plumbed from the murky depths of chalk complexities. While plenty of its functions can be handled by a Strider working mentally, the Slate is capable of doing that mental heavy-lifting so a Strider is free to do other things. It reduces the 'grunt-work' of appeasing chalk's more strenuous demands for more complex use, allowing the Strider to focus on how to use the power that this appeasement grants. 
+
+#### Tentative: FRONTIER-SCM
+> Tentative, in that I could still come back to use it later, after undergoing revision to bring it in line with the newest canon.
+
+The FRONTIER Subsystems Command Matrix is the software backbone of the Slate's computational core, designed, maintained and improved upon by the Academy. It is the spearhead of the Slate's ability to bridge Chalk and the digital. Originally, it was a software meant solely for navigation and cartography; coordinating apparatus and running calculations with variables obtained from measuring instruments - but it expanded to become a formidable software multitool capable of innumerable calcic and digital functions, particularly so when the utility of Slates in the fight against the Minds became apparent.
+
+**The Acronym**
+Taking the first letter of the various functions served by the SCM gives 'FRONTIER', as shown below;
+
+F - Fieldwork
+R - Recording
+O - Observation
+N - Navigation
+T - Triangulation
+I - Intelligence
+E - Establishment
+R - Referencing
+
+	There is definitely some fluidity here on what the actual words are. Consult notebook at later date.
+
+### Weftloaders
+The gap between those who can weave chalk and those not born so blessed is a gap established at the very moment of the rise of the Third Kin from the inert, but ripe seeding grounds of the astrolabic regions. This gap has only grown with time, as the totality of the knowledge on chalk and how to weave it continues to grow. This gap is of concern to many, as it presents a tangible discrepancy in might between various actors in the Switchboard, and it is thus a common conclusion that those who cannot weave chalk have no real recourse against a chalkweaving opponent.
+
+Further advancements in the development and use of Slates, however, led to a realization of the nature of their make up; in a sense, a Slate can be viewed as a 'false' manifestation of the Five Straits intrinsic to calcic beings, particularly the Third Kin. With components on the Slate serving functions as straits; 
+
+- Calcic baseplate - Potential & Interpreter
+- Compute Cube - Computational
+- Ribbon Spool - Memory
+- Periphery and Ports - Interface
+
+the mechanics of praxis almost arise to fill in the conceptual gap between the true Five Straits and the mocking straits made by the Slate. In this manner, pioneers in this manner of thinking set about developing a form of chalkweaving they called **mockweaving**; chalkweaving that was performed with secondary apparatus, rather than the primary straits that would otherwise have been intrinsic to the wielder. In this manner, it became essential to develop both purpose-built Slates and additional hardware and Slate periphery to facilitate this. 
+
+Many bodies set to work bringing this theory to fruition, but it was Lancaster Innovations - perhaps acting for the betterment of all Lancaster kind - that prototyped and perfected the first **Weftloaders**; a series of devices that allowed nearly any Third Kin to take control - even in limited capacity - of the weave. 
+
+#### Mechanics
+'Weftloader' refers to only one of the two essential parts of achieving the aim of replicating chalkweaving. There is the weftloader, the physical apparatus that does the physical weaving, and there is the absolutely necessary '**Weft Repli-Capable**' - or WRC - Slate that controls the weftloader.
+
+The WRC Slate designation and weftloaders themselves were created by the purposely-established Nefelworks Corporation, or simply Nefelworks. Named after the Skydancer of Weave, the Dreamer Nefele, Nefelworks set about pursuing this technology to its utmost, developing a means for the Lancasters that primarily founded and staffed its corporate parent - Lancaster Innovations - to defend themselves, and later expand into civilian use. Many, many prototypes were built and plentiful resources were expended in reaching the state they occupy now, functional weftloaders built off of their most successful iteration of the tech, the foundation for all weave replication that would come after it; the **Needles V-1**. 
+
+The WRC designation for a Slate is given to it when it passes the metrics necessary to become weave-replication capable. Primarily, it require the Slate to have certain scores and properties on its compute cube, as well as further thresholds met on other aspects, particularly that of pure calcic output. Generally, meeting WRC designation requires;
+
+- For the compute cube;
+	- A cube with a generally **high Potency (P) score**, this being a measure of its ability to yield raw calcic output.
+	- A high **Adversity Compute Proficiency** value, as this is a direct measure of the compute cube's ability to compute Teks and calcic ritualism.
+	- High scores in **pattern** handling, **extrapolation**, **biscuit** information handling and **multivariate** information handling.
+- For the rest of the Slate;
+	- Immensely high calcic throughput, made possible by high-throughput ribbon connections between the components of the Slate.
+	- A calcic baseplate made of fairly aged, fairly complex chalkweave.
+
+Generally, the Slate must be maximally capable of non-information-focused computation, focusing instead on the ability to create and disseminate calcic pattern to periphery.
+
+The weftloader itself, the second piece of the puzzle, is a fairly complex piece of kit, as it aims to replicate mechanically what traditional chalkweavers do innately with their lattices. The silhouette of most forms of weftloader begins primarily as a large gauntlet, which encases the hands, but additionally continues past the writs, up the forearm and past the elbow, usually up to the shoulder, with other models featuring additional constituent parts on the chest or - more preferably - the back.
+
+We can look at the 'parts list' almost for the most prolific weftloader in service, the Needles V-1, to get around understanding this;
+
+- Critical to any weftloader is the **ambient/active intakes**. To weave chalk, it must first be accumulated by some means, and without the mechanics of drawing chalk to oneself to saturate the potential strait that is available to those with the Five Straits, the weftloader must accomplish this by other means. The Needles utilize a bit of pale amaranthite, contained in modified **weft compressors**, set to draw ambient chalk from the environment and compress it down to near-hyperweave state, providing incredibly dense - but worryingly volatile - chalk storage. The volatility problem is solved in part by having the compressed chalk stored in a vitric glass chamber of immense purity, such that the chalk going unstable will be instantly annihilated by the glass walls.
+
+- Following this are **spools**, and the weftloader needs many. Without an internal memory strait like the Five Straits, the Slate and the attached weftloader must thus have various equations and ritual schema loaded onto their local storage, in the form of high-density spools. Stored weft and schema information is passed to the Slate for computation - as this information is usually stored in dedicated storage on the weftloader, as even high-end Slates rare have enough storage for even a medium-sized ledger of weft pattern - and then passed back to the weftloader as instructions on how to articulate the business end of the entire assemble.
+
+- The weftloader's **stitchery array** is perhaps the most important part of the entire device, and it is what earned the Needles V-1 their name. The stitchery array for the Needles is a secondary, complex mechanical hand that folds over the main hand and articulates as it articulates normally. When not in use, it coils and folds away in sections around the wrist. When it needs to weave chalk however, instruction is fed to high-fidelity actuators on the spinmetal fingers' assembly, and a stream of chalk emanates from the palm. A series of tiny needles - much like knitting needles - then sprout from all over the finger assembly, particularly prominent ones emerging from the fingertips, and set about to the task of making tens of thousands of minuscule movements per second, the fingers themselves moving as well, stitching and weaving the stream of chalk provided into by the Slate into shape, done so along the instructions fed by the same Slate. Simple gestures can detach the woven pattern from the array. 
+
+#### Further Notes
+Weave replication is an immensely compute and resource-heavy task, especially when taken to the realm of Teks and the weftloader subdivision, **tekloaders**. The vast complexity of Teks requires even more exacting Slates and weftloader apparatus, in particular Teks need immensely large spools to store their equational entirety, as well as the various functions they possess when used in various manners. But the utility of tekloaders remains undeniable, placing some of the Switchboard's greatest forms of calcic power to the hands of those who cannot even wield weave.
+
+Additionally, it is fairly commonplace for a weftloader to be integrated onto the local lattice as a **chromegraft**, taking over an arm entirely and granting additional potency and function due to higher-fidelity connections from closer integration. It makes the conduction of the will even swifter, and empowers the users of weftloaders even further. 
+
+## Net-Compute Intersectionality
+The anarhiza root network presented an all-new frontier upon which battles will be fought, not with blade and bullet, but with information, compute, and the means of conducting will and giving it form. New battles take place on the Glasswire, and new tools and tactics must be employed to fight and win. Presiding over these frontiers, the battles fought upon them and the tools used to wage them, are various bodies of Third Kin, concerned with the affairs of glasswire or computation, and often both. Each has their own contributions, just as each has their own - occasionally shadowed - ends.
+
+### Research, Management and Other Relevant Authorities
+The Third Kin have concerned themselves with the affairs of the net and compute to varying degrees and and for varying reasons, leading to the formation of a very many number of bodies that overseer and contribute to these spheres of knowledge.
+
+- The Pan-Danciran Glasswire Research Coalition
+- The Endel Wyrewatch
+- Spyndl Academy
+- The Eaters of Ryjik
+- Ivory Tower Glasswire Solutions
+- The freeNet Netmasters
+- ArcolNet Oversight Authorities
+- The Vermeilion Compute Society
+- Nefelworks Corp
+
+Elaborated upon further;
+
+- The Pan-Danciran Glasswire Research Coalition
+	- Research and innovation of much of the DevitNet knowledge and gadgetry.
+- The Endel Wyrewatch
+	- Serves multiple functions as establishers and maintainers of netfrastructure, and a policing/defense authority to protect that netfrastructure.  
+- Spyndl Academy
+	- Works with many other net-related groups, serving its shadowy goals and lending Operators to help or oppose others'. Spyndl with the help of the Ivory Tower and Wyrewatch developed the microlNet, in a bid to create a safer Switchboard.
+- The Eaters of Ryjik
+	- A Sabai religious faction, serving the Skydancer Ryjik the Eater. The deal in all matters of Glass and the Vitric Shelf in general, and are particularly involved in opposing Interdictory and Emergent Vault Minds. 
+- Ivory Tower Glasswire Solutions
+	- A Lancaster Innovations owned and operated provider of Netfrastructure to choice clientele, boasting enhanced security measures against breaches and the like.
+- The freeNet Netmasters
+	- A social, philosophical and self-proclaimed moral movement by small groups of shadowy individuals who oppose the monitoring and oversight of the Net by various other parties. The Netmasters have rather curiously obtained praxis powers from their convictions, and this has allowed them to explore and battle on the net in the between-space known as the Glazwyre.
+- ArcolNet Oversight Authorities
+	- A Fel-Arcad run overseeing body that manages the various isolNets and straitNets that connect Fel-Arcad arcologies.
+- Vermeilion Compute Society
+	- Furthered much of the knowledge base on Switchboard compute.
+- Nefelworks Corp
+	- Foremost research authorities on mockweaving or weave replication technologies.
+
+### The Breach Protocol
+In the time of the Praxis Conflicts, the Third Kin needed to discover the location of the Vitric Trinary Minds, Minds that were capable of weaponizing the negentropic, weave-eating glass of the Vitric Shelf against the Third Kin. To do so, they needed a means to breach the various strongholds of the First Thinker Minds at the time; the Mind Nexuses where multiple Minds could be domiciled and stage various offensive operations, and the far more prolific Vaults. These Vaults were created and presided over by the Interdictory Minds of the Interdiction Collective. These colossal megastructures served as large caches of both information and objects, particularly the ruins of the long-annihilated Vermeil civilization. They were in turn guarded by powerful praxis-reliant shields, channeling the Mind's doctrine of protection, and the Mind's partially autonomous swarm of defensive machine-spawn known as the chromelings. To enter a Vault then, was no easy feat.
+
+But a path emerged for the Third Kin. The discovery of the anarhiza root network from reverse-engineering the Mind's chromeling swarms further revealed that the Minds operated on this network using constructs that would later come to be known as **isolNets** or isolated networks. These isolNets served as the command and control networks for a Vault's internal and external defenses, controlling their defensive swarms, weapon installations and the praxis shield. It was theorized that if the Third Kin could develop a means to 'invade' these isolNets, they could seize control and thus shut down the defenses of the Vault.
+
+However, the Minds were crafty, and the reason why their isolated networks were called such is due to their physical insulation on the Vitric Boundary, made possible by the Mind-deployed installation of the **Glasswall**, a physical sheathing of the anarhiza roots used by the Mind's networks with the chalk-scorning glass of the Shelf above. It proved terribly effective at preventing roots of the anarhiza from growing and connecting to the isolated network, linking it to the larger anarhiza root network and allowing unauthorized access by the Third Kin, for example. Without a means to access the Mind's networks, the Third Kin were unable to tap into their information relays and contend with the Vaults.
+
+And then the Third Kin engineered the Slates. 
+
+Study into glass, glasswire, the anarhiza and its root networks began yielding considerable fruit, the Pan-Danciran Glasswire Research coalition and the Vermeilion Compute Society working together to devise a means to - against all known logic at the time - deploy something of a 'chalkweave pickaxe' over the root network, that would be capable of breaching the walls of the anarhiza root it travelled within, 'drilling' through the chalk-glass complex matter of the Vitric Boundary, reaching the Glasswall of an isolated network, somehow breaking through this glass, and then establishing a link between the isolNet and the wider anarhiza root network, ending its isolated status and allowing access. 
+
+The mechanics of breaching the walls of the anarhiza root had already been mastered; even before the Third Kin began attacking the isolNets of the Minds, they began laying groundwork for small nets - particularly straitNets - of their own, linking important settlements and installations such as arcologies, Spyndl Academy outposts, and various basecamps on active battlefronts. The logistical guide lattice was indeed built by burrowing into the substrate of the Vitric Boundary and establishing guide posts of sorts with calcic ritualism, and thus it simply became a matter of extending this burrowing further; full-on drilling through the substrate of the Vitric Boundary.
+
+The means of doing so was made possible by harnessing a modified model of the braced-weft packet typically used to transfer information down glasswire across the Dancirah. By replacing the logistical ledger that caps a packet with a ritualism-powered **breach ledger**, a packet could cut through the walls of the anarhiza root and enter the Vitric Boundary, the ritualism in the breach ledger powered by the chalk in the chalk-glass complex substrate that makes up the Vitric Boundary. As it digs, it leaves behind an almost pure glass tube that will be useful later. Upon hitting the boundary of the Glasswall, a payload of complex chalk encased in the packet is allowed to make contact with the Glasswall, triggering a negentropic interaction, but one that is intended to occur. As the glass makes contact, the complex weave in the packet's payload is spontaneously ejected into the surrounding area, and as is glass' nature by virtue of praxis, it is peeled away from the Glasswall in pursuit of the complex weave, exposing the anarhiza root underneath.
+
+Utilizing the nearly pure glass tube left behind by the breach ledger's burrowing, the roots of the anarhiza from both the isolNet and the larger root network feed on the glass and utilize absorbed chalk to grow their roots from both ends of the cylindrical cavity, forming a connection of anarhiza root between them, and compromising the isolated status of the target network. With this glasswire established, it then becomes a battle fought with packets as both net attackers and net defenders deploy countermeasures to prevent the incursion from failing or succeeding, but establishing this physical connection over the Vitric Boundary with glasswire is essential for any and all operations.
+
+As such, it was dubbed the **Breach Protocol**. In time, as it became far more commonplace for the Third Kin to breach networks, the Breach Protocol would take on a praxis component, and truly become an astrolabic protocol. Otherwise unreachable nets became not so, as the praxis of the Third Kin's breaching of one net was harnessed in the breaching of the next one. The praxis component of it all is elaborated upon further. 
+
+Beyond merely physical penetration, various other means of combating the Mind's net defensives were developed. Breaching unseen, turning netfrastructure against their builders, information infiltration and exfiltration, group offensives to attack nets from multiple physical entry points, means of locking the Mind out of their own nets. Inevitably the Third Kin learned to breach and take control or plunder information from their own Kin-built nets, but it was widely accepted that this was an inevitability with all tools - the hammer problem, as it were. At the center of it all - the hammer, as it were - was the Slate, it simply being the only tool realistically capable of breaching the isolNets and conducting all manners of breach operations, further solidifying its power and purpose, and place among the Third Kin.
+
+> But breaching isolNets and opposing Minds would come to take on an entirely new dimension when Skydancer Ryjik, the Eater, and the first of the Third Kin to truly conquer glass and the Vitric Shelf would arise, this being elaborated upon further on.
+
+With the Slate and the Breach Protocol, the attacking of Vaults in the Switchboard became a science and perhaps even an art, in a practice that was dubbed '**Kache Krashing**'. 
+
+### Vaults and Kache Krashing
+This sections discusses the primarily means by which the Breach Protocol has been used; opposing both the Interdictory and Emergent Vaults that exist in the Dancirah.
+
+![[The Skywards Pursuit#The Vaults]]
+
+### The Teeth of Ryjik
+
+
+### The Glazwyre
