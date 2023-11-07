@@ -46,8 +46,8 @@ Grouping individual bits of the scope for targeted development.
 - [ ] Management Relevant and Authorities 
 - [x] The Breach Protocol
 - [x] Vaults and Kache-Krashing
-- [ ] The Teeth of Ryjik
-- [ ] The Glazwyre
+- [x] The Teeth of Ryjik
+- [x] The Glazwyre
 
 ### Material
 Material to be referenced, and external docs to generally deal with.
@@ -73,16 +73,12 @@ It would be ideal if this document was read as a simplified summary of a vast ar
 > I O U, the list of the Comms and Compute Pioneers. 
 
 **What to name**
-- Packets
-- Classes of Glasswire based on throughput
-- Isolated nets
-- Glasswall
-- Calcic Computational Cores (Larksel Cubes)
-- Glazwyre rifts (named for a Hex)
-- First prototype of the Compute Core
-- The org behind Kin compute research
-- Mindspun containment chamber (call it something related to graves)
-- Main Weftloader Model
+- [ ] Packets
+- [ ] Classes of Glasswire based on throughput
+- [x] Calcic Computational Cores (Larksel Cubes)
+- [ ] ~~Glazwyre rifts (named for a Hex)~~ The first Netmaster (a Hex)
+- [ ] First prototype of the Compute Core
+- [ ] Main Weftloader Model
 
 
 ## Foundational Mechanics
@@ -183,9 +179,9 @@ It is worth discussing some of the implications of the DevitNet being built upon
 
 While the Anarhiza does allow communication across the Switchboard, it is more correct to say that it allows communication anywhere the roots of the tree are present. Though the tree occurs naturally - and grows too, expanding to locales where it wasn't previously present - occasionally Striders must go to far-flung areas of the Switchboard to plant new ones to link new settlements or establish relay stations, as well as maintain old trees to avoid parts of the network collapsing. 
 
-The Switchboard's functionally internet-analogue is considerably similar to ours, but for the nontrivial difference that, for the most part, the entirety of the DevitNet is conducted on what can be described as hardline cable. This hardline cable being the anarhiza also means that the entirety of the DevitNet's digital space **is a mirror of the Dancirah's cosmo-geographical structure**. 
+The Switchboard's functionally internet-analogue is considerably similar to ours, but for the nontrivial difference that, for the most part, the entirety of the DevitNet is conducted on what can be described as hardline cable. This hardline cable being the anarhiza also means that the entirety of the DevitNet's digital space **is a mirror of the Dancirah's astro-geographical structure**. 
 
-The DevitNet is thus divided along lines similar to that of the Dancirah's, with cradles existing in the DevitNet that house collections of users. One of the consequences of this is that breaks in the hardline cabling that is the glasswire can leave the corresponding cosmo-geographical locale isolated from the rest of the DevitNet, and thus the Switchboard, and cabling that needs to break for this to happen are usually fairly easy to locate through following the physical branch cables until they converge into large central arteries moving titanic amounts of information. 
+The DevitNet is thus divided along lines similar to that of the Dancirah's, with cradles existing in the DevitNet that house collections of users. One of the consequences of this is that breaks in the hardline cabling that is the glasswire can leave the corresponding astro-geographical locale isolated from the rest of the DevitNet, and thus the Switchboard, and cabling that needs to break for this to happen are usually fairly easy to locate through following the physical branch cables until they converge into large central arteries moving titanic amounts of information. 
 
 Thus, maintenance of the DevitNet is a tireless, unending task, undertaken by coalition forces, primarily Sil'khan and Lancasters - especially when considering the sabotage of DevitNet infrastructure is a common tactic of Vault Minds and unscrupulous parties.
 
@@ -214,11 +210,6 @@ Interdictory Minds also operate their own isolNets, used primarily for issuing c
 The physical substrate-space in the Vitric Boundary that separates isolNets has come to be called the **Glasswall**, and this term has been used to describe the act of isolating networks or things and concepts in general. 'Breaching the Glasswall' and uniting isolated nets with other nets and even the main DevitNet, is something explored further down. 
 
 Many major organizations operate their own isolated nets, for internal sharing of information within the physical structure of an organization, and straitNets that link outpost to outpost. This brings us to discussing the various authoritative powers that control the DevitNet to varying extents.
-
-### Netmasters and Management Authorities
-A number of individuals, small groups and large organizations concern themselves with the affairs of the DevitNet and glasswire networks in general. Their functions and interests vary, expectedly, as do the power they exert over the vastness of the net. In particular order and not in their entirety are the following;
-
-
 
 ## Switchboard Computation
 In which we delve into understanding the various devices in the Switchboard that link up to and across the various nets, these being the Switchboard's computers. They are similar to traditional, existing computers in macroscopic function, but their microscopic fundamentals differ considerably, in that Switchboard computers harness the collective intelligence of lower beings to both compute, and perform functions that allow them to interface with local, calcic reality. 
@@ -548,15 +539,15 @@ The anarhiza root network presented an all-new frontier upon which battles will 
 ### Research, Management and Other Relevant Authorities
 The Third Kin have concerned themselves with the affairs of the net and compute to varying degrees and and for varying reasons, leading to the formation of a very many number of bodies that overseer and contribute to these spheres of knowledge.
 
-- The Pan-Danciran Glasswire Research Coalition
-- The Endel Wyrewatch
-- Spyndl Academy
-- The Eaters of Ryjik
-- Ivory Tower Glasswire Solutions
-- The freeNet Netmasters
-- ArcolNet Oversight Authorities
-- The Vermeilion Compute Society
-- Nefelworks Corp
+- [x] The Pan-Danciran Glasswire Research Coalition
+- [x] The Endel Wyrewatch
+- [x] Spyndl Academy
+- [x] The Eaters of Ryjik
+- [x] Ivory Tower Glasswire Solutions
+- [x] The freeNet Netmasters
+- [x] ArcolNet Oversight Authorities
+- [x] The Vermeilion Compute Society
+- [x] Nefelworks Corp
 
 Elaborated upon further;
 
@@ -578,6 +569,11 @@ Elaborated upon further;
 	- Furthered much of the knowledge base on Switchboard compute.
 - Nefelworks Corp
 	- Foremost research authorities on mockweaving or weave replication technologies.
+
+
+**The Pan-Danciran Glasswire Research Coalition**
+The PDGRC or the 'Glasswire Research Coalition' was formed 
+
 
 ### The Breach Protocol
 In the time of the Praxis Conflicts, the Third Kin needed to discover the location of the Vitric Trinary Minds, Minds that were capable of weaponizing the negentropic, weave-eating glass of the Vitric Shelf against the Third Kin. To do so, they needed a means to breach the various strongholds of the First Thinker Minds at the time; the Mind Nexuses where multiple Minds could be domiciled and stage various offensive operations, and the far more prolific Vaults. These Vaults were created and presided over by the Interdictory Minds of the Interdiction Collective. These colossal megastructures served as large caches of both information and objects, particularly the ruins of the long-annihilated Vermeil civilization. They were in turn guarded by powerful praxis-reliant shields, channeling the Mind's doctrine of protection, and the Mind's partially autonomous swarm of defensive machine-spawn known as the chromelings. To enter a Vault then, was no easy feat.
@@ -610,6 +606,35 @@ This sections discusses the primarily means by which the Breach Protocol has bee
 ![[The Skywards Pursuit#The Vaults]]
 
 ### The Teeth of Ryjik
+In the final stages before what would come to be known as the Fourth Offensive and the attack on the Trinary Complex, the Third Kin were forced to confront the reality that was their inability to traverse the Vitric Shelf, the domain of the Trinary Minds that staged the entire offensive against the Third Kin. But the Third Kin's unmatched resolve and dominion over the affairs of weft and the Astrolabe set about forging a solution; a grand Structural Cast to skew the Astrolabe's calculus, and incite into being a means to defeat glass and the Vitric Shelf.
 
+Born with teeth of crystal and a star in his stomach, the Seventh Skydancer, Ryjik the Eater, arose. In his nature was the knowledge and ability to defeat glass, and with him in tow, Spyndl Academy and the Third Kin took the fight to the Vitric Shelf, struck against the Trinary Minds in their grand complex, and secured one of the most decisive victories for the Third Kin, and securing another - perhaps the greatest - foothold into the Era of the Third Kin. 
+
+But Ryjik could do more than just 'defeat' glass. His ability to defeat glass came from his strange ability to consume it, irrespective of purity, and in doing so, render it inert. This inert glass manifested in the various regions of the Switchboard as a biome written into their regional equations. This inert glass - this, **scintillate** as it came to be called - became a fixture of the chromatic biomes that emerged following the rise of Skydancer Ryjik, and glass in this form came to be harnessed by the Third Kin, the mechanics of doing so taught by the Skydancer himself.
+
+Compiled in a tome titled *The Writ of the Eater*, Skydancer Ryjik outlined the first rules and schematics of what would come to be the **glass ritualism**; chalk ritualism that used glass as a component, with scintillate acting as a buffer between the complex chalk ritual and the complexity-shredding glass it sought to utilize. He recorded the affects scintillate had on the lattice when consumed; glass would destroy the lattice of all who consumed it, but scintillate behaved differently - almost like a mind-altering 'drug' - dependent seemingly on the color of the scintillate.
+
+But the most storied bit of knowledge acquired from the inquiry of Ryjik was in the making of weaponry. Before the attack on the Trinary Complex in the Vitric Shelf, Skydancers Onuris, The Hammer, and Ryjik, the Eater, collaborated in shaping a weapon. A weapon that harnessed chalk, glass, their stable crystalline-complex and the scintillate glass-inversion. It was called the **PRISMpick**, and it had power that spanned the glasswire and the Dancirah. With it, with a single strike, it could breach and seize control of any glasswire network, any computational device, carve a path into any Vault, sunder any weave, undo any ritualism. Within it was the power of Skydancer Ryjik; the power to eat, and render impotent. 
+
+The PRISMpick was the first of the weapons that would come to be known as the **Teeth of Ryjik**. With their power and nature known and yet not fully explored, they became incredibly coveted. Forging them is no easy task, as glass is a material that actively opposes being worked upon. As such, so few of them exist that they have attained the status of myth, the PRISMpick itself being lost during the Refrain. This has only cultivated more interest in forging more of them, by any means possible, as those who wield them are believed to be able to defeat any obstacle to their aims, be it chalkweaver or glasswire construct. 
+
+For now, the only ones suspected to truly have or be able to forge Teeth weaponry are Skydancer Ryjik's apostolics within the Sil'khan Sabai; nomad-zealots that worship the the Skydancer's and live to spread their words. Ryjik's faithful in particular - the Eaters of Ryjik - laud themselves as crusaders against the Vaults in the Switchboard, reenacting the purpose for which Ryjik arose to begin with.  
 
 ### The Glazwyre
+> Consider this section a proposal-class document on its own, discussing a subject matter that could use a fair bit more development before it is considered fully part of the canon.
+
+The mechanics of praxis have facilitated the existence of many things and concepts in the Switchboard, granting power and meaning to the mundane, causing them to arise, become transcendent, and achieve a physicality to their form that makes them yet another tangible oddity in the ledgers of the Dancirah. It is suspected by some that similar happened to the anarhiza root network, and the DevitNet when it later arose; that this interconnectedness across vast space seeded a praxis of connectedness itself, and thus spawned a pseudo-realm of which connection and communication were a core doctrine.
+
+The first to notice it were the Netmasters.
+
+The many bodies that contributed to the study, founding, development and implementation of the various spheres of communications and compute in the Dancirah would inevitably spawn odder folks in their ranks, who were cursed - perhaps - with opinionated dispositions matching only their undeniable genius. Asymmetry in philosophy caused the many earliest builders of the DevitNet and related subject matter to scorn the once hallowed offices where this building took place. They went out into the Dancirah and sought to shape the DevitNet in their own images, along their own philosophies. Become territorial warlords of astro-geographical-mirrored glasswire space, they became the Netmasters; self-appointed arbiters of information flow itself. 
+
+The running of their glasswire empires required a relationship - a connection - with the anarhiza network that could not be achieved through the crude - comparatively - methodology of a mindspun-powered compute cube socketed into a clunky sarcophagus of ribbon cable and dull periphery. No, the conduction of the will needed to be expedited. It was not enough to simply speak, the Netmasters sought to be *felt*, to exist not merely as users *of* the DevitNet and the wider nets, but to become phenomena *within it*. Not so much gods, as they would come to be accused of, but as laws, that the will of a Netmaster would passively shape the glasswire territory under domain.
+
+Achieving the supreme conduction of the will required a willingness to go where others had not gone, and do what others only whispered of in the hushed footnotes of ethically-burdened institutions. None remember the first Netmaster who cultivated anarhiza under his very skin, but all grew to understand that it was the bare minimum of what was necessary. None remembered who devised the means of running one's self under the simplifying knife of the vitric glass and transiting to a state capable of running down the glasswire, but all were aware of the fact a space formed to accommodate those who sought greater connection, a means to communicate - perhaps - between strait and strait. The entirety of oneself and will, speaking directly into another.
+
+The called it the **Glazwyre**. Hallowed was its name.
+
+To reach the Glazwyre, one must consolidate oneself down to merely their will, and delve into the glasswire, exposing themselves to the mechanics of doctrine and praxis, and being granted entry to the upper room. Within the Glazwyre, pure will is allowed and used to shape the goings-on of the nets below, perhaps made possible by speaking directly to the heart of the anarhiza itself. Within the Glazwyre, answers to its questions are scare - scarcer still outside of it, but this hallowed domain being the plane upon which the DevitNet's and Dancirah's Netmasters operate has made them its de-facto highest authorities. Their power is not limitless, but appears this is more a product of there having been no one who forged this path before, and taught those behind them how to walk it. 
+
+The final concern, of course, is what the Netmasters truly are - perhaps what they've become - and above all, what are their ends. Many espouse a vision of a 'freeNet', one without oversight of any kind, allowed to grow and thrive, the only doctrine being endless proliferation. But skeptics remain so, believing that the Netmasters, shrouded in shadow as they are, have aims not dissimilar from many others in the Switchboard; grand chisel-blows in the slate-ledgers of the Current, actions that will ensure their names transcend death itself. 

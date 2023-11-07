@@ -241,7 +241,7 @@ The third offensive was fairly short, defined by a series of dense pockets of co
 But the Third Kin proved their strength once again, and the cast succeeded. 
 
 ### The Seventh Skydancer
-While the success of the cast was immediately apparent, it soon became clear that it was, as a descendant was bestowed upon the Spyndl Academy, describe only as 'having a mouthful of Glass teeth, and a Law Star burning bright in their belly'. They were named **Ryjik**, and they were the only Third Kin immune to the annihilating effects of the Glass, more than capable of consuming it as though it were nothing. Ryjik was the superweapon to counter the Mind's superweapon of the Vitric Shelf. They took the title of 'Glasseater' and became the Seventh Skydancer. 
+While the success of the cast was immediately apparent, it soon became clear that it was, as a descendant was bestowed upon the Spyndl Academy, describe only as 'having a mouthful of crystal teeth, and a Law Star burning bright in their belly'. They were named **Ryjik**, and they were the only Third Kin immune to the annihilating effects of the Glass, more than capable of consuming it as though it were nothing. Ryjik was the superweapon to counter the Mind's superweapon of the Vitric Shelf. They took the title of 'Glasseater' and became the Seventh Skydancer. 
 
 With Ryjik in tow, the Spyndl Academy could now breach the Vitric Shelf, and take the fight to the Minds in a battle that would secure their existence in the Switchboard once, and for all. The Skydancers, the Academy, the Danseers and all the Third Kin mustered up all their resources and resolve for one final, decisive strike against the First Thinkers, in a battle that would take place in their closest approximation of hell.
 

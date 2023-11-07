@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Void Five Point 'O: Fifth Time's a Party","id":"777d4ba4a5f2299e","x":-940,"y":-300,"width":720,"height":100},
+		{"id":"a9907bc77eb8f80b","x":-1370,"y":-38,"width":790,"height":598,"type":"file","file":"2. Development/Workshop/WorkshopDocs/Prop.Blackjack.md"}
+	],
+	"edges":[
+		{"id":"9cd2199061e60754","fromNode":"777d4ba4a5f2299e","fromSide":"bottom","toNode":"a9907bc77eb8f80b","toSide":"top"}
+	]
+}

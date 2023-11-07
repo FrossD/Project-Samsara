@@ -82,22 +82,6 @@
       "modifiedDate": 1679590574034,
       "sizeInBytes": 1494852
     },
-    "Z. Assets/Pasted image 20230306011133.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1678061493866,
-      "modifiedDate": 1678061493869,
-      "sizeInBytes": 989549
-    },
     "Z. Assets/Pasted image 20230323175549.png": {
       "isDirectory": false,
       "noteCount": 1,
@@ -129,6 +113,22 @@
       "createdDate": 1678064133117,
       "modifiedDate": 1678064133122,
       "sizeInBytes": 849240
+    },
+    "Z. Assets/Pasted image 20230306011133.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1678061493866,
+      "modifiedDate": 1678061493869,
+      "sizeInBytes": 989549
     },
     "Z. Assets/Pasted image 20230306011045.png": {
       "isDirectory": false,
@@ -210,7 +210,7 @@
       "modifiedDate": 1653791042441,
       "sizeInBytes": 7828
     },
-    "Untitled.canvas": {
+    "Void 5.canvas": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -223,8 +223,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1698612212462,
-      "modifiedDate": 1698612008457,
-      "sizeInBytes": 128
+      "modifiedDate": 1699297875251,
+      "sizeInBytes": 440
     },
     "README.md": {
       "isDirectory": false,
@@ -338,22 +338,6 @@
       "modifiedDate": 1678225372962,
       "sizeInBytes": 183
     },
-    "3. Scribbling/pNarrat/TentativeConc..md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1144,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.8133333333333335,
-      "characterCount": 6412,
-      "nonWhitespaceCharacterCount": 5224,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694319544129,
-      "modifiedDate": 1694378310958,
-      "sizeInBytes": 6412
-    },
     "3. Scribbling/pNarrat/Skeletal Narrative.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -369,6 +353,22 @@
       "createdDate": 1661113788233,
       "modifiedDate": 1677513360947,
       "sizeInBytes": 7364
+    },
+    "3. Scribbling/pNarrat/TentativeConc..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1144,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.8133333333333335,
+      "characterCount": 6412,
+      "nonWhitespaceCharacterCount": 5224,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694319544129,
+      "modifiedDate": 1694378310958,
+      "sizeInBytes": 6412
     },
     "3. Scribbling/New Valkyjria.docx": {
       "isDirectory": false,
@@ -546,21 +546,21 @@
       "modifiedDate": 1698611646803,
       "sizeInBytes": 5444
     },
-    "2. Development/Workshop/Prop.CommsCompute.md": {
+    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8359,
+      "wordCount": 536,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 27.863333333333333,
-      "characterCount": 53190,
-      "nonWhitespaceCharacterCount": 44623,
-      "linkCount": 11,
-      "embedCount": 4,
+      "pageCount": 1.7866666666666666,
+      "characterCount": 3296,
+      "nonWhitespaceCharacterCount": 2752,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1698437449620,
-      "modifiedDate": 1699052601067,
-      "sizeInBytes": 53190
+      "createdDate": 1679583460435,
+      "modifiedDate": 1679584233299,
+      "sizeInBytes": 3296
     },
     "2. Development/Workshop/PlanesDev/The Challenger Dark.md": {
       "isDirectory": false,
@@ -578,22 +578,6 @@
       "modifiedDate": 1688115999610,
       "sizeInBytes": 14939
     },
-    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 536,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7866666666666666,
-      "characterCount": 3296,
-      "nonWhitespaceCharacterCount": 2752,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1679583460435,
-      "modifiedDate": 1679584233299,
-      "sizeInBytes": 3296
-    },
     "2. Development/Workshop/PlanesDev/Planes Template.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -609,6 +593,22 @@
       "createdDate": 1675176092885,
       "modifiedDate": 1685437244593,
       "sizeInBytes": 2120
+    },
+    "2. Development/Workshop/Prop.CommsCompute.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14949,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 49.83,
+      "characterCount": 94922,
+      "nonWhitespaceCharacterCount": 79649,
+      "linkCount": 15,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1699211366847,
+      "modifiedDate": 1699318735524,
+      "sizeInBytes": 94922
     },
     "2. Development/Workshop/Families/The Vermeil.md": {
       "isDirectory": false,
@@ -738,22 +738,6 @@
       "modifiedDate": 1683719625527,
       "sizeInBytes": 7778
     },
-    "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 969,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.23,
-      "characterCount": 5889,
-      "nonWhitespaceCharacterCount": 4906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1683663078610,
-      "modifiedDate": 1683663343984,
-      "sizeInBytes": 5889
-    },
     "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -770,37 +754,37 @@
       "modifiedDate": 1683719632151,
       "sizeInBytes": 6671
     },
+    "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 969,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.23,
+      "characterCount": 5889,
+      "nonWhitespaceCharacterCount": 4906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1683663078610,
+      "modifiedDate": 1683663343984,
+      "sizeInBytes": 5889
+    },
     "2. Development/Narrative Worldbuilding/WN-DT.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3651,
+      "wordCount": 3659,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.17,
-      "characterCount": 24322,
-      "nonWhitespaceCharacterCount": 20584,
+      "pageCount": 12.196666666666667,
+      "characterCount": 24377,
+      "nonWhitespaceCharacterCount": 20631,
       "linkCount": 32,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1697154728747,
-      "modifiedDate": 1698769409561,
-      "sizeInBytes": 24353
-    },
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 317,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0566666666666666,
-      "characterCount": 1921,
-      "nonWhitespaceCharacterCount": 1589,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698623274192,
-      "modifiedDate": 1698769023517,
-      "sizeInBytes": 1921
+      "modifiedDate": 1699297923114,
+      "sizeInBytes": 24408
     },
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md": {
       "isDirectory": false,
@@ -825,14 +809,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 36.32,
-      "characterCount": 69051,
+      "characterCount": 69050,
       "nonWhitespaceCharacterCount": 57909,
       "linkCount": 12,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1674175441125,
-      "modifiedDate": 1699049182231,
-      "sizeInBytes": 69051
+      "modifiedDate": 1699218440418,
+      "sizeInBytes": 69050
     },
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md": {
       "isDirectory": false,
@@ -847,24 +831,8 @@
       "embedCount": 6,
       "aliases": null,
       "createdDate": 1678641387743,
-      "modifiedDate": 1698361858846,
+      "modifiedDate": 1699308580495,
       "sizeInBytes": 176082
-    },
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6235,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 20.783333333333335,
-      "characterCount": 39670,
-      "nonWhitespaceCharacterCount": 33300,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1697837815360,
-      "modifiedDate": 1698437252266,
-      "sizeInBytes": 39670
     },
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md": {
       "isDirectory": false,
@@ -882,6 +850,22 @@
       "modifiedDate": 1694709799300,
       "sizeInBytes": 26960
     },
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Disciplines of the Switchboard.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6235,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 20.783333333333335,
+      "characterCount": 39670,
+      "nonWhitespaceCharacterCount": 33300,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697837815360,
+      "modifiedDate": 1698437252266,
+      "sizeInBytes": 39670
+    },
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -897,6 +881,54 @@
       "createdDate": 1673874213491,
       "modifiedDate": 1698364438625,
       "sizeInBytes": 45347
+    },
+    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 317,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0566666666666666,
+      "characterCount": 1921,
+      "nonWhitespaceCharacterCount": 1589,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698623274192,
+      "modifiedDate": 1698769023517,
+      "sizeInBytes": 1921
+    },
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Voice in Flowers.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2627,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.756666666666666,
+      "characterCount": 15780,
+      "nonWhitespaceCharacterCount": 11399,
+      "linkCount": 2,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1664281929985,
+      "modifiedDate": 1697208669294,
+      "sizeInBytes": 15780
+    },
+    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5722,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 19.073333333333334,
+      "characterCount": 33454,
+      "nonWhitespaceCharacterCount": 27657,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1664281930352,
+      "modifiedDate": 1694982381880,
+      "sizeInBytes": 33454
     },
     "2. Development/Narrative Worldbuilding/Characters/CX-The Starsailors.md": {
       "isDirectory": false,
@@ -962,22 +994,6 @@
       "modifiedDate": 1669038642235,
       "sizeInBytes": 523
     },
-    "2. Development/Narrative Worldbuilding/Characters/C0-Character Drafting Table.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 431,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4366666666666668,
-      "characterCount": 2975,
-      "nonWhitespaceCharacterCount": 2245,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1673650984328,
-      "modifiedDate": 1683277978632,
-      "sizeInBytes": 2975
-    },
     "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -993,6 +1009,22 @@
       "createdDate": 1675521103841,
       "modifiedDate": 1693790253703,
       "sizeInBytes": 4978
+    },
+    "2. Development/Narrative Worldbuilding/Characters/C0-Character Drafting Table.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 431,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4366666666666668,
+      "characterCount": 2975,
+      "nonWhitespaceCharacterCount": 2245,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1673650984328,
+      "modifiedDate": 1683277978632,
+      "sizeInBytes": 2975
     },
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md": {
       "isDirectory": false,
@@ -1042,22 +1074,6 @@
       "modifiedDate": 1697468656452,
       "sizeInBytes": 11322
     },
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2804,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 9.346666666666666,
-      "characterCount": 17705,
-      "nonWhitespaceCharacterCount": 14817,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1697391367757,
-      "modifiedDate": 1697497066155,
-      "sizeInBytes": 17705
-    },
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/2. CX-Character-Arsenal-Ideas.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1073,6 +1089,22 @@
       "createdDate": 1696971550680,
       "modifiedDate": 1696971958604,
       "sizeInBytes": 983
+    },
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2804,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.346666666666666,
+      "characterCount": 17705,
+      "nonWhitespaceCharacterCount": 14817,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697391367757,
+      "modifiedDate": 1697497066155,
+      "sizeInBytes": 17705
     },
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md": {
       "isDirectory": false,
@@ -1090,37 +1122,21 @@
       "modifiedDate": 1697393210140,
       "sizeInBytes": 1338
     },
-    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Voice in Flowers.md": {
+    "2. Development/Mechanical Pillars/The Mysticism.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2627,
+      "wordCount": 1840,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 8.756666666666666,
-      "characterCount": 15780,
-      "nonWhitespaceCharacterCount": 11399,
-      "linkCount": 2,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1664281929985,
-      "modifiedDate": 1697208669294,
-      "sizeInBytes": 15780
-    },
-    "2. Development/Narrative Worldbuilding/Cultural Pillars/The Doctrine of Passing.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5722,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 19.073333333333334,
-      "characterCount": 33454,
-      "nonWhitespaceCharacterCount": 27657,
-      "linkCount": 2,
+      "pageCount": 6.133333333333334,
+      "characterCount": 11088,
+      "nonWhitespaceCharacterCount": 9197,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1664281930352,
-      "modifiedDate": 1694982381880,
-      "sizeInBytes": 33454
+      "createdDate": 1664281931345,
+      "modifiedDate": 1693789674669,
+      "sizeInBytes": 11088
     },
     "2. Development/Mechanical Pillars/The Void.md": {
       "isDirectory": false,
@@ -1141,50 +1157,18 @@
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 7652,
+      "wordCount": 7658,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 25.506666666666668,
-      "characterCount": 47724,
-      "nonWhitespaceCharacterCount": 39415,
+      "pageCount": 25.526666666666667,
+      "characterCount": 47759,
+      "nonWhitespaceCharacterCount": 39444,
       "linkCount": 9,
       "embedCount": 6,
       "aliases": null,
-      "createdDate": 1681301001422,
-      "modifiedDate": 1698436112883,
-      "sizeInBytes": 47724
-    },
-    "2. Development/Mechanical Pillars/The Mysticism.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1840,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.133333333333334,
-      "characterCount": 11088,
-      "nonWhitespaceCharacterCount": 9197,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1664281931345,
-      "modifiedDate": 1693789674669,
-      "sizeInBytes": 11088
-    },
-    "2. Development/Mechanical Pillars/Glass.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2260,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.533333333333333,
-      "characterCount": 13885,
-      "nonWhitespaceCharacterCount": 11590,
-      "linkCount": 2,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1679307846137,
-      "modifiedDate": 1698510470869,
-      "sizeInBytes": 13885
+      "createdDate": 1699211366847,
+      "modifiedDate": 1699205361000,
+      "sizeInBytes": 47759
     },
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md": {
       "isDirectory": false,
@@ -1201,6 +1185,22 @@
       "createdDate": 1694039559915,
       "modifiedDate": 1694039632104,
       "sizeInBytes": 108132
+    },
+    "2. Development/Mechanical Pillars/Glass.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2260,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.533333333333333,
+      "characterCount": 13885,
+      "nonWhitespaceCharacterCount": 11590,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1679307846137,
+      "modifiedDate": 1698510470869,
+      "sizeInBytes": 13885
     },
     "2. Development/MDT.md": {
       "isDirectory": false,
@@ -1269,18 +1269,18 @@
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10235,
+      "wordCount": 10247,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 34.11666666666667,
-      "characterCount": 63596,
-      "nonWhitespaceCharacterCount": 53185,
+      "pageCount": 34.156666666666666,
+      "characterCount": 63663,
+      "nonWhitespaceCharacterCount": 53240,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1684195701167,
-      "modifiedDate": 1699040684780,
-      "sizeInBytes": 63604
+      "createdDate": 1699211366847,
+      "modifiedDate": 1699307336791,
+      "sizeInBytes": 63671
     },
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md": {
       "isDirectory": false,
@@ -1314,6 +1314,22 @@
       "modifiedDate": 1696978490885,
       "sizeInBytes": 3103
     },
+    "1. Drawing Board/2. Offshore/Z. Scenario Codes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 660,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.2,
+      "characterCount": 4317,
+      "nonWhitespaceCharacterCount": 3619,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1655148308635,
+      "modifiedDate": 1665267676579,
+      "sizeInBytes": 4317
+    },
     "1. Drawing Board/2. Offshore/HexLore2.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1329,22 +1345,6 @@
       "createdDate": 1685380657040,
       "modifiedDate": 1685381576607,
       "sizeInBytes": 1535
-    },
-    "1. Drawing Board/2. Offshore/HexLore.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3783,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 12.61,
-      "characterCount": 21180,
-      "nonWhitespaceCharacterCount": 17195,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1679048278622,
-      "modifiedDate": 1679073140448,
-      "sizeInBytes": 21188
     },
     "1. Drawing Board/2. Offshore/Prop.DT_CANTHAR.md": {
       "isDirectory": false,
@@ -1362,21 +1362,21 @@
       "modifiedDate": 1693364079533,
       "sizeInBytes": 12328
     },
-    "1. Drawing Board/2. Offshore/Z. Scenario Codes.md": {
+    "1. Drawing Board/2. Offshore/HexLore.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 660,
+      "wordCount": 3783,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.2,
-      "characterCount": 4317,
-      "nonWhitespaceCharacterCount": 3619,
+      "pageCount": 12.61,
+      "characterCount": 21180,
+      "nonWhitespaceCharacterCount": 17195,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1655148308635,
-      "modifiedDate": 1665267676579,
-      "sizeInBytes": 4317
+      "createdDate": 1679048278622,
+      "modifiedDate": 1679073140448,
+      "sizeInBytes": 21188
     },
     "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md": {
       "isDirectory": false,
@@ -1426,22 +1426,6 @@
       "modifiedDate": 1673645161329,
       "sizeInBytes": 1205
     },
-    "1. Drawing Board/1. Samsara/Meta/Samsara 2 - Sunwards.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1734,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.78,
-      "characterCount": 9690,
-      "nonWhitespaceCharacterCount": 7928,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1678040175196,
-      "modifiedDate": 1678640526207,
-      "sizeInBytes": 9690
-    },
     "1. Drawing Board/1. Samsara/Meta/Samsara 2.5 - Sunburst.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1457,6 +1441,22 @@
       "createdDate": 1679821643193,
       "modifiedDate": 1685230135498,
       "sizeInBytes": 17372
+    },
+    "1. Drawing Board/1. Samsara/Meta/Samsara 2 - Sunwards.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1734,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.78,
+      "characterCount": 9690,
+      "nonWhitespaceCharacterCount": 7928,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1678040175196,
+      "modifiedDate": 1678640526207,
+      "sizeInBytes": 9690
     },
     "1. Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md": {
       "isDirectory": false,
@@ -1490,22 +1490,6 @@
       "modifiedDate": 1693013172376,
       "sizeInBytes": 545
     },
-    "1. Drawing Board/1. Samsara/Legacy Discussions/Post-BS1 Notes.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2277,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.59,
-      "characterCount": 13763,
-      "nonWhitespaceCharacterCount": 11424,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1666450876039,
-      "modifiedDate": 1666450876040,
-      "sizeInBytes": 13763
-    },
     "1. Drawing Board/1. Samsara/Legacy Discussions/The Bayesian SlateMind.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1521,6 +1505,22 @@
       "createdDate": 1674523365957,
       "modifiedDate": 1674523365982,
       "sizeInBytes": 6765
+    },
+    "1. Drawing Board/1. Samsara/Legacy Discussions/Post-BS1 Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2277,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.59,
+      "characterCount": 13763,
+      "nonWhitespaceCharacterCount": 11424,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1666450876039,
+      "modifiedDate": 1666450876040,
+      "sizeInBytes": 13763
     },
     "1. Drawing Board/1. Samsara/Legacy Discussions/Post-BS1 Cryogen's Response.md": {
       "isDirectory": false,
