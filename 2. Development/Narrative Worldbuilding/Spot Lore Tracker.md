@@ -22,7 +22,8 @@ In developing many other docs, workable lore that can even make it to final iter
 	- Part of a much larger series of Sky versus Deep conflicts.
 	- Expand upon.
 
-[[Prop.CommsCompute]]
+[[Communications and Compute]]
 - The **Vitric Boundary** is the Shelf-Dancirah equivalent of the Challenger Horizon, except that it cannot be crossed the way the Horizon can, except through the jaws.
 - Lore about the various **organizations that control the DevitNet**.
 - The Vermeilion Compute Society (VCS) and the Vermeilion Interdiction Research Foundation (VIRF) formed in the days of the Praxis Conflicts, under the Spyndl Academy.
+- *The Writ of the Eater* and a second book on the mechanics of Kache Krashing were authored by Skydancer Ryjik and the apostolic Eaters of Ryjik respectively.

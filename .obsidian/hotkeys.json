@@ -1,21 +1,5 @@
 {
   "editor:insert-link": [],
-  "editor:focus-right": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "editor:focus-left": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "workspace:edit-file-title": [],
   "editor:delete-paragraph": [],
   "app:open-help": [],

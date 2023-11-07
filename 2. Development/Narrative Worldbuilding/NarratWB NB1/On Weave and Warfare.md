@@ -655,8 +655,16 @@ With those being its polar black powers, its polar white ones allow the felkrivf
 And by such, the felkrivft took a hallowed position in the Dancirah's canon. Though it did not arrive on time to save those who desired it from destruction, perhaps that is for the best, as it has been pondered by many whether the Vahnkin of Isalveh would have been able to defeat an enemy infringing on their turf... if that enemy was wielding their own turf against them.
 
 ##### Esomechanists: The Teeth of Ryjik
-> This section is unfortunately incomplete, as it relies on the completion of the Proposal on Slates and Compute.
+An excerpt from [[Communications and Compute]];
+![[Communications and Compute#^b4588e]]
 
+![[Communications and Compute#^fb11c4]]
+
+The Esomechanist superclass suffers - primarily - from a solid foundation upon which to develop and utilize powers. The Chalkweaver and the Depthstrider have chalk and the depths, and the Pale Amaran has both even, but the Esomechanist has none. 
+
+Thus, it is necessary for an aspiring Esomechanist to level the playing field though any means possible. One such means is learning to harness glass, the great equalizer, that which shreds complexity down to tatters. The Teeth of Ryjik are thus a major interest of all who fall under the Esomechanist domain, and though their weapons are scarce, those that come to wield them wield power in the Switchboard few can rival. 
+
+As such, there is no definite 'shape' for the Esomechanist's super-class weapons, merely a boundary that something can grow and fill to become it. Working backwards from this however, has led many to adopt the usage of glass in their weaponry. 
 
 #### Relic Arms & Weapon Abilities
 The most powerful weapons in the Switchboard are [[On Weave and Warfare#The Relics of New|relics]]; weapons that have had their mundane properties enhanced as well as new ones conferred upon them through calcic enhancement. While relics can be found naturally in the Switchboard (often encased as the final plunder in Vaults), most wielders of relics crafted them themselves, and this done through the usage of rituals.

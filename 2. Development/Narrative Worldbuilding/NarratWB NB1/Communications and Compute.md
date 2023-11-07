@@ -1,85 +1,33 @@
-# Cryogen's Proposal: The Grand Theorem on Communications and Compute
-"Because I said 'digital' and they took that personally."
-
-## Scope & Workshop
-This proposal covers the following - in no specific order - either through creation and elaboration and/or revision of existing worldbuilding;
-- [x] The Anarhiza
-- [x] The Dendro-Vitric Root Network
-- [x] Calcodynamics and Vitreodynamics Interplay
-- [x] Glasswire
-- [x] The microlNet and Gated Networks
-- [x] The Glazwyre
-- [x] The DevitNet's Netmasters
-- [x] Vaults and Kache-Krashing
-- [x] The Breach Protocol
-- [x] Netfrastructure
-- [x] Slates and Switchboard Computation
-- [x] Compute Core Architecture
-- [x] Harnessing the Mindspun and SAE Quotients
-- [x] Spool Storage and Dynamics
-- [x] The Teeth of Ryjik
-- [x] The Braced-Weft Packet Doctrine
-- [x] Weftloaders
-
-### Scope Groupings
-Grouping individual bits of the scope for targeted development.
-
-1. **Foundational Mechanics**
-- [x] Calcodynamics and Vitreodynamics Interplay
-- [x] Glasswire
-- [x] The Braced-Weft Packet Doctrine
-- [x] Spool Storage and Dynamics
-
-2. **Pure DevitNet**
-- [x] The Anarhiza
-- [x] The Dendro-Vitric Root Network
-- [x] Netfrastructure
-- [x] The microlNet and Gated Networks
-
-3. **Pure Compute**
-- [x] Compute Core Architecture
-- [x] Harnessing the Mindspun and APS Quotients
-- [x] Slates and Switchboard Computation
-- [x] Weftloaders
-
-4. **Net-Compute Intersectionality**
-- [ ] Management Relevant and Authorities 
-- [x] The Breach Protocol
-- [x] Vaults and Kache-Krashing
-- [x] The Teeth of Ryjik
-- [x] The Glazwyre
-
-### Material
-Material to be referenced, and external docs to generally deal with.
-
-- Slates;
-	- [[The Skywards Pursuit]]
-	- [[Switchboard Technology]]
-- DevitNet;
-	- [[Switchboard Technology]]
-- [[Glass]]
-	- For work on the anarhiza and other related glass-chalk shenanigans
-- [[On Weave and Warfare]]
-	- For work on the Teeth of Ryjik
-
-The Glazwyre is praxis based.
-
 # Switchboard Communication and Compute
 The foundational principles upon which the mechanics long-distance communications and computation occurs in the Switchboard, as well as the harnessing of those principles to make the latter possible. 
 
-## A Note on Fluff and Flavor
-It would be ideal if this document was read as a simplified summary of a vast array of Third Kin research, spanning multiple topics and employing many different disciplines, performed over many, many processions. The in-universe papers that this summary draws upon were indeed made by in-universe characters, and many of the tangible inventions as well as numerous concepts outlined in this document have thus been named after their studies, discoverers and inventors, who I have taken the pleasure of listing below;
+## Scope
+It helps to envision the scope of this document as contained in four distinct sections;
 
-> I O U, the list of the Comms and Compute Pioneers. 
+1. **Foundational Mechanics**
+- Calcodynamics and Vitreodynamics Interplay
+- Glasswire
+- The Braced-Weft Packet Doctrine
+- Spool Storage and Dynamics
 
-**What to name**
-- [ ] Packets
-- [ ] Classes of Glasswire based on throughput
-- [x] Calcic Computational Cores (Larksel Cubes)
-- [ ] ~~Glazwyre rifts (named for a Hex)~~ The first Netmaster (a Hex)
-- [ ] First prototype of the Compute Core
-- [ ] Main Weftloader Model
+2. **Pure DevitNet**
+- The Anarhiza
+- The Dendro-Vitric Root Network
+- Netfrastructure
+- The microlNet and Gated Networks
 
+3. **Pure Compute**
+- Compute Core Architecture
+- Harnessing the Mindspun and APS Quotients
+- Slates and Switchboard Computation
+- Weftloaders
+
+4. **Net-Compute Intersectionality**
+- Research, Management Relevant and Authorities 
+- The Breach Protocol
+- Vaults and Kache-Krashing
+- The Teeth of Ryjik
+- The Glazwyre
 
 ## Foundational Mechanics
 The foundational mechanics in the Switchboard that facilitate communications and compute.
@@ -219,7 +167,8 @@ In which we delve into understanding the various devices in the Switchboard that
 > In addition to that is how Switchboard compute actually works. With the elimination of such useful things as the atom and electromagnetism, it became fairly indefensible to have computation built off of these things. As such, it became necessary to devise novel foundations to build compute off of. To do this, I went one rung up the ladder from the absolute, baseline fundamental, and chose to harness existing Switchboard phenomena in creative and in-canon-acceptable ways, giving us the new grand theorem of compute, and how it functions in the Switchboard.
 
 ### Computational Core Architecture
-On the hearts of all compute in the Switchboard. 
+On the heart of all compute in the Switchboard. 
+
 #### Origins
 Critical to all computers in the Switchboard is the **calcic computational core**, colloquially known as the '**cube**' (3C). However, it is not a Third Kin invention, and was rather discovered by the Third Kin during their conflicts with the First Thinkers. Destruction of the Mind-manufactured chromelings yielded the curious technology within them, and when the Third Thinkers began plundering the vaults of their contents - this being the Vermeil civilization - the conclusion was made that this technology had existed for a while, either created by the First Thinkers, or taken and perfected by the Second. Either way, the usefulness of this technology could not be scoffed at, once the Third Kin understood what it did and how it functioned.
 
@@ -334,10 +283,6 @@ These individual qualities listed below differ from mindspun to mindspun, but al
 	Some mindspun are 'touched' - perhaps - with the ability to compute the esoteric mechanics of the Praxis Protocol and the mechanics of the Astrolabe's ledgers. Should the rare occurrence when computing the mechanics of praxis arise, mindspun specifically gifted in this regard are required, and none else.
 
 > More to follow.
-
-#### On Function
-Baselines and mods needed for certain functions.
-> Refer to the notebook 
 
 #### Compute Cube Fabrication
 A demand for compute devices translates into a demand for compute cubes, which in turn produces a demand for mindspun. While mindspun do occur in the wild, and there are even tangible advantages to using wild-formed mindspun over those produced in artificial conditions, it doesn't change the fact that much of the mindspun used in mass-produced compute cores are a result of synthesis. 
@@ -537,43 +482,81 @@ Additionally, it is fairly commonplace for a weftloader to be integrated onto th
 The anarhiza root network presented an all-new frontier upon which battles will be fought, not with blade and bullet, but with information, compute, and the means of conducting will and giving it form. New battles take place on the Glasswire, and new tools and tactics must be employed to fight and win. Presiding over these frontiers, the battles fought upon them and the tools used to wage them, are various bodies of Third Kin, concerned with the affairs of glasswire or computation, and often both. Each has their own contributions, just as each has their own - occasionally shadowed - ends.
 
 ### Research, Management and Other Relevant Authorities
-The Third Kin have concerned themselves with the affairs of the net and compute to varying degrees and and for varying reasons, leading to the formation of a very many number of bodies that overseer and contribute to these spheres of knowledge.
+The Third Kin have concerned themselves with the affairs of the net and compute to varying degrees and and for varying reasons, leading to the formation of a very many number of bodies that overseer and contribute to these spheres of knowledge. It helps to divide these bodies according to the timeframe in which they arose, relative to the rise of the DevitNet; the pre-DevitNet bodies, and the post-DevitNet ones.
 
-- [x] The Pan-Danciran Glasswire Research Coalition
-- [x] The Endel Wyrewatch
-- [x] Spyndl Academy
-- [x] The Eaters of Ryjik
-- [x] Ivory Tower Glasswire Solutions
-- [x] The freeNet Netmasters
-- [x] ArcolNet Oversight Authorities
-- [x] The Vermeilion Compute Society
-- [x] Nefelworks Corp
-
-Elaborated upon further;
-
-- The Pan-Danciran Glasswire Research Coalition
-	- Research and innovation of much of the DevitNet knowledge and gadgetry.
-- The Endel Wyrewatch
-	- Serves multiple functions as establishers and maintainers of netfrastructure, and a policing/defense authority to protect that netfrastructure.  
-- Spyndl Academy
-	- Works with many other net-related groups, serving its shadowy goals and lending Operators to help or oppose others'. Spyndl with the help of the Ivory Tower and Wyrewatch developed the microlNet, in a bid to create a safer Switchboard.
-- The Eaters of Ryjik
-	- A Sabai religious faction, serving the Skydancer Ryjik the Eater. The deal in all matters of Glass and the Vitric Shelf in general, and are particularly involved in opposing Interdictory and Emergent Vault Minds. 
-- Ivory Tower Glasswire Solutions
-	- A Lancaster Innovations owned and operated provider of Netfrastructure to choice clientele, boasting enhanced security measures against breaches and the like.
-- The freeNet Netmasters
-	- A social, philosophical and self-proclaimed moral movement by small groups of shadowy individuals who oppose the monitoring and oversight of the Net by various other parties. The Netmasters have rather curiously obtained praxis powers from their convictions, and this has allowed them to explore and battle on the net in the between-space known as the Glazwyre.
-- ArcolNet Oversight Authorities
-	- A Fel-Arcad run overseeing body that manages the various isolNets and straitNets that connect Fel-Arcad arcologies.
-- Vermeilion Compute Society
-	- Furthered much of the knowledge base on Switchboard compute.
-- Nefelworks Corp
-	- Foremost research authorities on mockweaving or weave replication technologies.
-
-
+#### Pre-DevitNet
 **The Pan-Danciran Glasswire Research Coalition**
-The PDGRC or the 'Glasswire Research Coalition' was formed 
+The PDGRC or the 'Glasswire Research Coalition' was formed during the build up to the second Praxis War that would scorch the stars of the Dancirah. Reverse-engineering of the chromeling forces employed by the First Thinkers yielded a glimpse into the technology wielded by the Vermeil - the Second Thinkers - at the time, something the Vermeilion Interdiction Research Foundation were just about getting around conceiving the scale of. Understanding the workings of the mindspun allowed the Third Kin to discover the anarhiza, and later how to use it to their own ends.
 
+Much of the research and development done by the GRC would be pivotal in the development of the DevitNet after the conclusion of the praxis conflicts and the demilitarization of various Third Kin war apparatus. In particular they created and enforced standards for glasswire information throughput and netfrastructure built off of it, done under '**Kao**' designation, named after the GRC researcher who studied the subject matter. 
+
+**The Vermeilion Compute Society**
+The VCS formed roughly alongside the PDGRC, their subject matter - what was derived from the study of the chromelings - being gleaned at virtually the same time. The VCS, formed as a subsidiary of the larger Vermeilion Interdiction Research Foundation, their core focus being the discovery and inquiry of the compute devices engineered by the First Thinkers from stolen Vermeil technologies.
+
+Much of their research was employed towards building out a new generation of compute devices that could be built and used by the Third Kin, developing the first computers that the Third Kin would use in their war efforts, and later used in civilian applications following the post-conflict demilitarization. Notable figures in their ranks would create the devices and concepts that would make this possible, such as the Arcad **Fedriko Larksel**, creator of the **Larksel cube**, and Arcad **Fenyr Baranx**, the first to explore the possibility of simple-complex chalk constructs, later creating the **dictionary brace** that would serve as the core of the **braced-weft packet** that would make moving information down glasswire possible.
+
+Now, the VCS is primarily concerned with advancements in Larksel cube tech, by proxy, greater inquiry in means of using the mindspun to meet the growing computational means of the Third Kin.
+
+**The Spyndl Academy**
+Famous and infamous for far more than just the matters of communications and compute, they nonetheless played a major role in the realization of both. Being at the forefront of the conflicts with the First Thinkers, they were thus the first to give major field trials to the many fruitions of the VCS and GRC. The exacting context of the Danciran battlefields ensured that only the strongest designs survived, a fact that would greatly aid the deployment of the civilian-focused DevitNet much later. 
+
+Spyndl additionally founded and deployed the **microlNet**, the low-throughput, highly-monitored emergency communications network built on Kao-0 class glasswire to ensure swift connections by all anarhiza-enabled devices, this network still in extensive use by Spyndl themselves and many other bodies that gain their approval.
+
+**ArcolNet Oversight Authorities**
+The ArcolNet is a series of Arcad and later Fel-Arcad owned and operated straitNets meant for facilitating communication between the various arcologies in the Dancirah. It started small in the pre-DevitNet era, as the Arcad of the time were not so spread out, and thus only needed straitNets that connected arcologies directly to each other, the arcologies themselves acting as both endpoints and relays for information. This changed with the hit of the Refrain and the later rise of the Fel-Arcad, who renovated their old architecture and expanded it far into the Dancirah as the Fel-Arcad spread.
+
+Established by **Kaomori Chrys**, **Bantay Vera** and **Miya Endel**, they are some of the many Arcad that have their names immortalized in the Fey Curlicue, as Arcad and Fel-Arcad who worked for the betterment for their kind at little recompense. 
+
+Now, the ANOA works with Soleri in the arcology building and maintenance processes, operating under the Sanscrii Arcology, their primary goal being - rather simply - to connect all Fel-Arcad with their homes. The ArcolNet is perhaps the largest netfrastructure entity after the DevitNet itself, speaking to the success of their endeavor. Its proliferation has allowed the Fel-Arcad to share all manners of Fel-Arcad and arcology subject matter, from advancements in arts to the goings-on of trials. 
+
+**The Eaters of Ryjik**
+Each Skydancer has something of a cult that follows them, in the time of the Danseers and perhaps more so among the Sil'khan. The apostolics of a Skydancer pledge loyalty and aim to further the aims of that Skydancer using whatever means possible. The Sabai began with the Danseers and later incarnated again after the Refrain among the Sil'khan, nomad-zealots that sought to live as the Skydancers they followed as an act of worship.
+
+The Eaters of Ryjik were formed by **Eater Mesopt**, and began a sect of the Sabai dedicated to The Eater. Their aim is - by their own claim - utter conquest of the Vitric Shelf and glass. Continuing the work they believe Ryjik began in facilitating the successful attack on the Trinary Complex, the Eaters work to oppose the remainder of the First Thinker Minds by upholding the doctrine of the Infinite Offensive; waging war against the Minds wherever they appear, leading to them becoming perhaps the most prolific anti-Vault group in the Switchboard, even rivalling the Spyndl Academy. Spyndl raids the Vaults merely for knowledge and the treasures and powers within, but for the Eaters, it is holy war.
+
+In this waging of war, the Eaters have obtained uncanny command of the tools of communication and compute, wielding Slates and wrangling glasswire in a manner that is described as truly divine. *The Writ of the Eater* is stated by some to be their holy text, and none rival the Eaters in their command over glass and scintillate, as well as its interactions with chalk. They maintain perhaps the most comprehensive texts on the raiding and subjugation of Mind isolNets and Vaults of all kinds, and are widely believed to be the only ones in the Switchboard in possession of either Teeth weaponry, or the means to make them. Of all Sabai factions, they are perhaps the most war-focused, second only to the apostolics of Zahir.
+
+It is additionally believed that they are the ones who taught the Netmasters how to truly traverse the Glazwyre, but the truth of this remains shrouded in the mist of time and rumor.
+
+#### The Rise of the DevitNet
+> This is a section that will be further elaborated upon in [[Prop.SpyndlNoon]], as it is very relevant to the canon that makes up the post-Dawn Switchboard.
+
+Following the conclusion of the more overt bits of the praxis conflict, the stage was given - unknowingly perhaps - to the forward thinkers of the era, who envisioned an 'Era of the Third Kin', an era where they would be free to proliferate throughout the Dancirah unhindered, and within the grasp of the far reaches of space, find paths for themselves. 
+
+One of the many backbones of this would be an anarhiza root network that spawned farther than any others before it, an open network built on standardized infrastructure that would facilitate broad communication for all.
+
+The ones who seeded the initiative to build the DevitNet were four; **Syversal Hex**, a member of the VCS and GRC, **Eater Hartwyl**, a Sabai and Eater of Ryjik, **Zel Endel**, a descendant of Miya Endel and the Endel family who had come to weave themselves into much of the history behind glasswire and networks, and **Ju Okafor**, a Sil'khan and notable figure in the Spyndl Academy, who had worked on the development and deployment of the microlNet. 
+
+Realizing the DevitNet's creation, however, was no simple task, as there were powers and entities within and without that challenged the dreams of these four, and all of Third Kin.
+
+#### Post-DevitNet
+**The Endel Wyrewatch**
+Founded by a descendant of the Endel family, **Iyké Endel** and the many Fel-Arcad of the time grew concerned about the usage of the DevitNet. While plenty of legitimate exchanges went on in the newly-founded DevitNet, plenty of less-than-savory parties had taken to using the DevitNet for unscrupulous communication, particularly the Rosenthalists who had taken to using encrypted communications to discuss and recruit openly.
+
+In perhaps one of the more widely-unpopular moves that color the history of the DevitNet, Iyké and the Endels worked to establish the Endel Wyrewatch, a self-appointed watchdog organization that sought to police the DevitNet and its users. Through a variety of methods the Wyrewatch set about reshaping the DevitNet, tracing unscrupulous actors down to their domiciles, spying on communications made, often by capturing and inspecting packets, placing and enforcing restrictions on the kinds of encryption usable by certain parties, issuing licenses for usage of different Kao-classes of glasswire, and generally working as - according to their own words - 'a force for good in the glasswire-space'.
+
+Their actions were inevitably faced with a fair bit of ill sentiment, ranging from verbal fuming about them, to open, tangible hostility such as attacks on Wyrewatch infrastructure. The freeNet Netmasters in particular sought to wholly annihilate them, much of this poor disposition extending past the faces of the Wyrewatch to the Endels themselves. The conflict between the Wyrewatch and the freeNet Netmasters is perhaps the most prolific of the glasswire wars fought on the modern DevitNet.
+
+**The freeNet Netmasters**
+They begin, first, as merely skilled wranglers of glasswire, who's expertise was needed in so many parts of the DevitNet that their physical proximity to these individual locations was voted as necessary. They acted as a form of technical support, coordinating maintenance and repair efforts of the DevitNet, and having little else to do with its actual goings-o beyond keeping the lights on. In time, they came to be called the 'Netmasters'.
+
+When the Endel Wyrewatch formed however, many found themselves opposed to its existence and actions as a matter of philosophy, and organized among themselves to fight the Wyrewatch in pursuit of a free net. The 'free-netters' among the Netmasters quickly rose to become formidable local powers, bolstered by the support of many others who despised the Wyrewatch, as well as their willingness to go much farther than the Wyrewatch was to see their aims realized. 
+
+Most prolific among the free-netters were **Syversal and Rhelain Hex**, the former of which having been there in the formation of the DevitNet and his brother. Both Hexs, a family that would gain a fair bit of notoriety in time, they worked to coordinate their fellow Netmasters and oppose the Wyrewatch, with tactics ranging from glasswire turf-wars fought on the net, to active sabotage of Wyrewatch infrastructure topside.
+
+Their inquiry into the Glazwyre has led to considerable worry among the Wyrewatch, as they envision the Netmasters, willing to abandon everything as demonstrated time and time again, would forsake even what it meant to be kin in order to find a means to impose their vision of the DevitNet upon all.
+
+**Ivory Tower Glasswire Solutions**
+A subsidiary of Lancaster Innovations, founded by **Biola Lancaster**. They work to provide - as the name clearly states - glasswire solutions to various parties in the Dancirah. They are the foremost builder of nets in the Dancirah, of all sizes and for all purposes, and they make it a point of pride to maintain utmost secrecy around the contracts their clients give them. For this reason, they come under frequent fire by the Wyrewatch, who work endlessly to find and utilize any leverage they can find against the Ivory Tower to extract information on various goings-on within the net.
+
+Many suspect the only truly complete maps of the anarhiza root network - DevitNet, ArcolNet, microlNet, all the isolNets, everything - exist solely in the hands of the Ivory Tower, as they - quite literally - built it all.
+
+**Nefelworks Corporation**
+Established by **Traum Swefn**, a Lancaster of some repute, Nefelworks takes their name from the Skydancer Nefelé, the Dreamer and the Skydancer with the domain of chalk itself. It is the former motif, that of dreams, that Nefelworks aims to channel in all it does, devising technology that occupies the realm of dreams. They rose swiftly to become the most prolific manufacturer of Slates and compute devices in the Switchboard. 
+
+When the first drafts of artificial chalkweaving devices reached public consciousness, Nefelworks set about developing and later dominating the field of mockweaving and weftloaders, devising the Needles V-1, the baseline by which all weftloader devices would be judged. 
+
+Many suspect that the Lancaster's fascination with weftloaders and the proliferation of the technology among them stems from - put simply - a fear of the asymmetry of power between those who could wield chalk and those who could not - a much greater fear of what could spawn, grow and arise from the void that is this asymmetry of power. 
 
 ### The Breach Protocol
 In the time of the Praxis Conflicts, the Third Kin needed to discover the location of the Vitric Trinary Minds, Minds that were capable of weaponizing the negentropic, weave-eating glass of the Vitric Shelf against the Third Kin. To do so, they needed a means to breach the various strongholds of the First Thinker Minds at the time; the Mind Nexuses where multiple Minds could be domiciled and stage various offensive operations, and the far more prolific Vaults. These Vaults were created and presided over by the Interdictory Minds of the Interdiction Collective. These colossal megastructures served as large caches of both information and objects, particularly the ruins of the long-annihilated Vermeil civilization. They were in turn guarded by powerful praxis-reliant shields, channeling the Mind's doctrine of protection, and the Mind's partially autonomous swarm of defensive machine-spawn known as the chromelings. To enter a Vault then, was no easy feat.
@@ -614,9 +597,9 @@ But Ryjik could do more than just 'defeat' glass. His ability to defeat glass ca
 
 Compiled in a tome titled *The Writ of the Eater*, Skydancer Ryjik outlined the first rules and schematics of what would come to be the **glass ritualism**; chalk ritualism that used glass as a component, with scintillate acting as a buffer between the complex chalk ritual and the complexity-shredding glass it sought to utilize. He recorded the affects scintillate had on the lattice when consumed; glass would destroy the lattice of all who consumed it, but scintillate behaved differently - almost like a mind-altering 'drug' - dependent seemingly on the color of the scintillate.
 
-But the most storied bit of knowledge acquired from the inquiry of Ryjik was in the making of weaponry. Before the attack on the Trinary Complex in the Vitric Shelf, Skydancers Onuris, The Hammer, and Ryjik, the Eater, collaborated in shaping a weapon. A weapon that harnessed chalk, glass, their stable crystalline-complex and the scintillate glass-inversion. It was called the **PRISMpick**, and it had power that spanned the glasswire and the Dancirah. With it, with a single strike, it could breach and seize control of any glasswire network, any computational device, carve a path into any Vault, sunder any weave, undo any ritualism. Within it was the power of Skydancer Ryjik; the power to eat, and render impotent. 
+But the most storied bit of knowledge acquired from the inquiry of Ryjik was in the making of weaponry. Before the attack on the Trinary Complex in the Vitric Shelf, Skydancers Onuris, The Hammer, and Ryjik, the Eater, collaborated in shaping a weapon. A weapon that harnessed chalk, glass, their stable crystalline-complex and the scintillate glass-inversion. It was called the **PRISMpick**, and it had power that spanned the glasswire and the Dancirah. With it, with a single strike, it could breach and seize control of any glasswire network, any computational device, carve a path into any Vault, sunder any weave, undo any ritualism. Within it was the power of Skydancer Ryjik; the power to eat, and render impotent.  ^b4588e
 
-The PRISMpick was the first of the weapons that would come to be known as the **Teeth of Ryjik**. With their power and nature known and yet not fully explored, they became incredibly coveted. Forging them is no easy task, as glass is a material that actively opposes being worked upon. As such, so few of them exist that they have attained the status of myth, the PRISMpick itself being lost during the Refrain. This has only cultivated more interest in forging more of them, by any means possible, as those who wield them are believed to be able to defeat any obstacle to their aims, be it chalkweaver or glasswire construct. 
+The PRISMpick was the first of the weapons that would come to be known as the **Teeth of Ryjik**. With their power and nature known and yet not fully explored, they became incredibly coveted. Forging them is no easy task, as glass is a material that actively opposes being worked upon. As such, so few of them exist that they have attained the status of myth, the PRISMpick itself being lost during the Refrain. This has only cultivated more interest in forging more of them, by any means possible, as those who wield them are believed to be able to defeat any obstacle to their aims, be it chalkweaver or glasswire construct.  ^fb11c4
 
 For now, the only ones suspected to truly have or be able to forge Teeth weaponry are Skydancer Ryjik's apostolics within the Sil'khan Sabai; nomad-zealots that worship the the Skydancer's and live to spread their words. Ryjik's faithful in particular - the Eaters of Ryjik - laud themselves as crusaders against the Vaults in the Switchboard, reenacting the purpose for which Ryjik arose to begin with.  
 
@@ -638,3 +621,13 @@ The called it the **Glazwyre**. Hallowed was its name.
 To reach the Glazwyre, one must consolidate oneself down to merely their will, and delve into the glasswire, exposing themselves to the mechanics of doctrine and praxis, and being granted entry to the upper room. Within the Glazwyre, pure will is allowed and used to shape the goings-on of the nets below, perhaps made possible by speaking directly to the heart of the anarhiza itself. Within the Glazwyre, answers to its questions are scare - scarcer still outside of it, but this hallowed domain being the plane upon which the DevitNet's and Dancirah's Netmasters operate has made them its de-facto highest authorities. Their power is not limitless, but appears this is more a product of there having been no one who forged this path before, and taught those behind them how to walk it. 
 
 The final concern, of course, is what the Netmasters truly are - perhaps what they've become - and above all, what are their ends. Many espouse a vision of a 'freeNet', one without oversight of any kind, allowed to grow and thrive, the only doctrine being endless proliferation. But skeptics remain so, believing that the Netmasters, shrouded in shadow as they are, have aims not dissimilar from many others in the Switchboard; grand chisel-blows in the slate-ledgers of the Current, actions that will ensure their names transcend death itself. 
+
+## Closing Notes: On Narrative
+### Named Nomenclature
+A number of things discussed in this document have in-canon named discoverers and creators, who have named these things accordingly. In narrative, to bestow some elements of individuality upon them, the choice might be made to refer to them by these names rather than their more general ones.
+
+- Glasswire data throughput classes utilize the **Kao** classification. Numbered from Kao-0 to Kao-5, they denote escalating physical diameter of glasswire wire, and thus total data throughput.
+	- **Kao-0** is exclusively used for microlNet communications, and isn't generally used outside of that due its immensely low throughput by design.
+	- Netfrastructure progresses as such; **nexuses**, **sub-nexuses**, **cradle nexuses**, **region-orbital net relays**, **ground relays**, **final nodes**. Between each of these is a Kao-class glasswire, starting at Kao-5 between nexuses and sub-nexuses, and Kao-1 between ground relays and the final nodes on a network.
+- The mindspun computational cube was developed primarily by **Fredriko Larksel**, thus leading to its alternate name of the **Larksel cube**.
+- Similarly, Fenyr Baranx was the foremost researcher on the means to push information down glasswire, which led to his development of the **braced-weft packet doctrine** and the **dictionary brace** calcic apparatus that facilitated it, later called the **glasswire packet weft brace**. They thus bare the alternate names of **Baranx packets** and the **Baranx brace**.

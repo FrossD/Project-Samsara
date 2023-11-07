@@ -4,42 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "58b093bd1ba519e4",
+        "id": "8f1dd6106ae21591",
         "type": "tabs",
         "children": [
           {
-            "id": "eb0286971e5c5dd5",
+            "id": "af9d1ca6b52e5e05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2. Development/Workshop/Prop.CommsCompute.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
           {
-            "id": "fa912e8f1c623c06",
+            "id": "fb7cc88e879ef374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/Prop.CommsCompute.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2fed8d2b9ff44e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,6 +31,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/Prop.CommsCompute.md"
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md"
               }
             }
           },
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/Prop.CommsCompute.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/Prop.CommsCompute.md",
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,17 +174,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb0286971e5c5dd5",
+  "active": "fb7cc88e879ef374",
   "lastOpenFiles": [
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Workshop/Prop.CommsCompute.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Workshop/Post-CommsCompute Legacy.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "Untitled.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md",
+    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
     "Void 5.canvas",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
     "1. Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md",
     "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
     "2. Development/Mechanical Pillars/The Void.md",
@@ -215,11 +204,8 @@
     "Z. Assets/Pasted image 20231027212609.png",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "3. Scribbling/E274D000",
-    "Untitled.md",
     "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
     "C4.md",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
     "3. Scribbling/~$sessment.docx",
     "3. Scribbling/~WRL1062.tmp",
     "3. Scribbling/~WRD1016.tmp",
