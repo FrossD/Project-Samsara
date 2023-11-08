@@ -1,7 +1,7 @@
 # Spot Lore Tracker
 In developing many other docs, workable lore that can even make it to final iterations are created on the spot. This is a doc for tracking them, based on the document of their origin, and their final destinations.
 
-[[Disciplines of the Switchboard]]
+[[Martial Disciplines of the Switchboard]]
 - **Rosenthalist faction known as the Roslettes**
 	- Practice the Roslette Style
 	- Very much implied to be your usual mob/crime family

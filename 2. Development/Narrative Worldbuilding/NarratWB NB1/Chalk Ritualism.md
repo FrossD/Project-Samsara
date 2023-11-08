@@ -169,7 +169,7 @@ These rituals typically only need chalk supply and the flower ancillary componen
 Combat rituals are a means to basically craft additional power, simulating Teks in behavior but often far exceeding them in raw power and versatility. Most combative rituals are the creations of the Striders that wield them, seeking to augment the 'fighting style' created by the interplay of their Relics, Teks and additional powers. A Strider's rituals are typically their most powerful weapons, and are often what earn a Strider notoriety in the Switchboard. 
 
 #### Further Notes: Quickcasting
-Combat rituals are necessarily cast faster than most other rituals as that is a requirement for effectiveness in combat. The means by which they do this, however, is through '**quickcasting**', a variation of regular ritual casting that works via consolidation and of the casting process, leading to an element of standardization of methods.
+Combat rituals are necessarily cast faster than most other rituals as that is a requirement for effectiveness in combat. The means by which they do this, however, is through the practice of '**quickcasting**', a variation of regular ritual casting that works via consolidation and of the casting process, leading to an element of standardization of methods.
 
 The core of quickcasting is the **qui-wheel**, an immensely simple construct of chalk geometry propagated from the hands. It takes the form - at its absolute simplest - of two concentric circles, with at minimum, three smaller circles inscribed between the circumferences of the two initial circles, each at angles of 120° to each other, forming a disk of chalk in the hands. Each of the three smaller circles is a place for a ritual component to be inserted to fulfill the schema for the '**qui**' or quickcast, at which performing the seal resolves the ritual.
 
@@ -300,3 +300,12 @@ What then, does a Structural Cast accomplish? Often, they are employed to reshap
 Every single Structural Cast in the history of the Switchboard was a history-defining event - expectedly - featuring organization and collaboration from Striders all over, who - recognizing the power and knowledge they held - employed it to shape the Switchboard as they saw fit. 
 
 This is the power of the Chalk Ritualism, and the final form of the Hands as Chalk.
+
+### Further Notes; Praxis Ritualism
+> Recommended reading; [[The Blank-Slate Mind]].
+
+Praxis ritualism can be seen as operating in a similar space as structural casts; wholly grand affairs working towards imparting wide-ranging change on the ledgers of the Switchboard. Praxis ritualism does similar, operating on the mechanics of praxis to impart change through rituals.
+
+As with all rituals and ritualism, its scope is vast.
+
+Performing praxis ritualism employs two additions by way of ritual components; a ritual **mark**, relevant to the doctrine one wants to invoke, and the very conviction in that doctrine of the caster. This conviction is necessary for the ritual to even work, and further more, enhances its efficacy in line with the depth of that conviction.

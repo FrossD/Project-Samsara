@@ -679,6 +679,17 @@ While weapon abilities are arguably a part of a subject's kit and fighting style
 
 Relic weapons have a **Relic Skillset**, which is a series of powers a relic weapon possesses due to the ritualism inculcated in its makeup. These powers can be **offensive**, **defensive** or **utility** powers, with some relics having a **burst** (PHldr.) that can expend a massive amount of chalk to perform a greatly empowered cast.
 
+#### Martial Arts in the Switchboard
+There is an art to combat in the Switchboard, and schools for teaching those arts. Merely swinging a weapon will get you nowhere, and thus it is essential that one learns the formal disciplines of combat, as outlined in the [[Martial Disciplines of the Switchboard]].
+
+As a note, a **T0** category of '**Martial Disciplines**' is added to all of the Arsenals outlined under 'The Super Classes', and the Arsenal Cards elaborated upon under 'pNarrat Concept: Character Arsenals'. Proficiency in each discipline is given in three rankings; **Innate**, **Practiced** and **Novice**.
+
+- **Innate**: Perhaps even born with it; a level of proficiency that comes close to those of masters. Even with weaker techniques you keep opponents kissing the floor, and with strong ones you are whirlwind of effective violence.
+
+- **Practiced**: Clearly you've done the homework; caught between the beginning and the end, a level of proficiency is on display here that shows having learned plenty.
+
+- **Novice**: Ah, you've tripped over yourself; newness stinks like dried sweat from old clothes, and perhaps you shouldn't preform these techniques in front of more critical masters, lest you insult them and earn a broken nose for your time.
+
 ### Weapons - Choices and Philosophy
 Some further notes on Strider Combat, particularly ones that aid in defining the narrative. 
 

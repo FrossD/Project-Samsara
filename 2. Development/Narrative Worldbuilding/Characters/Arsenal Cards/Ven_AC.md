@@ -1,6 +1,22 @@
 # Arsenal Card: Operator Adven Ventura
 His white-burned hands and feet speak of his age, his filled cabinets speak of his feats, but his blank, marble stare belies something far greater. For one cursed to be old in a profession where most die young, he has seen the rise and fall of many, lived through the greatest times in the modern Dancirah, and proved that the doctrine of Spyndl still burns powerfully through all these processions. And the Dancirah has seen many a man and creed, but Ventura is here, and they are not. Boasting infamous **marksmanship** and battle-honed **chalkweaving**, it is not that Ventura is a force to be reckoned with, but rather the yardstick by which reckonable forces are measured. 
 
+## T0 - Martial Disciplines
+Rigorous training in the ranks of the Spyndl Academy's Operator school, further honing out in the field and gathering experience in his many travels has taught and honed Operator Adven Ventura into a lethal weapon. Proficiency with fists, martial weapons and firearms has granted him supreme confidence in engaging in all forms of combat against any type of target.
+
+### Innate
+- Spyndl Academy's HALOS Doctrine - **HALOS**
+- HighCastle Wyrlian - **Castle Wyrlian**
+- Sanscryvan Knife and Sword Disciplinary Standard - **Skidis**
+- Sekator's Restraint and Disabling Standard - **SRDS**
+
+### Practiced
+- The Wheelhouse's Five Summits - **The House Pentrapex**
+- The Flight of Zahir - **Divine Zahflir**
+
+### Novice
+- Starwyld's Bladeworks - **Threwfair-fam**
+
 ## T1 - Relic Armaments
 ### Martial Arms
 **Tritanium Longsword** - SPYNDL-046

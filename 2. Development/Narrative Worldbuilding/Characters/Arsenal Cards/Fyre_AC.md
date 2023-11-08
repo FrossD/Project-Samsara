@@ -1,6 +1,27 @@
 # Arsenal Card: Wydlsman Cendyr
 Scorning the arcology of their birth in favor of the vast challenge of the Starwylds, once Fel-Arcad - now Feljourn - Cendyr wears the mantle of a wyldsman, and walks the Dancirah in search of plunder and foes. Their many sojourns has placed them on both sides of the Spyndl Academy, and its Operators have come to know him as a shadowed figure of varying repute. His wyld-forged **swordplay** is cited as second to none, and his **dual-form flames** has ended many fights before they've even began. 
 
+## T0 - Martial Disciplines
+Experience in the Wylds has taught Cendyr a number of martial disciplines, which they use to great effect in battle. Their travels in the Starwylds has exposed them to many disciplines and just as many masters, and has led to a formation of a doctrine of swordplay that sees them wrench victory in even the most dire straits time and time again.
+
+### Innate
+- Wyldsman Cyrculian - **Wyrlian**
+*"Castle Wyrlian takes all the fun out of being better."*
+
+- Starwyld's Bladeworks - **Threwfair-Fam**
+*"With a specialty in longswords."*
+
+### Practiced
+- Of the Ashfelds and the Wylds - **Ashb'aiz**
+*"I never imagined they would let a Feljourn take part in the Fires of Zahir. I imagined that the Skydancer zealotry on display would mean only the Sil'khan would be welcome, but I learned quickly where I was wrong; Zahir is an avatar of war, and war shows no prejudice."*
+
+- Sanscryvan Knife and Sword Disciplinary Standard - **Skidis**
+*"We all have our humble beginnings."*
+
+### Novice
+- Rosenthalist Clandestine Blade Arts - **The Roslette Style**
+*"It would be terribly useful if I had anyone to teach it to me. Unfortunately the Rosenthal court-warmers remember my face better than I imagined, and I reckon they really want their belongings back."*
+
 ## T1 - Relic Armaments
 ### Martial Arms 1
 **1530 Centigrade** - CINDER-031-F#DAYSTAR - Longsword
@@ -109,8 +130,37 @@ Axle: Martial Arm | 1530 Centigrade
 	Ashflame is suffused into a weapon, and a series of powerful, sweeping cuts are made against a target, shattering their defenses, inflicting inductive cold-burns, and siphoning a considerable amount of chalk. This attack can only be performed when the starfire reserves are majorly filled with ashflame. Upon cast, half of all ashflame expended is refunded as starfire in the reserves.
 
 ### Quis
-**(N/A)**
-*"Never was good at the damn things."*
+Cendyr's arsenal of quickcasts relies heavily on their Tek, and clever usage of both starfire and ashflame along with the employment of ritual components, allowing for devastating attacks and helpful utility casts, all acquired over many processions out in the Starwylds.
+
+**Stars, Cleanse Me**
+Axle: Tek | Starfire Conduit
+*"Were I one for drink, I would get far more mileage out of it than I do now. Fortunately, I am often in the company of those who are far fonder of the Cyrculian Spirits."*
+	Cendyr summons forth a qui-wheel, filling it with components and measures of starfire, powering it with chalk and then issuing the verbal command of the cast's name. Upon performing the somatic component of beating the chest with a balled fist, all inductive effects on Cendyr are instantly cleansed. 
+
+**Flame, Surge Forth** - Induc
+Axle: Tek | Starfire Conduit
+*"For campfires, and the things campfires attract."*
+	Cendyr summons forth a qui-wheel, filling it with components and measures of starfire, powering it with chalk and then issuing the verbal command of the cast's name. Upon snapping the fingers, a river of starfire flames surge from his hand, arcing downwards and spilling like napalm. 
+
+**Zahir, Fall Upon Them** - Induc, Brch
+Axle: Tek | Starfire Conduit
+*"The Sil'khan own the wilds. Raised in the arcologies, I didn't really believe in the divinity of the Skydancers. Out in the Wylds, I still don't, but I understand now those who do."*
+	Cendyr summons forth a qui-wheel, filling it with components and measures of starfire, powering it with chalk and then issuing the verbal command of the cast's name. By performing a great swing of the arm, Cendyr is able to release devastating shotgun-like sprays of starfire fireballs, flying forward in flat arcs that give them considerable travel distance. Upon landing, they explode and spread starfire flames even further. 
+
+**Frost, Hone You** - Siph, Induc
+Axle: Tek | Starfire Conduit
+*"In my time, I have thrown many punches, but few slaps. There is a message behind a slap, one of disapproval, and I remember each one. Many were for those who regarded their weapons and equipment as merely tools."*
+	Cendyr summons forth a qui-wheel, filling it with components and measures of ashflame, powering it with chalk and then issuing the verbal command of the cast's name. Upon running the fingers on a weapon, it is coated in chilling ashflame for an extended period of time. Attacks with ashflame-coated weaponry siphon strength from their targets to Cendyr, as well as set them alight while cutting harsher than normal.
+
+**Ashfire, Wither Them** - Siph, Induc, Unrav
+Axle: Tek | Starfire Conduit
+*"Anger can burn either hot or cold. Fear cold."*
+	Cendyr summons forth a qui-wheel, filling it with components and measures of ashflame, powering it with chalk and then issuing the verbal command of the cast's name. By flicking the fingers, Cendyr can hurl a colossal sphere of ashflame in a direction, exploding upon hitting a solid object, or upon command by Cendyr. Empowered by calcic ritualism, this ritual ashflame will burn on a target until there is nothing left to consume.
+
+**Chaos, Take The World** - Siph, Induc
+Axle: Tek | Starfire Conduit
+*"I believe the Soleri fear and hate us Feljourn because they see what we - what Fel-Arcad - become, once we have dwelt in the Wylds. You can never return to who you were before, once you are opportune to look at them from afar."*
+	Cendyr summons forth a qui-wheel, filling it with components and measures of ashflame, powering it with chalk and then issuing the verbal command of the cast's name. With a palm-strike on the ground, Cendyr summons forth colossal pillars of ashflame, screaming into being from the ground below, cascading outwards in expanding waves from where Cendyr struck. If a pillar strikes a target, all other pillars of ashflame will converge upon them, spawning forcefully beneath their feet.
 
 ## T4 - Grand Calcic
 ### Rituals
@@ -122,7 +172,7 @@ Axle: Tek | Starfire Conduit
 - **Stargift: Leyndell Squall** - Channeled - Induc, Siph
 Axle: Tek | Starfire Conduit
 *"I hate to see what Spyndl has become, but perhaps it is what we deserve. Perhaps something will rise from this ash, but I am not hopeful."*
-	The caster creates a site of ritual geometry and expends components, including a co(N/A)nsiderable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
+	The caster creates a site of ritual geometry and expends components, including a considerable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
 
 
 ## T5 - Flash Protocol
