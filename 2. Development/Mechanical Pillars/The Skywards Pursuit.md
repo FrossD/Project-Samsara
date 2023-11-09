@@ -150,7 +150,6 @@ However, Striders frequently contract the names of the weeks for brevity. Contra
 | 8 | Cylindrica | Cyrc        | Cyrc'mies      | Cyrc'cendyr      | Cyrc'flara       |
 | 9 | Wyntrar    | Wyn         | Wyn'mies       | Wyn'cendyr       | Wyn'flara        |
 
-
 With a sixteen-day week also being called a cycle, Striders further break down weeks or cycles into hacycles (half-cycles; eight days), quarcycles (quarter-cycles; four days) and oc'cycles (eight-cycles; two days). The Switchboard week is often taken as four quarcycles of alternating periods of work and rest.
 > Can be further shortened (maybe) into 'hacycs', 'quacycs', 'ocycs'.
 > Pronounced and written as hasik, quasiks, osiks and siks for just days.

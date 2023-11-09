@@ -1,6 +1,21 @@
 # Arsenal Card: Riftlock Blakk
 Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Daughter enters the battlefield. Her attunement with the Depths and frequent supplication to the Amaranth Sultan through feats of innovation and engineering has granted her a vast, blessed toolbelt of unrivalled versatility. Specializing in command of various **technological relics**, there is no situation she cannot meet head-on. And when the opportunity arises, she can deploy their foul **black ice**, and shatter heretical foes with crushing force.
 
+## T0 - Martial Disciplines
+Service in the Void and the Daughter's courts has exposed the Riftlock Blakk to a variety of the Void's disciplinary offerings, and going rogue has made them privy to a fair bit more. Favoring the brutality that overt measures allow, Blakk has translated this to their martial doctrines. A long life spent in workshops, however, has worked against them in this respect.
+
+### Innate
+### Practiced
+- The Path of Oninan Monks and Giants - **Oninan Path**
+*"It translated surprisingly well to swinging oversized wrenches."*
+
+- The Methods of Travelling Savants - **Trevelyan's Principles on Confrontation**
+*"I fancy myself a Treveler of sorts, a traveling tinker, a purveyor of all things odd and mechanical."*
+
+### Novice
+- Vahnkin Infantry Weapons and Warfare Doctrine - **Vahnkin War-making**
+*"I value it more so for how it has exposed me to battle in general."*
+
 ## T1 - Void-Enhanced Armament
 ### Given Armament
 **Rift Vibrokhopesh** - Curved Sword
@@ -11,12 +26,12 @@ Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Da
 **Blakkstrikes** - Brch, Cado, Siph, Unrav
 Axle: Formshift | Re-Innovate
 *"The Daughter gave me a charge; 'go, show them the depths of the Void; the all-encompassing wrath therein'."*
-	This attack synergizes with Blakk's **Formshift**, and does additional damage based on the number of **innovation charges** that Blakk has accumulated through formshifts, **capped at twenty charges** expended. This strike bypasses and destroys armor, cuts, siphons chalk and suppresses further chalkweaving. It is Blakk's most powerful technique.
+	This attack synergizes with Blakk's **Formshift**, and does additional damage based on the number of **innovation charges** that Blakk has accumulated through formshifts, **capped at twenty charges** expended. This strike bypasses and destroys armor, cuts, siphons chalk and suppresses further chalkweaving. **It is Blakk's most powerful technique**.
  
 - Utility
 **Momentum Conduit**
 *"You know its working when it starts singing."*
-	 The Rift Vibrokhopesh shunts constantly between the Dancirah and the Challenger Dark, its blade thus being a densely-contained piece of crystal with immensely high momentum but little apparent displacement. With a touch, it can impart this momentum on structures sensitive to it.
+	 The Rift Vibrokhopesh shunts constantly between the Dancirah and the Challenger Dark, its blade thus being a densely-contained piece of crystal with immensely high momentum but little apparent displacement. With a touch, it can impart this momentum on structures sensitive to it. The momentum with which the Rift Vibrokhopesh vibrates **scales** with the **hack counter**.
 
 ### Taken Armament
 **Crash Spanner** - Quarterstaff
@@ -57,6 +72,8 @@ Axle: Formshift | Re-Innovate
 	Blakk's Selective Action allows her to filter metal from non-metal, using the divine calculus of the Amaranth Sultan. Metals are attracted to her, and non-metal pushed away.
 
 ### Paired Points
+**(N/A)**
+
 ## T3 - Draws From The Void
 ### Gifts and Possessions of the Void
 **Cache of Contraptions**
@@ -117,24 +134,66 @@ Axle: Formshift | Re-Innovate
 *"If I really focus, I can pluck a hair off a beard. Usually I just break a nose."*
 	The gauntlets are refitted with repulsion-capable apparatus and high-strength chain, allowing for launching the arms and retracting them. Should they strike a target, Blakk can reel them in while they are unable to resist due to a heavy inductive stun. If they fire at an object, they can reel it towards them, or reel themselves towards it.
 
-- **Contraption #4 - Hyper Visors**
+**Contraption #4 - Breach Visors**
 *"Helps me keep track of loose screws."*
- 
- 
-- **Contraption #5 - Black Ice Shield**
-> Can only be summoned last.
-> Attacks expend innovation charges.
+	Cross-spectra sensorial apparatus mounted to the windows of the spirit grants the wearer optical prowess. The language spoken by all things, the evangelism inherent to things that exist, becomes the domain of the one gifted sight.
+	- Blakk's Breach Visors cannot be given hacks. Instead, as they are innovated upon, they add to an internal, separate hack counter of how many times they have been innovated, which scales the effectiveness of the Breach Visors. It still, however, contributes **one point** to the **hack counter**.
+	- Blakk's Breach Visors additionally take **two** Innovation Charges to summon.
+- Utility
+**Artificer Vision**
+*"Follow the data. Find the answer."*
+	The Breach Visors enhance other components of Blakk's loadout;
+	- **Strafe Boosters: Blast Hack** can be chain-triggered into itself five times, granting Blakk the ability to perform five bursts of immense velocity that decays with time, allowing instantaneously changing direction.
+	- **Assault Gauntlets: Barrage** and **Railgun Hack** have greatly increased accuracy. Additionally, the scaling damage from stacking the **hack counter** on the Railgun Hack is **uncapped.**
+	- **Assault Gauntlets: Hook-shot Hack** can now send hyperweave careening down its length, dealing devastating damage to any at the end of the hook.
+	- **Repulsor Plate: Slam Hack** can now discriminate between targets at Blakk's discretion.
+	- Blakk's **Draw Strike: Hazard Drawer** sees additional modifications;
+		- Twice as many missiles are spawned, and they home more aggressively on targets.
+		- The blinding flash and stunning sonic follow-up is additionally accompanied by a wave of curvature distortion, flinging all targets backwards a considerable distance.
+		- The shower of oil is mixed with additional compounds, producing a larger explosion.
+	- Blakk's **Innovation Charge** gain from using her Formshift is **tripled**.
+  
+- **Contraption #5 - The Black Ice Shield**
+*"Perhaps my finest work."*
+Otherwise full metals are melted and fused to form pristine alloy, and the incants of the dwellers in the Dark, the riftlock arbiters of the Deep, and the daughter-born scorn-bearers of the Sky are stamped into its make. Around its edges are a lip of violet amara, rime and ash gathering on its vertices, suffused from the underwhere. Gripped with the conviction implicit to its making, blackened frost springs forth, granting shape to the buckler. Its lattice quakes at the ever-present possibility of its own unmaking.
+	Tooled and shaped in the deepest dark of the Void, Blakk's Black Ice Shield has attained hallowed status, becoming a weapon that evangelizes the word of the Amaranth Daughters. In its usage, it spawns Blakk's signature **black ice**, a crystalline hybrid complex of amaranthite and packed water-ice. **When struck**, it **assimilates the momentum of the strike**, and dissipates it within its crystal structure, **shattering explosively with proportional force**.
+	- Rather than being Re-Innovated under Blakk's **Formshift: Innovation Routine**, the Black Ice Shield is summoned **after all four others of Blakk's Contraptions are active**, requires **having more than 20 innovation charges**, and is always in **hacked** state. Using the powers provided by the Black Ice Shield adds **virtual charge** to the hack counter, building it beyond cap. 
+	- The Black Ice Shield, however, consumes a number of **innovation charges** to perform its abilities, and is returned to the Void when the innovation charge counter is depleted to **twenty charges**.
+- Offensive
+**Winter's Throw** - Brch
+*"Catch."*
+	Blakk throws the Black Ice Shield. Targets struck with it are encased in black ice, and the shield rebounds between targets, seeking out the strongest - calcically-determined - and working down from there, rebounding between a maximum of three targets. The shield can be recalled back to Blakk at will.
+	- This ability consumes **4 Innovation Charges**.
+- Offensive
+**Glacial Quake** - Cado, Brch
+*"Watch out for falling rocks."*
+	Blakk slams the edge of the shield in the ground, causing a cascading wave of jagged black ice to emanate in a cone before her, ripping through and freezing any targets caught in its effective radius.
+	- This ability consumes **6 Innovation Charges**.
+- Offensive
+**Cold Shoulder**
+*"Please remember that teeth are small objects and are expectedly a choking hazard."*
+	Blakk charges and then rams a target frontally with the full brunt of the shield. Struck targets are encased in black ice, targets that are already encased in black ice are shattered, causing it to explode.
+	- This ability consumes **3 Innovation Charges**.
+- Defensive
+**Artificer's Parry**
+*"Nothing quite like seeing gears mesh so nicely together."*
+	Blakk performs a swipe with the shield, with the aim of wholly nullifying an attack. Performed perfectly, the attack is nullified, the attacker or striking projectile is encased in black ice, and Blakk reaps **an amount of innovation points proportional to the severity of the attack.**
+	- This ability consumes **10 Innovation Charges**.
+- Utility
+**Shattering Bulwark**
+*"A failsafe is an essential."*
+	If the Black Ice Shield is struck with an attack strong enough to utterly destroy it, or after taking enough damage it, it explodes violently into a massive glacier of black ice. 
 
 ### Draw Strike
 **Hazard Drawer** - Cado, Brch, Induc, Unrav
 *"The mark of a good engineer is organization. The mark of a better engineer is not needing it."*
 	When Blakk executes her **Innovation Routine** formshift, one of six phenomena occur, randomly chosen;
 	- Three to five weave-seeking missiles emerge from the rift and hunt down the strongest discernable targets in the vicinity, exploding once sufficiently close-by. 
-	- The vicinity is suffused with toxic gas, doing damage exclusively to those bearing the Strider Protocol.
-	- A blinding flash, disorienting sonic follow-up, and a final devastating repelling wave surge from the rift, stunning all targets and flinging them back a considerable distance away.
+	- The vicinity is suffused with glass-based gas, doing damage exclusively to those bearing the Strider Protocol.
+	- A blinding flash and a disorienting sonic follow-up surge from the rift, stunning all targets.
 	- An explosion of lacerating depthstone shrapnel that rips through friend and foe alike, defeating defenses and armor.
 	- A shower of oil that suffuses the air and slicks the ground beneath, before violently igniting.
-	- A burst of immensely powerful hyperweave that crackles indiscriminately through the air, sundering chalk and weave with destabilizing ribbon.
+	- A burst of immensely powerful hyperweave that crackles indiscriminately through the air, sundering chalk and weave with destabilizing wrath.
 
 ### Formshift
 **Innovation Routine**
@@ -142,13 +201,27 @@ Axle: Formshift | Re-Innovate
   
 Blakk's Formshift allows them to return contraptions in the Cache of the Contraptions after summoning them. When Blakk summons a contraption from their cache, they expend one 'charge' of '**Innovation**'. Blakk is able to summon the first contraption - that is, no other contraptions are active - for free. All of Blakk's contraptions are summoned as **possessions** by default. 
 
-However, when Blakk formshifts a contraption in **possession state**, it expends an innovation charge and returns as a **gift from the void**, with a skew known as a **hack**. These hacks alter the **functionality of contraptions** in Blakk's active arsenal, and adds a charge to Blakk's **hack counter**. Additionally, triggering re-**Innovate** on a contraption - that is innovating/formshifting a contraption with an active hack/skew - **refunds two Innovation charges**, which allows Blakk to summon more contraptions.
+However, when Blakk formshifts a contraption in **possession state**, it expends an innovation charge and returns as a **gift from the void**, with a skew known as a **hack**. These hacks alter the **functionality of contraptions** in Blakk's active arsenal, and adds a charge to Blakk's **hack counter**. Additionally, triggering re-**Innovate** on a **hacked** contraption - that is innovating/formshifting a contraption **with an active hack/skew** - **refunds two Innovation charges**, which allows Blakk to summon more contraptions.
 
-Thus, Blakk can summon their first contraption for free, and then **innovate** upon it to gain a contraption with a hack and two charges of Innovation. With these two charges, they can summon two more contraptions, expending all Innovation charges. With three contraptions active however (and one of them with an active hack), Blakk can re-**innovate** all of them, obtaining three contraptions with hacks and two Innovation charges. These two charges allow for summon the last two contraptions, leaving Blakk with five contraptions active; three with hacks and two without them. Re-innovating the entire contraption set yields five contraptions with hacks and six innovation charges, and innovating again yields ten more charges, for a total of sixteen.
+Thus, Blakk has three actions they can perform; **formshift/innovate**, **formshift/*re*-innovate**, and **summoning** - leading to the following rotation;
+- Blakk begins with zero Innovation Charges (ICs), zero points on the Hack Counter (HC), zero possession/taken-state contraptions (PSCs) and zero hacked/gift-state contraptions (HSCs).
+- Blakk **summons** their first PSC for free, the Strafe Boosters.
+- Blakk then **innovates** the Strafe Boosters into their Blast **Hack** form, adding one point to the **hack counter** and granting one contraption in hacked state, and reducing their taken state contraption number to zero.
+- Blakk then **re-innovates** the Blast Hack on the Strafe Boosters into the Featherlight Hack. This yields **two Innovation Charges**, while the HC and the HSC counts remain at one.
+> This is due to the fact the Hack Counter merely counts the number of summoned contraptions that *currently have* **active hacks**, and isn't a stacking counter of *how many hacks Blakk has shifted and cycled through*.
+- Blakk **summons** two more contraptions - the Assault Gauntlets and Repulsor Plate, **expending** her two ICs, gaining two PSCs and the HC and HSC counters remain at zero.
+- Blakk then **innovates** all PSCs and **re-innovates** all HSCs. This yields **three** HSCs, raises the HC to **three points**, yields **two ICs** (from re-innovating the HSC) and reduces the number of PSCs to zero.
+- Blakk **summons** their final contraption - the Breach Visor - depleting **two ICs**, raising the PSC count to **one**, and the HC and HSC count remain the same.
+- Blakk **innovates** the one PSC and **re-innovates** all three HSCs. This reduces the number of PSCs to zero, and the number of HSCs to four. It additionally raises the HC to four. However, the Breach Visors have a unique effect when active, that **triples** all IC gain from using the Formshift. As such, **re-innovating** all three HSCs yields **six ICs** per HSC, resulting in **18 ICs** gained.
+- **Re-innovating** all HSCs with the Breach Visor modifier active yields **24 ICs**, which added to the original 18 becomes **44 ICs**.
 
-Blakk can also **expend two innovation charges** to formshift a contraption with a hack (a void gift) and return it to the Void, to then re-Take it as a contraption in base form with no hacks (a void possession). Contraptions with active hacks add to Blakk's **hack counter**.
+Blakk can also **expend two innovation charges** to formshift a contraption with a hack (a void gift) and return it to the Void, to then re-Take it as a contraption in base form with no hacks (a void possession). This depletes the count on the hack counter, expectedly.
 
-Both the innovation charges and the hack counter are used to scale the effectiveness of Blakk's attacks. 
+>Additionally,
+>- With upwards of **20 ICs** available, Blakk can summon the final contraption, the **Black Ice Shield**. This raises the HC to 5.
+>- Attacks with the Black Ice Shield consume ICs but generate **virtual points** for the Hack Counter, allowing it to exceed the cap.
+>- Virtual points added to the Hack Counter allows for further empowering the **Assault Gauntlets: Railgun Hack** and the **Rift Vibrokhopesh**'s **Utility: Momentum Conduit**. When expended on either attack, all virtual points are lost.
+>- The Blakk Ice Shield dissipating once reaching **20 ICs** allows for Blakk to perform her de-facto finisher; the **Rift Vibrokhopesh**'s **Offensive: Blakkstrikes**. With 20 ICs remaining, Blakk's Blakkstrikes will hit at maximum power. With the virtual hack counter charge instead, Blakk can strike black ice created by the Black Ice Shield before dissipating, imparting its momentum and causing catastrophically damaging explosions.
 
 ## T4 - The Deep Hollow
 ### Hollow Basilica

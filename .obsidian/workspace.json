@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d24b1fdcfd5211f0",
+        "id": "a6f3eafa3c074d45",
         "type": "tabs",
         "children": [
           {
-            "id": "a64f6ba90a3555de",
+            "id": "bf15019dc61acd3a",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Treveler",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -141,6 +142,14 @@
               "type": "tlfItemView",
               "state": {}
             }
+          },
+          {
+            "id": "41601072c28ab7a6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ]
       }
@@ -156,22 +165,33 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-file-info-plugin:File Info Panel": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "a64f6ba90a3555de",
+  "active": "bf15019dc61acd3a",
   "lastOpenFiles": [
-    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+    "3. Scribbling/DC9D4000",
+    "3. Scribbling/247D4000",
+    "3. Scribbling/AB953000",
+    "3. Scribbling/SamsaraExcel2.xlsx",
+    "3. Scribbling/8A392000",
+    "3. Scribbling/~$SamsaraExcel2.xlsx",
+    "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
+    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
     "N.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Workshop/Post-CommsCompute Legacy.md",
@@ -184,21 +204,11 @@
     "Void 5.canvas",
     "1. Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md",
     "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
-    "2. Development/Mechanical Pillars/The Void.md",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
-    "2. Development/MDT.md",
     "3. Scribbling/F7B12000",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
     "Z. Assets/Pasted image 20231027212609.png",
     "3. Scribbling/E274D000",
     "3. Scribbling/~$sessment.docx",
     "3. Scribbling/~WRL1062.tmp",
-    "3. Scribbling/~WRD1016.tmp",
-    "3. Scribbling/Assessment.docx",
-    "2. Development/Workshop/SpyndlAcaMaster",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards",
-    "1. Drawing Board/1. Samsara/Legacy Discussions",
-    "1. Drawing Board/1. Samsara/Meta",
     "Z. Assets/Pasted image 20230804174944.png"
   ]
 }

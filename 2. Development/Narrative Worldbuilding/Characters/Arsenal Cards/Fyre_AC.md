@@ -9,7 +9,7 @@ Experience in the Wylds has taught Cendyr a number of martial disciplines, which
 *"Castle Wyrlian takes all the fun out of being better."*
 
 - Starwyld's Bladeworks - **Threwfair-Fam**
-*"With a specialty in longswords."*
+*"With a specialty in everything that cuts."*
 
 ### Practiced
 - Of the Ashfelds and the Wylds - **Ashb'aiz**

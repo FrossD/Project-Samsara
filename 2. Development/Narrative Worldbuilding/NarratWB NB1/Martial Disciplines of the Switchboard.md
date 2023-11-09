@@ -199,7 +199,7 @@ A fork of Skidis, developed by the Fel-Arcad themselves. More specifically the S
 
 By the usage of blunt weaponry to specific parts of the body, an arcology's Sekators are able to perform the necessary act of policing, while maintaining - somewhat - the Fel-Arcad's philosophical stance of zero and - only when absolutely necessary - minimal violence. Precision strikes intended to disable but also heal quickly allow them to do this, and constant study is being done to develop both the physical techniques as well as the tools used to maximize its effectiveness while still occupying the Fel-Arcad's square footage of the moral landscape.
 
-#### 6. Vahnkin Infantry Weapons and Warfare Doctrine
+#### 6. Vahnkin Infantry Weapons and Warfare Doctrine - Vahnkin War-making
 **Origin**
 - The Vahnkin
 **Style**

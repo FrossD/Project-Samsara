@@ -6,16 +6,27 @@ Rigorous training in the ranks of the Spyndl Academy's Operator school, further 
 
 ### Innate
 - Spyndl Academy's HALOS Doctrine - **HALOS**
+*"Some of the greatest figures in the annals of the Current got there with nothing but sword and handcannon in hand. The symbol of victory in the Switchboard is the HALOS doctrine."*
+
 - HighCastle Wyrlian - **Castle Wyrlian**
+*"Many times I have extended an arm to a fallen foe only to be slashed again on the forearm. I still keep doing it. The stories spread, and that is good for the spirit."*
+
 - Sanscryvan Knife and Sword Disciplinary Standard - **Skidis**
+*"Everyone start somewhere. I like Skidis, it is polished and disciplined."*
+
 - Sekator's Restraint and Disabling Standard - **SRDS**
+*"Necessary for training. I thought once it was a misguided attempt to disabuse the notion of Operators being ruthless killers. I was somewhat right; it is precisely because so many of us are just that, that it is necessary to learn the Restraint and Disabling Standard."*
 
 ### Practiced
 - The Wheelhouse's Five Summits - **The House Pentrapex**
+*"I cannot speak on that which doesn't exist."*
+
 - The Flight of Zahir - **Divine Zahflir**
+*"Speak not of this discipline. It is meant only for the hollows of war."*
 
 ### Novice
 - Starwyld's Bladeworks - **Threwfair-fam**
+*"To define a discipline as the amalgamation of all other disciplines performed poorly is... preposterous to say the least."*
 
 ## T1 - Relic Armaments
 ### Martial Arms
@@ -126,19 +137,50 @@ Axle: Flashcharge
 	By sacrificing all other functions, Ventura is able to calculate and simulate the movement of all bodies over a colossal area, as well as the measures needed to intercept them accordingly. An area as vast as a multi-domain (land, sea, air) battlefield can have individual bullets intercepted through chain reactions of rebounded shots fired or caused by the caster.
 
 ### Quis
-- **Hardpoint Rounds**
-- **Unravelling Rounds**
+Operator Adven Ventura specializes in firearms and ammunition of all kind, and in this discipline he is a speaker of a very many number of tongues. His sheer proficiency at weft allows him to concoct fresh rounds in the space of a reload, faster than most can see him do it.
+
+- **Hardpoint Rounds** - Brch, Cado
+Axle: Tek | Trajectory Calculator
+*"Six shots was too small, so I asked for eight. In time, I learned I only needed one."*
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated ballistics data and powers it with calcic inferno. With this, he weaves eight hardpoint calcic rounds, capable of piercing targets and rebounding off of hard surfaces multiple times.
+
+- **Unravelling Rounds** - Brch, Unrav, Induc
+Axle: Tek | Trajectory Calculator
+*"The warning shot. Into their central mass."*
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated ballistics data and powers it with calcic inferno. With this, he weaves eight rounds encased with discordant chalkweave, that burrow into targets and unravel them from within, suppressing their power to weave chalk and use abilities.
+
 - **Antamaran Rounds**
+Axle: Tek | Trajectory Calculator
+*"Become a student. Let the Great Sky teach you what it knows."*
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated ballistics data and powers it with calcic inferno. With this, he weaves eight rounds with context-specific curvature manipulation ritualism built into their make-up. Upon detecting active curvature manipulation - such as from Depthstrider powers - they trigger the reverse effect in a localized space, counteracting and thus nullifying any ongoing spatial manipulation.
+
 - **Noble Rounds**
-- **Starblight Rounds**
-- The above use ballistics data
+Axle: Tek | Trajectory Calculator
+*"A Lancaster once told me of an adage among them; 'if you want to go fast, go alone, but going far takes friends'. I found it rather quaint. I can already move fast, and so I can always bring company along for the ride."*
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated ballistics data and powers it with calcic inferno. With this, he weaves eight rounds suffused with the grace of the Sabai, nomad-zealots of the Great Sky. Ventura's Noble Rounds travel slowly and seek out targets chosen by him. On contact, they heal and undo unravelling affects on their targets, as well as dismiss all active inductive effects of his choosing.
+
+- **Starblight Rounds** - Unrav,
+Axle: Tek | Trajectory Calculator
+*"The life of a Sil'khan is much like a star; glowing bright, living short, giving life to some and scorching others, and dying in manner that all the Dancirah can see."*
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated ballistics data and powers it with calcic inferno. With this, he weaves eight rounds packed dense with stellar matter, taking the form of virulent hyperweave. Targets struck are lanced through and sundered, being struck with the raw calcic fury of a star, disabling abilities and often knocking targets out of a fight in its entirety.
 
 ## T4 - Grand Calcic
 ### Rituals
-**Captain's Confidence**
-**Vitric Rounds**
+**Captain's Repertoire: Will of the Thousands** - Cast
+*"Do you hear it? We're all rooting for you, rookie."*
+	Ventura declares a site of ritual geometry, expanding outwards under his will. He expends components and summons forth the might of the Spyndl Academy and the Combined Strider Operations, blessing all within the ritual space with praxis-formed power. For a considerable amount of time they benefit from;
+	- Reduced effective information mass
+	- An additional reservoir of chalk to draw upon
+	- Honing of all weaponry in the context of the weapon (blades become sharper and guns shoot truer)
+	- Unravelling is considerably reduced
+	- Immunity to undesired inductive effects
+
+**Ritual Conjuration: Vitric Rounds** - Neg, Cado
+Axle: Tek | Trajectory Calculator
+*"We vow to never use glass - unless absolutely necessary. You are right to ask who decides in the moment whether it is necessary, and I tell you now that only the winners - no, the survivors - write the after-action reports."*
+	Ventura declares a site of ritual geometry, expanding outwards under his will. He expends components, notably scintillate and pure, sharp glass from the Vitric Shelf, and concocts a single round, filled with honed glass. Targets struck by this round will have their lattices invaded, consumed and subjugated by the wicked, lacerating, simplifying wrath of glass.
 
 ## T5 - Flash Protocol
-**Sojourner's Summit** - Flash Weave - Cado
+**Sojourner's Summit** - Flash Weave - Cado, Brch
 *"Never forget where you came from. You will need that for the road ahead."*
-	Ventura musters up his strength, focus and calcic reserves, and conjures forth a restrained salvo of destructive hyperweave, performing a feat of chalkweaving only made possible by having lived through ten thousand battles. With a gesture he can launch individual projectiles or the full salvo, which move at near-instantaneous speed and upon arrival at a destination, detonate with magnificent calcic force. Forgoing all higher intricacies of chalkweaving, Ventura embraces the purest aspects under the discipline; immense power and uncanny control. 
+	Ventura summons forth his strength gifted to him as descendant-kin of the storied Danseers, his focus honed over a thousand sojourns and ten thousand battles, and his command of chalk that sees the realization of dreams into reality - and conjures forth a restrained salvo of massively destructive hyperweave bolts. With a gesture he can launch individual charges or the full salvo, which travel at near-instantaneous speed to wherever he directs them and - upon arrival - detonate with magnificent calcic force. Forgoing all higher intricacies of chalkweaving, Ventura embraces the purest aspects under the discipline; immense power and uncanny control. 
