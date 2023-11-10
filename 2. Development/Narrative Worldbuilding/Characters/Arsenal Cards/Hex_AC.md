@@ -172,6 +172,3 @@ Axle: Spectrum Shift | Witchsteps
 *"It was when I stared into the eyes of the one who ran Kosaka at the time that I confronted a final truth; there are simply those incapable of computing the minds of others. It is this inability to build a model of minds different from your own, that sits at the root of the stars' many evils."*
 	With complete control of white and black, and balance between the sky and the deep, Ellaine conjures a sphere of immense altitude and another of extreme depth, and superimposes them upon each other, forming the HEXBLAST. In its formation, both spheres are subject to considerable fluctuating randomness, causing the HEXBLAST to rapidly flux and destabilize with time. Anything caught in the volume of the HEXBLAST is rapidly shunted back and forth between the Dancirah and Isalveh, to varying degrees each time, resulting in all things - man, technique, geography - being shredded across planes.
 
-On Cast;
-"Spherical depth manifestation; black, spherical reverse-depth manifestation; white. Achieve superposition. Come forth! Full Spectra Hexblast!"
-

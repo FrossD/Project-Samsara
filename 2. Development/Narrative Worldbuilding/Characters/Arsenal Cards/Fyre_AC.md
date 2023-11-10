@@ -174,7 +174,6 @@ Axle: Tek | Starfire Conduit
 *"I hate to see what Spyndl has become, but perhaps it is what we deserve. Perhaps something will rise from this ash, but I am not hopeful."*
 	The caster creates a site of ritual geometry and expends components, including a considerable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
 
-
 ## T5 - Flash Protocol
 **Crownsplitter** - Flash Strike - Cado, Brch, Unrav, Prax
 *"This is the power to fell kings."*

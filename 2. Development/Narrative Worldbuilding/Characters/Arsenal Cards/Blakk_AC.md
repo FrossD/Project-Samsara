@@ -5,6 +5,8 @@ Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Da
 Service in the Void and the Daughter's courts has exposed the Riftlock Blakk to a variety of the Void's disciplinary offerings, and going rogue has made them privy to a fair bit more. Favoring the brutality that overt measures allow, Blakk has translated this to their martial doctrines. A long life spent in workshops, however, has worked against them in this respect.
 
 ### Innate
+**(N/A)**
+
 ### Practiced
 - The Path of Oninan Monks and Giants - **Oninan Path**
 *"It translated surprisingly well to swinging oversized wrenches."*
@@ -39,7 +41,7 @@ Axle: Formshift | Re-Innovate
 	A rough, dark metal spanner roughly the height of it's wielder, carried and used as a quarterstaff. Put into spin, it is capable of delivering crushing blows to man and machine alike.
  
 - Offensive
-**Gravstrike** - Brch
+**Gravstrikes** - Brch
 *"Force is mass times acceleration."*
 	Blakk uses their powers of curvature manipulation to rapidly accelerate the end of their weapon, allowing them to inflict brutally crushing blows.
 
@@ -154,10 +156,10 @@ Axle: Formshift | Re-Innovate
 	- Blakk's **Innovation Charge** gain from using her Formshift is **tripled**.
   
 - **Contraption #5 - The Black Ice Shield**
-*"Perhaps my finest work."*
-Otherwise full metals are melted and fused to form pristine alloy, and the incants of the dwellers in the Dark, the riftlock arbiters of the Deep, and the daughter-born scorn-bearers of the Sky are stamped into its make. Around its edges are a lip of violet amara, rime and ash gathering on its vertices, suffused from the underwhere. Gripped with the conviction implicit to its making, blackened frost springs forth, granting shape to the buckler. Its lattice quakes at the ever-present possibility of its own unmaking.
-	Tooled and shaped in the deepest dark of the Void, Blakk's Black Ice Shield has attained hallowed status, becoming a weapon that evangelizes the word of the Amaranth Daughters. In its usage, it spawns Blakk's signature **black ice**, a crystalline hybrid complex of amaranthite and packed water-ice. **When struck**, it **assimilates the momentum of the strike**, and dissipates it within its crystal structure, **shattering explosively with proportional force**.
-	- Rather than being Re-Innovated under Blakk's **Formshift: Innovation Routine**, the Black Ice Shield is summoned **after all four others of Blakk's Contraptions are active**, requires **having more than 20 innovation charges**, and is always in **hacked** state. Using the powers provided by the Black Ice Shield adds **virtual charge** to the hack counter, building it beyond cap. 
+*"By all metrics, my finest work."*
+Otherwise dull metals are melted and fused to form pristine alloy, and the incants of the dwellers in the Dark, the riftlock arbiters of the Deep, and the daughter-born scorn-bearers of the Sky are stamped into its make. Around its edges are a lip of violet amara, rime and ash gathering on its vertices, effused from the underwhere. Gripped with the conviction implicit to its making, blackened frost springs forth, granting shape to the buckler. Its lattice quakes at the ever-present possibility of its own unmaking.
+	Tooled and shaped in the deepest dark of the Void, Blakk's **Black Ice Shield** has attained void-hallowed status, becoming a weapon that evangelizes the word of the Amaranth Daughters. In its usage, it spawns Blakk's signature **black ice**, a crystalline hybrid complex of amaranthite and packed water-ice. **When struck**, it **assimilates the momentum of the strike**, and dissipates it within its crystal structure, **shattering explosively with proportional force**.
+	- Rather than being Re-Innovated under Blakk's **Formshift: Innovation Routine**, the Black Ice Shield can only be summoned **after all four others of Blakk's Contraptions are active**, requires **having more than 20 innovation charges**, and is always in **hacked** state, adding one point to the hack counter. Using the powers provided by the Black Ice Shield adds **virtual charge** to the hack counter, building it beyond cap. 
 	- The Black Ice Shield, however, consumes a number of **innovation charges** to perform its abilities, and is returned to the Void when the innovation charge counter is depleted to **twenty charges**.
 - Offensive
 **Winter's Throw** - Brch
@@ -234,7 +236,7 @@ Blakk's Basilica takes the shape of a metalworking workshop, a spherical space b
 
 Being a Basilica, both the Forbid and the Binding are active. Blakk's Binding is fairly simple; all within the Basilica space are compelled to assemble a metal box by cutting, folding and welding sheet metal. Should the box be assembled by all parties successfully, the Hollow resolves and dissipates.
 
-The win state for Blakk within her Hollow is for the other parties in it with her to not notice that the lever controlling the ventilation systems is flung down, thus disabling the exhaust fans and rendering her workshop unsafe to work within. Should parties in the workshop perform any welding while the ventilation system remains off, they are immediately struck by the massively toxic fumes from vaporizing flux, causing them to sustain a heavy inductive poison that tears through their lattice, as well as computational damage that inhibits their performance of chalkweaving and other abilities, heavy unravelling that further restricts any calcic casting, and finally a heavy dose of praxis sundering that weakens them, their allies, and connected parties even further. At this point, Blakk may complete her own assembly of the metal box - with a gas mask equipped - and thus fulfill the Binding of her Basilica, causing it to resolve and collapse.
+The win state for Blakk within her Hollow is for the other parties in it with her to not notice that the lever controlling the ventilation systems is flung down, thus disabling the exhaust fans and rendering her workshop unsafe to work within. Should parties in the workshop perform any welding while the ventilation system remains off, they are immediately struck by the massively toxic fumes from vaporizing flux, causing them to sustain a **heavy inductive poison** that tears through their lattice, as well as **computational damage that inhibits their performance of chalkweaving and other abilities**, heavy **unravelling that further restricts any calcic casting**, and finally a heavy dose of **praxis sundering that weakens them, their allies, and connected parties** even further. At this point, Blakk may complete her own assembly of the metal box - with a gas mask equipped - and thus fulfill the Binding of her Basilica, causing it to resolve and collapse.
 
 The intricacies of Blakk's Basilica Binding is that a single box must be assembled before the Hollow can resolve, and thus Blakk is incentivized by the logic of her Hollow and derivative battle strategy to never weld first. If she does, and doesn't weld with either a gas mask on or after turning on the ventilation, she will be struck by her own poisonous flux vapors, and indicate to those within the Hollow that something must be done to nullify the danger posed by gas in an enclosed space.
 

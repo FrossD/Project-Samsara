@@ -14,7 +14,7 @@ Tracking progress on the doc.
      - I don't know what counts as mythology for the Fel-Arcad, but I will mark this box as done as their history is complete.
 04. [x] Appearance
 05. [x] Clothes and Bodily Adornments
-06. [x] Individuals and Families
+06. [ ] Individuals and Families
      - The scope of this section has changed, and thus the 'Individuals' section needs to actually be written.
 07. [ ] Respect and Hierarchies
 08. [ ] Rituals and Periodicals (**Indev**)
@@ -248,7 +248,6 @@ Body adornments we can do fairly easily, in that their approach to it isn't much
 > A foreword; this section was written a considerable time after the one following it was, and in fact, was written after much of this document was completed. It is thus recommend to read much of the rest of this document first and then referring back to this one. It will also adopt a different tone, one use when I was first making this document, begun almost half a year before.
 > 
 > That about explains it, I reckon.
-
 
 
 #### On Families
@@ -681,8 +680,6 @@ In my work studying for this document, particularly in the study of the Fel-Arca
 The walls are glass. Plants occupy every corner, alcove, unnecessary floorspace. Windows are disproportionately large and occupy spaces on both the ceilings and the walls. Sunlight bathes the interiors. Privacy exists yes, but there is always a feeling of being just a tad bit outside or more outside than you'd be used too. The building insulates without insulating *oppressively*. You do not feel disconnected from the rest of the world the way grey concrete and curtained windows makes you feel. The materials on the inside are natural; wood of all colors and grit, carved stone of all shades, drapes of patterned, colored fabrics. Colors are earthy bases of textured browns ranging from off-white, milk chocolate, taking a detour to orangish acacia and terminating at deep, near-black browns. Splashes of floral hues break up the monotony; green secondary shades, rainbow tertiary ones. Similar to the adornment of the Fel-Arcad is the adornment of their homes, with handcraft carvings, needlework and kinetic sculptures. Replichrome is hidden and yet incorporated into the design, with meshes of other materials obscuring it partially from view, adding the subtle hint of the advanced technologies they have command over. Lights are under deliberate control, able to be dimmed as needed. Comfort is prioritized; it is law.
 
 The architecture of various purpose-built rooms will of course feature necessary variations, with rooms that have more calcic and technological functions observably possessing more replichrome in view, as well as machines and tools as needed. But the Fel-Arcad make it a point that things must mesh. They must imbibe the mix of frugal rurality as well as learned approaches to technological forwardness. Chrome must contour with wood, and blooms must find purchase in both. It must inspire and be inspired. It must be beautiful. 
-
-
 
 ## STRATA FOUR
 ### 15. Technology
@@ -1136,7 +1133,7 @@ With that established, we may then look at the structure of Fel-Arcad government
 **The Craun Tenders**
 An arcology's High Tenders are its highest authority excluding all checks and balances that may be imposed by other arms. Separated in the **High, Mediate and Low Tenders**, each strata presides over a number of executive functions within the arcology. 
 
-The **High Tenders** can number between three and half, and serve functions not dissimilar from the role of a president in other systems. They are the arcology's chief executives, and generally if a matter needs to be addressed and actions taken as a result, they are the ones who make it possible. In particular their functions are on matters of;
+The **High Tenders** can number between three and five, and serve functions not dissimilar from the role of a president in other systems. They are the arcology's chief executives, and generally if a matter needs to be addressed and actions taken as a result, they are the ones who make it possible. In particular their functions are on matters of;
 
 - Administration
 - Economics

@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f3eafa3c074d45",
+        "id": "23bf48d53d861169",
         "type": "tabs",
         "children": [
           {
-            "id": "bf15019dc61acd3a",
+            "id": "8e26656def5e8a6d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "06.Individuals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af6802a018c119c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -86,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "06.Individuals.md"
               }
             }
           },
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "06.Individuals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "06.Individuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,14 +185,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "bf15019dc61acd3a",
+  "active": "8e26656def5e8a6d",
   "lastOpenFiles": [
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "06.Individuals.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
@@ -189,7 +210,6 @@
     "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
     "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
     "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
     "N.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
@@ -197,13 +217,9 @@
     "2. Development/Workshop/Post-CommsCompute Legacy.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
-    "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md",
     "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
     "Void 5.canvas",
-    "1. Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md",
-    "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
     "3. Scribbling/F7B12000",
     "Z. Assets/Pasted image 20231027212609.png",
     "3. Scribbling/E274D000",
