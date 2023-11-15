@@ -30,8 +30,34 @@ Rigorous training in the ranks of the Spyndl Academy's Operator school, further 
 
 ## T1 - Relic Armaments
 ### Martial Arms
-**Tritanium Longsword** - SPYNDL-046
-*"It just works."*
+**Noblesse Oblige** - WHLHUS-011-F#SALYNE - Praxlance
+*"There is a gap between us that nothing can close. And that is fine; the stars I fight for belong to you."*
+	Praxlances precede the Vaults, as such, there cannot possibly be a praxlance that originates as a Vault relic. That has not stopped the crafter of this weapon from taking the next imaginable route; raiding dozens of Vaults for the weapon-treasures within each, breaking them along their seams, and forging them into something new. It is for this reason that cracks would have spiraled across the length of stave were it not for the inlaid metal holding it together, and chips would have been nicked out of the blade were it not for the authority of the post it adorns that keeps it sharp. In hand, the weapon shapes the wielder, the crown atop the head that compels the king.
+
+- Offensive
+**Mark of Office: Skycleave** - Cado
+*"My head forever hangs low."*
+	Ventura takes a stance, and then swings the Oblige in a wide arc, the mechanics of the praxlance assembly mirroring the strike with a follow-up wave of cutting chalkweave. The sheer calcic force is enough to cleave through even the strongest targets. 
+
+**Mark of the Office: Sunderblast** - Brch, Induc, Unrav
+*"Bring low all baseless pride."*
+	Ventura takes a stance, and arms the firing mechanisms built into the praxlance. From the blade roars forth concentrated blasts of hyperweave projectiles, fired in bursts and spreads. Targets struck are heavily unraveled in an instant, as well as inflicted with **inductive unraveling** that sees the effect continue and escalate with time. 
+
+- Defensive
+**Mark of Office: Subjugation** - Brch, Induc, Prax
+*"The path before you is still worth walking, even if you can see it ends lower than others."*
+	Slamming the end of the Oblige groundward releases an incapacitating shockwave that inflicts inductive doctrinal damage on the knees of sufferers, compelling them to fall and be unable to rise momentarily. This cast cannot be performed immediately after use, however the effect lasts longer through the mechanics of praxis, **based on the ill-will held by the target towards the Spyndl Academy**.  
+
+- Utility
+**Dancer-born**
+*"The Current confers post as it sees fit."*
+	In a manner reminiscent of the Old Danseers, Noblesse Oblige confers authority upon all those who wield it, requiring possessing status to begin with to even be carried. When held in the hand, calcic locality is resolved in deference, and the wielder is granted the **Graceflight**.
+
+- Feat
+**Mark of Office: Halo Dance** - Cado, Brch, Prax
+*"There are heights afforded only to a chosen few."*
+	Ventura takes firm hold of the Oblige, and strikes out in nine sweeping arcs, covering a massive area and devastating all caught within its reach. Each cut carries with it the physicalization of pure doctrine; the post granted to Ventura by virtue of birth and feat. The Halo Dance does considerably more damage **the wider the difference in strength and authority between Ventura and the target is**.
+
 
 ### Fire Arms
 **Sojourner's Tale** - SPYNDL-046-F#HAIRSPLITTER - Handcannon
@@ -184,3 +210,8 @@ Axle: Tek | Trajectory Calculator
 **Sojourner's Summit** - Flash Weave - Cado, Brch
 *"Never forget where you came from. You will need that for the road ahead."*
 	Ventura summons forth his strength gifted to him as descendant-kin of the storied Danseers, his focus honed over a thousand sojourns and ten thousand battles, and his command of chalk that sees the realization of dreams into reality - and conjures forth a restrained salvo of massively destructive hyperweave bolts. With a gesture he can launch individual charges or the full salvo, which travel at near-instantaneous speed to wherever he directs them and - upon arrival - detonate with magnificent calcic force. Forgoing all higher intricacies of chalkweaving, Ventura embraces the purest aspects under the discipline; immense power and uncanny control. 
+
+**Danseerform** - Lattice Overclock
+Axle: Martial Arm | Noblesse Oblige
+*"Conferred upon all are wings. I have seen where yours have taken you. Let me show you where mine have taken me."*
+	From the depth of his straits, Ventura summons forth his pride as a descendant of the Danseers, those who dominated the Switchboard through their power of hallowed flight. Expending the Flash Charge, his mastery of his birthright that is the Strider Protocol crystallizes into being as concentric halos over his back, and the entirety of his lattice is unspun and rewound into a higher form. In this Danseerform, Ventura is granted perfect Graceflight, as well as supremely enhanced speed and strength, allowing him to wield weaponry - in this case, his praxlance - with hallowed proficiency. 

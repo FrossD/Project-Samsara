@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e26656def5e8a6d",
+            "id": "a14738feb7183931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.Individuals.md",
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "af6802a018c119c4",
+            "id": "72554dcd4b99d703",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ef9a88c6697646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Treveler",
+                "query": "SDZ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "539203c849419648",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.Individuals.md"
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md"
               }
             }
           },
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.Individuals.md",
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.Individuals.md",
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,18 +197,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "8e26656def5e8a6d",
+  "active": "a14738feb7183931",
   "lastOpenFiles": [
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "06.Individuals.md",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "06.Individuals.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
     "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
@@ -218,7 +231,6 @@
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
     "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
-    "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
     "Void 5.canvas",
     "3. Scribbling/F7B12000",
     "Z. Assets/Pasted image 20231027212609.png",

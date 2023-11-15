@@ -294,6 +294,32 @@ It then raises the question of how divorce is handled. There's something visuall
 Single ceskin-hood (parenthood) and outright orphaning of cenkin doesn't really exist in Fel-Arcad society, due to the communal nature of living. Referendums are held in both cases to either provide for the singular ceskin, and adopt orphaned cenkin into willing families. 
 
 Funerals are fairly straightforward; the kin gather in a ceremony of 'dust to dust', in which the body of the deceased (unless otherwise asked) is buried at the foot of the Curlicue tree at the heart of the arcology, and then end of their canon is inscribed on its branches. The body is broken down into chalk and assimilated into the replichrome of the arcology and the body of the tree, a symbolic gesture showing that, though gone, the dead remain - forever - close to us. 
+### 07. Respect & Hierarchies
+Fel-Arcad social theorists both work and pride themselves on putting the more amorphous things of social mechanisms down to something of a science. Their endless qust for understanding has led them to study - as with many other things - what earns one respect in Fel-Arcad society, and thus the hierarachies that emerge from this, divesting those who have earned respect from those who have not.
+
+In their studies they have identified roughly **six** core bases upon which respect is consciously and subconsciously allocated in Fel-Arcad society. They have come to designate them with old Arcad words, words in Thalian, spoken by the Arcad when they divested themselves from the entirety of the Third Kin as a unique peoples;
+1. **Harai** - Character
+2. **Hakush** - Study
+3. **Noryok** - Accomplishment
+4. **Nenre** - Age
+5. **Tomi** - Wealth
+6. **Tabii** - Travel
+
+**Harai - Character**
+Valued most highly in Fel-Arcad society is, above all, character. To be possessed of undeniable, open virtue engenders one to the general Fel-Arcad populace, and much of active and passive allocation of positions of high standing is done with those believed of possessing good harai. It goes without saying that such sentiment is cultivated over many, many processions and is the product of the conclusions of a very many parties. It is done - often - at the expense of the subject, as even the arcologies present avenues for cutting corners, sometimes even harmlessly, and it takes one of considerable moral fortitude to spurn even such.
+
+Conversely, those perceived to have particularly low harai are - though not openly - treated in a manner some might describe as 'accordingly'. Digging oneself out of the social hole that is being believed to have low harai is no mean feat, taking selfless - often uncompensate - service to both Fel-kind and the arcologoy itself. Many elect to simply leave the arcology of their birth, choosing instead to begin anew in the wilds, under new names and with a clean slate.
+
+Unlike other bases, those with harai aren't given any particular title, as humility is also voted as a core component of the principle.
+
+As a note on the nature of harai itself, many scholars - particularly those outside the Fel-Arcad - argue that harai is different from other families' interpretation of having good character, arguing further that harai is less so a measure or indication of moral fibre, but more so a means of referring to those who are particularly adept at, concsciously or not, dwelling under the arcology model. They state that a feedback loop exists in which the arcology compels those within it to act in certain manners for the arcology as an entity to succeed, and simulataneously the institutions that are built upon the arcology reward those who act in this manner, one of these insitutions being the Fel-Arcad peoples themselves. They pose the question of whether selflessness and honesty are valued because of the innate value of these things to kin, or because the arcology is uniquely positioned - unlike other models of living - to be particularly vulnerable to the proliferation of vices. 
+
+In particular they state how Fel-Arcad believed to possess great harai find that it does not effectively translate to non-arcology environments. Of course, they are forced to confront the Fel-Arcad argumentative rejoinder that is pointing out certain virtues are less valued outside of the arcologies because beyond the arcologies are innumerable flawed systems, and that to decry virtue for not being valuable in a den of theives is to greatly miss the essence of being virtuous. Argued by many though, is that the Fel-Arcad cannot be trusted to be faithful and loyal to *people*; that the institution of the arcology demands a form of subservience to it that isn't common in the other families (with the exception of perhaps the Vahnkin) and as such, a Fel-Arcad will rarely act in a manner belived to be anti-establishment, especially when the shape of harai is both determined and allocated by such establishments.
+
+In a sense, the value of harai is determined wholly by the existence of the arcologies, something that some believe diminishes its value somewhat. At the crux of it is the belief that the tenets of cultivating good harai are not universally, are instead uniquely formulated to facilitate Fel-Arcad living.
+
+
+
 
 ## STRATA THREE
 ### 09. Naming & Language

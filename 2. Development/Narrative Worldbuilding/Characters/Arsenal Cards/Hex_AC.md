@@ -114,12 +114,18 @@ The Lesser Eyes of Shadri grants Ellaine sight beyond sight, a deep understandin
 
 ## T2 - Polar Black
 ### Point Collapse
-**(N/A)**
-*"Too indelicate a power; it is not to my liking."*
+**Spherical Depth Manifestation: Black**
+Axle: Tainted Tek | Lesser Eye of Shadri
+*"Hardly delicate, but no knowledge - or power from it - is wasted."*
+	With their excellent command of the depths, Ellaine can conjure a spherical manifestation of local depth, causing a powerful distortion to space, inducing a **pull**. Ellaine's proficiency, however, allows them to move this sphere through space at will, as well as fire it along trajectories.
+	- When Ellaine's **Lesser Eye of Shadri** is active, the sphere can be set to pursue targets.
 
 ### Point Expulsion
-**(N/A)**
-*"Too indelicate a power; it is not to my liking."*
+**Spherical Reverse-Depth Manifestation: White**
+*"Harnessing depth is required to harness reverse-depth. I am told harnessing reverse-depth is the easier of the two, but my time in the Dark attuned me to both - far quicker than most."*
+	With their excellent command of the depths, Ellaine can conjure a spherical manifestation of local depth, causing a powerful distortion to space, inducing a **repel**. Ellaine's proficiency, however, allows them to move this sphere through space at will, as well as fire it along trajectories.
+	- When Ellaine's **Lesser Eye of Shadri** is active, the sphere can be set to pursue targets.
+
 
 ## T3 - Polar Black
 ### Plunder from the Void
@@ -171,4 +177,5 @@ Axle: Spectrum Shift | Witchsteps
 **HEXBLAST** - Cado, Brch, Comp, Unrav
 *"It was when I stared into the eyes of the one who ran Kosaka at the time that I confronted a final truth; there are simply those incapable of computing the minds of others. It is this inability to build a model of minds different from your own, that sits at the root of the stars' many evils."*
 	With complete control of white and black, and balance between the sky and the deep, Ellaine conjures a sphere of immense altitude and another of extreme depth, and superimposes them upon each other, forming the HEXBLAST. In its formation, both spheres are subject to considerable fluctuating randomness, causing the HEXBLAST to rapidly flux and destabilize with time. Anything caught in the volume of the HEXBLAST is rapidly shunted back and forth between the Dancirah and Isalveh, to varying degrees each time, resulting in all things - man, technique, geography - being shredded across planes.
+	- Additionally, if the space-distorting spheres created by **Spherical Depth Manifestation: Black** and **Spherical Reverse-Depth Manifestation: White** collide in space, an **Imperfect HEXBLAST** is created at the collision point, that expands rapidly from the origin point but becomes less destructive the wider it becomes.
 
