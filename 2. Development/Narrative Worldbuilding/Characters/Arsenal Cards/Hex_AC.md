@@ -175,7 +175,9 @@ Axle: Spectrum Shift | Witchsteps
 
 ## T5 - Full Spectra
 **HEXBLAST** - Cado, Brch, Comp, Unrav
+Axle: Point Collapse | Spherical Depth Manifestation: Black
+Axle: Point Expulsion | Spherical Reverse-Depth Manifestation: White
 *"It was when I stared into the eyes of the one who ran Kosaka at the time that I confronted a final truth; there are simply those incapable of computing the minds of others. It is this inability to build a model of minds different from your own, that sits at the root of the stars' many evils."*
 	With complete control of white and black, and balance between the sky and the deep, Ellaine conjures a sphere of immense altitude and another of extreme depth, and superimposes them upon each other, forming the HEXBLAST. In its formation, both spheres are subject to considerable fluctuating randomness, causing the HEXBLAST to rapidly flux and destabilize with time. Anything caught in the volume of the HEXBLAST is rapidly shunted back and forth between the Dancirah and Isalveh, to varying degrees each time, resulting in all things - man, technique, geography - being shredded across planes.
-	- Additionally, if the space-distorting spheres created by **Spherical Depth Manifestation: Black** and **Spherical Reverse-Depth Manifestation: White** collide in space, an **Imperfect HEXBLAST** is created at the collision point, that expands rapidly from the origin point but becomes less destructive the wider it becomes.
+	- Additionally, if the space-distorting spheres created by **Spherical Depth Manifestation: Black** and **Spherical Reverse-Depth Manifestation: White** collide in space, an **Imperfect Hexblast** is created at the collision point, that expands rapidly from the origin point but becomes less destructive the wider it becomes.
 

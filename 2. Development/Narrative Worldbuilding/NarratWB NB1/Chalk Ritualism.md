@@ -16,7 +16,7 @@ In a sense, an equation is a hyper-compressed ritual. Where an equation simply n
 
 ## The Ritualism
 ### Rituals Schematics
-Ritual Schematics or 'Schema' is a document that outlines the requirements before performing a ritual. They outline the components required, steps that need to be performed, as well as additional information such as means of modifying the ritual, countering it, certain parameters it adheres to in the casting, consequences for failed or mis-casts, and the like.
+Ritual Schematics or '**schema**' is a document that outlines the requirements before performing a ritual. They outline the components required, steps that need to be performed, as well as additional information such as means of modifying the ritual, countering it, certain parameters it adheres to in the casting, consequences for failed or mis-casts, and the like.
 
 They serve effectively as instructional manuals for a ritual.
 

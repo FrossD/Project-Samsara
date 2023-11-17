@@ -31,7 +31,6 @@ Accumulating chalk can, however, saturate the lattice beyond its ability to stor
 
 Dealing with an abundance of chalk is often done by 'flaring', though this is a problem for Weavers as flaring is a Strider-exclusively ability. Flaring is converting excess chalk to something easily dissipated, such as heat, by subjecting it to highly-efficient equations in the computational strait. Weavers who want to get rid of excess chalk usually expend it by weaving something of high calcic density but considerable instability, allowing it to resolve by collapsing and dissipating chalk into the environment. More skilled Weavers can cause calcic crystal to form in their immediate vicinity, trapping the chalk in physical form.
 
-
 ### The Five-Strait
 The next ability granted by the Weave Protocol is 'drawing'. Similar to the Strider Protocol, Information Affinity allows drawing latent chalk to the self, and storing it within the subject's body, turning them into a reservoir of unharnessed potential. Striding is performed by 'flaring' this chalk to produce velocity, but with the Weave Protocol, **Weavers** can instead - using their fingers - 'draw' ribbons of chalk on surfaces.
 

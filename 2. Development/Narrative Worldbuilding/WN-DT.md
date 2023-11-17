@@ -18,7 +18,7 @@ kanban-plugin: basic
 ## ### AD: Mainboard
 
 - [ ] The maindboard of the entire WN-DT; for info that needs the most ready access.
-- [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br><br>**Priority 2**<br>- VoiFleur<br>- Epiphanic Powers and Combat Narrative<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br><br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Kei Vollerei<br>- Proposal: EPIT Nuver/Lustrous<br>- Epiphanic Powers and Combat Narrative
+- [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br><br>**Priority 2**<br>- VoiFleur<br>- Combat Narrative<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br><br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Kei Vollerei<br>- Proposal: EPIT Nuver/Lustrous<br>- Combat Narrative
 - [ ] #### Admin<br>General Admin Work<br><br>- Take stock of the drafting note's contents<br>- Hunt for some docs that built off of things in the old WN-DT model. They broke with the Kanban port.<br>- Learn how to use Canvases.
 
 
@@ -50,7 +50,7 @@ kanban-plugin: basic
 ## ### BD: Synthesis Sites
 
 - [ ] Entries here have left the Thoughts Repository, and are confirmed to be entering the Samsara canon in some way.
-- [ ] #### Epiphanic Powers<br>Under [[On Weave and Warfare]]<br><br>A somewhat meta-narrative thing in which Switchboard combatants can fully recharge their T4s/5s by having 'epiphanies'; grand realizations of the mechanics of things.<br><br>- Expand into a larger doc on combat narrative.<br>	- An opportunity to develop the narrative by-play of in-canon combat<br>	- Bleeding and injury<br>	- Damage and hits<br>	- Win cons<br>	- School clashes<br>	- Counters
+- [ ] #### Combat Narrative<br>Under [[On Weave and Warfare]]<br><br>- Expand into a larger doc on combat narrative.<br>	- An opportunity to develop the narrative by-play of in-canon combat<br>	- Bleeding and injury<br>	- Damage and hits<br>	- Win cons<br>	- School clashes<br>	- Counters
 - [ ] #### nWB Proposal: Spyndl Noon<br>- [[Prop.SpyndlNoon]]<br>- The realization of Spyndl as a cultural institution in the Dancirah must be built upon something. There must be a historical backing to Spyndl's many quirks and others, and shaping that will additionally grant us groundwork for the shaping of **Dancirah's Noon**, a prospective outline of the Samsara canon between the end of Dawn and the modern era.<br><br>- This begins with a skeletal outline of various 'events' in a tentative timeline. These events range in what they contain, but what must remain true in all of them is;<br>	- Spyndl must be involved in some capacity, preferably largely involved, either as the instigators or resolvers.<br>	- The aftermath of the event must shape or reshape Spyndl in some way
 - [ ] #### Kei Vollerei<br>Under [[C1-A1B1-Protags]]<br>(pNt)<br><br>- Begin work on the Evangelist Strider Supremacist.
 - [ ] #### The Academies Plural<br>Under [[C4-Organizations]]<br>(nWB)<br><br>- While Spyndl was the first Academy and thus the most prestigious, various other allied and rivalling schools exist throughout the Switchboard, with their own histories, doctrines and methodologies.<br>- For now, directly rivalling Spyndl is **Sakerfel**, a Rosenthalist-run academy that has very poor relations with the Sil'khan.

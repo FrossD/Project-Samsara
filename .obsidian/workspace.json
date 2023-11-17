@@ -4,45 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23bf48d53d861169",
+        "id": "2b89c6617dd50132",
         "type": "tabs",
         "children": [
           {
-            "id": "a14738feb7183931",
+            "id": "fe23b123871964d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72554dcd4b99d703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Foundational Pillars/The Strider Protocol.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ef9a88c6697646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           }
@@ -66,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SDZ",
+                "query": "heat",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -98,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "539203c849419648",
@@ -114,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -124,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,19 +170,30 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "a14738feb7183931",
+  "active": "fe23b123871964d1",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+    "2. Development/Mechanical Pillars/The Void.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Calcimistry.md",
+    "2. Development/Workshop/HexProp.Response.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "void.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Workshop/Families/FamProposals.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
     "06.Individuals.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "1. Drawing Board/2. Offshore/BlakkSheep's Naming.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
     "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
@@ -220,17 +204,6 @@
     "3. Scribbling/SamsaraExcel2.xlsx",
     "3. Scribbling/8A392000",
     "3. Scribbling/~$SamsaraExcel2.xlsx",
-    "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
-    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
-    "N.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
-    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
-    "2. Development/Workshop/Post-CommsCompute Legacy.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Foundational Pillars/The Dawn of the Dancirah.md",
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
     "Void 5.canvas",
     "3. Scribbling/F7B12000",
     "Z. Assets/Pasted image 20231027212609.png",
