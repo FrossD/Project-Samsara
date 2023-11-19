@@ -338,7 +338,12 @@ The Fel-Arcad have been blessed above the other families to live particularly lo
 
 The oldest in an arcology are its living curlicue, telling the tales of those who dwelt within it and of the arcology itself. In having dwelt among a people for a long time, they are valued for their input on the nature of the peoples of an arcology and on peoples in general, this discipline being viewed as teachable, but not graspable in the manner as someone who has done so actively for procession over procession. 
 
-While the elderly among the Fel may be considered for this reason in election or appointment to various posts, 
+While the elderly among the Fel may be considered for this reason in election or appointment to various posts, it ultimately fades in comparison to other metrics as a means to judge raw competency.
+
+**Tomi - Wealth**
+The Fel-Arcad acknowledge wealth, but not particular much, and not particularly well in some circles. Some scholars are of the opinion that the arcology model and institutions derived from it general prevent the gross accumulation of material resource, and as such anyone in possession of considerable resource has done so either through cheating or 'breaking' the system, or at immense cost to ones own ability to live life fully.
+
+In some Fel-Arcad circles, all the same, it is at least acknowledged that some amount of acumen must be possessed to achieve the feat of wealth gathering in a space almost actively hostile towards it, and thus it is in turn considered that this acumen - turned towards other ends - would in turn yield considerable boon for the Fel-Arcad peoples.
 
 
 

@@ -122,6 +122,29 @@ Modifications take a natural next step in the fabrication of 'grafts' - addition
 
 > This heading is elaborated upon in a later section.
 
+#### Narrative Note: Chromegraft Points
+A narrative note for the various 'slots' or so on the person available for chromegrafting, as well as rough idea of the kind of chromegrafts that might be installed there.
+
+**Class A**
+- Head
+- Arms
+- Hands
+- Legs
+- Feet
+- Back
+
+**Class B**
+- Subdermal
+- Chest Cavity
+- Cranial Cavity
+- Lattice
+- Five Straits
+	- Interface
+	- Computational
+	- Memory
+	- Interpreter
+	- Potential
+
 ### A Novel Doctrine of Shape
 The Lattice as a Canvas allows for almost on-impulse change in the manner of being of those who find themselves interested in it. The malleability of the lattice allows for an expansion of what it means to 'be'. With the shape of being subject to the being itself, we may then ask ourselves what is the final frontier of the canvas? What is the final shape that can be conceived by a being?
 
