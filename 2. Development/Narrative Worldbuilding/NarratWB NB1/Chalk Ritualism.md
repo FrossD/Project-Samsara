@@ -131,9 +131,12 @@ The ritual 'Seal' is a gesture performed by a Strider between the Weavestep and 
 
 The seal isn't in a ritual's schema, and is instead a gesture unique to each Ritualist, usually a 'sharp' gesture such as a finger snap, clap, foot stomp, etc. 
 
-	Narratively, it serves to add more personailty to each character, and is simply cool to describe. 
+> Narratively, it serves to add more personailty to each character, and is simply cool to describe. 
 
-> As a note, the different families of the Switchboard have different common seals to them. The Vahnkin in their casts typically either fling their arms and hands downwards and outwards, hailing the 
+> As a note, the different families of the Switchboard have different common seals to them. 
+> - The Sil'khan have various hand seals taught to the Old Danseers by Skydancer Nefelé, the Dreamer, and passed down to them through tomes over time.
+> - The Vahnkin in their casts typically either fling their arms and hands downwards, outwards and then upwards, a common gesture for hailing the Amaranth Sultan.
+> - The Fel-Arcad have no concrete seals they perform, using mostly what the Sil'khan use, though among many skilled Fel-Arcad, a very theatrical spread-palmed slap on the ground is a common seal for ending rituals. Many Fel-Arcad hand seals feature noisemaking in some regard, involving slaps and sharp movements otherwise for added theatrics.
 
 ### Endstep
 Performing the Seal typically ends the ritual, and the Ritualist can move to the Endstep. This usually involves cleanup; recovering non-consumables leftover consumables not wholly consumed, and drawing left-over chalk towards them if they choose, otherwise it dissipates into the environment as latent chalk.
@@ -301,7 +304,38 @@ Every single Structural Cast in the history of the Switchboard was a history-def
 
 This is the power of the Chalk Ritualism, and the final form of the Hands as Chalk.
 
-### Further Notes; Praxis Ritualism
+## Alternate Ritualism
+The calcic ritualism is the main form of ritualism that exists in the Switchboard, and is - in a sense - what is meant by ritualism at all. However, there are various other subsets of ritualism that exist, defined primarily by their usage of esoteric components that grant them new coverage over different domains.
+
+### Horizon Ritualism
+Horizon Ritualism builds off of the Chalk Ritualism by facilitating the use of **Void-based** components in the ritual's execution, allowing interaction with the various subject matter of the Void, such as Giving and Taking, Forging Shaping, Curvature Manipulation, moving between planes, stardrip, Deep Hollows, skews, Depthstriding and temporal manipulation.
+
+Horizon Ritualism makes use of Void components in the form of;
+- Flowers native to the Void
+- Liquid Stardrip
+- Amaranthite, Depthstone and Pale Amara
+- Boons plumbed from the depths
+
+Additionally, Horizon Rituals have their **ritual geometry** be drawn with **pale amara** in **dust form**, as opposed to pure chalk. Horizon Ritual Schema indicate this and other bits of essential information as well. 
+
+Some Horizon Ritualism require an exhortation given to some aspect of the Void, such as the Amaranth Sultan or his Daughters as a component or seal in the ritual schema.
+
+### Vitric Ritualism
+#### History
+In the final stages before what would come to be known as the Fourth Offensive and the attack on the Trinary Complex, the Third Kin were forced to confront the reality that was their inability to traverse the Vitric Shelf, the domain of the Trinary Minds that staged the entire offensive against the Third Kin. But the Third Kin's unmatched resolve and dominion over the affairs of weft and the Astrolabe set about forging a solution; a grand Structural Cast to skew the Astrolabe's calculus, and incite into being a means to defeat glass and the Vitric Shelf.
+
+Born with teeth of crystal and a star in his stomach, the Seventh Skydancer, Ryjik the Eater, arose. In his nature was the knowledge and ability to defeat glass, and with him in tow, Spyndl Academy and the Third Kin took the fight to the Vitric Shelf, struck against the Trinary Minds in their grand complex, and secured one of the most decisive victories for the Third Kin, and securing another - perhaps the greatest - foothold into the Era of the Third Kin. 
+
+But Ryjik could do more than just 'defeat' glass. His ability to defeat glass came from his strange ability to consume it, irrespective of purity, and in doing so, render it inert. This inert glass manifested in the various regions of the Switchboard as a biome written into their regional equations. This inert glass - this, **scintillate** as it came to be called - became a fixture of the chromatic biomes that emerged following the rise of Skydancer Ryjik, and glass in this form came to be harnessed by the Third Kin, the mechanics of doing so taught by the Skydancer himself.
+
+Compiled in a tome titled *The Writ of the Eater*, Skydancer Ryjik outlined the first rules and schematics of what would come to be the **glass ritualism**; chalk ritualism that used glass as a component, with scintillate acting as a buffer between the complex chalk ritual and the complexity-shredding glass it sought to utilize. He recorded the affects scintillate had on the lattice when consumed; glass would destroy the lattice of all who consumed it, but scintillate behaved differently - almost like a mind-altering 'drug' - dependent seemingly on the color of the scintillate.
+
+#### Application
+The Vitric Ritualism - the ritualism of glass - proved to be an essential part of working the various devices and appliances that would be used in the Switchboard. Glass' ability to reverse entropy and thus convert heat created by chalkweave into motion thus enabled the creation of core components for many devices.
+
+In particular, the vitric ritualism is used to interface with and thus control Glass, giving necessary command over the workings of such devices as the creators saw fit.
+
+### Praxis Ritualism
 > Recommended reading; [[The Blank-Slate Mind]].
 
 Praxis ritualism can be seen as operating in a similar space as structural casts; wholly grand affairs working towards imparting wide-ranging change on the ledgers of the Switchboard. Praxis ritualism does similar, operating on the mechanics of praxis to impart change through rituals.

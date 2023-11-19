@@ -320,7 +320,7 @@ In particular, Pale Amarans are able to tap into a source of power - a source of
 
 In turn, the mechanics of chalk are able to interact with the Void, particularly that chalk equations are able to alter the resultants of the Void's calculations, in particular the **Skews** that are imposed on the boons Pale Amarans plunder from the Void. Weave can also be used even in the plundering step, allowing Pale Amarans to reap more exact boons from the depths of the Void with lessened drawbacks. Alteration of the skews to their Void-plundered boons serve to bolster their '**Black**' Polarity powers.
 
-Full Spectra techniques use chalk and Void to extreme degrees, similar to 'Horizon Ritualism', a form of the chalk ritualism that makes use of Void-based components.
+Full Spectra techniques use chalk and Void to extreme degrees, similar to '[[Chalk Ritualism#Horizon Ritualism|Horizon Ritualism]]', a form of the chalk ritualism that makes use of Void-based components.
 
 #### Arsenal
 T1 - **Polarized Armaments**
@@ -365,7 +365,7 @@ T4 - **Conjoined Polarity**
 The juxtaposition of the opposing powers and doctrines of the calcic and the depths is the crux of the Pale Amaran's hubris. These schools clash within them, the depths in the pale amaranthite stabbed into their lattice finding it hostile, and as sea meets sky, a horizon is formed. This horizon is a superposition of calm and chaos, both bound in the body of the Pale Amaran, who grips both firmly to achieve their own ends. The Conjoined Polarity sees the final boundaries enforcing the polarity collapse upon themselves, and allows the Pale Amaran to mix both schools and cast techniques drawing upon both.
 
 - **Horizon Ritualism**
-	The Horizon Ritualism is a branch of the elementary Chalk Ritualism, differing in that the Horizon Ritualism can make use of Void-originating components and ritual geometry is drawn with pale amara in dust form. Horizon ritual schema are able to interact with the Void and Void subject matter such as Giving, Taking, forging, Shaping, curvature manipulation, the depthstride, stardrip and the control of time. Offensive Horizon rituals see great effectiveness against calcic targets.
+	The [[Chalk Ritualism#Horizon Ritualism|Horizon Ritualism]] is a branch of the elementary Chalk Ritualism, differing in that the Horizon Ritualism can make use of Void-originating components and ritual geometry is drawn with pale amara in dust form. Horizon ritual schema are able to interact with the Void and Void subject matter such as Giving, Taking, forging, Shaping, curvature manipulation, the depthstride, stardrip and the control of time. Offensive Horizon rituals see great effectiveness against calcic targets.
 	
 - **Aural Riposte**
 	Briefly shunting to one plane from another gathers up the aura of that plane, and upon reemergence this aura can be woven into powerful casts against those awaiting them on the other side. Blinking in and out of these planes sees shifts in the aura that can be imbibed to increase one's own power, or weaponized against targets of the opposing polarity.

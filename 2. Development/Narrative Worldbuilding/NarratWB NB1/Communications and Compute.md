@@ -589,13 +589,7 @@ This sections discusses the primarily means by which the Breach Protocol has bee
 ![[The Skywards Pursuit#The Vaults]]
 
 ### The Teeth of Ryjik
-In the final stages before what would come to be known as the Fourth Offensive and the attack on the Trinary Complex, the Third Kin were forced to confront the reality that was their inability to traverse the Vitric Shelf, the domain of the Trinary Minds that staged the entire offensive against the Third Kin. But the Third Kin's unmatched resolve and dominion over the affairs of weft and the Astrolabe set about forging a solution; a grand Structural Cast to skew the Astrolabe's calculus, and incite into being a means to defeat glass and the Vitric Shelf.
-
-Born with teeth of crystal and a star in his stomach, the Seventh Skydancer, Ryjik the Eater, arose. In his nature was the knowledge and ability to defeat glass, and with him in tow, Spyndl Academy and the Third Kin took the fight to the Vitric Shelf, struck against the Trinary Minds in their grand complex, and secured one of the most decisive victories for the Third Kin, and securing another - perhaps the greatest - foothold into the Era of the Third Kin. 
-
-But Ryjik could do more than just 'defeat' glass. His ability to defeat glass came from his strange ability to consume it, irrespective of purity, and in doing so, render it inert. This inert glass manifested in the various regions of the Switchboard as a biome written into their regional equations. This inert glass - this, **scintillate** as it came to be called - became a fixture of the chromatic biomes that emerged following the rise of Skydancer Ryjik, and glass in this form came to be harnessed by the Third Kin, the mechanics of doing so taught by the Skydancer himself.
-
-Compiled in a tome titled *The Writ of the Eater*, Skydancer Ryjik outlined the first rules and schematics of what would come to be the **glass ritualism**; chalk ritualism that used glass as a component, with scintillate acting as a buffer between the complex chalk ritual and the complexity-shredding glass it sought to utilize. He recorded the affects scintillate had on the lattice when consumed; glass would destroy the lattice of all who consumed it, but scintillate behaved differently - almost like a mind-altering 'drug' - dependent seemingly on the color of the scintillate.
+![[Chalk Ritualism#History]]
 
 But the most storied bit of knowledge acquired from the inquiry of Ryjik was in the making of weaponry. Before the attack on the Trinary Complex in the Vitric Shelf, Skydancers Onuris, The Hammer, and Ryjik, the Eater, collaborated in shaping a weapon. A weapon that harnessed chalk, glass, their stable crystalline-complex and the scintillate glass-inversion. It was called the **PRISMpick**, and it had power that spanned the glasswire and the Dancirah. With it, with a single strike, it could breach and seize control of any glasswire network, any computational device, carve a path into any Vault, sunder any weave, undo any ritualism. Within it was the power of Skydancer Ryjik; the power to eat, and render impotent.  ^b4588e
 
@@ -603,7 +597,7 @@ The PRISMpick was the first of the weapons that would come to be known as the **
 
 For now, the only ones suspected to truly have or be able to forge Teeth weaponry are Skydancer Ryjik's apostolics within the Sil'khan Sabai; nomad-zealots that worship the the Skydancer's and live to spread their words. Ryjik's faithful in particular - the Eaters of Ryjik - laud themselves as crusaders against the Vaults in the Switchboard, reenacting the purpose for which Ryjik arose to begin with.  
 
-### The Glazwyre
+### Cryogen's Proposal: The Glazwyre
 > Consider this section a proposal-class document on its own, discussing a subject matter that could use a fair bit more development before it is considered fully part of the canon.
 
 The mechanics of praxis have facilitated the existence of many things and concepts in the Switchboard, granting power and meaning to the mundane, causing them to arise, become transcendent, and achieve a physicality to their form that makes them yet another tangible oddity in the ledgers of the Dancirah. It is suspected by some that similar happened to the anarhiza root network, and the DevitNet when it later arose; that this interconnectedness across vast space seeded a praxis of connectedness itself, and thus spawned a pseudo-realm of which connection and communication were a core doctrine.

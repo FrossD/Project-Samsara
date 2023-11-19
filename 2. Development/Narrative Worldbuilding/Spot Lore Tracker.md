@@ -27,3 +27,6 @@ In developing many other docs, workable lore that can even make it to final iter
 - Lore about the various **organizations that control the DevitNet**.
 - The Vermeilion Compute Society (VCS) and the Vermeilion Interdiction Research Foundation (VIRF) formed in the days of the Praxis Conflicts, under the Spyndl Academy.
 - *The Writ of the Eater* and a second book on the mechanics of Kache Krashing were authored by Skydancer Ryjik and the apostolic Eaters of Ryjik respectively.
+
+[[Chalk Ritualism]]
+- Sil'khan were taught various ritual hand seals by Skydancer Nefele.
