@@ -44,9 +44,7 @@ Axle: Tainted Tek | Lesser Eye of Shadri
 	Done in an act of haste and desperation, jagged juts of starlight and dark were rammed into the skull of the fallen flux diver. For days, they lay in the pits of Isalveh and suffered, as their lattice wrestled against the encroaching night. But in time, the plasticity of these things won, and Ellaine emerged, not as a friend of the depths or a foe, but something between. Understood now as the mark of something that scorned divinity, their violet crystalline horns jut from their temples, anointing a ring around their skull as a crown.
 
 - Offensive
-**Spiraling Charge** - Cado, Brch, Comp
-*"The beasts of Isalveh dictated the rules of battle. And so I learned."*
-	Ellaine can perform a charge, leaping at its apex to spin and gore a target with their crystalline horns, doing heavy piercing damage and breaching armor. On strike, they are afflicted with Ellaine's **witchfire**, which burns away at their computational strait and inhibits their ability to strategize, perform advanced techniques of either white or black, and exercise various mental faculties.
+**(N/A)**
 
 - Defensive
 **(N/A)**

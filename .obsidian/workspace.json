@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "604421e0c4fc992b",
+        "id": "3151f9ef539ee166",
         "type": "tabs",
         "children": [
           {
-            "id": "f657de2204828d16",
+            "id": "80a72a1880dd558b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ab22a2f1af195d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd0caad1c4492278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38277b6484c5f893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/Calcodynamics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -128,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +163,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cd0caad1c4492278",
+  "active": "80a72a1880dd558b",
   "lastOpenFiles": [
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Deprecated_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "2. Development/Mechanical Pillars/Glass.md",
     "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Workshop/Calcic Chemistry et al/9-Point_Kindrish.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Workshop/Calcic Chemistry et al/Calcodynamics.md",
     "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/General/Hex (07-10-22).md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Calcodynamics",
     "1. Drawing Board/1. Samsara/Legacy Discussions/General/LatCanvasHex.md",
@@ -236,13 +193,6 @@
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
     "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "2. Development/Narrative Worldbuilding/Characters/C4-Organizations.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Mechanical Pillars/Glass.md",
-    "Ven-2/Further Conceptuals/The Void 3.0.md",
-    "Ven-2/2. Ven-2 ToDo (conflict 2022-10-09-10-32-29).md",
-    "Ven-2/2. Ven-2 ToDo.md",
-    "Ven-2/Further Conceptuals/The Void.md"
+    "2. Development/Foundational Pillars/The Hands as Chalk.md"
   ]
 }

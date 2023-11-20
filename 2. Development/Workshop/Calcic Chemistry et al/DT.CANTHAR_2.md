@@ -103,5 +103,74 @@ The Ritualism continues to prove its usefulness as a means of interacting with t
 Hex closes with;
 > What effects this has on cryptography, the learning of creasing patterns to replicate objects, digital currency, and the economy at large have yet to be explored.
 
-## Work
+## Hex's Nine Points
+A response by the Doctor, in the form of nine points.
 
+> 1. Not sure that the "threshold" concept works, we may have to sit down and examine the mechanics in more detail.
+
+Unfortunate, but duly noted.
+
+> 2. Hesitant to have Glass that "reproduces" by consuming chalk; it poses anthropic problems, namely, why the entire universe isn't _already_ Glass
+
+I vote to throw in the towel on this one. Calciphagy will be amended to remove glass propagation, and instead keep merely the effects that glass has on chalk, likened to how a tear - once initially made - is hard to prevent from tearing further, and thus becomes susceptible to further tearing. Something like that.
+
+> 3. I don't really understand how Glass operating "by praxis mechanics" is fundamentally any different from "Glass eat chalk, make more glass"
+
+Praxis Mechanics are a power that passes power, and are - in practice - indistinguishable from authorial powers. By creating something as open-ended - as it were - as it is, it allows me to bullshit things and play fast and loose in a way that I can forgive myself for and is still conversant with canon. That being said, it really does read exactly as you put it, and thus we can bin this one.
+
+> 4. Hyperweave is, to be frank, a bit of a mess. The resultant effects are fine, but the underlying mechanics and analogies will need a fair bit of editing.
+
+Unfortunate #2. Added to the pile.
+
+> 5. "It was called the PRISMpick... with a single strike, it could... undo any ritualism." This sounds incredibly broken.
+
+'Sounds' isn't apt; it really just is. I'll make necessary amendments.
+
+> 6. "Forging The Teeth of Ryjik is no easy task, as glass is a material that actively opposes being worked upon." This needs to be clarified further.
+
+I was referring more so to how as a Strider, touching glass is not something you can do and get away with. Imagine trying to carve a sculpture using hand tools out of immensely radioactive rock for example, and having to take multiple-day breaks for the accumulated radiation in your body to fade before you can begin another brief session of work. You could say that the material you are working with somewhat opposes being worked on.
+
+I will concede, though, that this could be phrased differently; 'Glass is simply difficult to work with', instead.
+
+> 7. As an aside, I propose a challenge to the author. We are tempted to use phrases such as "Glass destroys a lattice" out of the sense that "complexity" is being "destroyed". However, this is physically inaccurate, like saying "the cold spread from the ice to their fingertips". _Cold_ doesn't spread, because "cold" is not a substance. The "substance" is _heat_, which is _sapped_ from the fingertips _by_ the _absence_ of heat in the ice. Consider the difference in impact between the phrases "the cold of the winter air spread throughout her body" and "the winter air sapped the heat from her body". Though it might certainly be a matter of taste, I prefer the latter. Likewise, I challenge you, Cryo, to find creative new ways to describe what Glass does. It does not have "destructive potential". "Destruction" is entropic; Glass does not destroy. It orders, it organizes, it sifts. Glass cleans. Glass purifies. Glass sorts. Glass fixes the brokenness and disarray of the universe.
+
+An interesting proposition. I will keep it in mind.
+
+> 8. Glasswire needs a rewrite to be compatible with the new glass/chalk dynamics; _or_ we need to tweak Glass mechanics to accommodate how Glasswire currently works.
+
+Unfortunate #3, but less so.
+
+I am glad you read CommsCompute. I am interested to hear your take on its entirety. Most of all, perhaps, is that I am glad you take issue with how glasswire works, even if only because revisions elsewhere have forced our hands. 
+
+In all sincerity, glasswire's foundational principles suffer from what I can only describe as 'gross inelegance'. It just isn't pretty, per se. It feels like the way I'd do things, and perhaps the way things would and maybe even *should* work in Samsara, but I am not pleased with it and it is difficult being displeased with it on what is arguably a motif basis because I make the argument to myself that it is primarily the macroscopic elements of CommsCompute that make it into the actual narrative canon, and thus glasswire can - and perhaps even *should* - be ugly if it means everything else is functional and neat.
+
+We will have to revise this one too either way. I will prefer, though, that whatever comes out the other side is more to my tastes.
+
+> 9. What turns motion into heat? Nothing. It simply _does_. I feel the desire for an answer here stems from a misconception. For example, suppose I asked you "what makes things fall down?" and you answered "gravity". What's actually happening here? You could say that the word "gravity" is merely a label for a set of phenomena, namely the things-fall-down-set; in which case, if we taboo the word "gravity" and replace it with its meaning, we get "things fall down because of the things-fall-down-phenomena". Similarly, we might notice that "gravity", as a word, is an empty model. It provides no predictions. It doesn't tell you how _fast_ things fall down, when they fall and when they don't, etc. It is not useful. The _true answer_ to "what makes things fall down" is just: they do, and we simply observe _that they do_. We can describe _how_ they fall down in more detail, specify the conditions, establish patterns of what things fall down when and how fast, but there is no "why". It simply is. Likewise, motion simply _does_ disperse over time into what we perceive physiologically as "heat". We can specify in more detail under what circumstances motion does this, at what rate the motion degrades, etc. But there is no "why".
+
+Music to my ears. Stars bless you.
+
+## Work
+Assuming the following problems are fixed;
+- Where does Heat come from as regards its state as 'dispersed' motive weave?
+- Does Calciphagy or Glass Momentum or some amalgamated form of both accurately describe the negentropic reaction glass has?
+
+Then we can revise the following docs according;
+[[Switchboard Technology]]
+- The section on electricity and power generation gets updated into a more generic-appearing but far more canon-compliant **Power Generation, Distribution and Utilization**.
+	- Under **Generation**, we describe the various sources of chalk that exist in the Switchboard and how they are harnessed on an industrial scale.
+	- Under **Distribution**, we describe how hyperweave is used to move ultra-dense chalk over long distances, and how - by some mechanism - it becomes heat at various distribution substations, that in turn move it through various solid media.
+	- Under **Utilization**, we describe how appliances in the Switchboard harness the negentropic ability of glass to reverse entropy and turn heat into motion, serving as the basis for the functioning of many of the Switchboard's appliances.
+		- We also discuss the narrative or in-universe consequences that arise from something as destructive as glass being essential for day-to-day operation within the Switchboard.
+
+[[Glass]]
+- **Glass 4.0**; which will primarily be a revision that discusses;
+	- How glass propagates through negentropic reactions.
+	- How glass reverses entropy and thus this gives it various applications.
+
+[[Calcodynamics]]
+- This doc will simply be complete at all, and many of its sections will be linked into other docs to explain how the foundational mechanics outlined here are used and built upon elsewhere. Examples of such are;
+	- Inductive weave explaining **Inductive Damage** in  [[On Weave and Warfare]]
+	- Property weaves being used in [[Chalk Ritualism]]
+
+- Far more to come regarding harnessing the mechanics developed here to solve the larger encryption and currency problem that exists within the canon.

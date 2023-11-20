@@ -125,16 +125,20 @@ Axle: Formshift | Re-Innovate
 **Napalm Hack** - Induc, Siph
 *"Let 'em stew.'"*
 	The twin machinegun barrels are cycled out in favor of a nozzle, and a canister is fitted to the back. Blakk can blast dense swathes of incredibly hot flames at close targets, incinerating them and inflicting heavy inductive burn, as well as siphoning their calcic reserves.
+ - Offensives - Skew
+**Boost Bludgeoner Hack** - Brch
+*"I am under oath to not share the formula for the rocket boosters. That being said, I take my coffee with milk, two sugars, a measure of stardrip, tritanium powder, supercooled-gallium, yellow dye #5, sawdust and burnt kacherock."*
+	Blakk's gauntlets are refitted with spiked alloy shielding on the fingers and various housings and nozzles on the wrist and elbow. These housings store void-renewed rocket enginery, which fire out through the nozzles and produce considerable thrust. These rockets are triggered by Blakk's movement, firing when they detect an action interpretable as a thrown punch. Each punch of Blakk's is thus accelerated by rocket propulsion, and the Boost Bludgeoners are capable of punching through solid metal.
  - Offensive - Skew
+**Hook-shot Hack** - Induc
+*"If I really focus, I can pluck a hair off a beard. Usually I just break a nose."*
+	The gauntlets are refitted with repulsion-capable apparatus and high-strength chain, allowing for launching the arms and retracting them. Should they strike a target, Blakk can reel them in while they are unable to resist due to a heavy inductive stun. If they fire at an object, they can reel it towards them, or reel themselves towards it.
+- Offensive - Skew
 **Railgun Hack** - Brch, Cado, Unrav, Prax
 Axle: Formshift | Re-Innovate
 *"Tuned. Over-tuned possibly. Maybe more than possibly. Almost certainly. I might have been asked to stop using it."*
 	Blakk holds both arms parallel and aims at a target, while the thermal capacitors in the gauntlets begin to charge. At full capacity, they fire a depthstone projectile with ludicrous velocity, piercing and breaching armor and inflicting heavy unravelling on targets hit by it.
 	Additionally, the damage done by the railgun scales with the **hack counter**; the number of active hacks on currently active contraptions. At **five stacks**, the railgun gains a praxis component to its damage, and deals additional damage against **those who hold ill sentiment towards the things of the Void**.
- - Offensive
-**Hook-shot Hack** - Induc
-*"If I really focus, I can pluck a hair off a beard. Usually I just break a nose."*
-	The gauntlets are refitted with repulsion-capable apparatus and high-strength chain, allowing for launching the arms and retracting them. Should they strike a target, Blakk can reel them in while they are unable to resist due to a heavy inductive stun. If they fire at an object, they can reel it towards them, or reel themselves towards it.
 
 **Contraption #4 - Breach Visors**
 *"Helps me keep track of loose screws."*
