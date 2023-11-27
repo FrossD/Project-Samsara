@@ -1,13 +1,12 @@
 # Drafting Notebook Drafter
 Ledgers for ledgers. What's currently in the drafting notebook that hasn't been transferred to the Samsara vault.
 
-## Contents
-### Subject: Comms and Compute
+## Subject: CommsCompute
 Relevant to [[Communications and Compute]].
 
 Some leftover diagrams of the architecture of Baranx packets, those of information transfer packets and breach packets. 
 
-### Subject: The Fel-Arcad
+## Subject: The Fel-Arcad
 Relevant to [[The Fel-Arcad]].
 
 **On Quirks and Repute**
@@ -31,12 +30,12 @@ Time-bound events observed by the Fel-Arcad.
 
 
 
-### Subject: Spyndl Noon
+## Subject: Spyndl Noon
 Relevant to [[Prop.SpyndlNoon]].
 
 The Horizon Crisis spawned the Sil's PvP culture and ritualism. It naturally expanded into more than just training for various eventualities. 
 
-### Subject: Families
+## Subject: Families
 Relevant to [[FamTemplate]].
 
 **Relationals (allusion of relationship to a family)**
@@ -86,7 +85,7 @@ Geographical Name Origins
 
 > Void 5.0 is on the way, group Vahnkin naming according to groups of nations under the daughters of Vahn.
 
-### Subject: Spyndl Academy
+## Subject: Spyndl Academy
 Relevant to [[C4-Organizations]].
 
 Activities in Destiny 2 were used to generate parallel activities in the Spyndl Academy, relating to their PvP and PvE engagements in the Switchboard.
@@ -133,7 +132,7 @@ Varying sizes of team are deployed for different missions under the Spyndl Acade
 - Taskforce Unit (TFU) - 9
 - Taskforce - 9+
 
-### Subject: The Skydancers
+## Subject: The Skydancers
 Relevant to [[The Sil'khan]].
 
 The aim is to have the various Skydancer somewhat subvert the aspects they espouse, in a manner not too distant from their core doctrine. 
@@ -159,3 +158,62 @@ The aim is to have the various Skydancer somewhat subvert the aspects they espou
 
 **Onuris**
 - Craftsman more than blacksmith
+
+## Subject: Void 5.0
+"Once more into the deep."
+
+**Scope**
+1. Family - The Vahnkin
+2. Planes & Locales - Isalveh, The Challenger Dark
+3. Major - The Void
+4. Prop - Blackjack
+
+**Canon**
+- History
+- Religion of Vahn
+- The Daughters
+- Horizon Crisis
+- 'Skyhatred'
+
+**The Void**
+- The Vahnkin
+- Location
+	- The Challenger Dark
+	- Beasts of the Deep
+- Power
+	- Blackjack
+	- Negative Information
+
+**Build Later**
+1. Negative Information
+
+**Vahnkin Philosophy**
+- Annihilate the Sky
+- Ignore the Sky
+- Assimilate with the Sky
+
+**The Five Daughters of the Void**
+
+**Aspects**
+- d1 - Kingdom Sovereignty - The Imperial
+- d2 - Faith in Vahn - The Apostle
+- d3 - War for the Void - The Warrior
+- d4 - Piracy and Nomadism - The Rogue
+- d5 - Void Tech/Riftlock - The Scholar
+
+**Internal Strife**
+- Engaged in Strife - d1, d2, d3, d4
+- Isolated - d5
+
+**Relationship with the Sky**
+- Warfare - d1, d2, d3
+- Indifference - d4
+- Collaboration - d5
+
+**Void Daughters Relationship**
+![[VoidDaughtersRel.png]]
+
+
+**Notes**
+- The Challenger Dark is limited technology-wise due to the Horizon and stardrip.
+- **History**: Dawn > Refrain > Civilization > Amaranth Incursion > Horizon Crisis > Modern Day 

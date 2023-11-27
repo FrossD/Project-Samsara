@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3151f9ef539ee166",
+        "id": "e86c3b48779bf3cd",
         "type": "tabs",
         "children": [
           {
-            "id": "80a72a1880dd558b",
+            "id": "3f334a28152c3c47",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,14 +121,6 @@
             }
           },
           {
-            "id": "1962cb91ec84678f",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
-          },
-          {
             "id": "3d151cf4c6aca587",
             "type": "leaf",
             "state": {
@@ -141,6 +133,14 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "94fb2133e002bae2",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
               "state": {}
             }
           }
@@ -163,36 +163,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "80a72a1880dd558b",
+  "active": "3f334a28152c3c47",
   "lastOpenFiles": [
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/C0-CDT-CharTemplate.md",
+    "2. Development/Narrative Worldbuilding/Characters/C0-CDT.md",
+    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
+    "Z. Assets/VoidDaughtersRel.png",
+    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+    "3. Scribbling/557D3000",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "1. Drawing Board/2. Offshore/Babcock Debate/Debate Points.md",
+    "1. Drawing Board/2. Offshore/Babcock Debate",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
+    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
+    "Untitled.md",
+    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
+    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
+    "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
+    "2. Development/Narrative Worldbuilding/Characters/C3-A1B1-Antags.md",
+    "Z. Assets/Test.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Deprecated_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
     "2. Development/Mechanical Pillars/Glass.md",
-    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/Calcic Chemistry et al/9-Point_Kindrish.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Calcodynamics.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Prop.CalcicChemistry.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/General/Hex (07-10-22).md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Calcodynamics",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/General/LatCanvasHex.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/General/BS1.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/General/Blakk's Inquisition.md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/General",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/Bayes/The Bayesian SlateMind.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/General/Post-BS1 Notes.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/General/Post-BS1 Cryogen's Response.md",
-    "1. Drawing Board/1. Samsara/Legacy Discussions/Bayes",
-    "1. Drawing Board/2. Offshore/Prop.CANTHAR.md",
-    "2. Development/Workshop/Calcic Chemistry et al/HexProp.Response.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md"
+    "1. Drawing Board/1. Samsara/Legacy Discussions/Bayes"
   ]
 }

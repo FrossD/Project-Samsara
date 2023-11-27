@@ -18,7 +18,8 @@ kanban-plugin: basic
 ## ### AD: Mainboard
 
 - [ ] The maindboard of the entire WN-DT; for info that needs the most ready access.
-- [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br><br>**Priority 2**<br>- VoiFleur<br>- Combat Narrative<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br><br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Kei Vollerei<br>- Proposal: EPIT Nuver/Lustrous<br>- Combat Narrative
+- [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br>- [[DT.CANTHAR_2]]<br><br>**Priority 2**<br>- VoiFleur<br>- Combat Narrative<br>- Character Sheets<br>- [[Ven_AC]] Rebuild<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br>- [[DT.CANTHAR_2]]<br>- Character Sheets<br>- [[Ven_AC]] Rebuild<br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Kei Vollerei<br>- Proposal: EPIT Nuver/Lustrous<br>- Combat Narrative
+- [ ] #### Tracker Documents<br>These are docs for tracking various things related to Samsara.<br><br>**Spot Lore Tracker** - [[Spot Lore Tracker]]<br>	Keeping track of lore created on-the-spot during development of other parts of Samsara.<br><br>**Notebook Tracker** - [[Notebook Tracker]]<br>	Tracks the contents of the Samsara drafting notebooks.
 - [ ] #### Admin<br>General Admin Work<br><br>- Take stock of the drafting note's contents<br>- Hunt for some docs that built off of things in the old WN-DT model. They broke with the Kanban port.<br>- Learn how to use Canvases.
 
 
@@ -27,8 +28,8 @@ kanban-plugin: basic
 - [ ] Entries and docs here are actively under development, and just under transcribing they are the highest priority work in Samsara.
 - [ ] #### Samsara Scribbling<br>**Fyre's Idea**<br>Strider Squad battle; 2v2 Fyre and Ventura versus Blakk and Hex.<br>- Arsenal Cards done; floor's yours.
 - [ ] #### Families General<br>**Currency** <br>- Lancaster Innovations mints the cross-Dancirah currency, and it is the most widely accepted form of legal tender. The Sil'khan, Fel-Arcad and Lancasters en masse use this 'LIcoin'.<br>	- Fel-Arcad have arcology-specific currency that allows for strict internal regulation<br><br>**Tongues of the Switchboard**<br><br>- The Sil'khan unintentionally formed a tongue of their own, the **Starwyld Common** or **Starwyl**, that came to major use among the Switchboard's many nomads, drifters, outlaws, mercenaries, the Sil's own Sabai, malcontents and rogues. Contrasted with the NDS, it is said to be spoken sharply, crassly, and hurriedly, with many verbal timesavers and a noteworthy hand component that allows for skewing the context of a verbal statement, adding additional meaning, or weaving in a layer of subterfuge in the presence of those who aren't familiar with it.
-- [ ] #### New Docs Fresh Lore<br>Lore created on the spot while working on other docs.<br>Under [[Spot Lore Tracker]]
-- [ ] #### Drafting Table: CANTHAR_2<br>A most hallowed charge.
+- [ ] #### Drafting Table: CANTHAR_2<br><br>[[DT.CANTHAR_2]]<br>A most hallowed charge.
+- [ ] #### Character Template<br>Building out the framework for building characters in the Samsara canon.<br><br>[[C0-CDT-CharTemplate]]<br><br>- Lots of stuff still in the drafting notebook.
 
 
 ## ### AD: Revisions & Restructuring
@@ -52,6 +53,7 @@ kanban-plugin: basic
 
 - [ ] Entries here have left the Thoughts Repository, and are confirmed to be entering the Samsara canon in some way.
 - [ ] #### Combat Narrative<br>Under [[On Weave and Warfare]]<br><br>- Expand into a larger doc on combat narrative.<br>	- An opportunity to develop the narrative by-play of in-canon combat<br>	- Bleeding and injury<br>	- Damage and hits<br>	- Win cons<br>	- School clashes<br>	- Counters
+- [ ] #### Skydancer Motifs<br>Various motifs and trends related to the Skydancers.<br><br>**Sample Motifs**<br>- Skydancer Pacts - related to [[Chalk Ritualism]]
 - [ ] #### nWB Proposal: Spyndl Noon<br>- [[Prop.SpyndlNoon]]<br>- The realization of Spyndl as a cultural institution in the Dancirah must be built upon something. There must be a historical backing to Spyndl's many quirks and others, and shaping that will additionally grant us groundwork for the shaping of **Dancirah's Noon**, a prospective outline of the Samsara canon between the end of Dawn and the modern era.<br><br>- This begins with a skeletal outline of various 'events' in a tentative timeline. These events range in what they contain, but what must remain true in all of them is;<br>	- Spyndl must be involved in some capacity, preferably largely involved, either as the instigators or resolvers.<br>	- The aftermath of the event must shape or reshape Spyndl in some way
 - [ ] #### Kei Vollerei<br>Under [[C1-A1B1-Protags]]<br>(pNt)<br><br>- Begin work on the Evangelist Strider Supremacist.
 - [ ] #### The Academies Plural<br>Under [[C4-Organizations]]<br>(nWB)<br><br>- While Spyndl was the first Academy and thus the most prestigious, various other allied and rivalling schools exist throughout the Switchboard, with their own histories, doctrines and methodologies.<br>- For now, directly rivalling Spyndl is **Sakerfel**, a Rosenthalist-run academy that has very poor relations with the Sil'khan.
