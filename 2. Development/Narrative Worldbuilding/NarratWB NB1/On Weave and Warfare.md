@@ -442,13 +442,6 @@ Differentiating between a **relic** and an **artifact**.
 ## Further Notes
 Additional notes on the topic.
 
-### Terminology
-An elaboration on the terms used in Strider combat.
-
-**Weaving** is forming something out of ribbon chalk. If an attack uses primarily raw ribbon chalk and equation in its formation, that attack is said to be **woven**. Weave-centric attacks are the ones highlighted under the [[On Weave and Warfare#Weave Powers|Weave Powers]] sections of this document. Striders 'weave' constructs such as equation grenades or shields to aid them in combat. 
-
-A **Cast** is a broad term applied to any Strider power that is generally defined by exclusivity or complexity. A Strider 'casts' their Tek, 'casts' with their relic, and 'casts' rituals. If an power is granted by a [[The Blank-Slate Mind#Titular Powers|title]], it is 'casted' as well. A Strider is said to be 'preparing a cast' if they are winding up to use one of these abilities. Unlike Weaves, Casts typically have 'cooldowns', or some constraint that prevents them from having constant uptime - unless otherwise stated.
-
 ### Weapons - Classes
 Weapons in the Switchboard are broadly classifiable into martial and ranged weaponry. Ranged weapons encompass majorly different forms of firearms, further classified by damage methodology and effective range. Melee or martial weapons encompass collections of piercing and bludgeoning weapons designed for use in close ranges. further classified according to their weight and own damage methodology in the form of 'edge', ranging from high edge piercing weapons to low edge bludgeoning weapons.
 
@@ -804,7 +797,7 @@ A far more esoteric damage type that attacks something deeper; innate mechanics 
 	**Source**: Glass and some calcic abilites.
 	**Mitigation**: Anti-vitric protections, such as the blessings of Skydancer Ryjik.
 	**Shorthand**: Neg, N 
-Negentropic damage is done primarily by Glass, though its effects can be somewhat replicated by some calcic techniques - as an example, rituals that use Glass as a component. Negentropic damage describes an irreversible reduction of the target's complexity, this being catastrophic to calcic systems as complex weaves of chalk are reduced down to meaningless ribbon, then converted further into Glass, material devoid of entropy. 
+Negentropic damage is done primarily by Glass, though its effects can be somewhat replicated by some calcic techniques - as an example, rituals that use Glass as a component. Negentropic damage describes an irreversible reduction of the target's complexity, this being catastrophic to calcic systems as complex weaves of chalk are reduced down to meaningless ribbon.
 
 - **Computational/Tech Damage**
 	**Source**: Slates majorly, and other digital weaponry.
@@ -889,40 +882,6 @@ This 'something' is always information, where it is gleaned from being the true 
 
 This manifests - mid battle - as the power to use a new power, deployed as though it had been known and practiced for ages. And with this, it can be enough to turn the tide of battle. 
 
-### Arsenal Classification & Terminologies
-The culmination of all gear, abilities, casts and powers possessed by a subject in the Switchboard is their **arsenal**. Elaborated upon more fully in the Super-Classes section above, in this section we take a look at the arsenal classifications for the superclasses as well as relevant terminologies that aid in describing and understanding what is mean by the Switchboard's various forms of power.
-
-**Gear**: The lowest 'tier' of arsenal classifications, and describes the **majorly physical weaponry** wielded by actors in the Switchboard. While some gear-_reliant_ powers are also in this category, it refers to the tangible weaponry themselves.
-
-| Chalkweavers | Depthstriders                                                 | Pale Amarans |
-|--------------|---------------------------------------------------------------|--------------|
-| T1           | T1                                                            | T1           |
-|              | T3 <br/>- Gifts from the Void<br/>- Possessions from the Void |              |
-|              | T5<br/>- Shaped Arms                                          |
-
-**Abilities**: The defining characteristic of an ability is that it must be something that can be performed **innately**. It refers to all of the powers that an actor in the Switchboard possesses usually by virtue of their bodily composition, such as possessing the Five Straits and the Weave Protocol, an attunement to the depths, or pale amara implantations. These abilities are combined with physical prowess in their execution, and are an actors basest level powers.
-
-As an example, weave strikes, charges and shields are **woven abilities**, so called as they are woven into being using chalk and the innate power of the Weave Protocol. Depthstriders' ability to **manipulate curvature** is a result of their ability to fabricate **negative information** and thus induce fourth-dimensional depth and altitude. Pale Amaran's reconcile elements of both using the **polarity** provided by pale amara integrations into their lattice, allowing for **spectrum weave** and **chaotic curvature manipulation**.
-
-| Chalkweavers | Depthstriders                         | Pale Amarans                                                               |
-|--------------|---------------------------------------|----------------------------------------------------------------------------|
-| T2           | T2                                    | T2/3 (Polar White)                                                         |
-| T5           | T5<br/>- Chronodynamism               | T2/3<br/>- Polar Black: Point Collapse<br/>- Polar Black: Point Expulsion) |
-|              | T3<br/>- Draw Strike<br/>- Formshift  |
-
-**Casts**: Casts describe a swathe of Switchboard powers defined most simply by a jump in complexity. Differing from abilities but not wholly, casts are often reliant on something external, such as consumable ingredients, existing phenomena, or the acquisition of secondary power sources. Casts may also involve using **abilities** in more advanced ways, and in this category are usually the most powerful powers available to actors in the Switchboard. Rituals, 
-
-For example, **rituals** of both the calcic and horizon variety are 'casted'. Most Tek-granted powers are casts as well, as they are dependent on the Tek to function. Depthstrider's **Deep Hollows** are casts as well, reliant on the conviction of the caster in the Void. For their sheer complexity alone, the **Aura Strikes** and **Full Spectra** abilities are casts as well. Judging by the fact most high-level parts of an actor's arsenal are considered casts, you might conclude the **Flash Protocol** would be a cast as well. Conversely, it is not, as it is reliant on the Strider Protocol - an innate ability - thus making it an ability-level power. Powers granted by **gear** such as Relics and Tools from the Void are considered casts as well.
-
-| Chalkweavers | Depthstriders | Pale Amarans |
-|--------------|---------------|--------------|
-| T3           | T4            | T4           |
-| T4           |               | T5           |
-
-**Powers**: 'Power' is used fairly loosely in the Samsara canon, used to describe basically any 'thing' that an actor can do that would be filed under the department of 'supernatural' if performed in our world, for example. 'Powers' used more specifically however, refers to power granted by very external systems that are fairly removed from those that benefit from the resultant of that system's enginery. **Praxis powers** are good example of this, hinging on the Switchboard's transcendent interplay of doctrine versus doctrine. **Titular powers** are similar, drawing on the collective power placed behind names and titles that rise to lauded or infamous status in the Dancirah. 
-
-> Something that breaks the mold a little bit are **chromegrafts.** Chromegrafts are not like the Weave Protocol in that cybernetic installations are not innate. That being said, the powers granted by a cybernetic can hardly be considered a cast, as that would be putting, say, a wrist-mounted machine gun at the same tier with grand rituals. For this reason, chromegrafts are treated as **abilities**, as their very tightly-interwoven nature with an actors lattice should allow for consensus that a power granted by a regular arm and a chrome one aren't different enough to warrant a differentiation in category.
-
 ### Cross-Arsenal Interplay
 The cultivation of a fighting style in the Switchboard requires the accumulation of various forms of power, and their amalgamation into a final, cohesive unit, wieldable by a denizen of the Switchboard. This cohesion may need to be created, and one such way this is done is by seeing what parts of a subject's arsenal can enhance with other parts of it.
 
@@ -982,56 +941,6 @@ A distinct character trait of Striders especially in the Switchboard is their de
 The narrative result of this is '**character arsenals**'; the total sum of all the offensive, defensive and utility powers at an actors disposal in the Switchboard. All these things outlined in a singular document - particularly in an individual character's profile, creates an **arsenal card.**
 
 > We have an example of one such arsenal card in the form of [[Fyre_AC]].
-
-#### Example: Adven Ventura (Deprecated)
-> Deprecate this; use Fyresworde as a study.
-
-A case study/example outline of a Character Arsenal using Adven Ventura.
-
-**Mundane - Tier 1**
-- Martial Arm: **Tritanium Longsword** (MOD Relic Longsword)
-- Firearm: **Sojourner's Tale** (MOD Relic Handcannon)
-- Tertiary: **Praxlance**
-**Notes**
-	The Sojourner's Tale is an eight-shot handcannon made to order and refit for unparalleled accuracy. It fires specialized 'keyhole' rounds spun from ribbon by Ventura himself.
-
-**Elementary Calcic - Tier 2**
-- Weave Strike: **Priming Bolt**
-	  A ranged calcic attack. Chalk is spun into the shape of bolt and flung at a target with high speed and accuracy. On impact, it does critical damage to armor and inflicts a lattice vulnerability to piercing attacks.
-- Woven Charges: 
-	- **Saboteur's Charge**
-	  A grenade is woven from chalk. It resembles a small cube that can be thrown from the hand or attached to surfaces, where it lies in wait for targets. On detonation, it violently unweaves into sound and light, deploys a slowing field that affects all targets within and a electrical pulse that targets weapons with onboard computational systems, slates and chromegrafts.
-	  - **Interceptor Flechette**
-	A grenade is woven and tossed, resembling a small sphere that can be thrown from the hand. When the fuse expires, it uses Ventura's Tek to calculate the path of various projectiles moving within its blast radius. Upon detonation, it fires out a swarm of flechette projectiles that intercept them, knocking them off course.
-- Knit-Shield: **Projectile Net**
-	  A field projected from an outstretched hand. This shield ability manifests as a net of chalk ribbon that arrests the momentum of any projectiles fired at it. The momentum stolen from them can be turned into calcic charge.
-- Weft Dash: **Calculated Leap**
-	Ventura performs a highly calculated jump, simulating all major and minor movements required to move through a space and the exact amount of chalk that must be flared to produce enough velocity to perform it, and land at an exact position. This leap takes into consideration all possible obstacles to his flight using his Trajectory Calculator, allowing him to leap through swarms of moving projectiles (such as hailstorm of bullets) without issue.
-- Woven Armament: **Stabilizer Lattice**
-	When Ventura wields a firearm, weave keeps it firmly in his grip, transferring firing control and recoil compensation to his entire body rather than solely his arm. This allows for making immensely accurate shots, and doing so repeatedly with very little accuracy loss over time.
-
-**Advanced Calcic - Tier 3**
-- Tek: **Trajectory Calculator**
-	  A passive **modification** Tek that grants the ability to lock on to, track and calculate the path and strike location of any projectile in motion. Deploying an invisible graduated lattice creates a three-dimensional spatial ruler that allows for calculating and thus predicting the path of a projectile. If Ventura aims his pistol, he is able to predict where the shot will land. If he sees an incoming projectile, he is able to intercept it with a shot of his own. It sees its true power in its ability to calculate **rebounds**; in addition to calculating where a projectile will strike, he can also calculate the trajectory the projectile will take when it ricochets. This allows Ventura to - rather uncannily - bank shots off surfaces to shoot at targets around corners.
-- Qui: **Hardpoint Calcic Rounds**
-	  Ventura summons a qui-wheel, feeds it (ritual components) and eight rounds of ammunition for his handcannon, transforming them into hardpoint calcic rounds. These shots rebound off targets irrespective of the hardness of the struck surface, and can do so a number of times. Due to their hard tips, they can also pierce targets, and can continue on their path, rebound and strike the same target again. Hardpoints do considerably more damage to targets that have piercing vulnerabilities inflicted upon them. 
-- Qui: **Unravelling Rounds**
-	  Ventura summons a qui-wheel, feeds it (ritual components) and eight rounds of ammunition for his handcannon, transforming them into unravelling rounds. These rounds inflict an amount of chaos to the lattices of Striders and Weavers, inflicting unravelling upon them, but not doing much by way of physical damage. These rounds are used more to sabotage an enemy combatant, or as a way to suppress a target for capture.
-
-**Ultimate Calcic - Tier 4**
-- Flash Protocol: **Ricochet Barrage**
-	  Ventura weaves eight hardpoints, then flashcharges the Sojourner's Tale handcannon, his Tek, and all eight hardpoint rounds. The flashcharge rapidly accelerates the matter of the rounds, turning them into partially energy ammunition (as is fired from Axxel weaponry), granted them a massively increased ability to pierce. Flashcharging his handcannon allows it to fire with unrivalled accuracy, as well as confers additional muzzle velocity on the accelerated hardpoints. Flashcharging his Tek allows him to calculate many, many rebounds deep for multiple projectiles. Ventura - within the space of a fraction of a second - then calculates and fires all eight rounds, such that they fly, strike, pierce and ricochet of any number of surfaces, flying, striking and piercing the target again and again, until they are shredded to pieces by gunfire.
-- Signature Ritual: **Safe Passage**
-	  Ventura draws a chalk circle and performs a ritual, expending an amount of components. All within the effective range of the ritual have their effective information mass lowered, allowing them to stride further and carry more cargo. 
-
-**Auxiliary Powers**
-- Doctrinal Power (Tier 3): **Doctrine of Strength**
-	  A passive ability granted to Ventura due to his unwavering confidence in the power of strength. Attacks he makes against targets weaker than him do more damage, and calcic dividends are extracted from them to fuel his own abilities. Additionally, even when critically unraveled, Ventura is still able to accumulate chalk and empower his base weapons with it.
-- Doctrinal Power (Tier 1): **The Sil'khan**
-	  Ventura's pride in his Sil'khan roots empowers him. When fighting away from home, Ventura's abilities are empowered. When fighting on new frontiers, in Vaults or in different planes, Ventura is further empowered. 
-- Titular Power (Tier 3): **The Strider Sojourner**
-	  Ventura's notoriety earned by virtue of his ability to seemingly traverse the Switchboard under any conditions has empowered his Strider Protocol. Ventura is able to passively accumulate chalk mid-stride, and can no longer fall into the Void. This passive chalk accumulation allows for extending the distances he can stride, as well as replace momentum lost due to travel. 
-
 
 #### Live Arsenal Card Draft
 ![[Fyre_AC]]
@@ -1093,3 +1002,13 @@ Chalkweaver
 - Global Modifiers
 	- Axle: This element of the arsenal hinges on another element of it.
 	- Praxis: This element of the arsenal operates on the Praxis level.
+
+
+### pNarrat Concept: Combat Scene Writing
+> It is recommend to read the heading **Damage Types** before this section.
+
+This is a section that discusses the writing of combat scenes in the Samsara canon. Additionally, this section discusses two subtopics; sustaining damage in the Switchboard, and an expansion on the language behind the usage of powers in the Switchboard.
+
+#### Taking Damage
+The denizens of the Switchboard do not bleed.
+

@@ -152,8 +152,11 @@ Music to my ears. Stars bless you.
 
 ## Work
 Assuming the following problems are fixed;
-- Where does Heat come from as regards its state as 'dispersed' motive weave?
-- Does Calciphagy or Glass Momentum or some amalgamated form of both accurately describe the negentropic reaction glass has?
+- ~~Where does Heat come from as regards its state as 'dispersed' motive weave?~~
+	- Nothing needs to do anything for motion to disperse as heat. It just does.
+
+- ~~Does Calciphagy or Glass Momentum or some amalgamated form of both accurately describe the negentropic reaction glass has?~~
+	- Glass momentum.
 
 Then we can revise the following docs according;
 [[Switchboard Technology]]
@@ -167,6 +170,12 @@ Then we can revise the following docs according;
 - **Glass 4.0**; which will primarily be a revision that discusses;
 	- How glass propagates through negentropic reactions.
 	- How glass reverses entropy and thus this gives it various applications.
+	- The **threshold concept** that dictates how glass affects some weave and not others is in need of discussion.
+		- Though I must ask Hex for clarification on where exactly lies the problem.
+	- Amendment to Calciphagy to detail how glass doesn't replicate itself as it damages lattice. The docs that'll need changing on this front are;
+		- [[Communications and Compute]]
+		- [[The EPIT]]
+	- Devise a 'language of glass' to replace and account for the nature of glass as something that *simplifies* and *perfects* rather than destroys.
 
 [[Calcodynamics]]
 - This doc will simply be complete at all, and many of its sections will be linked into other docs to explain how the foundational mechanics outlined here are used and built upon elsewhere. Examples of such are;
@@ -174,3 +183,6 @@ Then we can revise the following docs according;
 	- Property weaves being used in [[Chalk Ritualism]]
 
 - Far more to come regarding harnessing the mechanics developed here to solve the larger encryption and currency problem that exists within the canon.
+
+**Hyperweave** - under [[The Hands as Chalk]]
+- Underlying mechanic need a second pass.

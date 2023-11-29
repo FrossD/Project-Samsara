@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e86c3b48779bf3cd",
+        "id": "66305f3294373f88",
         "type": "tabs",
         "children": [
           {
-            "id": "3f334a28152c3c47",
+            "id": "daf2b9de5e2f22ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -35,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynamics",
+                "query": "Dancer-born",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md"
+              }
             }
           },
           {
@@ -107,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,37 +172,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f334a28152c3c47",
+  "active": "93cb784d559b3db0",
   "lastOpenFiles": [
+    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
+    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
+    "2. Development/Workshop/Calcic Chemistry et al/HexProp.Response.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/WeaveWar Append.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
+    "DT.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/C0-CDT-CharTemplate.md",
     "2. Development/Narrative Worldbuilding/Characters/C0-CDT.md",
     "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
     "Z. Assets/VoidDaughtersRel.png",
-    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "3. Scribbling/557D3000",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "1. Drawing Board/2. Offshore/Babcock Debate/Debate Points.md",
     "1. Drawing Board/2. Offshore/Babcock Debate",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
     "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "Untitled.md",
     "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
     "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
     "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
     "2. Development/Narrative Worldbuilding/Characters/C3-A1B1-Antags.md",
     "Z. Assets/Test.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
-    "2. Development/Mechanical Pillars/Glass.md",
-    "2. Development/Workshop/Calcic Chemistry et al/9-Point_Kindrish.md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Calcodynamics",
     "1. Drawing Board/1. Samsara/Legacy Discussions/General",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Bayes"

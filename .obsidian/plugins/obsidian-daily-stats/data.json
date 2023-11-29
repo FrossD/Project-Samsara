@@ -2,12 +2,22 @@
   "dayCounts": {
     "2023/10/21": 761,
     "2023/10/25": 466,
-    "2023/10/27": 157
+    "2023/10/27": 898,
+    "2023/10/28": 3192,
+    "2023/10/29": 75
   },
   "todaysWordCount": {
-    "2. Development/Narrative Worldbuilding/Notebook Tracker.md": {
-      "initial": 552,
-      "current": 709
+    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md": {
+      "initial": 2997,
+      "current": 3066
+    },
+    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md": {
+      "initial": 533,
+      "current": 532
+    },
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md": {
+      "initial": 16455,
+      "current": 16461
     }
   }
 }
