@@ -177,6 +177,9 @@ Then we can revise the following docs according;
 		- [[The EPIT]]
 	- Devise a 'language of glass' to replace and account for the nature of glass as something that *simplifies* and *perfects* rather than destroys.
 
+[[Communications and Compute]]
+- Glasswire needs a mechanical revision.
+
 [[Calcodynamics]]
 - This doc will simply be complete at all, and many of its sections will be linked into other docs to explain how the foundational mechanics outlined here are used and built upon elsewhere. Examples of such are;
 	- Inductive weave explaining **Inductive Damage** in  [[On Weave and Warfare]]

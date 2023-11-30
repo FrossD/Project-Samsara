@@ -4,13 +4,16 @@
   "find-unlinked-files",
   "obsidian-style-settings",
   "obsidian-file-info-plugin",
-  "table-editor-obsidian",
   "better-word-count",
   "obsidian-image-toolkit",
   "obsidian-icon-folder",
   "obsidian-kanban",
   "obsidian-excel-to-markdown-table",
-  "fantasy-calendar",
   "obsidian-daily-stats",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "recent-files-obsidian",
+  "markdown-table-editor",
+  "darlal-switcher-plus",
+  "homepage",
+  "chronology"
 ]

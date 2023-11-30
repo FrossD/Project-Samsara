@@ -39,7 +39,7 @@ Rigorous training in the ranks of the Spyndl Academy's Operator school, further 
 *"My head forever hangs low."*
 	Ventura takes a stance, and then swings the Oblige in a wide arc, the mechanics of the praxlance assembly mirroring the strike with a follow-up wave of cutting chalkweave. The sheer calcic force is enough to cleave through even the strongest targets. 
 
-**Mark of the Office: Sunderblast** - Brch, Induc, Unrav
+**Mark of  Office: Sunderblast** - Brch, Induc, Unrav
 *"Bring low all baseless pride."*
 	Ventura takes a stance, and arms the firing mechanisms built into the praxlance. From the blade roars forth concentrated blasts of hyperweave projectiles, fired in bursts and spreads. Targets struck are heavily unraveled in an instant, as well as inflicted with **inductive unraveling** that sees the effect continue and escalate with time. 
 

@@ -56,5 +56,13 @@ As such, the task then is to highlight possible events that could have occurred 
 	- Furnishing fleets of Sil'khan ships.
 	- Building a fleet in general.
 9. **Building the Modern DevitNet**
+10. **The Academies Plural**
+	- Under [[C4-Organizations]]
+	- While Spyndl was the first Academy and thus the most prestigious, various other allied and rivalling schools exist throughout the Switchboard, with their own histories, doctrines and methodologies.
+	- For now, directly rivalling Spyndl is **Sakerfel**, a Rosenthalist-run academy that has very poor relations with the Sil'khan.
+11. **The Switchboard Underworld**
+	- Speaking of crime, contraband and all things clandestine in the Switchboard
+	- Related primarily to the Rosenthalists, Starwylds and the Black Arcologies
+
 
 ### P#1

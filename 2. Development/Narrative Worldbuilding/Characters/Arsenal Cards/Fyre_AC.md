@@ -63,7 +63,7 @@ Experience in the Wylds has taught Cendyr a number of martial disciplines, which
 **Sun-smitten Apathy** - Prax
 Axle: Flashcharge, Relic Defensive | Gun-trigger Parry
 *"They asked how I could keep fighting. Now that I've told them, they've asked whether I'll know when to stop."*
-	When a flashcharge is available, Gun-trigger Parry is upgraded into Apathy of the Sun-smitten. When an event is occurring in the vicinity in a manner that can be interpreted as 'occurring **to** the caster', the flashcharge can be expended to parry it a the doctrinal level, eliminating whatever effects it would have had on the caster. This power can be used to parry nearly anything, from the flashes of other Striders to the emotional response upon hearing bad news.
+	When a flashcharge is available, Gun-trigger Parry is upgraded into Apathy of the Sun-smitten. When an event is occurring in the vicinity in a manner that can be interpreted as 'occurring **to** the caster', the flashcharge can be expended to parry it at the doctrinal level, eliminating whatever effects it would have had on the caster. This power can be used to parry nearly anything, from the flashes of other Striders to the emotional response upon hearing bad news.
 
 ### Fire Arms
 **(N/A)**
@@ -130,11 +130,11 @@ Axle: Martial Arm | 1530 Centigrade
 	Ashflame is suffused into a weapon, and a series of powerful, sweeping cuts are made against a target, shattering their defenses, inflicting inductive cold-burns, and siphoning a considerable amount of chalk. This attack can only be performed when the starfire reserves are majorly filled with ashflame. Upon cast, half of all ashflame expended is refunded as starfire in the reserves.
 
 ### Quis
-Cendyr's arsenal of quickcasts relies heavily on their Tek, and clever usage of both starfire and ashflame along with the employment of ritual components, allowing for devastating attacks and helpful utility casts, all acquired over many processions out in the Starwylds.
+Cendyr's arsenal of quikasts relies heavily on their Tek, and clever usage of both starfire and ashflame along with the employment of ritual components, allowing for devastating attacks and helpful utility casts, all acquired over many processions out in the Starwylds.
 
 **Stars, Cleanse Me**
 Axle: Tek | Starfire Conduit
-*"Were I one for drink, I would get far more mileage out of it than I do now. Fortunately, I am often in the company of those who are far fonder of the Cyrculian Spirits."*
+*"Were I one for drink, I would get far more mileage out of it than I do now. Fortunately, I am often in the company of those who are far fonder of the Cyrculian spirits."*
 	Cendyr summons forth a qui-wheel, filling it with components and measures of starfire, powering it with chalk and then issuing the verbal command of the cast's name. Upon performing the somatic component of beating the chest with a balled fist, all inductive effects on Cendyr are instantly cleansed. 
 
 **Flame, Surge Forth** - Induc

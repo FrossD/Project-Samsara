@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66305f3294373f88",
+        "id": "eac694848ef5facd",
         "type": "tabs",
         "children": [
           {
-            "id": "daf2b9de5e2f22ef",
+            "id": "b057145663cfea01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dancer-born",
+                "query": "quikas",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,6 +57,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "bfa90f9863c8ed08",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
@@ -83,12 +91,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "261f5e817c0e6713",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md"
+              }
+            }
+          },
+          {
+            "id": "b9f0f2f8b6bc8203",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "39779fd02b9c6dea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,22 +126,12 @@
             }
           },
           {
-            "id": "261f5e817c0e6713",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md"
-              }
-            }
-          },
-          {
             "id": "acc5d92ceb633965",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,14 +154,6 @@
             }
           },
           {
-            "id": "e2a0a9ad8b075af9",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "94fb2133e002bae2",
             "type": "leaf",
             "state": {
@@ -163,46 +171,53 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-file-info-plugin:File Info Panel": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "homepage:Open homepage": false,
+      "chronology:Open Chronology": false
     }
   },
   "active": "93cb784d559b3db0",
   "lastOpenFiles": [
-    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Workshop/Calcic Chemistry et al/Post-Proposal Notes.md",
-    "2. Development/Workshop/Calcic Chemistry et al/HexProp.Response.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Switchboard Technology.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/WeaveWar Append.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
-    "DT.md",
+    "1. Drawing Board/1. Samsara/Meta/Home.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/C0-CDT-CharTemplate.md",
+    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/2. CX-Character-Arsenal-Ideas.md",
+    "1. Drawing Board/1. Samsara/Meta/Patreon.md",
+    "1. Drawing Board/1. Samsara/Meta/Substack Post.md",
+    "1. Drawing Board/1. Samsara/Meta/Site Dev.md",
+    "1. Drawing Board/2. Offshore/Z. Scenario Codes.md",
+    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
+    "2. Development/Workshop/Families/Prop.The_Families.md",
+    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
     "2. Development/Narrative Worldbuilding/Characters/C0-CDT.md",
-    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
+    "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md",
+    "Z. Assets/FrossD-1.gif",
+    "Z. Assets/spider-lily-flower-anime.gif",
+    "Z. Assets/1695784784613155.gif",
+    "2. Development/Foundational Pillars/The Strider Protocol.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
+    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
+    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
+    "3. Scribbling/BiomesFinal.pdf",
     "Z. Assets/VoidDaughtersRel.png",
     "3. Scribbling/557D3000",
-    "1. Drawing Board/2. Offshore/Babcock Debate/Debate Points.md",
     "1. Drawing Board/2. Offshore/Babcock Debate",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
-    "2. Development/Workshop/WorkshopDocs/FamTemplate.md",
-    "2. Development/Workshop/WorkshopDocs/FelArcad InDev.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
-    "2. Development/Mechanical Pillars/The Skywards Pursuit.md",
-    "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
-    "2. Development/Narrative Worldbuilding/Characters/C3-A1B1-Antags.md",
-    "Z. Assets/Test.md",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Calcodynamics",
     "1. Drawing Board/1. Samsara/Legacy Discussions/General",
     "1. Drawing Board/1. Samsara/Legacy Discussions/Bayes"

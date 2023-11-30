@@ -185,13 +185,13 @@ In which we get to the first of the subject's calcic abilities (if present). The
 	- Taken to another step though, it is possible to weave weapons **entirely** out of chalk and fight with them as one would normally. While particularly skilled Weavers can do so and have the weapons persist for long periods of times, more often than not a woven weapon is used much the same way as an ability is; casted and resolved fairly quickly, imparting its effects. Woven armaments are thus often used in a sequence of attacks; woven into much larger combos, or deployed only when the specific, unique function they serve is needed.
 
 T3 - **Advanced Calcic**
-Into the advanced calcic do we see Teks and chalk rituals make an appearance. Despite the fact that Teks do not particularly require all that much skill to simply use, obtaining them is a sign of a fairly skilled subject. The fact that any two Teks being even remotely similar is an extreme rarity means that Teks are a massive contributor to a subject's recognizability, so much so that Teks can be the basis for forming somewhat [[The Blank-Slate Mind#Teks and Striders|cult-like followings]]. Rituals make an appearance here in the form of Quis or quickcasts, which are learnable and executable by virtually anyone half decent at weaving chalk. Often, Quis only contribute to a subject's notoriety if they were the first person to utilize them (i.e., the drafter of the schema).
+Into the advanced calcic do we see Teks and chalk rituals make an appearance. Despite the fact that Teks do not particularly require all that much skill to simply use, obtaining them is a sign of a fairly skilled subject. The fact that any two Teks being even remotely similar is an extreme rarity means that Teks are a massive contributor to a subject's recognizability, so much so that Teks can be the basis for forming somewhat [[The Blank-Slate Mind#Teks and Striders|cult-like followings]]. Rituals make an appearance here in the form of Quis or quikasts, which are learnable and executable by virtually anyone half decent at weaving chalk. Often, Quis only contribute to a subject's notoriety if they were the first person to utilize them (i.e., the drafter of the schema).
 
 - **Teks** 
 	Truly stretching the limits of what chalk is capable of, Teks are inconceivably complex calcic equations that fold chalk to perform incredible feats. Whereas weaving the chalk necessary to simulate the effects of a Tek would be wholly undoable by even the most skilled Weavers, Teks emerge from the nearly unknowable mechanics of the Astrolabe, and manifest as abilities Weavers can cast without having to weave themselves, or even understand how they work.
 
 - **Quis**  
-	Quis or quickcast rituals make their appearance in a Weaver's arsenal here. Using a qui-wheel, Weavers are able to quickly deploy even powerful and complex rituals on the battlefield to considerable effect, and it is widely argued that quis are the most dangerous part of engaging with Weavers.
+	Quis or quikast rituals make their appearance in a Weaver's arsenal here. Using a qui-wheel, Weavers are able to quickly deploy even powerful and complex rituals on the battlefield to considerable effect, and it is widely argued that quis are the most dangerous part of engaging with Weavers.
 
 T4 - **Grand Calcic**
 The arsenal of Chalkweavers end here, but the power of grand ritual is nothing to scoff at. Expending components, chalk and time allows the strongest Weavers to cast complex rituals, performing feats in the Switchboard of immense power. The sheer versatility of the calcic ritualism comes down to the diversity of ritual schema that exists, and a Weaver giving their all can enhance even mundane, simple rituals to lofty heights.
@@ -854,7 +854,7 @@ Practice and instruction in the Weave Protocol translates to acquisition of the 
 
 The next major leaps in strength comes in deliberate pursuit of certain schools of practice in the Switchboard. Striders and Weavers with proficiency in the Weave Protocol can immediately begin their study and practice of rituals, providing a rapid acceleration of their 'power level' as they gain access to the swathe of abilities presented by rituals. For exclusive Chalkweavers, this is typically where their power progression ends.
 
-Striders on the other hand have the ability to launch out into the Switchboard and gain more power in the form of tangible boons reaped from exploration. Striders in the Academy are granted access to the **MOD** ritual schema, transforming their mundane weapons into formidable calcic implements - artificial relics - capable of considerable damage. Exploration of the Switchboard's Wellsprings can yield a Strider's first **Tek**, a defining element of a Strider's gradually cultivated fighting style. Striders learn quis - quickcasts - around this time as well out of necessity due to the nature of their preoccupations, especially if they serve the Academy. Ritual schema are plundered from the Great Sky's bounty as well.
+Striders on the other hand have the ability to launch out into the Switchboard and gain more power in the form of tangible boons reaped from exploration. Striders in the Academy are granted access to the **MOD** ritual schema, transforming their mundane weapons into formidable calcic implements - artificial relics - capable of considerable damage. Exploration of the Switchboard's Wellsprings can yield a Strider's first **Tek**, a defining element of a Strider's gradually cultivated fighting style. Striders learn quis - quikasts - around this time as well out of necessity due to the nature of their preoccupations, especially if they serve the Academy. Ritual schema are plundered from the Great Sky's bounty as well.
 
 The acquisition of weave powers, relic weapons, Tek, quis, rituals and additional odds and ends obtained from exploration and plundering the Great Sky allows for a Strider to begin crafting a unique **fighting style** by which they will be known to other denizens of the Switchboard. This particular step attained on the progression ladder is a significant one, as a Strider outfitted in such a manner is more than ready to take on most challenges that exist in the Switchboard.
 
@@ -944,65 +944,6 @@ The narrative result of this is '**character arsenals**'; the total sum of all t
 
 #### Live Arsenal Card Draft
 ![[Fyre_AC]]
-#### Loadouts
-Chalkweaver
-- T1 - Relic Armaments
-	- Contents
-		- Martial Arm
-		- Firearm
-		- Tertiary
-	- Modifiers
-		- Mundane
-		- Natural Relics
-			- Prime Relics
-		- Artificial Relics
-			- AAA-XXX
-			- AAA-XXX-F#
-			- AAA-XXX-F#YYY
-- T2 - Elementary Calcic
-	- Strike
-		- Forms
-			- Touch
-			- Bolt
-	- Charge
-		- Forms
-			- Blast
-			- Grenade
-			- Imbue
-	- Shield
-		- Forms
-			- Passive
-			- Active
-	- Dash
-	- Armament
-- T3 - Advanced Calcic
-	- Tek
-		- Abilities
-			- Offensive
-			- Defensive
-			- Utility
-			- Burst
-	- Qui
-- T4 - Grand Calcic
-- T5 - Flash Protocol
-	- Forms
-		- Flash Strike
-		- Flash Weave
-		- Lattice Overclock
-		- Ribbon Overclock
-		- Flashcharge
-
-- TX - Relic Skillsets
-	- Powers
-		- Offensive
-		- Defensive
-		- Utility
-		- Feat
-
-- Global Modifiers
-	- Axle: This element of the arsenal hinges on another element of it.
-	- Praxis: This element of the arsenal operates on the Praxis level.
-
 
 ### pNarrat Concept: Combat Scene Writing
 > It is recommend to read the heading **Damage Types** before this section.
@@ -1012,3 +953,132 @@ This is a section that discusses the writing of combat scenes in the Samsara can
 #### Taking Damage
 The denizens of the Switchboard do not bleed.
 
+A physiological consequence of the all-encompassing nature of chalk in the Switchboard is that this include its denizens. The dwellers in the Switchboard are made of chalk, as is everything else, and as such they react differently to physical damage in various forms.
+
+The general determinant of how physical damage is manifested is dependent on the nature of the **top-layer lattice** that comprises the overwhelming material of calcic material that makes a body. Playing the role of 'flesh' as we understand is instead woven chalk, bestowed with the property-weaves necessary to replicate the nature of conventional flesh. This flesh analogue, however, sustains damage fairly differently from denizens of the Switchboard that have undergone **calcification**, where continuous exposure to highly-pure chalk results in the extremities and occasionally other parts of the body having their constituent weave lose much of its original properties, replaced instead with immensely hard and pure plain chalkweave. This results in a subject appearing to be 'taken over' by chalk, almost as if becoming something akin to a marble statue. This particular transformation results in a top-level lattice that is considerably more resistant to damage, but does result in it taking damage in new ways.
+
+##### Lattice Flesh
+Flesh being weaker weave is prone to being **cut**, **impacted** and **peeled**. Caedometric and breach attacks do the former two respectively, and physically they are fairly simple to imagine, cuts manifesting as a grooved loss of material, and impact damage being visible dents - almost as if in sheet metal or soft clay - where the damage was inflicted. 
+
+**Peeling**, on the other hand, is generally the result of **unravelling** attacks and damage forms. Weave comes undone and ribbon trails away from the epicenter of the damage point, a visible loss of material present. Battle-damaged denizens of the Switchboard frequently have great trails of ribbon trailing behind them, off of the exposed bits of their flesh, like ragged flags and battle standards. The various regenerative abilities in the Switchboard often draw these ribbons back into the lattice, reweaving them back in accordance with the ledgers in the memory strait.
+
+Various **inductive effects** manifest physically on the flesh, dictated by the equations or ritualism that make up the effect. Burns char the flesh-lattice different colors, poisons give it sickly pallor; plenty along those lines. Healing undoes these effects as well. 
+
+##### Calcified Flesh
+The flesh of calcified denizens of the Switchboard manifests a bit differently. Due to the hardness of the material that now makes up much of their body, damage sustained interacts with it as one would expect physical damage to interact with solid marble.
+
+A common grievance shared by those with calcified lattices is how visually vulnerable they are to **scratches, scuffs, nicks and chips**, caused by even minor physical damage inflicted to the calcified region, giving the subject the appearance of aged sculpted stonework, weathered by age and perhaps poor handling. Passively, this damage is regenerated by the subject's internal mechanisms, and thus isn't too great a concern for many.
+
+As incident physical damage increases in severity, so too does the structural damage reflected on the calcified subject. **Cracks** and **fractures**. Cracks are less sever, being only minor breaks in the continuity of the lattice material. Often they form around both powerful cuts from caedometric sources, or at the sites of breach damage. Fractures are a result of one of the ways calcification has been **harnessed** by the many afflicted by it; the calcified, plain-chalk chalkweave that makes up the bulk of the calcified mass is very suitable ground for modification with additional weave, and many choose it to grant it additional properties through ritualism. The most common, however, is a partially or total reweaving of the mass entirely; peeling back the weave, detangling it, and then weaving it back into stronger form much like multi-corded rope, then weaving this corded rope weave back into the limb. While this does lend the lattice considerable passive strength and resistance at no cost to the subject, it does mean that sufficient enough damage can cause a total discontinuity - a **fracture** - in the rigid structure - as it is, in a sense, braided stone.
+
+**Splintering** is another common form of damage sustained by those who have been calcified, manifesting as the rigid calcic structure being pulled or shorn wickedly in some fashion, resulting in sharp bits of upturned, fragmented material jutting from the site. It is also not uncommon for sever **breaks** to occur in the calcified structure, as well as for it to **shatter** entirely, should it fall victim to particularly critical incident damage. Repairing this damage generally requires retrieving lost material, particularly in the case of shattering.
+
+Calcified flesh also **unravels** as well, entirely similar to conventional lattice flesh. Usage of calcic abilities and sustaining unravelling damage results in the peeling of the top-level lattice.
+
+Sustaining damage on calcified lattice also consistently yields a measure of **dust chalk**, suffused into the local environment. Often, tussles between particularly skilled chalkweavers results in dust piles left behind.
+
+##### General
+Some general notes across both.
+
+- The Void-originating **siphon** damage often peels material right off of the top-layer lattice, while leaving behind violet scarring as a testament to its effects. This scarring affects lattice flesh and calcified flesh both, with the effects more visible on calcified flesh due to it usually being white in color. 
+
+- (A note on the negentropic effects of glass made manifest)
+
+#### Terminology
+It has become necessary to reconcile the various terms that describe supernatural abilities in the Switchboard, as in no small part they've been referred to - often simultaneously - as;
+- Techniques
+- 'Casts'
+- Abilities
+- Powers
+- Weaving
+and so and so forth. Thus we must work towards reconciling these terms and giving them workable, distinct definitions regarding what they encompass.
+
+##### Arsenal Classification & Terminologies
+The culmination of all gear, abilities, casts and powers possessed by a subject in the Switchboard is their **arsenal**. Elaborated upon more fully in the Super-Classes section above, in this section we take a look at the arsenal classifications for the superclasses as well as relevant terminologies that aid in describing and understanding what is mean by the Switchboard's various forms of power.
+
+**Gear**: The lowest 'tier' of arsenal classifications, and describes the **majorly physical weaponry** wielded by actors in the Switchboard. While some gear-_reliant_ powers are also in this category, it refers to the tangible weaponry themselves.
+
+| Chalkweavers | Depthstriders                                                 | Pale Amarans |
+|--------------|---------------------------------------------------------------|--------------|
+| T1           | T1                                                            | T1           |
+|              | T3 <br/>- Gifts from the Void<br/>- Possessions from the Void |              |
+|              | T5<br/>- Shaped Arms                                          |
+
+**Abilities**: The defining characteristic of an ability is that it must be something that can be performed **innately**. It refers to all of the powers that an actor in the Switchboard possesses usually by virtue of their bodily composition, such as possessing the Five Straits and the Weave Protocol, an attunement to the depths, or pale amara implantations. These abilities are combined with physical prowess in their execution, and are an actors basest level powers.
+
+As an example, weave strikes, charges and shields are **woven abilities**, so called as they are woven into being using chalk and the innate power of the Weave Protocol. Depthstriders' ability to **manipulate curvature** is a result of their ability to fabricate **negative information** and thus induce fourth-dimensional depth and altitude. Pale Amaran's reconcile elements of both using the **polarity** provided by pale amara integrations into their lattice, allowing for **spectrum weave** and **chaotic curvature manipulation**.
+
+| Chalkweavers | Depthstriders                         | Pale Amarans                                                               |
+|--------------|---------------------------------------|----------------------------------------------------------------------------|
+| T2           | T2                                    | T2/3 (Polar White)                                                         |
+| T5           | T5<br/>- Chronodynamism               | T2/3<br/>- Polar Black: Point Collapse<br/>- Polar Black: Point Expulsion) |
+|              | T3<br/>- Draw Strike<br/>- Formshift  |
+
+**Casts**: Casts describe a swathe of Switchboard powers defined most simply by a jump in complexity. Differing from abilities but not wholly, casts are often reliant on something external, such as consumable ingredients, existing phenomena, or the acquisition of secondary power sources. Casts may also involve using **abilities** in more advanced ways, and in this category are usually the most powerful powers available to actors in the Switchboard.
+
+For example, **rituals** of both the calcic and horizon variety (and all [[Chalk Ritualism#Alternate Ritualism|other varieties]] in general) are 'casted'. Most Tek-granted powers are casts as well, as they are dependent on the Tek to function. Depthstrider's **Deep Hollows** are casts as well, reliant on the conviction of the caster in the Void. For their sheer complexity alone, the **Aura Strikes** and **Full Spectra** abilities are casts as well. Judging by the fact most high-level parts of an actor's arsenal are considered casts, you might conclude the **Flash Protocol** would be a cast as well. Conversely, it is not, as it is reliant on the Strider Protocol - an innate ability - thus making it an ability-level power. Powers granted by **gear** such as Relics and Tools from the Void are considered casts as well.
+
+| Chalkweavers | Depthstriders | Pale Amarans |
+|--------------|---------------|--------------|
+| T3           | T4            | T4           |
+| T4           |               | T5           |
+
+**Powers**: 'Power' is used fairly loosely in the Samsara canon, used to describe basically any 'thing' that an actor can do that would be filed under the department of 'supernatural' if performed in our world, for example. 'Powers' used more specifically however, refers to power granted by very external systems that are fairly removed from those that benefit from the resultant of that system's enginery. **Praxis powers** are good example of this, hinging on the Switchboard's transcendent interplay of doctrine versus doctrine. **Titular powers** are similar, drawing on the collective power placed behind names and titles that rise to lauded or infamous status in the Dancirah. 
+
+> Something that breaks the mold a little bit are **chromegrafts.** Chromegrafts are not like the Weave Protocol in that cybernetic installations are not innate. That being said, the powers granted by a cybernetic can hardly be considered a cast, as that would be putting, say, a wrist-mounted machine gun at the same tier with grand rituals. For this reason, chromegrafts are treated as **abilities**, as their very tightly-interwoven nature with an actors lattice should allow for consensus that a power granted by a regular arm and a chrome one aren't different enough to warrant a differentiation in category.
+
+##### Combat Terminology
+> This section is mainly intended to shape narrative - not storytelling per se, but rather the actual language used in the telling.
+
+The flexibility of language has allowed for the terms that describe certain concepts relating to Switchboard combat to be used more loosely as required. That being said, it does help to have some working definitions for some thing.
+
+All of the conventionally supernatural feats that denizens of the Switchboard are capable of can be arranged in **strata**, viewable as a series of concentric circles that expand beyond a subject at the center. 
+
+Subject >| Skills >| Abilities >| Casts >| Powers
+
+**Skills** in the Switchboard describe just about any 'ability' that is possessed and executed exclusively or majorly through through the **mental and physical prowess** of a subject. Weaving fire and throwing it *isn't* a 'skill', even if the subject doing such an action could be said to be *skilled* at chalkweaving - that is an entirely different thing. Under the superclass arsenals, **skills** in general describe the various [[Martial Disciplines of the Switchboard|martial disciplines]] in the Switchboard that dictate the rules surrounding unarmed and armed combat.
+
+An **ability** in the Switchboard is fairly annoying to truly pin down a distinct definition for, due to the way the word is used outside of Samsara canon. Linguistically, an ability is a suitable term to describe *anything* that a subject can do, meaning that even concepts better described as 'casts' can also be called abilities. It helps then, to think of abilities as the **most innate** supernatural actions that can be taken by a subject. Their baseline abilities, as it were. If a supernatural action really only hinges on one concept to function - such as the Weave Protocol or attunement to the depths - that action is generally an **ability**. For this reason, the T2s across the superclass and various other slots in the arsenal are describable as abilities.
+
+Additionally, the subject doesn't necessarily need to be a living denizen of the Switchboard. Implements such as **relics** have the various feats they're capable of described as **relic abilites**. This also applies to other implements such as various types of grafts (especially chromegrafts) and Slates.
+
+**Casts** describe both **physical concepts** and their **execution**, and differ from abilities across a shared trend of escalating complexity as well as reliance on additional other concepts. The various 'abilities' granted by - or reliant upon - a Tek, for example, are viewable as **casts**. All kinds of ritualism, including quikasts, are **casts**. Depthstrider Deep Hollows are **casts**, as well as the actual process of summoning them. 
+
+Another way of determining what counts as casts is there being a certain '**wind up**' to their usage. Rituals need to have ritual circles drawn, components deployed, the like. The Deep Hollow operates by hollowing out a region in space, a move that also takes time. Pale Amaran powers are generally reliant on executing the cast at a moment of near-perfect balance between alignment, and this in turn takes time. For this reason, the phrase '**preparing a cast**' is used often to describe the steps before *executing* the cast. But as mentioned above, the physical Deep Hollow structure can be described as a cast, just as the steps taken to erect it.
+
+**Powers** are somewhat more amorphous, as they generally refer to 'power' conferred upon a subject by mechanics far removed from them. Much of these are the Switchboard's **meta** - praxis - powers, that result from the interactions between doctrine. [[The Blank-Slate Mind#Titular Powers|Titular Powers]] are a fairly solid example of this, referring to powers conferred upon bearers of titles earned through actions in the Switchboard.
+
+**Techniques** is another fairly amorphous term, and is used generally to describe any form of **active** '**ability**' used in the Switchboard. In practice within the canon however, an ability or cast is subjectively elevated to the level of 'technique' when it is defined by considerable **complexity**, **efficacy** and **uniqueness** to a subject, as though supernatural actions taken could earn titles themselves. Technique is also useful to describe or denote collections of similar or identical concepts, such as 'Flash techniques', 'Hollow techniques', 'Weave techniques', the like. It is used almost exactly in the sense of the word - a means of doing a thing - thought granted higher status as a result of how it has been used.
+
+There's a grab-bag of other terms used in more exacting circumstances as well;
+
+- Many Depthstrider abilities feature **summoning** or **conjuring** weaponry or other implements from the depths of the Void. This isn't a hard rule however, as many techniques that involve summoning something in general - with or without the Void - may employ 'summon' in their verbiage. 
+
+#### In Practice
+Let's look at some examples of how fights in Samsara are written.
+
+> The examples here borrow from the libraries of the existing arsenal cards in the vault;
+> - [[Ven_AC]]
+> - [[Hex_AC]]
+> - [[Fyre_AC]]
+> - [[Blakk_AC]]
+
+- "Left to her own devices, Blakk will cast her Hollow. We have no counter to that technique."
+	Here we have the usage of both 'cast' and 'technique' to describe the Deep Hollow.
+
+- The Halo Dance ability possessed by Ventura's praxlance strikes with all the fury of a Flash at every minimal cost; all it takes for him to cast it again and again is calcic reserve, of which he has plenty.
+	This is a noteworthy point that aids to differentiate between casts and abilities. The **praxlance** subject here has an **ability**, the Halo Dance. However, because this ability is innate the praxlance and *not* Ventura, using the Halo Dance is described as **casting** it. This is due to the rule of casts differing from abilities along the slide rule of **what they are dependent upon** to use; the Halo Dance needing the praxlance and some other proficiency (such as a martial discipline) to be used.
+
+- "Give me an opening, and I will use the Oblige's 'Subjugation' ability."
+- "All I need is an opening, and I'll cast 'Subjugation'."
+	We build off of the above here, where the mention of the Oblige as the subject necessitates or at least encourages the usage of 'ability' as opposed to 'cast'."
+
+- "The inductive effects I can inflict against Cendyr are meaningless so long as he can cleanse himself with the power of stars. Without a way to dispense of his ability to use that technique, he will cast it over and over without fail."
+
+- "My power is that of summoning; I reach into the Void and wrench free my engineered arsenal. With them, I am conferred abilities without measure."
+	Here is an interesting discrepancy; taking Blakk's Cache of Contraptions into consideration, why are the powers conferred upon her 'abilities' but the powers conferred upon Ventura by his praxlance, 'casts'?
+	
+	This has to do with the design of these concepts altogether. The powers of Blakk's contraptions are products of solely their physical **engineering**, and the fact that Blakk's contraptions are *worn* in their wielding lends to considering them as 'innate'. Ventura's praxlance, on the other hand, has abilities that are a result of their **inscribed ritualism**, 
+
+- "Fair point. In response I will cast Hexblast."
+	'Hexblast' here, under the rules of arsenal terminologies, is a cast, and is referred to accordingly.

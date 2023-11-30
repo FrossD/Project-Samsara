@@ -1,0 +1,12 @@
+{
+  "addRibbonIcon": true,
+  "launchOnStartup": true,
+  "use24Hours": false,
+  "avgDailyNotes": 3,
+  "useSimpleList": false,
+  "groupItemsInSameSlot": true,
+  "firstDayOfWeek": 0,
+  "creationDateAttribute": "",
+  "modifiedDateAttribute": "",
+  "computeHeat": true
+}

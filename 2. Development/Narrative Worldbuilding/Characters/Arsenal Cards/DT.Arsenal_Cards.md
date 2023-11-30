@@ -1,16 +1,16 @@
-# Drafting Table: Arsenal Card
+# Drafting Table: Arsenal Cards
 The drafting table for various characters and their arsenal cards.
 
-# Indev
+## Indev
 In-development arsenal cards, as well as reworks.
 
-## Adven Ventura
+### Adven Ventura
 New Ventura loadout is centered around the **stance transition** built into his Relic Firearm: the **Sojourner's Tale**. These stances are the **Marksman** and **Gambler** stances, where 'Marksman' focuses on using Ventura's Tek, the **Trajectory Calculator** to dispense highly-accurate fire over long distances, while 'Gambler' makes use of a **pact** with a Skydancer to trade accuracy for damage. Certain parts of Ventura's loadout are now only usable when in certain stances, or are modified depending on the stance.
 
 > Marksman Stance is indicated with **MS**.
 > Gambler Stance is indicated with **GS**.
 
-### Reworks
+#### Reworks
 **Relic Martial Arm**
 - [x] The relic **Feat** is now the **Stance Transition**.
 - [x] **Compression Chamber** is now under **MS**.
@@ -32,7 +32,7 @@ New Ventura loadout is centered around the **stance transition** built into his 
 **Weave Charge**
 - **Interceptor Flechette** can only be performed in MS.
 
-### New
+#### New
 **Relic Martial Arm**
 - [x] The Sojourner's Tale gains a Relic **Defensive**
 	- [x] **Sidewinder's Fire Veil** creates a passive shield around the user that intercepts oncoming fire using weave. This can be cast on others as well.
@@ -52,17 +52,35 @@ Manipulating the ritualism in the Sojourner's Tale allows for transiting active 
 **Flash Protocol**
 - [x] Ventura gains his third Flash Protocol, **Reveler Rounds**.
 
-# Deprecated Arsenal Card Contents
+## Character Arsenal Ideas
+A dump for motifs, themes and ideas to build various character's combat styles and thus arsenal cards out of and around.
+
+> Relevant reading; [[On Weave and Warfare]]
+
+### #1: Red Weftworks
+Tek-based power that allows for massive compression of the potential strait, allowing all chalk fed to the computational strait to be fed as **hyperweave**. It takes on an uncharacteristic red hue (relevant to the character) and allows for high-octane energy blast style chalkweaving.
+
+- Tek
+	- Offensive
+		- Red Pistole
+		- Red Ryfle
+		- Red Blasta
+		- Red Kannon (Flash Prot?)
+
+### #2: Tats and Brands
+Tek-based power revolving around hyper-compressed rituals that can be placed on calcic entities. Wielders manifest needle like extensions on their fingers that allow for deposition of colored chalk and the formation of rituals. Tats or tattoos can be placed on the caster and allies to give positive effects, while brands are forced on enemies and inflict maluses. 
+
+## Deprecated Arsenal Card Contents
 Removed bits from Arsenal Cards.
 
-## Hex
+### Hex
 Stolen Armament - Black | Offensive
 **Spiraling Charge** - Cado, Brch, Comp
 *"The beasts of Isalveh dictated the rules of battle. And so I learned."*
 	Ellaine can perform a charge, leaping at its apex to spin and gore a target with their crystalline horns, doing heavy piercing damage and breaching armor. On strike, they are afflicted with Ellaine's **witchfire**, which burns away at their computational strait and inhibits their ability to strategize, perform advanced techniques of either white or black, and exercise various mental faculties.
 
 
-## Example: Adven Ventura (Deprecated)
+### Example: Adven Ventura (Deprecated)
 > A sample AC from an older, now deprecated framework.
 
 A case study/example outline of a Character Arsenal using Adven Ventura.
