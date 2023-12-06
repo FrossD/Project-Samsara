@@ -27,6 +27,87 @@ Under each section are headings and subheading as well as definitions for the sc
 
 Each individual characteristic of a character is a **metric**, with the intention of denoting a 'measure of a quantity'. While this works for conventionally numerical measures such as height and weight, we are also applying it for other 'measures' such as hair color and the like.
 
+## Study
+### Aurore's Sheet
+Aurore's latest sheet had tags such as;
+
+These under the '**Sociology**' heading;
+- [x] Religious Beliefs - S
+- [x] Political Views - S
+- [x] Affiliations with Groups/Networks - M
+- [x] Sexual/Romantic Orientation - M
+- [x] Family Life - M
+- [x] Criminal Record - M
+- [x] Occupation - M
+- [x] Education - M
+- [x] Social Statue(?) (Social 'Standing' might be what is meant here)
+- [x] Biography (long section giving background on the character) - M
+
+The following are under the '**Psychology**' heading;
+- [x] Phobia - M
+- [x] Temperament - M
+
+These are under the '**Personality Disorders**' heading;
+- [x] Complexes - M
+- [x] Personal Issues - S
+- [x] Type of Intelligence (instinct and experience are given as examples here, a character needing teaching to grasp a concept being a secondary example given) - M
+- [x] Imagination - M
+- [x] Habits - M, B
+- [x] Values - S
+- [x] Ambitions - S
+- [x] Addictions - M
+- [x] Prejudices - S
+Additional Information - B, S, M
+
+### Mind Rough
+Rough 'Class' ideas;
+- Mental Faculties 1
+	- Imagination
+	- Temperament
+	- Addictions
+	- Proficiencies/Skills
+	- Intelligence (Types of) (Instinct and Experience)
+
+- Mental Faculties 2
+1. **Intelligence:** Problem-solving abilities and general knowledge.
+2. **Wisdom:** Insight, judgment, and the ability to make sound decisions.
+3. **Memory:** The capacity to retain and recall information.
+4. **Creativity:** Imagination and the ability to think outside the box.
+5. **Analytical Skills:** The ability to analyze and interpret information.
+6. **Logical Reasoning:** Deductive and inductive reasoning skills.
+7. **Learning Speed:** How quickly the character can acquire new skills.
+8. **Knowledge Base:** The character's expertise in specific areas.
+9. **Adaptability:** How well the character can adjust to new situations.
+10. **Language Skills:** Proficiency in various languages or communication styles.
+
+- Biography
+	- Family Life
+	- Criminal Record
+	- Occupation
+	- Education
+	- Social Standing
+	- Affiliations with Groups/Networks
+
+- Class 3
+	- Complexes
+	- Phobias
+	- Sexual/Romantic Orientation
+	- Habits
+
+### Spirit Rough
+Rough 'Class' ideas;
+
+- Beliefs
+	- Religious
+	- Political
+	- Social
+	- Values
+	- Prejudices 
+
+- Class 2
+	- Personal Issues
+	- Ambitions
+
 ## Metrics
 Mathematical measures that are useful later.
 
@@ -73,6 +154,8 @@ Appearance and physicality.
 >	- Under *narrative*, you can put whether this person risked the negative consequences of a powerful ritual to alter their body significantly.
 >	- Gender identity, pronouns, a physical description (perhaps you could ask Treen what she wants from clients commissioning a character sheet, which often includes a nude image?), and a little narrative background that may include some details about their trans identity.
 >	- Treen says you can just say a character has a dick.
+>		- Going 'Apparatus P' and 'Apparatus V' for this one.
+>		- This is an in-canon joke and not an allusion to my disposition about the whole thing I swear.
 - Voice
 - Hair
 >	Sub-metrics here included;
@@ -89,7 +172,7 @@ Appearance and physicality.
 - Weight
 - Build
 >	Despite 'Height' and 'Weight' being metrics that exist, 'Build' is also essential as those two former quantities can be somewhat skewed by other quirks of a character, particular bits under Class C2.
-- Switchboard Family
+- Switchboard Family/Ethnicity 
 
 ### Class B - SADEV Physiology
 > A measure of a character's overall physicality. These metrics are particularly useful in ascertaining the combat capability of a character, and are additionally skewed in various directions by the existence of Class C2 metrics.
@@ -149,6 +232,8 @@ Appearance and physicality.
 - Adornments (Jewelry, Accessories)
 
 > Indications will be made for certain attire and accessories that are worn for reasons beyond individual appeals of the character. This encompasses clothes worn as uniform, for creed reasons, etc.
+
+> Generally, characters will have multiple 'loadouts' of attire and adornments, meant for different contexts.
 
 ### Class E - Conduct
 > How the body is being used, as it were.

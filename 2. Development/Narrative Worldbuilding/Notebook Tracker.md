@@ -97,18 +97,18 @@ Activities in Destiny 2 were used to generate parallel activities in the Spyndl 
 | Competitive      | Whetstone                    |
 | Trials of Osiris | Morrigrounds/Needlegrounds   |
 
-| Party - Games |                               |
-|---------------|-------------------------------|
-| Menagerie     | Games of Leilani/Leilan Games |
-| Gambit        | ^                             |
-| Dares         | ^                             |
+|  Party - Games  |                                           |
+|:----------------|:------------------------------------------|
+|  Menagerie      |  Games of Leilani<div>Leilan Games </div> |
+|  Gambit         |  ^                                        |
+|  Dares          |  ^                                        |  
 
-| PvE T1 - Field Operations |                                               |
-|---------------------------|-----------------------------------------------|
-| Patrols                   | Cicere Ops/CiOps                              |
-| Adventures                | Expeditions                                   |
-| Public Events             | Patrols/Perimeter Maintenance/ Sector Defense |
-| Lost Sectors              | Dark Sectors/PoIs/Darkwylds                   |
+|  PvE T1 - Field Operations  |                                                                                   |
+|:----------------------------|:----------------------------------------------------------------------------------|
+|  Patrols                    |  Cicere Ops/CiOps                                                                 |
+|  Adventures                 |  Expeditions                                                                      |
+|  Public Events              |  Patrols<div>Perimeter Maintenance</div><div>Sector Defense </div>                |
+|  Lost Sectors               |  Dark Sectors<div>Places of Interest</div><div>Darkwylds                   </div> |  
 
 | PvE T2 - Strike Operations |                          |
 |----------------------------|--------------------------|
@@ -117,11 +117,11 @@ Activities in Destiny 2 were used to generate parallel activities in the Spyndl 
 | Hunts                      | Bounty Hunts/Pursuits    |
 | Battlegrounds              | Firezones/Attack, Defend |
 
-| PvE T3 - Grand Operations |                                           |
-|---------------------------|-------------------------------------------|
-| Dungeons                  | WheelOps/Star Sectors/Deepwylds           |
-| Raids                     | Dances of Shalkarah/Karahn Dances/KaraOps |
-| Exotic Missions           | Kache-Krashing/KrashOps, Heists           |
+|  PvE T3 - Grand Operations  |                                                                 |
+|:----------------------------|:----------------------------------------------------------------|
+|  Dungeons                   |  WheelOps<div>Star Sectors</div><div>Deepwylds           </div> |
+|  Raids                      |  Dances of Shalkarah<div>Karahn Dances</div><div>KaraOps </div> |
+|  Exotic Missions            |  Kache-Krashing<div>KrashOps</div><div>Heists           </div>  |  
 
 **Fireteam Sizes**
 Varying sizes of team are deployed for different missions under the Spyndl Academy;

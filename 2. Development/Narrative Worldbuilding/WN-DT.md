@@ -18,7 +18,7 @@ kanban-plugin: basic
 ## ### AD: Mainboard
 
 - [ ] The maindboard of the entire WN-DT; for info that needs the most ready access.
-- [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br>- [[DT.CANTHAR_2]]<br><br>**Priority 2**<br>- VoiFleur<br>- Character Sheets<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br>- [[DT.CANTHAR_2]]<br>- Character Sheets<br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Kei Vollerei<br>- Proposal: EPIT Nuver/Lustrous
+- [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br>- [[DT.CANTHAR_2]]<br><br>**Priority 2**<br>- VoiFleur<br>- Character Sheets<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br>- [[DT.CANTHAR_2]]<br>- Character Sheets<br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Proposal: EPIT Nuver/Lustrous
 - [ ] #### Tracker Documents<br>These are docs for tracking various things related to Samsara.<br><br>**Spot Lore Tracker** - [[Spot Lore Tracker]]<br>	Keeping track of lore created on-the-spot during development of other parts of Samsara.<br><br>**Notebook Tracker** - [[Notebook Tracker]]<br>	Tracks the contents of the Samsara drafting notebooks.
 - [ ] #### Admin<br>General Admin Work<br><br>- Take stock of the drafting note's contents<br>- Hunt for some docs that built off of things in the old WN-DT model. They broke with the Kanban port.<br>- Learn how to use Canvases.
 

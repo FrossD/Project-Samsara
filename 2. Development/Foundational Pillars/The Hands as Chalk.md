@@ -31,7 +31,7 @@ Accumulating chalk can, however, saturate the lattice beyond its ability to stor
 
 Dealing with an abundance of chalk is often done by 'flaring', though this is a problem for Weavers as flaring is a Strider-exclusively ability. Flaring is converting excess chalk to something easily dissipated, such as heat, by subjecting it to highly-efficient equations in the computational strait. Weavers who want to get rid of excess chalk usually expend it by weaving something of high calcic density but considerable instability, allowing it to resolve by collapsing and dissipating chalk into the environment. More skilled Weavers can cause calcic crystal to form in their immediate vicinity, trapping the chalk in physical form.
 
-### The Five-Strait
+### The Five Straits
 The next ability granted by the Weave Protocol is 'drawing'. Similar to the Strider Protocol, Information Affinity allows drawing latent chalk to the self, and storing it within the subject's body, turning them into a reservoir of unharnessed potential. Striding is performed by 'flaring' this chalk to produce velocity, but with the Weave Protocol, **Weavers** can instead - using their fingers - 'draw' ribbons of chalk on surfaces.
 
 With this we then move into the Five-Strait system. To meaningfully interact with the wider world of the Switchboard, Weavers must create a series of chalk 'lines', all with a specific purpose. These lines - ribbons - 'communicate' with the lines between them and the 'ribbons' of other objects and phenomena in the outside world.
@@ -46,7 +46,7 @@ The ***'computational line'*** is the seat of 'thinking'. Here, chalk is process
 
 Certain passive computational lines exist that govern more latent processes (bodily and metabolic ones for example) and forming additional, active computational lines can draw too heavily from the 'available pool' of the subject's mental ability. A subject aiming to focus all mental power on a task can quite literally forget to breathe. 
 
-The final line in the Five Straits is the ***'interface line'***. This chalk line functions much like the semi-permeable membrane of a cell, the sensors on a complicated robot, or the input devices on a computer. This line interacts with the ribbons of the outside chalk world and wider Switchboard, taking in information, and outputting change.
+The final line in the Five Straits is the ***'interface line'***. This chalk line functions much like the semi-permeable membrane of a cell, the sensors on a complicated robot, or the input devices on a computer. This line interacts with the ribbons of the outside chalk world and wider Switchboard, taking in information, and outputting change. Additionally, the interface strait allows all other straits to communicate across each other, acting as a bridge between these components.
 
 ### How the Five-Strait Works
 Information pulled in from the interface line is sent to the potential line, this being the act of accumulating chalk. If this information isn't pure randomness, that is deduced by the interpreter line, with purely random chalk staying back in the potential line. Non-random chalk - chalk with 'pattern' - is sent to the memory line for storage and computational lines for processing where necessary. Any change made is imparted upon the outside world using the interface line once again.

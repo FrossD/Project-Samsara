@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eac694848ef5facd",
+        "id": "7df3bd6ea4581ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "b057145663cfea01",
+            "id": "5999e99918470147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quikas",
+                "query": "Information Affinity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md"
+                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,37 +182,37 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "93cb784d559b3db0",
+  "active": "5999e99918470147",
   "lastOpenFiles": [
+    "1. Drawing Board/2. Offshore/Vic (1).md",
+    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/WeaveWar Append.md",
     "1. Drawing Board/1. Samsara/Meta/Home.md",
+    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
+    "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
+    "2. Development/Foundational Pillars/The Hands as Chalk.md",
+    "Untitled.md",
+    "2. Development/Mechanical Pillars/Glass.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
+    "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
+    "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
+    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Narrative Worldbuilding/Characters/C0-CharLegacy.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/WeaveWar Append.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
     "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/2. CX-Character-Arsenal-Ideas.md",
     "1. Drawing Board/1. Samsara/Meta/Patreon.md",
     "1. Drawing Board/1. Samsara/Meta/Substack Post.md",
-    "1. Drawing Board/1. Samsara/Meta/Site Dev.md",
-    "1. Drawing Board/2. Offshore/Z. Scenario Codes.md",
-    "2. Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md",
-    "2. Development/Workshop/Families/Prop.The_Families.md",
-    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Narrative Worldbuilding/Characters/C0-CDT.md",
-    "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md",
     "Z. Assets/FrossD-1.gif",
     "Z. Assets/spider-lily-flower-anime.gif",
     "Z. Assets/1695784784613155.gif",
-    "2. Development/Foundational Pillars/The Strider Protocol.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
-    "2. Development/Workshop/PlanesDev/The Vitric Shelf.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/The EPIT.md",
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/1. AC_Template.md",
     "3. Scribbling/BiomesFinal.pdf",
     "Z. Assets/VoidDaughtersRel.png",
     "3. Scribbling/557D3000",

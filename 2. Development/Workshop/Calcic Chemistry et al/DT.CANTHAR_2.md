@@ -176,6 +176,7 @@ Then we can revise the following docs according;
 		- [[Communications and Compute]]
 		- [[The EPIT]]
 	- Devise a 'language of glass' to replace and account for the nature of glass as something that *simplifies* and *perfects* rather than destroys.
+- What did Hex mean by 'reverse time'?; https://discord.com/channels/@me/886763578722500668/1179987636019023882
 
 [[Communications and Compute]]
 - Glasswire needs a mechanical revision.

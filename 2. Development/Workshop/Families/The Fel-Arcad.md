@@ -43,7 +43,7 @@ Spur of the moment thoughts that could use work.
 - Whether the Vahnkin and the Void would actually be responsible for a Second Refrain and if they were responsible for the first one is possible, but disputed. In actuality, many Fel-Arcad, unable to accept the possibility they shot themselves in the foot with the Mind Hunts, choose instead to blame the Void and the Vahnkin.
 - History and Mythology section has notable persons in it.
 	- Fel-Arcad originator of cinema.
-- Add 'Individuals' to #07.
+- Add 'Individuals' to #06.
 - **Fel-Arcad Proposal**: The Order of the Undersol.
 
 ## STRATA ONE

@@ -9,11 +9,11 @@ The theory of damage is a study of how damage is dealt and taken in the Switchbo
 
 ![[The Hands as Chalk#^c91b12]]
 
-Chalk interactions happen primarily at the ribbon level, and this is true of combat interactions between Striders. The physical form of a Strider is a series of chalk ribbons arranged into patterns possessing immense intricacy and complexity. The integrity of this pattern subsequently determines the integrity of the Strider that makes them up. Striders are 'lattices' of Chalk that function optimally when fully intact.
+Chalk interactions happen primarily at the ribbon level, and this is true of combat interactions between denizens of the Switchboard. The physical form of a being in the Switchboard is a series of **chalk ribbons** arranged into **patterns** possessing immense **intricacy and complexity**. The integrity of this pattern subsequently determines the integrity of the subject that makes them up. Striders are '**lattices**' of Chalk that function optimally when fully intact.
 
-As a Strider's lattice sustains damage, it disrupts the behavior of chalk within them, affecting their ability to use chalk-dependent abilities; weaving chalk, casting rituals, using Teks and Relics, and the Strider Protocol. A Strider's lattice passively repairs itself as the Strider accumulates chalk via Information Affinity. Regeneration of the lattice can be accelerated by focusing on the task, but this leaves the Strider unable to utilize other abilities. 
+As a subject's lattice sustains damage, it disrupts the behavior of chalk within them, affecting their ability to use chalk-dependent abilities; weaving chalk, casting rituals, using Teks and Relics, and the Strider Protocol. The lattice of denizens with the **Weave Protocol** passively repairs itself as the subject accumulates chalk via Information Affinity. Regeneration of the lattice can be accelerated by focusing on the task, but this leaves the subject unable to actively utilize other abilities. 
 
-All damage dealt to Striders then, is a product of interference with the lattice. Exposure to a Law Star for example, assaults the lattice of a Strider with barrages of immensely dense chalk; disorganized information, knocking bits and pieces of the lattice out of arrangement. Much like sandblasting a painted wall, stripping bits of paint off. All hazards that affect Striders ultimately do so by attacking the lattice. This is the theory of damage. ^d2b154
+All damage dealt to denizens of the Switchboard then, is a product of interference with the lattice. Exposure to a Law Star for example, assaults the lattice of a subject with barrages of immensely dense chalk; disorganized information, knocking bits and pieces of the lattice out of arrangement. Much like sandblasting a painted wall, stripping bits of paint off. All hazards that affect Striders ultimately do so by attacking the lattice. This is the theory of damage. ^d2b154
 
 Strider Combat as a result, is the aim to sufficiently damage a Strider's lattice, rendering them unable to fight, or killing them outrightly.
 
@@ -448,11 +448,11 @@ Weapons in the Switchboard are broadly classifiable into martial and ranged weap
 #### Ranged Weapons
 **Damage Methodology** describes how the weapon does damage, with **Effective Range** describing the distance between the user and a target at which the weapon is most effective. With that explained, we can use the Grid Methodology to create an ensemble of weapon types used in the Switchboard.
 
-|   | Close Quarters  | Medium Range  | Long Range/Marksman  |
-|---|---|---|---|
-|Driven Ballistics|Submachine Guns/PDWs  <br>Handcannons  <br>Sidearms  <br>Shotguns|Combat Rifles  <br>Marksman Rifles  <br>Combat Bows  <br>Machine Guns/SAWs|Sniper Rifles  <br>Linecharge Weapon Systems|
-|Energy & Esoterica|Flechette 'Accelerator' Rifles|'Accelerator' Rifles  <br>Focus/Beam Rifles|Precision 'Accelerator' Rifles|
-|Ordnance & Media|Breech-loaded Shell Launchers|Rotary/Drum Shell Launchers|Rocket/Missile Delivery Platforms|
+|                            |  Close Quarters                                                   |  Medium Range                                                              |  Long Range/Marksman                         |
+|:---------------------------|:------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------------------------------------|
+| **Driven Ballistics**      | Submachine Guns/PDWs  <br>Handcannons  <br>Sidearms  <br>Shotguns | Combat Rifles  <br>Marksman Rifles  <br>Combat Bows  <br>Machine Guns/SAWs | Sniper Rifles  <br>Linecharge Weapon Systems |
+| **Energy &amp; Esoterica** | Flechette 'Accelerator' Rifles                                    | 'Accelerator' Rifles  <br>Focus/Beam Rifles                                | Precision 'Accelerator' Rifles               |
+| **Ordnance &amp; Media**   | Breech-loaded Shell Launchers                                     | Rotary/Drum Shell Launchers                                                | Rocket/Missile Delivery Platforms            |  
    
 
 ##### Elaboration
@@ -516,11 +516,11 @@ Classed according to their weight and edge, the martial weapons of the Switchboa
 
 Using the Grid, we can classify an ensemble of weapons according to weight and edge as mentioned earlier.
 
-|             | High Edge (Pierce)              | Medium Edge (Slash)                                | Low Edge (Bludgeon)                                         |
-|--------------|---------------------------------|----------------------------------------------------|-------------------------------------------------------------|
-| Heavyweight  | Glaives                         | Scythe (War)<br/>'**Great**' Swords<br/>Halberds       | Warhammers                                                  |
-| Mediumweight | Spears/Lances<br/>'**Thin**' Swords | '**Long**' Swords<br/>'**Curved**' Swords<br/>Axes (Battle) | Quarterstaffs<br/>Clubs/Batons<br/>Maces/Flails |
-| Lightweight  | Daggers                         | 'Paired Arms'<br/>Felkrams/Felkraves                          | 'Glove' Weapons                                              |
+|                  |  High Edge (Pierce)                   |  Medium Edge (Slash)                                            |  Low Edge (Bludgeon)                                           |
+|:-----------------|:--------------------------------------|:----------------------------------------------------------------|:---------------------------------------------------------------|
+| **Heavyweight**  |  Glaives                              |  Scythe (War)<br/>'**Great**' Swords<br/>Halberds               |  Warhammers                                                    |
+| **Mediumweight** |  Spears/Lances<br/>'**Thin**' Swords  |  '**Long**' Swords<br/>'**Curved**' Swords<br/>Axes (Battle)    |  Quarterstaffs<br/>Clubs/Batons<br/>Maces/Flails               |
+| **Lightweight**  |  Daggers                              |  'Paired Arms'<br/>Felkrams/Felkraves                           |  'Glove' Weapons                                               |  
 
 ##### Elaboration
 **On Weight**
@@ -736,7 +736,7 @@ Another step taken in armor development is the integration of Slates or chromegr
 ### Unravelling
 As Striders engage in combat, weaving and unweaving attacks and casts, over the course of protracted battles, certain amounts of inaccuracy in their actions begins to occur and accumulate, particularly as a result of the nature of calcic abilities themselves. As Striders continually fold and unfold chalk in a short period, the accuracy with which these actions are performed begins to drop, and the Strider begins to **unravel**.
 
-Simply put, lattice damage is inflicted by the Strider upon themselves with repeated usage of their abilities. Chalk is woven - expended - and must be replaced to be weave-casted again, and repeated performance of this action under the high-pressure environment of combat can lead to Striders subconsciously 'speed-casting'; being more reckless with their casts to increase outgoing damage per given time. As such, Strider engagements are on a soft 'clock'; there are only so many casts a Strider can use before unravelling sets in.
+Simply put, lattice damage is inflicted by the Strider upon themselves with repeated usage of their abilities. Chalk is woven - expended - and must be replaced to be weave-casted again, and repeated performance of this action under the high-pressure environment of combat can lead to Striders subconsciously '**speed-casting**'; being more reckless with their casts to increase outgoing damage per given time. As such, Strider engagements are on a soft 'clock'; there are only so many casts a Strider can use before unravelling sets in.
 
 And once unravelling does set in, further casting runs risk of tearing into the lattice, causing considerable damage that is difficult to repair. Striders at the risk of unravelling must cease using calcic powers or disengage from the fight, while their lattice is given time to unfold and refold itself back perfectly.
 
@@ -750,7 +750,7 @@ Should the attack strike a Weaver while they are actively drawing in chalk, howe
 And it is even worse if the attack has inductive, negentropic or unravelling properties to its damage. All of these acting at the strait level as opposed to merely the outside lattice makes them considerably more dangerous. Negentropic sources absorbed into the straits are almost guaranteed to be fatal. Inductive damage can use the targets own computational straits to multiply, spread and retrigger their effects, making them harder to purge. And unravelling damage done directly to the straits can be permanent, leading to a skewing of the functionality of the Five Straits entirely. In rare cases, it can result in a loss of the ability to weave chalk.
 
 ### Damage Types
-Various kinds of weapons and threats in the Switchboard do damage to both structures and persons within it, and the nature of the Switchboard makes it such that different concepts do different kinds of damages in different ways, just as different things sustain damage in different ways. Quantification of these various damage types is useful to understand how to mitigate them. Damage in the Switchboard is divided into four **superclasses**; true, resource, mathematical/stat and praxis/meta.
+Various kinds of weapons and threats in the Switchboard do damage to both structures and persons within it, and the nature of the Switchboard makes it such that different concepts do different kinds of damages in different ways, just as different things sustain damage in different ways. Quantification of these various damage types is useful to understand how to mitigate them. Damage in the Switchboard is divided into four superclasses; **true**, **resource**, **mathematical/stat** and **praxis/meta**.
 
 #### True Damage
 This is damage as we understand it; physical harm inflicted upon the physical makeup of a thing. It is the most common and thus the easiest to inflict, achieved through the usage of weapons and powers, and is often a component in the delivery of other kinds of damage. 
@@ -819,6 +819,61 @@ Praxis damage is dealt and received constantly, occurring at minute and impercep
 Praxis damage is strange in the Switchboard, as praxis damage dealt or received is a result of doctrinal clashes, and manifests majorly but fairly imperceptibly as a fluctuation of invisible scales. These scales however, have tangible results in that the represent the strength of the Switchboard's various doctrines in relation to one another, and the actions of all who hold a doctrine alter the balance of the scales.
 
 Praxis damage is thus dealt by a holder of one doctrine against a holder or another, and this results in a tipping of the scales in the attacker's favor relative to the sufferer of the blow. The tipping of a doctrine affects all who hold that doctrine, and while to individuals it manifests as an ultimately minute loss in raw strength, it does have tangible effect of doctrine-dependent abilities as well as the operation of that doctrine within the Switchboard and all that hinges upon it. Praxis damage dealt against the doctrine of an institution, for example, is a tangible weakening of that institution, in a manner that sees their actions less effective and their goals made harder to achieve.
+
+### Damage Recovery in the Switchboard
+#### Foundation
+> It is recommended to have read the;
+> - **Unravelling**
+> - **Damage Types** 
+> - **Theory of Damage**
+> headings before this one.
+
+Coming off of the subheading about damage and damage types, it is worth discussing how damage in the Switchboard is **healed**. The physiology of the denizens of the Switchboard has made it such that the conventional manners of healing don't apply, and instead new interactions must occur that account for the weave that constitutes the Switchboard's peoples.
+
+Generally speaking, most damage in the Switchboard is sustained as various 'forms' of **unravelling**. As discussed under the **Theory of Damage**, damage is sustained by the lattice and thus affects the subject of that damage at the ribbon level. Damage, ultimately, is the **disruption** of the lattice, which exists as an orderly structure, and who's simpler and advanced functions - calcic ones in particular - are reliant on this orderliness being preserved.
+
+When damage is sustained, it harms the lattice and disrupts its orderly structure, and this is ultimately what counts as harm dealt to a denizen of the Switchboard. When too much damage is done to a lattice, so much so that it cannot maintain core functions or even hold itself together anymore, the subject suffers one of various kinds of 'death'. It can be viewed as pulling out the stitches in cloth haphazardly, and watching in dismay as the larger bits of it fall apart in the hands.
+
+In addition to taking damage, using various calcic techniques unravels the lattice to various degrees. Under the high pressure environment that is combat, those capable of weaving chalk must frequently perform various chalkweaving actions, and often they compromise elegance of the act in favor of speed. The result of this is a loop of drawing chalk, weaving it, and then projecting it out into the world, that is all done with an element of 'sloppiness', which can result in part of the caster's own lattice being used as material for chalkweave-reliant abilities. While this is ultimately a matter of skill difference from subject to subject, those who are less skilled - or more desperate and reckless - inflict unravelling upon themselves in the process. 
+
+Considering the risk that unravelling posses, it is often necessary for combatants in battle - after sustaining considerable unravelling - to cut back on using calcic abilities. Continuing to weave chalk recklessly while under the effects of considerable unravelling can cause a combatant to 'undo' themselves, tugging at some essential bit of supportive scaffolding in their lattice, and then collapsing to discordant ribbon like a suspension bridge with its cords snapped. 
+
+#### Recovery Mechanics
+In a sense then, '**reversing unravelling**' is what counts as **healing techniques** in the Switchboard and for its denizens. Reversing unravelling allows for recovering from damage or extensive casting faster, allowing a combatant to stay longer in a fight, or recover quickly from the strain of one battle in anticipation of the next. 
+
+A foundational mechanic upon which healing from unravelling is built is that of the **memory strait** and how - in one of the many ledgers that comprise the memory of a denizen in the Switchboard - there is a 'plan', almost of the **subject's lattice**. More simply put, the memory strait of a subject in the Switchboard stores a blueprint of sorts of the lattice of a subject. This is necessary, because all unravelling damage done introduces a **discrepancy** between the current state of the lattice, and the stored blueprint in the memory strait, and as such, any healing done is done with the aim of eliminating this discrepancy - that is, reconciling the lattice and the blueprint of it. 
+
+It is also worth soft-classifying **types** of unravelling inflicted to denizens of the Switchboard;
+- **Type-1 Unravelling** encompasses much of the self-inflicted unravelling inflicted to a subject, and generally refers to far less severe unravelling in general. Unravelling accumulated from using lesser techniques, mildly harmful atmospheric conditions, or even weaker attacks does only T1 Unravelling. Additionally, unravelling inflicted to the 'outer edges' of the lattice is generally T1 Unravelling, as this is fairly easy to repair, akin to painting over a scuff with sealant.
+- **Type-2 Unravelling** is a far more significant form of unravelling, and is generally inflicted by considerable disruptive forces such as law stars, hostile environments, and various attacks and abilities. This damage is proportionately more disruptive, and sufferers of it must employ proportionately advanced measures to recover from the damage.
+- **Type-3** or **Type-V Unravelling** isn't a 'true' form of unravelling, and instead describes the effect inflicted on a lattice that is being perfected by Glass. This damage is *immensely* difficult to recover from, and is often simply fatal instead.
+
+Denizens of the Switchboard with the **Weave Protocol** are able to **passively recover from damage** via [[The Hands as Chalk#Information Affinity|Information Affinity]]. By merely being present in a calcic environment, chalk can be accumulated and used to repair superficial or Type-1 Unravelling inflicted to a subject. Employing the active information draw to suffuse the lattice can repair the damage faster. In this case, latent chalk is passed directly from the potential strait to the interface strait, applying something of a fine dusting of chalk across the entire lattice, instead of targeting specific damaged areas.
+
+More considerable damage, such as Type-2 and Type-3 Unravelling, require more advanced methods.
+
+More involved repair of the lattice makes use of **all Five Straits**, though to varying degrees; the **computational**, **memory** and **interface** straits see the most use, with the **interpreter** and **potential** straits seeing fairly less. As such, the general efficiency with which these straits can function has a direct effect on how quickly a subject can repair unravelling damage under certain conditions. 
+
+The potential strait takes in chalk and passes it to the interpreter, which passes the suitable, unharnessed chalk to the computational. The computational then assesses the damage done to the lattice, computes the necessary folding that must be done to repair it using the memory strait's lattice ledger as a guide, and then passes this folded weave to the interpreter strait, that suffuses it at the needed locations throughout the lattice. By this methodology, unravelling damage - especially Type-2 Unravelling damage - is repaired.
+
+This, however, is the algorithm for repairing unravelling damage that has been developed over the processions of the Third Kin's existence in the Switchboard, and they evolved these mechanisms to deal with - primarily - the bottom 99th percentile of what crosses the threshold of being counted as Type-2 damage. This repair algorithm isn't particularly suitable in active combat, as it is simply too slow, and occupies operational cycles on the Straits that need to be kept vacant for the act of doing combat to begin with. As such, denizens developed various techniques to repair unravelling damage.
+
+#### Reverse Unravelling Techniques
+The RUTs or '**RUteks**' as they are commonly called, denotes a school of calcic disciplines that describe non-lattice-intrinsic methods of repairing lattice damage. Being 'non-lattice-intrinsic' describes them as relying on systems outside of the subjects own lattice or straits, even if the techniques rely on them to be performed.
+
+> As a note, the techniques that exist under here exist similar to various techniques that exist under individual **arsenal cards**; that being that they have been created by named or not characters in the Samsara canon. As such, this is a growing body of techniques that gets larger with time.
+
+**The Fel-Arcad**
+The Fel-Arcad, some of the most prominent scholars of weave, have worked towards developing a variety of RUteks for usage in various contexts, perhaps their most popular being the '**Three-Point Restoration**' technique, functioning by taking a 'copy' of the lattice blueprint from the memory strait and 'caching' it in the computational strait, allowing for significantly faster performance of the standard restoration algorithm. In addition to this, however, and why it bears the 'Three-Points' title, is that this copy of the lattice blueprint is only a slice of it, containing the head, hands and feet. Head for the sense, hands for chalkweaving and fighting, feet for escaping - often via striding. Maintenance of these prioritized regions of the lattice keeps a Strider longer in the fight, even while functioning on only passive regeneration.
+
+**The Spyndl Academy**
+The Spyndl Academy has developed a variety of techniques, designed with the fact that the users of them will primarily be Operators; skilled chalkweavers by all metrics. As such, Spyndl has designed RUteks that function almost as **gambits**; a risky calcic play that - should it pay off - recover an enormous amount of inflicted damage.
+
+One such example functions by the subject calcically **stripping off the entire top-level lattice** of their person - in a sense, unravelling themselves - and then - in a burst of immense focus - driving the Five Straits to the very edge of their operational ratings, compelling them to repair all damage done almost in a flash. Executed perfectly, a Spyndl Operator can go from nearly waving the flag of defeat to peak performance in an eyeblink. Executed poorly, however, and the Operator can be caught in a dire strait where they have no top-level lattice material to serve as insulation from the outside, aggressing terrors of the Switchboard.
+
+This technique taken further allows practitioners to expend part or all of their **flashcharge** to regenerate even broken or wholly maimed limbs, a skill that proves immensely useful out in the field in high-intensity environments. 
+
+The primary limitation of this technique is that it is predicated upon supreme calcic control, upper-echelon rated Five Straits, and a relatively high integrity of those Straits. Certain kinds of damage that target the Straits can inhibit the usage of the Spyndl Academy's **Gambit RUteks**, and this damage must be healed from first before they can be executed.
 
 ### Combat Grafts
 > It is required that you have read [[On Birthing and Being#On Shape |The Lattice as a Canvas ]] before this.
@@ -1028,13 +1083,13 @@ For example, **rituals** of both the calcic and horizon variety (and all [[Chalk
 > Something that breaks the mold a little bit are **chromegrafts.** Chromegrafts are not like the Weave Protocol in that cybernetic installations are not innate. That being said, the powers granted by a cybernetic can hardly be considered a cast, as that would be putting, say, a wrist-mounted machine gun at the same tier with grand rituals. For this reason, chromegrafts are treated as **abilities**, as their very tightly-interwoven nature with an actors lattice should allow for consensus that a power granted by a regular arm and a chrome one aren't different enough to warrant a differentiation in category.
 
 ##### Combat Terminology
-> This section is mainly intended to shape narrative - not storytelling per se, but rather the actual language used in the telling.
+> This section is mainly intended to shape narrative - not storytelling per sé, but rather the actual language used in the telling.
 
 The flexibility of language has allowed for the terms that describe certain concepts relating to Switchboard combat to be used more loosely as required. That being said, it does help to have some working definitions for some thing.
 
 All of the conventionally supernatural feats that denizens of the Switchboard are capable of can be arranged in **strata**, viewable as a series of concentric circles that expand beyond a subject at the center. 
 
-Subject >| Skills >| Abilities >| Casts >| Powers
+- Subject >| Skills >| Abilities >| Casts >| Powers
 
 **Skills** in the Switchboard describe just about any 'ability' that is possessed and executed exclusively or majorly through through the **mental and physical prowess** of a subject. Weaving fire and throwing it *isn't* a 'skill', even if the subject doing such an action could be said to be *skilled* at chalkweaving - that is an entirely different thing. Under the superclass arsenals, **skills** in general describe the various [[Martial Disciplines of the Switchboard|martial disciplines]] in the Switchboard that dictate the rules surrounding unarmed and armed combat.
 
@@ -1048,7 +1103,11 @@ Another way of determining what counts as casts is there being a certain '**wind
 
 **Powers** are somewhat more amorphous, as they generally refer to 'power' conferred upon a subject by mechanics far removed from them. Much of these are the Switchboard's **meta** - praxis - powers, that result from the interactions between doctrine. [[The Blank-Slate Mind#Titular Powers|Titular Powers]] are a fairly solid example of this, referring to powers conferred upon bearers of titles earned through actions in the Switchboard.
 
-**Techniques** is another fairly amorphous term, and is used generally to describe any form of **active** '**ability**' used in the Switchboard. In practice within the canon however, an ability or cast is subjectively elevated to the level of 'technique' when it is defined by considerable **complexity**, **efficacy** and **uniqueness** to a subject, as though supernatural actions taken could earn titles themselves. Technique is also useful to describe or denote collections of similar or identical concepts, such as 'Flash techniques', 'Hollow techniques', 'Weave techniques', the like. It is used almost exactly in the sense of the word - a means of doing a thing - thought granted higher status as a result of how it has been used.
+**Techniques** is another fairly amorphous term, and is used generally to describe any form of **active** '**ability**' used in the Switchboard. In practice within the canon however, an ability or cast is subjectively elevated to the level of 'technique' when it is defined by considerable **complexity**, **efficacy** and **uniqueness** to a subject, as though supernatural actions taken could earn titles themselves. As such, '**technique**' is used often to describe '**named**' abilities; abilities that have been created by various individuals or parties in the Switchboard, and earned some prominence via various combinations of their visual and mechanical uniqueness, their general efficacy, the story behind their creation or their creators, and how widely used they are in the Switchboard. 
+
+'Technique' is also useful to describe or denote collections of similar or identical concepts, such as 'Flash techniques', 'Hollow techniques', 'Weave techniques', the like. It is used almost exactly in the sense of the word - a means of doing a thing - thought granted higher status as a result of how it has been used.
+
+Additionally, 
 
 There's a grab-bag of other terms used in more exacting circumstances as well;
 

@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Drawing Board/1. Samsara/Meta/Home.md"
+      "basename": "DT.CANTHAR_2",
+      "path": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md"
     },
     {
       "basename": "WN-DT",
       "path": "2. Development/Narrative Worldbuilding/WN-DT.md"
     },
     {
+      "basename": "Home",
+      "path": "1. Drawing Board/1. Samsara/Meta/Home.md"
+    },
+    {
+      "basename": "Notebook Tracker",
+      "path": "2. Development/Narrative Worldbuilding/Notebook Tracker.md"
+    },
+    {
       "basename": "On Weave and Warfare",
       "path": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md"
+    },
+    {
+      "basename": "SpyndlAcademy",
+      "path": "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md"
+    },
+    {
+      "basename": "On Birthing and Being",
+      "path": "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md"
+    },
+    {
+      "basename": "The Hands as Chalk",
+      "path": "2. Development/Foundational Pillars/The Hands as Chalk.md"
+    },
+    {
+      "basename": "Glass",
+      "path": "2. Development/Mechanical Pillars/Glass.md"
+    },
+    {
+      "basename": "Communications and Compute",
+      "path": "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md"
+    },
+    {
+      "basename": "The Biomes of the Dancirah",
+      "path": "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md"
+    },
+    {
+      "basename": "DT.CharTemplate",
+      "path": "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md"
+    },
+    {
+      "basename": "Hex_AC",
+      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md"
+    },
+    {
+      "basename": "DT.Arsenal_Cards",
+      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md"
+    },
+    {
+      "basename": "The Fel-Arcad",
+      "path": "2. Development/Workshop/Families/The Fel-Arcad.md"
+    },
+    {
+      "basename": "C0-CharLegacy",
+      "path": "2. Development/Narrative Worldbuilding/Characters/C0-CharLegacy.md"
     },
     {
       "basename": "Fyre_AC",
@@ -23,10 +75,6 @@
     {
       "basename": "Chalk Ritualism",
       "path": "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md"
-    },
-    {
-      "basename": "DT.Arsenal_Cards",
-      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md"
     },
     {
       "basename": "Patreon",
@@ -53,32 +101,12 @@
       "path": "2. Development/Workshop/Families/Prop.The_Families.md"
     },
     {
-      "basename": "DT.CANTHAR_2",
-      "path": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md"
-    },
-    {
-      "basename": "C0-CDT",
-      "path": "2. Development/Narrative Worldbuilding/Characters/C0-CDT.md"
-    },
-    {
-      "basename": "DT.CharTemplate",
-      "path": "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "The Hands as Chalk",
-      "path": "2. Development/Foundational Pillars/The Hands as Chalk.md"
-    },
-    {
       "basename": "06.Individuals",
       "path": "2. Development/Workshop/Families/06.Individuals.md"
-    },
-    {
-      "basename": "The Biomes of the Dancirah",
-      "path": "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md"
     }
   ],
   "omittedPaths": [],
