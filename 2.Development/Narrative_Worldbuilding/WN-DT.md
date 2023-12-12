@@ -19,8 +19,7 @@ kanban-plugin: basic
 
 - [ ] The maindboard of the entire WN-DT; for info that needs the most ready access.
 - [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br>- [[DT.CANTHAR_2]]<br><br>**Priority 2**<br>- VoiFleur<br>- Character Sheets<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br>- [[DT.CANTHAR_2]]<br>- Character Sheets<br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Proposal: EPIT Nuver/Lustrous
-- [ ] #### Tracker Drafting Tables<br>These are docs for tracking various things related to Samsara.<br><br>**Spot Lore Tracker** - [[DT.Spot_Lore_Tracker]]<br>	Keeping track of lore created on-the-spot during development of other parts of Samsara.<br><br>**Notebook Tracker** - [[DT.Notebook_Tracker]]<br>	Tracks the contents of the Samsara drafting notebooks.
-- [ ] #### Admin<br>General Admin Work<br><br>- Take stock of the drafting note's contents<br>- Hunt for some docs that built off of things in the old WN-DT model. They broke with the Kanban port.<br>- Learn how to use Canvases.
+- [ ] #### Tracker Drafting Tables<br>These are docs for tracking various things related to Samsara.<br><br>**Spot Lore Tracker** - [[DT.Spot_Lore_Tracker]]<br>	Keeping track of lore created on-the-spot during development of other parts of Samsara.<br><br>**Notebook Tracker** - [[DT.Notebook_Tracker]]<br>	Tracks the contents of the Samsara drafting notebooks.<br><br>**Offshore Tracker** - Doesn't Exist Yet<br>A tracker for the offshore docs, incase they become relevant. Really we should clean that place out.
 
 
 ## ### AD: Ongoing Development
@@ -32,13 +31,14 @@ kanban-plugin: basic
 - [ ] #### Character Template<br>Building out the framework for building characters in the Samsara canon.<br><br>[[DT.CharTemplate]]<br><br>- Lots of stuff still in the drafting notebook.
 
 
-## ### AD: Revisions & Restructuring
+## ### AD: Revisions, Restructuring & Administration
 
-- [ ] Revisions to existing canon, and the restructuring of existing documents to more useable formats. Entries under here are slightly less urgent than those in active development, but works here cannot be neglected as they often appear hear due to errors in continuity between old canon and new.
+- [ ] Revisions to existing canon, and the restructuring of existing documents to more useable formats. Entries under here are slightly less urgent than those in active development, but works here cannot be neglected as they often appear hear due to errors in continuity between old canon and new.<br><br>Additionally, notes pertaining to administrative affairs are placed here.
 - [ ] #### Revisions/REV<br>Revisions to existing canon, particularly with the aim of reconciling old canon with newer additions to Project Samsara.
-- [ ] ##### No More C<br>Without electromagnetism, there's no reason for lightspeed to exist, and things constrained by lightspeed as well. As such, we must purge all mentions of C from the canon.<br><br>This is particularly only in [[The Strider Protocol]] doc.
+- [ ] ##### REV: No More C<br>Without electromagnetism, there's no reason for lightspeed to exist, and things constrained by lightspeed as well. As such, we must purge all mentions of C from the canon.<br><br>This is particularly only in [[The Strider Protocol]] doc.
 - [ ] #### Restructuring/RES<br>Structural rebuilds of some documents, necessary when they grow particularly long, asking for a rebuild of the headings tree, or tentative consideration of whether some documents should be merged into one or existing documents be broken down into multiple smaller ones.
 - [ ] ##### RES: Vault-wide Rebuild of Text Formatting<br>Under Miscellaneous<br>(meta)<br><br>A vault-wide rebuild of how text is formatted in the vault, using isolated tabs before text to show **my thoughts** and greater than indents to show **additional details or footnotes**.
+- [ ] #### Admin<br>**Urgent Admin Work**<br>- Rebuild the reading guide and clean up the README.md<br><br>**General Admin Work**<br><br>- Take stock of the drafting note's contents<br>- Hunt for some docs that built off of things in the old WN-DT model. They broke with the Kanban port.<br>- Learn how to use Canvases.
 
 
 ## ### BD: Expansion Sites
@@ -53,12 +53,12 @@ kanban-plugin: basic
 ## ### BD: Synthesis Sites
 
 - [ ] Entries here have left the Thoughts Repository, and are confirmed to be entering the Samsara canon in some way.
-- [ ] #### Combat Narrative<br>Under [[On Weave and Warfare]]<br><br>- Expand into a larger doc on combat narrative.<br>	- An opportunity to develop the narrative by-play of in-canon combat<br>	- Bleeding and injury<br>	- Damage and hits<br>	- Win cons<br>	- School clashes<br>	- Counters
 - [ ] #### Skydancer Motifs<br>Various motifs and trends related to the Skydancers.<br><br>**Sample Motifs**<br>- Skydancer Pacts - related to [[Chalk Ritualism]]<br><br>Honestly might be worth diving into a full-on Skydancers proposal when I can.
 - [ ] #### nWB Proposal: Spyndl Noon<br>- [[Prop.SpyndlNoon]]<br>- The realization of Spyndl as a cultural institution in the Dancirah must be built upon something. There must be a historical backing to Spyndl's many quirks and others, and shaping that will additionally grant us groundwork for the shaping of **Dancirah's Noon**, a prospective outline of the Samsara canon between the end of Dawn and the modern era.<br><br>- This begins with a skeletal outline of various 'events' in a tentative timeline. These events range in what they contain, but what must remain true in all of them is;<br>	- Spyndl must be involved in some capacity, preferably largely involved, either as the instigators or resolvers.<br>	- The aftermath of the event must shape or reshape Spyndl in some way
 - [ ] #### EPIT Proposal: 'The Nuver/Lustrous'<br>Under [[The EPIT]]<br>(nWB, pNt)<br><br>- Things do not truly die in the Switchboard; the Current ensures this. All there ever will be already is, and all that there is was once before. The desire to exist vastly outstrips the power to end existence.<br>- 'Lustrous' is a placeholder name for a larger, far more prominent 'enemy faction' in the Switchboard.<br>- Their motif from now borrows from a number of sources;<br>	- Destiny 2's original ''**moth people**'' concept art; [Destiny Concept Art by Daniel Chavez | Concept Art World](https://conceptartworld.com/news/destiny-concept-art-by-daniel-chavez/)<br>	- Starbound's **Saturnians and Thaumoths**; [The Saturnians | Chucklefish Forums (playstarbound.com)](https://community.playstarbound.com/resources/the-saturnians.4918/)<br>	- This random **World Anvil** link; [4.4 - Saturnian / Thaumoth Species in Astral Confined | World Anvil](https://www.worldanvil.com/w/astral-confined-elcadrane/a/44----saturnian-2F-thaumoth-article)<br>	- They have a moth motif of sorts.<br>- I had the snap idea for spider-themed people relating to the whole 'weave' motif that permeates Samsara.<br>	- Light and Weave are perhaps their motifs? Stars and the Current?<br>- Their origin is somewhat related to the Minds.<br>	- Another idea is that they are the Kin 3.5; the result of an Astrolabic resolution that for reasons, flew under the radar.<br>- I could resurrect [[The Mysticism]] as some sort of 'imagination-based' power used by them.<br>- They worship the Skydancer's;<br>	- Nefele for their Weave<br>	- Shadri for Light? As a metaphor<br>- The Lustrous are aligned with the Lancasters in some way.<br>- The ideas just get wilder;<br>	- The moth-themed light faction are the **Thaûlmoth**<br>	- The spider-themed weave faction are the **Airani** or **Ayreani** (it's tentative)<br>	- They are Life 2.5, something that came between the Vermeil and the Kin, and emerged in the lull between the 1PF and the rise of the Third Kin<br>- Renamed to the 'Nuver' as 'New Vermeil'.<br>- I want to keep the lustrous motif as they do something with Glass.
 - [ ] #### Switchboard Units of Measure<br>Named units for speed, distance, time, etc<br>- Ask Hex for more.
 - [ ] #### Samsara Handsigns<br>- Anchor<br>- Fold<br>- Clasp<br>- Extend
+- [ ] #### Switchboard Biology<br>Exactly as it sounds<br><br>- Follow up with Hex on the puberty thing<br>- What's in a Strider when you cut them open?
 
 
 ## ### GD: Thoughts Repository
@@ -88,6 +88,7 @@ kanban-plugin: basic
 - [ ] A small space for quickly rebuilding docs that have been changed as a result of considerable additions or modifications to other canon.
 - [ ] ##### RES: Amendment to Family Template<br>Under [[FamTemplate]]<br>(meta)<br><br>- 'Individuals and Families' and 'Respect and Hierarchies' are revised subheadings. Review the questions under each to add questions relevant to Individuals for the former, and societal hierarchies for the latter.<br>- Revise 'Taboos and Superstitions' to 'Quirks'. Get ChatGPT to comment on that one.<br>	- Update this constructor with relevant questions as well.
 - [ ] #### Martial Arts in the Saraverse<br>- [[Martial Disciplines of the Switchboard]]<br>- It is not enough that people hit things, there must be an origin and explanation of the methods.<br>- Think we can broadly classify all fighting disciplines under ;<br>	- Unarmed/Fist Weapons<br>	- Weapons General<br>	- Caster-class Armaments<br>	- Esoterics<br>- Under these are various 'schools' that originate from various groups and the like across the Dancirah.
+- [ ] #### Combat Narrative<br>Under [[On Weave and Warfare]]<br><br>- Expand into a larger doc on combat narrative.<br>	- An opportunity to develop the narrative by-play of in-canon combat<br>	- Bleeding and injury<br>	- Damage and hits<br>	- Win cons<br>	- School clashes<br>	- Counters
 
 %% kanban:settings
 ```

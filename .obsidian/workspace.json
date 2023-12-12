@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e20fcbd8f13b7010",
+        "id": "433d1bbd03197d27",
         "type": "tabs",
         "children": [
           {
-            "id": "2b806ef717e886b2",
+            "id": "8951fd273a776dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md",
+                "file": "2.Development/Workshop/Families/The Fel-Arcad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md",
+                "file": "2.Development/Workshop/Families/The Fel-Arcad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md",
+                "file": "2.Development/Workshop/Families/The Fel-Arcad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md"
+                "file": "2.Development/Workshop/Families/The Fel-Arcad.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,13 +160,44 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "2b806ef717e886b2",
+  "active": "143095d69bb57f7a",
   "lastOpenFiles": [
-    "2.Development/Narrative_Worldbuilding/Characters/C1-A1B1-Protags.md",
     "2.Development/Narrative_Worldbuilding/WN-DT.md",
-    "2.Development/Narrative_Worldbuilding/Characters/C2-B2B3-SideChars.md",
-    "1.Drawing Board/1. Samsara/Meta/Home.md",
-    "1. Drawing Board/1. Samsara/Meta/Home.md",
+    "1.TL_Board/Meta/Home.md",
+    "1.TL_Board/Meta/Patreon.md",
+    "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md",
+    "1.TL_Board/Research_&_Resources/Research & Development.md",
+    "1.TL_Board/Research_&_Resources/BlakkSheep's Naming.md",
+    "broken links output.md",
+    "1.TL_Board/Research_&_Resources",
+    "1.TL_Board/1._R&D/Research & Development.md",
+    "1.TL_Board/1._R&D",
+    "1.TL_Board/Community/Post-BS1 Notes.md",
+    "1.TL_Board/Community/The Bayesian SlateMind.md",
+    "1.TL_Board/Community/Post-BS1 Cryogen's Response.md",
+    "1.TL_Board/Community/LatCanvasHex.md",
+    "1.TL_Board/Community/BS1.md",
+    "1.TL_Board/Community/Hex (07-10-22).md",
+    "1.TL_Board/Community/Blakk's Inquisition.md",
+    "1.TL_Board/Community",
+    "2.Development/Foundational_Pillars/The Hands as Chalk.md",
+    "1.Drawing_Board/1.Samsara/Meta/Home.md",
+    "1.TL_Board/Meta/Substack Post.md",
+    "1.TL_Board/Meta/Site Dev.md",
+    "1.TL_Board/Meta/Samsara 1 - The Proposal.md",
+    "1.TL_Board/Meta/Samsara 2 - Sunwards.md",
+    "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md",
+    "1.TL_Board/Legacy_Discussions/The Bayesian SlateMind.md",
+    "1.TL_Board/Legacy_Discussions/Post-BS1 Notes.md",
+    "1.TL_Board/Legacy_Discussions/Post-BS1 Cryogen's Response.md",
+    "1.TL_Board/Legacy_Discussions/LatCanvasHex.md",
+    "1.TL_Board/Meta",
+    "1.TL_Board/Legacy_Discussions",
+    "1.TL_Board",
+    "1.Drawing_Board/Meta",
+    "1.Drawing_Board/Legacy_Discussions",
+    "1.Drawing_Board/1.Samsara/Legacy_Discussions/General",
+    "1.Drawing_Board/1.Samsara/Legacy_Discussions/Calcodynamics",
     "Z.Assets/VoidDaughtersRel.png",
     "Z.Assets/Pasted image 20231027212609.png",
     "Z.Assets/Pasted image 20230804174944.png",
@@ -176,37 +208,6 @@
     "Z.Assets/Pasted image 20230306011045.png",
     "Z.Assets/Pasted image 20230306011133.png",
     "Z.Assets/Pasted image 20230303014516.png",
-    "Z.Assets",
-    "3.Scribbling/pNarrat/Valkyjria.md",
-    "3.Scribbling/pNarrat/TentativeConc..md",
-    "3.Scribbling/pNarrat/Skeletal Narrative.md",
-    "3.Scribbling/External Asset Projects/RegionGenEngine.md",
-    "3.Scribbling/~$SamsaraExcel.xlsx",
-    "3.Scribbling/Writing.md",
-    "3.Scribbling/SamsaraExcelRegionalEngine.xlsx",
-    "3.Scribbling/SamsaraExcel.xlsx",
-    "3.Scribbling/pNarrat",
-    "3.Scribbling/RegionGenEngine.pdf",
-    "3.Scribbling/Narrat One.docx",
-    "3.Scribbling/New Valkyjria.docx",
-    "3.Scribbling/Concept AV.pdf",
-    "3.Scribbling/External Asset Projects",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/Bayes/The Bayesian SlateMind.md",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/General/Post-BS1 Notes.md",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/General/Post-BS1 Cryogen's Response.md",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/General/LatCanvasHex.md",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/General/Hex (07-10-22).md",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/General/Blakk's Inquisition.md",
-    "1.Drawing Board/1. Samsara/Legacy Discussions/General/BS1.md",
-    "1.Drawing Board/1. Samsara/Meta/Substack Post.md",
-    "1.Drawing Board/1. Samsara/Meta/Site Dev.md",
-    "1.Drawing Board/1. Samsara/Meta/Samsara 2.5 - Sunburst.md",
-    "1.Drawing Board/1. Samsara/Meta/Samsara 2 - Sunwards.md",
-    "1.Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md",
-    "1.Drawing Board/1. Samsara/Meta/Patreon.md",
-    "1.Drawing Board/2. Offshore/Babcock Debate/Debate Points.md",
-    "1.Drawing Board/2. Offshore/Z. Scenario Codes.md",
-    "1.Drawing Board/2. Offshore/Prop.CANTHAR.md",
     "Void 5.canvas"
   ]
 }

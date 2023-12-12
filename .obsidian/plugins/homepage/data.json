@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Home",
+      "value": "1.TL_Board/Meta/Home",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
