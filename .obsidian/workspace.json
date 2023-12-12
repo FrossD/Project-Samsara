@@ -11,9 +11,12 @@
             "id": "2b806ef717e886b2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md"
+                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md",
+                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md",
+                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md"
+                "file": "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md"
               }
             }
           }
@@ -158,8 +161,9 @@
   },
   "active": "2b806ef717e886b2",
   "lastOpenFiles": [
-    "2.Development/Narrative_Worldbuilding/Characters/C2-B2B3-SideChars.md",
     "2.Development/Narrative_Worldbuilding/Characters/C1-A1B1-Protags.md",
+    "2.Development/Narrative_Worldbuilding/WN-DT.md",
+    "2.Development/Narrative_Worldbuilding/Characters/C2-B2B3-SideChars.md",
     "1.Drawing Board/1. Samsara/Meta/Home.md",
     "1. Drawing Board/1. Samsara/Meta/Home.md",
     "Z.Assets/VoidDaughtersRel.png",
@@ -203,7 +207,6 @@
     "1.Drawing Board/2. Offshore/Babcock Debate/Debate Points.md",
     "1.Drawing Board/2. Offshore/Z. Scenario Codes.md",
     "1.Drawing Board/2. Offshore/Prop.CANTHAR.md",
-    "1.Drawing Board/2. Offshore/HexLore2.md",
     "Void 5.canvas"
   ]
 }
