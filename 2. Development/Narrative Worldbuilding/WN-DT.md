@@ -19,7 +19,7 @@ kanban-plugin: basic
 
 - [ ] The maindboard of the entire WN-DT; for info that needs the most ready access.
 - [ ] #### Ye Olde Grind<br>A breakdown of the most pressing docs to grind, and all the grind ahead in general.<br><br>**Priority 1**<br>- [[The Fel-Arcad]]<br>- [[DT.CANTHAR_2]]<br><br>**Priority 2**<br>- VoiFleur<br>- Character Sheets<br><br>**Everything (Frontburner)**<br>- The Fel-Arcad<br>- [[DT.CANTHAR_2]]<br>- Character Sheets<br><br>**Everything (Backburner)**<br>- Void 5.0<br>- SBTech Materials<br>- Calcimistry/Light<br>- Proposal: EPIT Nuver/Lustrous
-- [ ] #### Tracker Drafting Tables<br>These are docs for tracking various things related to Samsara.<br><br>**Spot Lore Tracker** - [[Spot Lore Tracker]]<br>	Keeping track of lore created on-the-spot during development of other parts of Samsara.<br><br>**Notebook Tracker** - [[Notebook Tracker]]<br>	Tracks the contents of the Samsara drafting notebooks.
+- [ ] #### Tracker Drafting Tables<br>These are docs for tracking various things related to Samsara.<br><br>**Spot Lore Tracker** - [[DT.Spot_Lore_Tracker]]<br>	Keeping track of lore created on-the-spot during development of other parts of Samsara.<br><br>**Notebook Tracker** - [[DT.Notebook_Tracker]]<br>	Tracks the contents of the Samsara drafting notebooks.
 - [ ] #### Admin<br>General Admin Work<br><br>- Take stock of the drafting note's contents<br>- Hunt for some docs that built off of things in the old WN-DT model. They broke with the Kanban port.<br>- Learn how to use Canvases.
 
 
@@ -36,6 +36,7 @@ kanban-plugin: basic
 
 - [ ] Revisions to existing canon, and the restructuring of existing documents to more useable formats. Entries under here are slightly less urgent than those in active development, but works here cannot be neglected as they often appear hear due to errors in continuity between old canon and new.
 - [ ] #### Revisions/REV<br>Revisions to existing canon, particularly with the aim of reconciling old canon with newer additions to Project Samsara.
+- [ ] ##### No More C<br>Without electromagnetism, there's no reason for lightspeed to exist, and things constrained by lightspeed as well. As such, we must purge all mentions of C from the canon.<br><br>This is particularly only in [[The Strider Protocol]] doc.
 - [ ] #### Restructuring/RES<br>Structural rebuilds of some documents, necessary when they grow particularly long, asking for a rebuild of the headings tree, or tentative consideration of whether some documents should be merged into one or existing documents be broken down into multiple smaller ones.
 - [ ] ##### RES: Vault-wide Rebuild of Text Formatting<br>Under Miscellaneous<br>(meta)<br><br>A vault-wide rebuild of how text is formatted in the vault, using isolated tabs before text to show **my thoughts** and greater than indents to show **additional details or footnotes**.
 

@@ -1,6 +1,10 @@
 # Drafting Notebook Drafter
 Ledgers for ledgers. What's currently in the drafting notebook that hasn't been transferred to the Samsara vault.
 
+## Subject: General
+'Arcane enginery' describes the verse's 'First Principles'
+- Refer to [[Chalk Ritualism]]
+
 ## Subject: CommsCompute
 Relevant to [[Communications and Compute]].
 

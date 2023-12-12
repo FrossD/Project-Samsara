@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "WN-DT",
-      "path": "2. Development/Narrative Worldbuilding/WN-DT.md"
-    },
-    {
       "basename": "Home",
       "path": "1. Drawing Board/1. Samsara/Meta/Home.md"
     },
     {
-      "basename": "Hex_AC",
-      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md"
+      "basename": "DT.Spot_Lore_Tracker",
+      "path": "2. Development/Narrative Worldbuilding/DT.Spot_Lore_Tracker.md"
+    },
+    {
+      "basename": "DT.Notebook_Tracker",
+      "path": "2. Development/Narrative Worldbuilding/DT.Notebook_Tracker.md"
     },
     {
       "basename": "The Fel-Arcad",
       "path": "2. Development/Workshop/Families/The Fel-Arcad.md"
+    },
+    {
+      "basename": "WN-DT",
+      "path": "2. Development/Narrative Worldbuilding/WN-DT.md"
+    },
+    {
+      "basename": "Hex_AC",
+      "path": "2. Development/Workshop/Arsenal Cards/Hex_AC.md"
     },
     {
       "basename": "DT.CANTHAR_2",
@@ -22,7 +30,7 @@
     },
     {
       "basename": "Ven_AC",
-      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md"
+      "path": "2. Development/Workshop/Arsenal Cards/Ven_AC.md"
     },
     {
       "basename": "FamDesignDoc",
@@ -43,10 +51,6 @@
     {
       "basename": "The Lancastars",
       "path": "2. Development/Workshop/Families/The Lancastars.md"
-    },
-    {
-      "basename": "Notebook Tracker",
-      "path": "2. Development/Narrative Worldbuilding/Notebook Tracker.md"
     },
     {
       "basename": "SpyndlAcademy",
@@ -109,10 +113,6 @@
       "path": "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md"
     },
     {
-      "basename": "Spot Lore Tracker",
-      "path": "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md"
-    },
-    {
       "basename": "Martial Disciplines of the Switchboard",
       "path": "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md"
     },
@@ -134,11 +134,11 @@
     },
     {
       "basename": "Blakk_AC",
-      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Blakk_AC.md"
+      "path": "2. Development/Workshop/Arsenal Cards/Blakk_AC.md"
     },
     {
       "basename": "Fyre_AC",
-      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md"
+      "path": "2. Development/Workshop/Arsenal Cards/Fyre_AC.md"
     },
     {
       "basename": "The Skywards Pursuit",
@@ -174,7 +174,7 @@
     },
     {
       "basename": "DT.Arsenal_Cards",
-      "path": "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md"
+      "path": "2. Development/Workshop/Arsenal Cards/DT.Arsenal_Cards.md"
     },
     {
       "basename": "Chalk Ritualism",

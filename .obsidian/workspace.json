@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a11313ef45e5655a",
+        "id": "32d8d2228ebbf97b",
         "type": "tabs",
         "children": [
           {
-            "id": "b71b7df6f4a4f69b",
+            "id": "ebff1335a0c98e84",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -72,16 +75,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "261f5e817c0e6713",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
-              }
-            }
-          },
-          {
             "id": "b9f0f2f8b6bc8203",
             "type": "leaf",
             "state": {
@@ -95,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,18 @@
               "type": "stats-tracker",
               "state": {}
             }
+          },
+          {
+            "id": "143095d69bb57f7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Drawing Board/1. Samsara/Meta/Home.md"
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,20 +159,21 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "acc5d92ceb633965",
+  "active": "93cb784d559b3db0",
   "lastOpenFiles": [
+    "2. Development/Narrative Worldbuilding/DT.Spot_Lore_Tracker.md",
     "1. Drawing Board/1. Samsara/Meta/Home.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
-    "2. Development/Workshop/Families/The Fel-Arcad.md",
+    "2. Development/Narrative Worldbuilding/DT.Notebook_Tracker.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/Arsenal Cards/Hex_AC.md",
+    "2. Development/Workshop/Families/The Fel-Arcad.md",
     "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
+    "2. Development/Workshop/Arsenal Cards/Ven_AC.md",
     "2. Development/Workshop/FamDev/FamDesignDoc.md",
     "2. Development/Workshop/FamDev/FelArcad InDev.md",
     "2. Development/Workshop/FamDev/FamTemplate.md",
     "2. Development/Workshop/Families/The Sil'khan.md",
     "2. Development/Workshop/Families/The Lancastars.md",
-    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
     "2. Development/Workshop/Void 5",
     "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
     "README.md",
@@ -187,7 +190,6 @@
     "2. Development/Narrative Worldbuilding/Characters/C3-A1B1-Antags.md",
     "2. Development/Narrative Worldbuilding/Characters/CX-The Starsailors.md",
     "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md",
-    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
     "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "Z. Assets/FrossD-1.gif",
