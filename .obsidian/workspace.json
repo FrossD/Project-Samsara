@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2. Development/Narrative Worldbuilding/Characters/C2-B2B3-SideChars.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2. Development/Narrative Worldbuilding/Characters/C2-B2B3-SideChars.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2. Development/Narrative Worldbuilding/Characters/C2-B2B3-SideChars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Drawing Board/1. Samsara/Meta/Home.md"
+                "file": "2. Development/Narrative Worldbuilding/Characters/C2-B2B3-SideChars.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "93cb784d559b3db0",
+  "active": "ebff1335a0c98e84",
   "lastOpenFiles": [
-    "2. Development/Narrative Worldbuilding/DT.Spot_Lore_Tracker.md",
     "1. Drawing Board/1. Samsara/Meta/Home.md",
+    "2. Development/Narrative Worldbuilding/DT.Spot_Lore_Tracker.md",
     "2. Development/Narrative Worldbuilding/DT.Notebook_Tracker.md",
     "2. Development/Narrative Worldbuilding/WN-DT.md",
     "2. Development/Workshop/Arsenal Cards/Hex_AC.md",
