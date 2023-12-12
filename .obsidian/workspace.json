@@ -11,12 +11,9 @@
             "id": "2b806ef717e886b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1.Drawing Board/1. Samsara/Meta/Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md"
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Drawing Board/1. Samsara/Meta/Home.md",
+                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Drawing Board/1. Samsara/Meta/Home.md"
+                "file": "2.Development/Narrative_Worldbuilding/WN-DT.md"
               }
             }
           }
@@ -159,8 +156,11 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "93cb784d559b3db0",
+  "active": "2b806ef717e886b2",
   "lastOpenFiles": [
+    "2.Development/Narrative_Worldbuilding/Characters/C2-B2B3-SideChars.md",
+    "2.Development/Narrative_Worldbuilding/Characters/C1-A1B1-Protags.md",
+    "1.Drawing Board/1. Samsara/Meta/Home.md",
     "1. Drawing Board/1. Samsara/Meta/Home.md",
     "Z.Assets/VoidDaughtersRel.png",
     "Z.Assets/Pasted image 20231027212609.png",
@@ -200,13 +200,10 @@
     "1.Drawing Board/1. Samsara/Meta/Samsara 2 - Sunwards.md",
     "1.Drawing Board/1. Samsara/Meta/Samsara 1 - The Proposal.md",
     "1.Drawing Board/1. Samsara/Meta/Patreon.md",
-    "1.Drawing Board/1. Samsara/Meta/Home.md",
     "1.Drawing Board/2. Offshore/Babcock Debate/Debate Points.md",
     "1.Drawing Board/2. Offshore/Z. Scenario Codes.md",
     "1.Drawing Board/2. Offshore/Prop.CANTHAR.md",
     "1.Drawing Board/2. Offshore/HexLore2.md",
-    "1.Drawing Board/2. Offshore/HexLore.md",
-    "1.Drawing Board/2. Offshore/BlakkSheep's Naming.md",
     "Void 5.canvas"
   ]
 }
