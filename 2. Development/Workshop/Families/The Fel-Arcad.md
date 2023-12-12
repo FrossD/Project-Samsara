@@ -15,8 +15,9 @@ Tracking progress on the doc.
 04. [x] Appearance
 05. [x] Clothes and Bodily Adornments
 06. [ ] Individuals and Families
-     - The scope of this section has changed, and thus the 'Individuals' section needs to actually be written.
-07. [ ] Respect and Hierarchies
+     - ~~The scope of this section has changed, and thus the 'Individuals' section needs to actually be written.~~
+     - Now to review families.
+07. [x] Respect and Hierarchies
 08. [ ] Rituals and Periodicals (**Indev**)
      - Very incomplete; revisit for further drafting.
 
@@ -35,7 +36,7 @@ Tracking progress on the doc.
 18. [x] Politics and Economy (**Paper Drafted**)
     - Currency not done, refer to the WN-DT.
 19. [ ] Social Problems
-20. [ ] Quirks and Repute
+20. [ ] pNarrat
 
 ### Snap Thoughts
 Spur of the moment thoughts that could use work.
@@ -45,6 +46,7 @@ Spur of the moment thoughts that could use work.
 	- Fel-Arcad originator of cinema.
 - Add 'Individuals' to #06.
 - **Fel-Arcad Proposal**: The Order of the Undersol.
+- Revisit #13 for some cleanup.
 
 ## STRATA ONE
 ### 01. Doctrine
@@ -250,6 +252,67 @@ Body adornments we can do fairly easily, in that their approach to it isn't much
 > 
 > That about explains it, I reckon.
 
+Perhaps for this section and all others like it moving forward, it helps to capture the state of individuals under a family as it relates to the end goal of conveying narrative. The primary obstacle faced in writing this section was deciding on an attack vector; from which angle to take the dissertation. I settle on this - unsure if it is the best - but at least fairly convinced of its topical relevance. 
+
+The Fel-Arcad Yuno Sytren is born with a mental age of about 15 in our years. This is consequence of the mechanics of the Ritual of Conjugation, an alternate means of descendance and one favored by the Fel-Arcad. This immediately changes the dynamic Yuno has with their kin, as they relate not with a wholly uneducated child, but rather a young adult who is tasked with acquiring context for the various memories they are born with. Yuno is born with something of an understanding of the world around them, like being given an already-completed puzzle with some bits removed, and then having the opportunity to fit in those pieces as one sees fit.
+
+Yuno has three ceskin - or parents. Among other families except maybe the Sil'khan, this is deeply uncommon. Among the Fel-Arcad, it is standard fair. Yuno lives in an arcology too with their ceskin, an immensely fenced, planned environment who's philosophical foundation is multifaceted as these things tend to be, but can be said to work towards maximize the development of the kin, while minimizing suffering. Because of the planned nature of arcology work and economy, Yuno always has one or two of their ceskin at home with them, while the other works and is thus a lesser fixture of their life. This rotates with time within a procession, and thus Yuno will grow with all parents present to some degree. 
+
+In this time, they will be Yuno's primary educators outside of educational institutions, and much of Yuno's education will be posing questions about things they know of, but not about, inherited from their ceskin and the random gifts of the Astrolabic Current. It will be very reminiscent of the 'why' stage we see in our own children, though the topics can and will vary from asking about foodstuff or the color of the sky to what calculus is.
+
+Yuno will spend much of their life in an arcology. They will grow up surrounded by walls so colossal and permanent they will become mere background fixtures of their upbringing. They will grow in an environment designed for growing, but will inevitably develop the sense that this world of theirs must be smaller than the world as it truly exists, something that will only grow with time and learnedness. Nonetheless, they will be pressed somewhat into service of the arcology in small ways. They will learn not to waste resources, to grow their own food, to make simple repairs and report larger problems to those who can deal with them. They become a part of something and perhaps knew they always were as the memory of the arcology would have seeped into their developing conjugate. They always had a community waiting for them, even right from birth.
+
+Yuno goes to school. Yuno and their family grew up in a bloc of the arcology allocated to them. Its small, but cozy. Arcologies are limited in their space, as the Soleri with their arcane plans for the shaping of arcologies might dictate the very square footage that is adequate for Yuno's upbringing. Yuno might share a room with kin of their own - siblings, or perhaps even a parent, and may come to view this as normal. Fel-Arcad living is by design, communal; the arcology model demands the close integration of its participants. Yuno might understand this, or might not. But something minuscule that they cannot name will surge within them whenever they would rather have the solitude of their own thoughts, and realize how frequently it is denied them. School will not necessarily be a respite to this, but it will be a change of pace.
+
+School is in another district, and so Yuno must walk. The arcology is greatly vertical too, and Yuno will see much of both its structure and its inhabitants as they do. They will finally add some concrete certainty to their gradually-forming idea that the world is vast and subject to mechanics that they do not wholly understand. They will see a group of people in uniforms debating over some matter that involves pointing at a great many number of books and canvasses, but not understand why. They will see other figures in uniform leading someone restrained into a vehicle, and while they will have an innate understanding of what is occurring being a flaw of something larger, they will have only a shaky idea of what that 'something larger' is. Occasionally they will see non-Fel in the arcology premises, and be struck by their weirdness, how different they look, how foreign their mannerisms, and they will gawk because they've been taught that the answers to questions is obtained by peering deeply. They will also be taught not to apply this to people. School will do this teaching.
+
+At school they will meet other Fel. They will be struck - by design - by the variety of offerings on display as regards experiences with other kin. They will meet kin with parents who are Sekators, and they will hear of the power in strength in discipline. They will meet kin with parents who are Soleri, and they will finally begin filling in the gaps in their knowledge surrounding arcologies and their manner of living. They will be poked one day by a horn or a wing and hear that this adornment or appendage was gifted to them by the artists of the form, the sembleworkers that the Fel-Arcad pride themselves upon. Between all this they will learn of the hard mechanics of the world; mathematics, physics, weft chemistries and biology. They will learn of weave in general, and that it is a power conferred upon them from long ago. They will learn about this long ago too, their history, how the Fel-Arcad had once been the Arcad, and how they had fought through storms to build the life they now had. They might grow enamored by the idea, or be apathetic, or perhaps even be mildly unimpressed. But they will be exposed to the wonders of both things and people, and it will shape them in manners that they cannot recount, but has been known and perhaps designed to occur.
+
+Yuno will make friends. For the most part, this will be good for them. Yuno was never alone, this being by design, but they will be innately aware of the stratification of relationships that exists, in that they will share some things with some persons but not with others. Yuno may even have multiple friends, and form a group of them, moving in something of a loose ideological lockstep that sees them agreeing upon more than they disagree, and it will be of great interest of those who design the environments they occupy what it is that brings them together and maintains their social cohesion. Yuno might observe a similar group like theirs seemingly dissolve without cause. They may want to question it, and perhaps even will, but will receive answers along amorphous lines. It will bother them, but not particularly. This too is by design.
+
+Yuno asks their ceskin to organize the Fest of Taking. Their wider bloc and memories of the district will gather in a space prepared for them, acquired through - Yuno will observe - filling various bits of paper and conducting discussions with figures in uniform they have seen in the arcology space. The venue will be lightly decorated, their tastes guiding much of it. They had read *The Annals of Warring Minds* at this time, and asks that the decoration center the Arcad of old; warriors, mages, scholars and explorers, those who fought for the 'Third Kin' as they had come to understand themselves. They will - perhaps - note the something of a dip in the countenance of their ceskin upon this request, and the longer than usual stares of the Fest's attendees at the depictions of those of yore, and perhaps they will even have an idea of why. But it will be overshadowed by the affairs of the day. This will be noted as well.
+
+Yuno will take two things that day; one is 'he', a term that they came to feel better defines them. Another is Kamai, for similar reasons. Other names will be bestowed upon him, but he will realize in time how little they are truly used. Those of his bloc will welcome him, once again, into their fold, as one who has found themselves, and thus taken it from the bosom of the world.
+
+It is before this diversity of peoples that Kamai will realize his own uniqueness, some quality inherited from his own ceskin that sets him apart from the others; hair a color not too common, knee-joints he learns are reversed in much else of the Switchboard, a tail that he suspects makes it clear when he is lying, horns that have ruined dozens of pieces of bedding. Kamai's kin - as with much of the Fel-Arcad - are Nadiran, and Kamai will give the *Lattice-Canvas* another reading beyond what was necessary to merely pass classes. He may even be taken to the Sembleworks by his friends -  simply to watch, of course - and be fascinated by the idea of it all. 
+
+It is around this time that many things begin to intersect. Chief amongst these are Kamai's own fairly-developed understanding of the arcology-world he has grown up in - and the vastly larger world that exists outside. They will collide in the most mundane of ways - an opportune encounter from someone outside the arcology - and in that moment, even without a word being said, there will be an exchange of sorts in which Kamai is the major recipient. He will receive awareness; awareness that completes awareness he already has, gives solidity to some things he suspected and challenges others. It will color him, as it has many Fel-Arcad before.
+
+It is around this time that most Fel-Arcad finally pose the question of what lies beyond the arcologies. This will be noted. The answers given vary depending on who is asked. Some will be satisfied by what is given, but others less so. Most will remain convinced, however, of the necessity of seeing things for themselves.
+
+Kamai graduates from general instruction. It is celebratory affair, one he is aware is taking place in much of the arcology at the same time. He applies to join advanced instruction, and chooses to take calcic instruction as well. There are rumors, you see, that the skills taught in calcic instruction are particularly sought after outside the arcology. Not that Kamai plans to leave, of course. He accesses the ArcolNet to try and obtain more concrete answers, but the question of 'what skills are useful outside an arcology?' is met with evasive, unsatisfying answers. He gains an inkling that someone or something is hiding things from him. This activity is noted.
+
+An official comes to Kamai's bloc in uniform he now recognizes, that of the Craun Tenders, those he understands as the leaders of the arcology he dwells within. In the space of an afternoon, he is assessed as fit for the recipience of new rights and responsibilities regarding civil and economic affairs. Arcology decisions are now his to give his voice upon, and arcology responsibilities are now his to shoulder. He is not given explicit choice in the matter, much time being given to explain his relevance and essential role in the arcology model, and how successful this model has been.
+
+He may feel inclined to ask, "Compared to what?" 
+
+This will be noted.
+
+Kamai will serve the arcology, develop himself through the various avenues made available for such, and engage in leisurely pursuits that offer welcome respite. A friend approaches him with an idea; an independently produced film, a comedy with a Feljourn as the butt of many jokes. Kamai is to play the Feljourn. He plays the role quite well. This is noted. The play fosters an interest in literature, and he finds himself gravitating to the works that tell of the great many things and people that lie beyond the arcology's walls. He becomes fascinated with the Sil'khan. This is noted as well.
+
+In the next workforce rotation, he asks to be stationed in the offices of arcology immigration and logistics, handling the affairs of all those who enter and leave the arcology - a post he took expedited classes to qualify for. He believes his intents are known to him alone, but they know. It is rejected, and he is stationed deeper into the interior, working where the arcology's walls seem thickest. He reapplies again, willing to do the position for less compensation. It is rejected again. He has his suspicions. He shares them with friends. This is noted. 
+
+Immersed in Fel-Arcad living, he is opportune to pursue greater self development. He wants for nothing but for things he cannot explicitly name, both from lacking the names for them, and from the fact it seems they are better left unspoken. He becomes more widely read, claims accolades in his growing proficiency with weft. He is made privy to the higher enclaves of inquiry and discussion, and busies himself with pondering things he didn't imagine could even be pondered. He learns swiftly what he had suspected; that the arcology both embraces and chokes, that it wants those within it to stay there, serve it, and grow old in its bosom. His response to this is noted. 
+
+He leaves the home of his birth and is assigned a space of his own in a bloc. It is smaller than where he lived before, but this is to be expected as now he is alone. But not truly so; others like him live conveniently close by in the same bloc, fairly young, lone, and inquisitive. Single, as well. Some catch his eye. Some more than that. Some he quizzes on what they think of living in the arcologies, and he finds that he is in the minority of those who look outwards with considerable interest. He retreats to his alcove to study, but is pulled from it frequently by social events, work, and those who feel the fresh air is for his own good. Kamai, as he will soon learn, is like many Fel-Arcad in that they haven't formed the ability to truly say no. But his reluctance, nonetheless, will be noted.
+
+Die are cast. Kamai is asked to leave the arcology with others for an exercise of some sort. Research, a diplomatic visit, a scholarly competition; the reason hardly matters. Kamai leaves and comes back.
+
+For the Fel-Arcad, there is no undoing this. What is seen is seen and follows them forever, and from this singular occurrence, the path of a Fel-Arcad must be decided. There are many who find their curiosity satiated, or encounter some *thing* that makes them conclude that yes, the arcology model, the manners of the Fel-Arcad, they are good - perhaps even just. They abide within the arcologies for much of their long, fulfilling lives, serving and reaping the benefits. And there are many for whom the call of the beyond is too great, and they abscond at last, learning that the option has always been available, but something has always held them back from taking it.
+
+Kamai chooses the former.
+
+He serves. He grows. He even comes to understand. He even comes to - impossibly - become satisfied. He cultivates relationships and achievements, but none that time him down too greatly. The window, he would tell you, is always open just a crack. The subtle calls will become overt; close the window, take that leap into that one thing that will keep him down for a while. A friend approaches with a larger film in mind. A coworker's lingering gaze finally betrays their intentions. A post appears for training new Soleri. They appeal to him - terribly so - but so do the figures who pass through the post at the immigration office he finally obtained, their tone, their mannerisms, the stories they tell. Foreign, enamoring, deeply differing from the life lived in the arcology. This is noted.
+
+He takes vacations. They are spent outside the arcology, among other Fel-Arcad who merely enjoy the shapes and the colors of the world outside. Kamai feels alone in how the beyond the walls speaks to him. The leaps seems ever more enticing, but he does not know how. 
+
+A Fel-Arcad - no, something similar, but different - greets him. They are differently cut and shaped, built stronger and wilder. They lack the arcology air that Kamai had only come to realize wasn't ubiquitous of all beings in the entire Dancirah. They carry weapons and wares. They squeeze his hands in greeting and nearly crush it. They tell him that they are Feljourn. They tell them they need someone from the Versits, one skilled in weave.
+
+They tell them it will be a one time thing, and that they can be back within the season. 
+
+Kamai takes to his Slate, and drafts a letter to the Circuit. External Affairs.
+
+His bloc is assigned to another within the week.
 
 #### On Families
 Lets discuss Fel-Arcad society. What conclusions can we draw from their history and present about how they structure it? What do their families look like across the size and relationship spectra? 
@@ -345,7 +408,20 @@ The Fel-Arcad acknowledge wealth, but not particular much, and not particularly 
 
 In some Fel-Arcad circles, all the same, it is at least acknowledged that some amount of acumen must be possessed to achieve the feat of wealth gathering in a space almost actively hostile towards it, and thus it is in turn considered that this acumen - turned towards other ends - would in turn yield considerable boon for the Fel-Arcad peoples.
 
+**Tabii**
+The Fel-Arcad have a complicated relationship with those who pride themselves on being well-traveled, especially beyond the arcology environment, and various groups and sub-cultures within the Fel-Arcad view being traveled quite differently. Generally, they can be divided into two camps; a more conservative, 'purist' side and a 'freer' liberal one, though exploring the nuances projects the issue on a spectra.
 
+Generally, Nadiran Fel, the Soleri and those aligned with them, and various other flavors of Fel-Arcad purist tend to frown upon those who leave the arcologies in search of whatever it is that drives them, and then return to 'wield' the perspective gained outside the arcologies 'against' the Fel-Arcad within them - perspective that is often opposed to various Fel-Arcad doctrines across a litany of facets. For this reason, they tend to be, in a sense, 'softly' discriminated against in a variety of fields. 
+
+More liberal-minded Fel, such as the Feljourn, younger Fel-Arcad, Fel engaged deeply in the arts, and - though hardly able to be called 'liberal minded' - the arcology-despising Rosenthalists, find themselves bearing more kindly dispositions towards Fel-Arcad who journey beyond the walls of their arcology and arcologies in general to seek the many offerings of the Starwylds. 
+
+It is worth noting how those who value and despise the value of Tabii do so for ironically the same reason, that being the perspective gleaned by those who venture beyond the enclosed, specifically designed space of the arcologies. In particular, it stems from a fear - or desire - for change within the Fel-Arcad, and the belief that those who leave the environments of the arcologies are the ones most capable of bringing about that change. As such, there is incentive to either actively support or oppose these individuals in any hypothetical ascents to prominent arcology positions. 
+
+### 08. Rituals & Periodicals
+Rituals
+- Birth
+- Birthdays
+- Death
 
 ## STRATA THREE
 ### 09. Naming & Language
@@ -527,7 +603,7 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 #### Strata Two - Factional Institutions
 - While the Fel-Arcad don't explicitly prepare interested persons for further instruction at the Spyndl Academy, the **Feljourn offer a more informal tutelage experience** for those who aspire to attend the Spyndl Academy. These nomadic schools of sorts revolve around hands-on instruction in dealing with the Switchboard, cultivating new sets of skills such as Striding proficiencies, survival training, weapons usage, various forms of combat, operation of skycraft such as jumpships and non-ritual calcic weaving. Fel-Arcad aiming for the Spyndl Academy usually take instruction at a Versit, occasionally a Sekatorial Camp and then seek out a band of Feljourn to give them these additional skills, before then searching out a branch of the Academy to petition for admission.
 
-- The **Antamarans** alongside the **Sekators** (something that will be elaborated upon later) host and maintain various **Sekatorial Camps**, military-college-like institutions that train Fel-Arcad in a variety of disciplines, ranging from leadership, teamwork and management, military science, tactics and strategy, military law and the rules of engagement, security and intelligence and multifarious combat training, all with the goal to prepare a very different archetype of Fel-Arcad from the regular; one with a complete, total mastery over violence. The Sekatorial Order takes their instruction immensely serious, and resultant Fel-Arcad from this rigorous program are sought after even beyond the arcologies for the unique formal competencies they posses. The Antamarans in particular offer various forms of training for fighting Vahnkin, traversing the Challenger Dark and opposing the powers of the Void. The Spyndl Academy often seeks out those who've undergone Antamaran training as **storm divers**; Operators trained in operations that take place in the Void.
+- The **Antamaran** alongside the **Sekators** (something that will be elaborated upon later) host and maintain various **Sekatorial Camps**, military-college-like institutions that train Fel-Arcad in a variety of disciplines, ranging from leadership, teamwork and management, military science, tactics and strategy, military law and the rules of engagement, security and intelligence and multifarious combat training, all with the goal to prepare a very different archetype of Fel-Arcad from the regular; one with a complete, total mastery over violence. The Sekatorial Order takes their instruction immensely serious, and resultant Fel-Arcad from this rigorous program are sought after even beyond the arcologies for the unique formal competencies they posses. The Antamaran in particular offer various forms of training for fighting Vahnkin, traversing the Challenger Dark and opposing the powers of the Void. The Spyndl Academy often seeks out those who've undergone Antamaran training as **storm divers**; Operators trained in operations that take place in the Void.
 
 - The **Rosenthalists** pride themselves on being almost Fel-Arcad aristocracy, and though this position comes under extensive challenge from many sides, their underhanded dealings and willingness to cut throats and hustle has seen Rosenthalists find their way into various arcologies, Fel-Arcad institutions and institutions outside the Fel-Arcad entirely. When there, however, and even before that, the Rosenthalists work to ensure that their various agents are well equipped to further their ambitions in secret. The skills necessary for such a task are learned in their underground, deceptively named **Aristocratic Courts**, or more simply **Courts**. These Courts aim to teach all that pass through them in the arts of infiltration, manipulation and subversion, bestowing skills ranging from pickpocketing and lockpicking to manipulation, kidnapping, extortion and assassination. These Courts are hidden, known only by a select few, entry to them being difficult and tutelage under them being harsh. Often they are confined to the **Black Arcologies**, with channels existing for funneling new students to them and graduates from them to places where the Rosenthalists may need them. In addition to Fel-Arcad, other interested parties from other families are known to seek out their teachings.
 
@@ -554,7 +630,7 @@ Schools among the Fel-Arcad are divided primarily by faction and intent, intent 
 
 **Fel-Arcad Recreation**
 - The Fel-Arcad aren't very physical, that being said...
-	- [ ] Rocketskating
+	- [x] Rocketskating
 
 #### The Curlicue 'Seed' - The Nymia
 An interesting quality of the Fey Curlicue is its significance as an inducer of mathematics within things that are subject to it. When a Curlicue reaches maturity, it flowers and fruits, and from these fruits are the Curlicue seeds obtained. Highly valued as a part of Arcad and Fel-Arcad history and culture, as well as their essential role in establishing new arcologies, the true depths of the secrets they contain remain unplumbed, due to the costly nature of such research and the reaction a proposal of damaging such valuable things draws.

@@ -4,7 +4,6 @@
   "find-unlinked-files",
   "obsidian-style-settings",
   "obsidian-file-info-plugin",
-  "better-word-count",
   "obsidian-image-toolkit",
   "obsidian-icon-folder",
   "obsidian-kanban",
@@ -15,5 +14,7 @@
   "markdown-table-editor",
   "darlal-switcher-plus",
   "homepage",
-  "chronology"
+  "chronology",
+  "better-word-count",
+  "omnisearch"
 ]

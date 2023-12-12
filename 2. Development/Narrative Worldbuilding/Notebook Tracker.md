@@ -9,7 +9,7 @@ Some leftover diagrams of the architecture of Baranx packets, those of informati
 ## Subject: The Fel-Arcad
 Relevant to [[The Fel-Arcad]].
 
-**On Quirks and Repute**
+**On pNarrat**
 Positive
 - The Fel-Arcad are a mostly kindly and trusting people.
 - Look for amicable ways of dealing with others.
@@ -135,6 +135,7 @@ Varying sizes of team are deployed for different missions under the Spyndl Acade
 ## Subject: The Skydancers
 Relevant to [[The Sil'khan]].
 
+### Skydancer Profiles
 The aim is to have the various Skydancer somewhat subvert the aspects they espouse, in a manner not too distant from their core doctrine. 
 
 **Leilani**
@@ -158,6 +159,10 @@ The aim is to have the various Skydancer somewhat subvert the aspects they espou
 
 **Onuris**
 - Craftsman more than blacksmith
+
+### Skydancer Aspects
+The aspects of the Skydancers, this being their various motifs and the like.
+- Skydancer Pacts; their own kind of ritualism. 
 
 ## Subject: Void 5.0
 "Once more into the deep."

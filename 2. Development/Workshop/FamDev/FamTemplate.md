@@ -37,7 +37,7 @@ This checklist is copied to the design doc for each family. As the family is dev
 17. [ ] Law and Literature
 18. [ ] Politics and Economy
 19. [ ] Social Problems
-20. [ ] Quirks and Repute
+20. [ ] pNarrat
 
 ## Building - The Yarn
 The story from T=0 to the Post Mysticism of the family, outlining significant events that earned them their names and repute.
@@ -200,7 +200,7 @@ For families; How are families or otherwise equivalent smallest units of their s
 - What part of social convention is used to allocate 'honor'?
 - How are things such as honor and respect earned?
 	- Excellence at a trade or practice?
-	- Old age?
+	- Old age?,
 	- Victory in conflict?
 	- Wealth and status (such as a product of birth)?
 - What form do interpersonal interactions take between people bearing differing amounts of respect?
@@ -358,7 +358,7 @@ The various social issues that plague each family, due to other cultural charact
 - Who are the rebels and counter-cultural figures?
 	- What particular aspect of the family/their culture compels them to become so?
 
-#### 20. Quirks and Repute
+#### 20. pNarrat
 **Quirks; was initially taboos and superstitions**
 Quirks themselves;
 1. **Behavioral Quirks:** Unusual habits or behaviors that deviate from commonly accepted norms. These can range from specific ways of speaking, walking, or interacting with others.
@@ -419,7 +419,7 @@ Tracking progress on the doc.
 17. [ ] Law and Literature
 18. [ ] Politics and Economy
 19. [ ] Social Problems
-20. [ ] Quirks and Repute
+20. [ ] pNarrat
 
 ### Rough Outline
 ### Snap Thoughts

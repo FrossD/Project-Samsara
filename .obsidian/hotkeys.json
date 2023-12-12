@@ -4,7 +4,14 @@
   "editor:delete-paragraph": [],
   "app:open-help": [],
   "editor:open-link-in-new-leaf": [],
-  "outline:open": [],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -134,6 +141,23 @@
         "Mod"
       ],
       "key": "O"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "]"
     }
   ]
 }

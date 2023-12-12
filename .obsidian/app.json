@@ -7,10 +7,10 @@
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 80
+    "downscalePercent": 76
   },
   "attachmentFolderPath": "Z. Assets",
   "showInlineTitle": false,

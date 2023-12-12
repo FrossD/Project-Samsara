@@ -31,7 +31,7 @@ Tracking progress on the doc.
 17. [ ] Law and Literature
 18. [ ] Politics and Economy
 19. [ ] Social Problems
-20. [ ] Quirks and Repute
+20. [ ] pNarrat
 
 ### Rough Outline
 ### Snap Thoughts

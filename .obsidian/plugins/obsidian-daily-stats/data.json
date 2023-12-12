@@ -10,16 +10,41 @@
     "2023/11/2": 246,
     "2023/11/3": 117,
     "2023/11/5": 1369,
-    "2023/11/6": 388
+    "2023/11/6": 721,
+    "2023/11/7": 122,
+    "2023/11/9": 2946,
+    "2023/11/10": 4,
+    "2023/11/11": 0,
+    "2023/11/12": 320
   },
   "todaysWordCount": {
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md": {
-      "initial": 30935,
-      "current": 31303
+    "2. Development/Workshop/FamDev/FelArcad InDev.md": {
+      "initial": 1382,
+      "current": 1382
+    },
+    "2. Development/Workshop/FamDev/FamDesignDoc.md": {
+      "initial": 4223,
+      "current": 4543
+    },
+    "2. Development/Workshop/FamDev/FamTemplate.md": {
+      "initial": 2853,
+      "current": 2847
     },
     "2. Development/Narrative Worldbuilding/Notebook Tracker.md": {
-      "initial": 713,
-      "current": 733
+      "initial": 755,
+      "current": 755
+    },
+    "2. Development/Workshop/Families/The Fel-Arcad.md": {
+      "initial": 49612,
+      "current": 49612
+    },
+    "2. Development/Workshop/Families/The Lancastars.md": {
+      "initial": 205,
+      "current": 205
+    },
+    "2. Development/Workshop/Families/The Sil'khan.md": {
+      "initial": 1117,
+      "current": 1117
     }
   }
 }

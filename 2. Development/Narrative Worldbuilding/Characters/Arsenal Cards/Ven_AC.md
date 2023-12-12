@@ -49,7 +49,7 @@ Rigorous training in the ranks of the Spyndl Academy's Operator school, further 
 	Slamming the end of the Oblige groundward releases an incapacitating shockwave that inflicts inductive doctrinal damage on the knees of sufferers, compelling them to fall and be unable to rise momentarily. This cast cannot be performed immediately after use, however the effect lasts longer through the mechanics of praxis, **based on the ill-will held by the target towards the Spyndl Academy**.  
 
 - Utility
-**Dancer-born**
+**Mark of Office: Dancer-born**
 *"The Current confers post as it sees fit."*
 	In a manner reminiscent of the Old Danseers, Noblesse Oblige confers authority upon all those who wield it, requiring possessing status to begin with to even be carried. When held in the hand, calcic locality is resolved in deference, and the wielder is granted the **Graceflight**.
 
@@ -110,8 +110,10 @@ Axle: Tek | Trajectory Calculator
 
 ## T2 - Elementary Calcic
 ### Weave Strike
-**(N/A)**
-*"If the doctrine of the woven strike is that it is always on hand, then I already have that handled."*
+**Five-Pronged Fork** - Brch
+Axle: Tek | Trajectory Calculator
+"*Something to open negotiations with.*"
+	By forming a mockery of a gun with his fingers, Ventura engages a subroutine of his Tek that immediately begins tracking five targets in his vicinity. These targets are chosen automatically based on perceived threat, determined by apparent calcic density, though Ventura can reassign targets as he sees fit. Ventura can then 'draw' and fire this finger-handgun, making calcic attacks - firing woven projectiles - against all five targets at ludicrous speed, requiring not even considerably deflecting his aim towards the marked targets to hit them. 
 
 ### Weave Charge
 **Interceptor Flechette** - Imbue - Cado
@@ -196,7 +198,7 @@ Operator Adven Ventura specializes in firearms and ammunition of all kind, and i
 
 - **Hardpoint Rounds** - Brch, Cado
 Axle: Tek | Trajectory Calculator
-*"Six shots was too small, so I asked for eight. In time, I learned I only needed one."*
+*"Six shots were too few, so I asked for eight. In time, I learned I only needed one."*
 	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data and powers it with calcic inferno. With this, he weaves eight hardpoint calcic rounds, capable of piercing targets and rebounding off of hard surfaces multiple times.
 
 - **Unravelling Rounds** - Brch, Unrav, Induc

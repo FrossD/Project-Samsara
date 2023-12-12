@@ -32,7 +32,7 @@ Axle: Formshift | Re-Innovate
  
 - Utility
 **Momentum Conduit**
-*"You know its working when it starts singing."*
+*"You know it's working when it starts singing."*
 	 The Rift Vibrokhopesh shunts constantly between the Dancirah and the Challenger Dark, its blade thus being a densely-contained piece of crystal with immensely high momentum but little apparent displacement. With a touch, it can impart this momentum on structures sensitive to it. The momentum with which the Rift Vibrokhopesh vibrates **scales** with the **hack counter**.
 
 ### Taken Armament

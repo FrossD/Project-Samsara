@@ -37,7 +37,6 @@
 
 ### Arcadia
 - [Arcadia (utopia) - Wikipedia](https://en.wikipedia.org/wiki/Arcadia_(utopia))
-- 
 
 
 ### Politics and Economy

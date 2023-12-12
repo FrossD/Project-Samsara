@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7df3bd6ea4581ebb",
+        "id": "a11313ef45e5655a",
         "type": "tabs",
         "children": [
           {
-            "id": "5999e99918470147",
+            "id": "b71b7df6f4a4f69b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           }
@@ -34,21 +31,6 @@
         "id": "e2091c8381432ff8",
         "type": "tabs",
         "children": [
-          {
-            "id": "1987a9a93a6a5805",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Information Affinity",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "93cb784d559b3db0",
             "type": "leaf",
@@ -68,15 +50,14 @@
             }
           },
           {
-            "id": "7b1e28394b1bffeb",
+            "id": "3d151cf4c6aca587",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "tlfItemView",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md"
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md"
               }
             }
           },
@@ -114,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +112,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
+                "file": "2. Development/Narrative Worldbuilding/WN-DT.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -146,14 +127,6 @@
             }
           },
           {
-            "id": "3d151cf4c6aca587",
-            "type": "leaf",
-            "state": {
-              "type": "tlfItemView",
-              "state": {}
-            }
-          },
-          {
             "id": "94fb2133e002bae2",
             "type": "leaf",
             "state": {
@@ -161,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,6 +143,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -182,38 +157,42 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "5999e99918470147",
+  "active": "acc5d92ceb633965",
   "lastOpenFiles": [
-    "1. Drawing Board/2. Offshore/Vic (1).md",
-    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
-    "2. Development/Narrative Worldbuilding/WN-DT.md",
     "1. Drawing Board/1. Samsara/Meta/Home.md",
-    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
-    "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Birthing and Being.md",
-    "2. Development/Foundational Pillars/The Hands as Chalk.md",
-    "Untitled.md",
-    "2. Development/Mechanical Pillars/Glass.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Communications and Compute.md",
-    "2. Development/Mechanical Pillars/The Biomes of the Dancirah.md",
-    "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Hex_AC.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/DT.Arsenal_Cards.md",
     "2. Development/Workshop/Families/The Fel-Arcad.md",
-    "2. Development/Narrative Worldbuilding/Characters/C0-CharLegacy.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/WeaveWar Append.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Fyre_AC.md",
+    "2. Development/Narrative Worldbuilding/WN-DT.md",
+    "2. Development/Workshop/Calcic Chemistry et al/DT.CANTHAR_2.md",
     "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/Ven_AC.md",
-    "2. Development/Foundational Pillars/The Blank-Slate Mind.md",
-    "2. Development/Narrative Worldbuilding/NarratWB NB1/Chalk Ritualism.md",
-    "2. Development/Narrative Worldbuilding/Characters/Arsenal Cards/2. CX-Character-Arsenal-Ideas.md",
-    "1. Drawing Board/1. Samsara/Meta/Patreon.md",
-    "1. Drawing Board/1. Samsara/Meta/Substack Post.md",
+    "2. Development/Workshop/FamDev/FamDesignDoc.md",
+    "2. Development/Workshop/FamDev/FelArcad InDev.md",
+    "2. Development/Workshop/FamDev/FamTemplate.md",
+    "2. Development/Workshop/Families/The Sil'khan.md",
+    "2. Development/Workshop/Families/The Lancastars.md",
+    "2. Development/Narrative Worldbuilding/Notebook Tracker.md",
+    "2. Development/Workshop/Void 5",
+    "2. Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md",
+    "README.md",
+    "Void 5.canvas",
+    "3. Scribbling/pNarrat/TentativeConc..md",
+    "3. Scribbling/pNarrat/Skeletal Narrative.md",
+    "3. Scribbling/pNarrat/Valkyjria.md",
+    "3. Scribbling/Concept AV.pdf",
+    "3. Scribbling/BiomesFinal.pdf",
+    "3. Scribbling/RegionGenEngine.pdf",
+    "2. Development/Workshop/PlanesDev/Planes Template.md",
+    "2. Development/Narrative Worldbuilding/Characters/C0-CharLegacy.md",
+    "2. Development/Narrative Worldbuilding/Characters/C1-A1B1-Protags.md",
+    "2. Development/Narrative Worldbuilding/Characters/C3-A1B1-Antags.md",
+    "2. Development/Narrative Worldbuilding/Characters/CX-The Starsailors.md",
+    "2. Development/Narrative Worldbuilding/Characters/DT.CharTemplate.md",
+    "2. Development/Narrative Worldbuilding/Spot Lore Tracker.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/Martial Disciplines of the Switchboard.md",
+    "2. Development/Narrative Worldbuilding/NarratWB NB1/On Weave and Warfare.md",
     "Z. Assets/FrossD-1.gif",
     "Z. Assets/spider-lily-flower-anime.gif",
     "Z. Assets/1695784784613155.gif",
-    "3. Scribbling/BiomesFinal.pdf",
     "Z. Assets/VoidDaughtersRel.png",
     "3. Scribbling/557D3000",
     "1. Drawing Board/2. Offshore/Babcock Debate",
