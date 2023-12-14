@@ -4,14 +4,6 @@
   "editor:delete-paragraph": [],
   "app:open-help": [],
   "editor:open-link-in-new-leaf": [],
-  "outline:open": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "\\"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -152,10 +144,18 @@
       "key": "F"
     }
   ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
   "file-explorer:open": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "]"
     }

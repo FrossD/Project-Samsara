@@ -4,16 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "433d1bbd03197d27",
+        "id": "8b77024202bb3a56",
         "type": "tabs",
         "children": [
           {
-            "id": "8951fd273a776dbb",
+            "id": "3fa820b8f9d27955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f672860a5f98141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32f2345910f42ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acffe4e88e533e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Development/Workshop/Families/The Fel-Arcad.md",
+                "file": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Development/Workshop/Families/The Fel-Arcad.md"
+                "file": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md"
               }
             }
           }
@@ -162,8 +201,14 @@
   },
   "active": "143095d69bb57f7a",
   "lastOpenFiles": [
-    "2.Development/Narrative_Worldbuilding/WN-DT.md",
+    "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md",
+    "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md",
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
+    "blakk.md",
+    "Pasted image 20231214004522.png",
+    "2.Development/Narrative_Worldbuilding/DT.Notebook_Tracker.md",
     "1.TL_Board/Meta/Home.md",
+    "2.Development/Narrative_Worldbuilding/WN-DT.md",
     "1.TL_Board/Meta/Patreon.md",
     "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md",
     "1.TL_Board/Research_&_Resources/Research & Development.md",
@@ -186,11 +231,6 @@
     "1.TL_Board/Meta/Site Dev.md",
     "1.TL_Board/Meta/Samsara 1 - The Proposal.md",
     "1.TL_Board/Meta/Samsara 2 - Sunwards.md",
-    "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md",
-    "1.TL_Board/Legacy_Discussions/The Bayesian SlateMind.md",
-    "1.TL_Board/Legacy_Discussions/Post-BS1 Notes.md",
-    "1.TL_Board/Legacy_Discussions/Post-BS1 Cryogen's Response.md",
-    "1.TL_Board/Legacy_Discussions/LatCanvasHex.md",
     "1.TL_Board/Meta",
     "1.TL_Board/Legacy_Discussions",
     "1.TL_Board",
@@ -207,7 +247,6 @@
     "Z.Assets/Pasted image 20230323175549.png",
     "Z.Assets/Pasted image 20230306011045.png",
     "Z.Assets/Pasted image 20230306011133.png",
-    "Z.Assets/Pasted image 20230303014516.png",
     "Void 5.canvas"
   ]
 }

@@ -226,3 +226,4 @@ The aspects of the Skydancers, this being their various motifs and the like.
 **Notes**
 - The Challenger Dark is limited technology-wise due to the Horizon and stardrip.
 - **History**: Dawn > Refrain > Civilization > Amaranth Incursion > Horizon Crisis > Modern Day 
+- **Vahnic Vows**, and **Skydancer Vows** too, granting Depthstriders access to Praxis Mechanics.

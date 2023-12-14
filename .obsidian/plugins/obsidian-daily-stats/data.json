@@ -15,60 +15,26 @@
     "2023/11/9": 2946,
     "2023/11/10": 4,
     "2023/11/11": 0,
-    "2023/11/12": 340
+    "2023/11/12": 340,
+    "2023/11/13": 4,
+    "2023/11/14": 1440
   },
   "todaysWordCount": {
-    "2. Development/Workshop/FamDev/FelArcad InDev.md": {
-      "initial": 1382,
-      "current": 1382
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md": {
+      "initial": 31308,
+      "current": 32352
     },
-    "2. Development/Workshop/FamDev/FamDesignDoc.md": {
-      "initial": 4223,
-      "current": 4543
+    "2.Development/Narrative_Worldbuilding/DT.Notebook_Tracker.md": {
+      "initial": 769,
+      "current": 781
     },
-    "2. Development/Workshop/FamDev/FamTemplate.md": {
-      "initial": 2853,
-      "current": 2847
+    "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md": {
+      "initial": 182,
+      "current": 190
     },
-    "2. Development/Narrative Worldbuilding/Notebook Tracker.md": {
-      "initial": 755,
-      "current": 769
-    },
-    "2. Development/Workshop/Families/The Fel-Arcad.md": {
-      "initial": 49612,
-      "current": 49612
-    },
-    "2. Development/Workshop/Families/The Lancastars.md": {
-      "initial": 205,
-      "current": 205
-    },
-    "2. Development/Workshop/Families/The Sil'khan.md": {
-      "initial": 1117,
-      "current": 1117
-    },
-    "1. Drawing Board/1. Samsara/Meta/Home.md": {
-      "initial": 78,
-      "current": 84
-    },
-    "2. Development/Narrative Worldbuilding/Characters/C2-B2B3-SideChars.md": {
-      "initial": 77,
-      "current": 77
-    },
-    "2. Development/Narrative Worldbuilding/Characters/Test.md": {
-      "initial": 1,
-      "current": 1
-    },
-    "2. Development/Narrative Worldbuilding/Characters/New Note Test.md": {
-      "initial": 1,
-      "current": 1
-    },
-    "2.Development/Narrative_Worldbuilding/Characters/C3-A1B1-Antags.md": {
-      "initial": 83,
-      "current": 83
-    },
-    "1.Drawing_Board/1.Samsara/Meta/Home.md": {
-      "initial": 83,
-      "current": 83
+    "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md": {
+      "initial": 4232,
+      "current": 4608
     }
   }
 }

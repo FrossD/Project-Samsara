@@ -245,3 +245,18 @@ The win state for Blakk within her Hollow is for the other parties in it with he
 The intricacies of Blakk's Basilica Binding is that a single box must be assembled before the Hollow can resolve, and thus Blakk is incentivized by the logic of her Hollow and derivative battle strategy to never weld first. If she does, and doesn't weld with either a gas mask on or after turning on the ventilation, she will be struck by her own poisonous flux vapors, and indicate to those within the Hollow that something must be done to nullify the danger posed by gas in an enclosed space.
 
 Should the other parties discover that the workshop is poorly ventilated, resolve the problem and complete their assembly of the metal box, the Hollow resolves, leaving them unmolested and Blakk with no advantage gained, and a considerable one lost as Blakk's Hollow has little effect on those who've defeated it once before.
+
+## T5 - The Crescent Hollow
+### Crescent Basilica
+**Calamitous Workshop** - Cado, Brch, Induc, Unrav
+Axle: Draw Strike | Hazard Drawer
+*"I have never believed in ascribing any amount of divinity to machines. I think there's something greater than that, and it lies in us, the creators."*
+
+The Rogue Riftlock Blakk served in the courts of the Sultan's Daughters as an artisan, and worked towards realizing the endless downpour from the sky into workable technologies for the sultanates below. But time and circumstance forced them to flee, and though separated from the hallowed post she once held, losing such conveniences - enduring such strife - has only served to hone their convictions in themselves, their works, and the codices of Vahn. It has thus enabled her to take her post - her workshop - with her, in the form of her Deep Hollow.
+
+Taking hold of this space, however, and inverting it upon the fourth spatial axis yields a sky-scouring alloy cogwheel in space, cut and shaped into a moon-mocking crescent. This inversion of her workshop exerts her will across space itself, and allows her to paint the very air with the machinations belched from her **Hazard Drawer**. By utilizing a vow that applies the Forbid of the Faithful to only **inanimate objects** rather than living subjects, Blakk siphons chalk from local space into her workshop, and summarily it is woven by the hands of the Sultan into endless stockpiles of ordnance. 
+
+**Every possible phenomena** that results from Blakk using her **Hazard Drawer** Draw Strike is encased in a warhead and loaded into the hardpoint firing bays of her Crescent Hollow, and upon explosion, the loaded phenomena will resolve as is typical. Once suitable mass of ordnance is achieved, Blakk is able to trigger the resolution of the technique, resulting in a **saturation bombardment** of vast swathes of space with missiles. Empowered by the ledgers governing the space, these missiles - and the phenomena loaded in them - are massively empowered to **multiple times their regular potency**. 
+
+This technique must be **actively channeled** for Blakk to perform, and considerable disruption can end the channeled cast prematurely. However, should Blakk wish, and should calcic material be available, Blakk is able to siphon chalk, weave missiles via her crescent workshop, and fire them **indefinitely**.
+
