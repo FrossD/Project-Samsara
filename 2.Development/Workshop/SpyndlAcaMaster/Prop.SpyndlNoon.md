@@ -46,7 +46,7 @@ As such, the task then is to highlight possible events that could have occurred 
 	- The Eaters of Ryjik were the only ones capable of fighting within the Glazwyre and shutting down the attacking minds, and had to work alongside the Netmasters who were the only ones who knew how to manifest entryways into it and navigating its landscape.
 	- The Third Thinker working with them was a rogue Netmaster, who had to be shut down and eliminated by the Spyndl Operatives themselves.
 	- Netmaster is a Lancaster, because they gotta get in on this too.
-	- As a tentative note, they were working to secure information about the Nuver (refer to [[WN-DT]]).
+	- As a tentative note, they were working to secure information about the Nuver (refer to [[DT.WN-DT]]).
 	- As an additional note, it is when the Academy learned to wield Glass, made possible by the rediscovery of the PRISMpick after it was lost and then repossessed by the Netmasters.
 	- Grounds for Io's JABBERlance.
 7. **Panopticon Breach**

@@ -34,7 +34,7 @@ Tracking progress on the doc.
 
 ### Rough Outline
 ### Snap Thoughts
-#### Taken from [[WN-DT]]
+#### Taken from [[DT.WN-DT]]
 - **The Grounded**: Origins; First idea that comes to mind is that the first Striders using the Strider Protocol had no idea the mechanics of their universe and flew - quite literally - too close to their suns. Repeated damage to their lattices damaged their Strider Protocol beyond repair, and led to the first generations of Grounded.
 	- Intermingling between Striders and Grounded led to the proliferation of the Grounded, and due to the general danger of Striding and the reduced life expectancy of Striders, the Grounded grew in population.
 - Lancastars, 'line' 'casters'.

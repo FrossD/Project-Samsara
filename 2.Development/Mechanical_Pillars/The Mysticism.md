@@ -3,7 +3,7 @@ Perhaps the highest doctrine in the Switchboard; the doctrine that creates doctr
 
 **Rough**
 - The Interpretative Doctrine; the mind folds chalk as the Mystic views them.
-- The power of the Mysticism
+- The Power of the Mysticism
 - The 'Doctrine of Everything'
 - The Skydance Stride
 - The Witch of Gates and 'Mystic Madness'

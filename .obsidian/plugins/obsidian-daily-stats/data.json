@@ -17,24 +17,33 @@
     "2023/11/11": 0,
     "2023/11/12": 340,
     "2023/11/13": 4,
-    "2023/11/14": 1440
+    "2023/11/14": 1440,
+    "2023/11/15": 3317
   },
   "todaysWordCount": {
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md": {
-      "initial": 31308,
-      "current": 32352
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/The EPIT.md": {
+      "initial": 2467,
+      "current": 2466
     },
-    "2.Development/Narrative_Worldbuilding/DT.Notebook_Tracker.md": {
-      "initial": 769,
-      "current": 781
+    "2.Development/Narrative_Worldbuilding/DT.Thought_Synthesis_Tracker.md": {
+      "initial": 0,
+      "current": 1352
     },
-    "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md": {
-      "initial": 182,
-      "current": 190
+    "2.Development/Narrative_Worldbuilding/DT.Thought_Tracker.md": {
+      "initial": 1351,
+      "current": 1351
     },
-    "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md": {
-      "initial": 4232,
-      "current": 4608
+    "1.TL_Board/Meta/Home.md": {
+      "initial": 83,
+      "current": 85
+    },
+    "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md": {
+      "initial": 1351,
+      "current": 3314
+    },
+    "2.Development/Mechanical_Pillars/The Mysticism.md": {
+      "initial": 1820,
+      "current": 1820
     }
   }
 }

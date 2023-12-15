@@ -4,7 +4,7 @@
 ![[FrossD-1.gif]]
 ****
 **Let's Get to Work**
-- [[WN-DT]]
+- [[DT.WN-DT]]
 - [[DT.CANTHAR_2]]
 - [[DT.Arsenal_Cards]]
 - [[DT.CharTemplate]]
@@ -13,6 +13,7 @@
 **Trackers**
 - [[DT.Notebook_Tracker]]
 - [[DT.Spot_Lore_Tracker]]
+- [[DT.Expansion_Tracker]]
 
 ****
 **Samsara**

@@ -3,7 +3,7 @@ The treachery of the Switchboard is many-fold; from the lattice-sundering Law St
 
 As exists in various other works of fiction, the world is simply necessarily populated that things that are smart enough to realize that killing you poses some advantage to them, and the Switchboard is no different. The Ever Present Intelligent Threat is a classification for the Switchboard's fauna - natural or otherwise - driven by an explicable - or not - apparent hatred for its denizens. 
 
-The subdivisions under the EPIT are that of origin; the Vitric Shelf, Great Sky and Challenger Dark all have intelligent dangers native to them, shaped by their individual environments into creatures of varying kinds and levels of danger to denizens of the Switchboard. For simplicity and narrative relevance, we will only be discussing the creatures that are hostile even without provocation.
+The subdivisions under the EPIT are that of origin; the Vitric Shelf, Great Sky and Challenger Dark all have intelligent dangers native to them, shaped by their individual environments into creatures of varying kinds and levels of danger to denizens of the Switchboard. For simplicity and narrative relevance, we will only be discussing the creatures that are hostile even without provocation. 
 
 **Rough**
 - Challenger Dark
@@ -13,10 +13,10 @@ The subdivisions under the EPIT are that of origin; the Vitric Shelf, Great Sky 
 
 ## Workshop: EPIT Enemy Modifiers
 Modifiers for the base enemy classes, refer to the sheet for more details;
-![[WN-DT#The Samsara Grid-sheet]]
+![[DT.WN-DT#The Samsara Grid-sheet]]
 
 ## Methodology: The Grid
-![[WN-DT#The Grid]]
+![[DT.WN-DT#The Grid]]
 
 Development of the EPITs for the Switchboard then, is fairly simple. We will define two axes of parameters that will make the rows and column of the Grid, and then at their intersection will be the individual kinds of EPIT. The parameters I've chosen are;
 

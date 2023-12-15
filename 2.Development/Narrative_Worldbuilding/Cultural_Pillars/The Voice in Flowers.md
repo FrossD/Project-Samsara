@@ -56,7 +56,7 @@ From the group of 22, we take three more subgroups; a group of 12, representing 
 These rarities make use of the same tiers as the tiered flowers, who's rarities are expressed as a percentage chance to occur throughout anywhere in the Switchboard, the Dark or the Shelf.
 
 **Refer to the Samsara Excel docs for all the below tables.**
-![[WN-DT#The Samsara Grid-sheet]]
+![[DT.WN-DT#The Samsara Grid-sheet]]
 
 
 **The Floral Alphabet - Tiered Flowers**
