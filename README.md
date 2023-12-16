@@ -11,6 +11,8 @@ While you can absolutely read the documents fairly well on the GitHub site, I gr
 That all aside, thank you for taking a look at this whole thing. If you have any questions or the like, feel free to reach out to me on **Discord**, username 'frossd', or join the [Samsara Discord Server](https://discord.gg/j4HqGfChMC "https://discord.gg/j4HqGfChMC").
 
 ## Getting Down to Business
+**THIS READING GUIDE IS OUT OF DATE AS 15/12/2023. AN UPDATED READING GUIDE IS IN THE WORKS.**
+
 If you are looking to read Samsara and don't where to start, I took the liberty of making a somewhat-workable **read order**. 
 
 1. **The Primers**; absolute essentials to getting a firm grip on the Samsara universe.
