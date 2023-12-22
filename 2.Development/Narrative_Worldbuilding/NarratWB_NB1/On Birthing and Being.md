@@ -157,7 +157,7 @@ The realization of all that the Lattice as a Canvas is is best realized by none 
 
 ![[The Fel-Arcad#The Sembleworks]]
 
-## On Tangents
+## Appendum
 Some tangentially related subject matter, that might find a new home elsewhere among the document stack.
 
 ### Emergent Minds
@@ -166,3 +166,28 @@ Derivative of the nature of [[The Hands as Chalk#Spontaneous Equations|spontaneo
 	These minds tend to emerge at locales of high calcic activity, particular noteworthy are areas where large amounts of chalk were used offensively, such as old battlefields, abandoned settlements, crash sites for ships etc. Typically, where there were once minds, emergent minds arise in their wake.
 
 An object or collection of objects are 'possessed' with the emergent mind to grant them a body, curiously knowing innately that they require limbs capable of manipulation and locomotion. Most noteworthy however, is their primal nature as beings that were once ordinary chalk not long before; they possess an ability to manipulate chalk ribbon and weave with startling proficiency, granting them abilities that could be seen as approaching 'psychic'.
+
+### On Transitioning in the Verse
+A long while ago, I and the good doctor - while working on an earlier iteration of this document as well as [[The Fel-Arcad|Fel-Arcad]] document, discussed the intricacies of someone being transgender in the Switchboard. As Hex asked for an I agreed with, we wanted to approach the entire affair with a deserved amount of delicacy and empathy as it relates to the real state of transgender individuals in our world.
+
+One of the good doctor's points was talking about how the physiological consequences of chalk - as they were established at the time and remain mostly the same now - was that of a deep simplicity surrounding the affairs of body modification. It was simply incredibly easy to change the shape of the self towards one's own ends, meaning that if one desired to undergo any kind of gender-affirming bodily modifications in the Switchboard, it was fairly simple to do so.
+
+It thus made 'being transgender' in the Switchboard - outside of the social and cultural hang-ups about the entire affair - a holistically more tolerable affair.
+
+There was a sort of throwaway point - almost that the doctor made about the affair being *too* simple, and that this would be less than ideal in how it contrasts the real-world difficulties surrounding being transgender. I cannot find the doctor's exact words from that time, nor mine, but I will expand on that thought using my own logics. The gripe that one might have with it being easy is that it is made less *meaningful*; that something that colors the totality of a person could be reduced, in-canon, to something thoroughly commonplace to satisfactorily resolve.
+
+As one who seeks to create narrative, I saw an opportunity in this to make use of existing mechanics in the verse to somewhat reduce the 'simplicity' of the affair, creating - if not narratively-useful character ambitions and conflict - then at least fertile ground for those things to emerge.
+
+The idea is simple. The various bits described under '**On Shape**' allow for deep alteration of one's gender presentation, and thus appearing as who or whatever one desires. One may also ask to be addressed in a certain manner as well, reflective of that desired presentation, and wholly similar to how it is done in our own world.
+
+But the final step - in a sense - of what constitutes transitioning in the Switchboard, requires carrying out a relatively small [[Chalk Ritualism#Structural Casting|Structural Cast]]. The function of this cast is to revise one's own **Astrolabic ledger**, with the aim of altering the information within and thus, altering the nature of one's information, and by extension, the distortions in space created by the patterns *within* that information. All who view the transitioning subject via [[The Hands as Chalk#Weavesight|Weavesight]] will come to understand how they present as more than merely wearing a shape, but *being* that shape, in a manner indistinguishable from those in the Switchboard who bore that shape from birth.
+
+The equivalent in our world would be rebuilding one's cellular makeup in a form identical to that of a desired sex, on the Switchboard's goes deeper than that, just about approaching the ontological level.
+
+Considering the demands that Structural Casts make of their aspiring casters, I feel it achieves the aims I set out to accomplish; providing an avenue for those in the verse to be what they are convicted of truly being, while making the road to get there narratively satisfying to observe.
+
+> As a final note, this does in fact mean that, in a sense, preferred pronouns are transmitted via distortions in space - a deeply hilarious mental picture. On a colder note though, it does mean that those who still come to despise those who've undergone this cast, and choose instead to refer to them by who they once were and not who they now are, are deeply unsavory people.
+
+> A more proper name for this specific ritual casting is needed. In this moment, I am somewhat enamored by Caves of Qud's [Ritual of -Elseing](https://wiki.cavesofqud.com/wiki/If,_Then,_Else), which I believe I can somewhat adapt to my intentions.
+> 
+> The canon history behind this ritual could use development as well. I see the Fel-Arcad being responsible above all, being the bearers of the Nadiran philosophies and current custodians of the Astrolabe via the Brass Monastery.

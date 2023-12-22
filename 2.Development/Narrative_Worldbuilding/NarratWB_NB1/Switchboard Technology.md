@@ -47,7 +47,7 @@ As mentioned in the preamble, we are only discussing three of the five spheres t
 The Strider protocol facilitates traversing considerably long distances extremely quickly. However, due to the constraint of the [[The Strider Protocol#Before the Stride 3 - Launch Threshold|launch threshold]] - the necessity that the accumulated chalk of a Strider be enough, when flared, to exceed the information mass of all things on their person - the Strider Protocol has two major limitations;
 
 - Because the information mass of a Strider rapidly increases based on the number of things on their person; the Strider Protocol cannot be used to move objects or ferry cargo.
-- Because meeting the launch threshold is sufficient enough to accelerate the Strider to a considerable fraction of light-speed - a speed very difficult to decelerate from reasonably - the Strider Protocol cannot be used to go short distances. Further reading can be found under [[The Strider Protocol#Before the Stride 4 - Distance Constraints|distance constraints]].
+- Because meeting the launch threshold is sufficient enough to accelerate the Strider to ludicrous speeds - and are thus very difficult to decelerate from reasonably - the Strider Protocol cannot be used to go short distances. Further reading can be found under [[The Strider Protocol#Before the Stride 4 - Distance Constraints|distance constraints]].
 
 The Strider Protocol is very much a means for a Strider and their bare essentials that make their person to traverse the Switchboard. As such, the SProt does not make other forms of transportation obsolete.
 
@@ -73,7 +73,7 @@ The most common means of moving within a region-side settlement, containing the 
 
 #### Types of Transportation - Air
 ##### 1. Working Title: The Personal 'Jumpship'
-The most popular form of Strider transportation is the personal jumpship. These are chalk-dependent, ritual-powered near-light-speed capable craft designed and built with reliability, personalization, speed and utility in mind, aiming to be a vehicle that serves a multitude of functions for Striders, from a leisurely alternative to Striding to a last resort when Striding is no longer possible. A hauler of cargo as well as a formidable mobile weapons platform, an unmatched bridge between one place and another, as well as a home-away-from-home for Striders on protracted jaunts across the Cradles.
+The most popular form of Strider transportation is the personal jumpship. These are chalk-dependent, ritual-powered near-stride-speed capable craft designed and built with reliability, personalization, speed and utility in mind, aiming to be a vehicle that serves a multitude of functions for Striders, from a leisurely alternative to Striding to a last resort when Striding is no longer possible. A hauler of cargo as well as a formidable mobile weapons platform, an unmatched bridge between one place and another, as well as a home-away-from-home for Striders on protracted jaunts across the Cradles.
 
 Variance in the design of jumpships is equal to that of the variance between individual Striders themselves, though many stick to some elementary design principles; able to seat two to six passengers, able to carry considerable amounts of cargo, able to navigate the skies of regions as well as the greater Switchboard Sky, outfitted with various offensive and defensive measures and boasting - most of all - a considerable amount of 'aftermarket' modularity and customization. 
 

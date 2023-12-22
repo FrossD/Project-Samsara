@@ -1,4 +1,6 @@
 # Glass
+> Glass 4.0 inbound. 
+
 Glass is a physical phenomena in the Switchboard that manifests as jagged, crystalline translucent solid that passively diffracts light passing through it, giving it the appearance of brilliant-cut gemstones - particularly diamond. It originates from the Vitric Shelf above the Switchboard, and while little about it is understood, what *is* understood is the manner in which it interacts with chalk.
 
 Glass' most noteworthy property is that chalk cannot abide it. It is caustic to chalk in all forms. Dust chalk outrightly explodes in its presence. Crystalline chalk loses all structural integrity, collapsing in upon itself. Ribbon chalk in particular, is destroyed utterly under the influence of Glass. It catches and frays it, ripping, tearing and gouging into it, shredding it by mere contact. Lattices upon contact with Glass, aren't so much unwound as they are turned to tatters. And the Glass then parasitically feeds upon the Chalk it consumes, using it to propagate more of itself. A single sliver of Glass can devour swathes of Chalk, replacing an entire landscape with chromatic, crystalline juts of lacerating negentropy.  ^cfe87b

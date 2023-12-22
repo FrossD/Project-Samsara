@@ -16,6 +16,5 @@
 - [[DT.Expansion_Tracker]]
 
 ****
-**Samsara**
 > "*From beyond the Veils comes she of flight, war and fanfare. Her, the star-child, nomad-zealot, part-shattered by encroaching vitric. She sings "Hear, hear, return to the ways of your ancestor-kin. Return to the ways of the Dancers of the Sky.*"
 - Kei Vollerei, Skydancer Apostolic

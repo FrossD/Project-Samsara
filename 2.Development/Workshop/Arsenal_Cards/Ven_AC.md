@@ -238,16 +238,16 @@ Axle: Tek | Trajectory Calculator
 	Ventura declares a site of ritual geometry, expanding outwards under his will. He expends components, notably scintillate and pure, sharp glass from the Vitric Shelf, and concocts a single round, filled with honed glass. Targets struck by this round will have their lattices invaded, consumed and subjugated by the wicked, lacerating, simplifying wrath of glass.
 
 ## T5 - Flash Protocol
-**Sojourner's Summit** - Flash Weave - Cado, Brch
+**Sojourner's Summit** - Weave Burst - Cado, Brch
 *"Never forget where you came from. You will need that for the road ahead."*
 	Ventura summons forth his strength gifted to him as descendant-kin of the storied Danseers, his focus honed over a thousand sojourns and ten thousand battles, and his command of chalk that sees the realization of dreams into reality - and conjures forth a restrained salvo of massively destructive hyperweave bolts. With a gesture he can launch individual charges or the full salvo, which travel at near-instantaneous speed to wherever he directs them and - upon arrival - detonate with magnificent calcic force. Forgoing all higher intricacies of chalkweaving, Ventura embraces the purest aspects under the discipline; immense power and uncanny control. 
 
-**Danseerform** - Lattice Overclock
+**Danseerform** - Lattice Burn
 Axle: Martial Arm | Noblesse Oblige
 *"Conferred upon all are wings. I have seen where yours have taken you. Let me show you where mine have taken me."*
 	From the depth of his straits, Ventura summons forth his pride as a descendant of the Danseers, those who dominated the Switchboard through their power of hallowed flight. Expending the Flash Charge, his mastery of his birthright that is the Strider Protocol crystallizes into being as concentric halos over his back, and the entirety of his lattice is unspun and rewound into a higher form. In this **Danseerform**, Ventura is granted **perfect Graceflight**, as well as **supremely enhanced speed and strength, as well as durability**, allowing him to wield weaponry - in this case, his praxlance - with hallowed proficiency, while being able to shrug off the strongest storms the Dancirah can conjure. 
 
-**Reveler Rounds** - Flash Weave - Cado, Brch, Prax
+**Reveler Rounds** - Weave Burst - Cado, Brch, Prax
 Axle: Firearm | Sojourner's Tale
 Axle: Axle: Relic Feat | The Sojourner's Tale
 *"To live is to risk everything. Once I found it terrifying. Now, I still do, but I have come to take pleasure from it."*

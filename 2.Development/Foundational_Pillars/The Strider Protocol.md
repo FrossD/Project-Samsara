@@ -2,7 +2,7 @@
 Out there in the Great Sky, streaks of white pierce the enveloping void. Region to region, Vault to Vault, past stars, to Wellsprings, into the horizon, into flux storms, from fleets, to the edges of space. The Strider is a being that has learned what it truly means to move, and the Strider Protocol is what facilitates it.
 
 ## What is the Strider Protocol?
-The Strider Protocol is a pivotal mechanic in the Switchboard, and a power possessed by many of its denizens. At its basest, the Strider Protocol is chalk equation that has been elevated to protocol-level power, meaning that it has been directly created or altered by the Astrolabe to go beyond the bounds of what it traditionally is. Being an equation, it has the power to fold chalk to produce results, in this case velocity. Being a protocol-level equation however, the nature of it is made transcendent, and this equation can fold chalk to produce ludicrous velocities that approach even lightspeed. This power is conferred upon the lattice of those blessed in the Switchboard, and they are gifted the ability to cross titanic stellar distances in mere seconds. 
+The Strider Protocol is a pivotal mechanic in the Switchboard, and a power possessed by many of its denizens. At its basest, the Strider Protocol is chalk equation that has been elevated to protocol-level power, meaning that it has been directly created or altered by the Astrolabe to go beyond the bounds of what it traditionally is. Being an equation, it has the power to fold chalk to produce results, in this case velocity. Being a protocol-level equation however, the nature of it is made transcendent, and this equation can fold chalk to produce truly ludicrous velocities. This power is conferred upon the lattice of those blessed in the Switchboard, and they are gifted the ability to cross titanic stellar distances in mere seconds. 
 
 ## Origin
 In one of the Astrolabes great resolutions of its calculus - following the First Praxis War to be precise - the Strider Protocol arose alongside the Weave Protocol, the nine astrolabic regions, and the third generation of thinking weave, that would come to be known as the Third Kin. Some of the Third Kin wielded the Strider Protocol, and this allowed them to traverse huge swathes of the Switchboard even from when they newly arose.
@@ -17,7 +17,7 @@ Both then and now, the Strider Protocol was a power unrivalled in what it offere
 A discussion of the mechanics of the Strider Protocol. It will be discussed step by step, beginning with the actions before commencing the stride, the stride itself, and then actions following the end of the stride.
 
 ### The Stride
-With the Strider Protocol being an equation, it is thus stored in the computational strait. When ready to stride, chalk is passed from the potential strait to the computational, where it is subjected to the **stride equation**, rapidly converting the chalk to velocity. This velocity is stored and built up, much like compressing a spring, before it is output through the interface strait as a sudden explosive release of pure momentum. Dependent on a litany of factors, this is enough to accelerate the Strider from rest to upwards of 0.85 times the speed of light. 
+With the Strider Protocol being an equation, it is thus stored in the computational strait. When ready to stride, chalk is passed from the potential strait to the computational, where it is subjected to the **stride equation**, rapidly converting the chalk to velocity. This velocity is stored and built up, much like compressing a spring, before it is output through the interface strait as a sudden explosive release of pure momentum. Dependent on a litany of factors, this is enough to accelerate the Strider from rest to speeds capable of crossing the inter-planetary gaps in seconds.
 
 Once a Strider has launched, they begin decelerating fairly quickly, the decay curve showing a swift plummet in how fast they are moving. While this is the case, Striders can still cover considerable distance across the the Dancirah.
 
@@ -26,7 +26,7 @@ Speaking on the relationship between velocity, distance and chalk accumulation, 
 ### Before the Stride 4 - Distance Constraints
 Before even considering beginning striding, a Strider must deduce if the target destination is within the supposed '**goldilocks zone**' of their stride's range.
 
-The Strider Protocol accelerates Striders considerably close to lightspeed. While these ludicrous velocities are the crux of why the stride is so useful, it presents the additional issue of the kinds of distances a Strider is able to cover with the stride. The Strider Protocol is very well suited for long distances, because upon arrival at the destination, enough velocity would have decayed to allow for safe and precise landing. Over relatively short distances, the stride velocity doesn't begin decaying fast enough to allow shedding most of a Strider's speed before attempting touchdown on a destination. 
+The Strider Protocol accelerates Striders to ludicrous velocities. While these velocities are the crux of why the stride is so useful, it presents the additional issue of the kinds of distances a Strider is able to cover with the stride. The Strider Protocol is very well suited for long distances, because upon arrival at the destination, enough velocity would have decayed to allow for safe and precise landing. Over relatively short distances, the stride velocity doesn't begin decaying fast enough to allow shedding most of a Strider's speed before attempting touchdown on a destination. 
 
 The chalk that must be accumulated to overcome the **launch threshold** (elaborated upon further) is simultaneously enough to accelerate Striders to these immense velocities. Without possessing some of the highest skill-levels exhibited by Striders in the act, it is generally good sense to not attempt to stride relatively short distances.
 
@@ -135,10 +135,10 @@ Shalkarah Skydance, King of Roads, is said to be the one who watches over Stride
 
 For some, the Initiate Fly is less so a divine action and more a physiological one. An act is given meaning through repetition, and this repetition builds association. A Strider tying their shoelaces right before every stride has made it habit, and this in turn may induce a tangible mental and physical shift in their lattice, orienting themselves to perform the task at hand. 
 
-It is a gesture to enter 'striding mode', as it were, and for many, the Initiate Fly - most simply summarized - is a ritualistic gesture that induces focus; something very welcome before undertaking a space-crossing jump at near-light-speed.
+It is a gesture to enter 'striding mode', as it were, and for many, the Initiate Fly - most simply summarized - is a ritualistic gesture that induces focus; something very welcome before undertaking a space-crossing jump at incredible speed.
 
 ### The Stride - Bubble-skating
-One of the many quirks of the stride is that, once launched a trajectory, a Strider is unable to meaningfully alter that trajectory midflight. While skilled Striders are able to make minor adjustments midflight by flaring their velocity in a direction, vectors come into play, and the resultant of near-light-speed movement in one direction, and a slight nudge in another one, is nigh negligible. Considering that the path between origin and destination is often never a straight line, it raises the question of how Striders are meant to turn in flight.
+One of the many quirks of the stride is that, once launched a trajectory, a Strider is unable to meaningfully alter that trajectory midflight. While skilled Striders are able to make minor adjustments midflight by flaring their velocity in a direction, vectors come into play, and the resultant of immense movement in one direction, and a slight nudge in another one, is nigh negligible. Considering that the path between origin and destination is often never a straight line, it raises the question of how Striders are meant to turn in flight.
 
 The answer to this is a striding technique known as **bubble-skating**. It functions by using the gravitational pull of celestial objects to divert the path of a Strider midflight. By charting a route before-hand, Striders can plan to hit certain objects in flight, be caught in their gravitational pulls, and use this to 'swing' around the body. By approaching with linear momentum, making a partial gravity-assisted revolution - converting linear momentum to angular - and then back to linear at the apex of the swing, they can launch away from the body on a new trajectory. 
 
@@ -168,7 +168,7 @@ In the modern era, Striders train themselves in skydancing, in a bid to hone the
 ### After the Stride - Arrival Maneuvers
 Upon approaching the target destination, Striders must begin execution of the **arrival maneuvers**. These are a set of skills that allow Striders to transition from flight to descent, and then to safe landing on a target destination.
 
-By the time Striders approach their destination, they are often still moving at a non-trivial fraction of light-speed. Should they attempt to land at this speed, they will crash like a meteor on the surface of - say, a region. Because of this, Striders need to lose as much velocity as possible before attempting a descent to the region below.
+By the time Striders approach their destination, they are often still moving at incredible speeds. Should they attempt to land at this speed, they will crash like a meteor on the surface of - say, a region. Because of this, Striders need to lose as much velocity as possible before attempting a descent to the region below.
 
 One such means of doing this, used by those who aren't particularly skilled at striding, is expending the rest of their velocity by going into highspeed orbit around the region while flaring chalk to counteract their forward momentum, inducing drag and slowing them down. When on the last dregs of their available velocity, they break from orbit and begin their descent, feet-first, flaring chalk as they do to begin a **retrograde burn**. With sufficiently-accurate calculations, even an unskilled Strider can expend the last of their available velocity right as they make touchdown on a region. 
 
@@ -190,7 +190,7 @@ The Graceflight describes an immensely controlled form of striding that more clo
 
 This allows for the Strider to perform a stationary 'hover' in mid-air. To actually begin movement - flying - they must subtly deflect the resultant of the triangle of forces that is the flaring velocities in a direction. The difficulty is one of control. Altering the rate of flaring is much like opening the aperture of a camera, and achieving a fine balance of light infiltration - to avoid a photo that's either too dark or washed out - is an exercise in delicacy. 
 
-Opening the aperture just enough to allow movement in a direction, but not enough to release the bottled velocities that are able to accelerate a Strider to fractions of light-speed; this is the crux of the difficulty of the Graceflight. 
+Opening the aperture just enough to allow movement in a direction, but not enough to release the bottled velocities that are able to accelerate a Strider to the stride-speed; this is the crux of the difficulty of the Graceflight. 
 
 That is not to say it hasn't been performed. The Skydancers of old, particularly Shalkarah and his pantheon, were known to simply drift above battlefields, laying waste to opposing forces during the Praxis Conflicts. They are lauded as some of the most skilled and powerful wielders of chalk in all the Dancirah past and present, however, and achieving the lofty heights they did as to be able to gracefly under their own power is a goal out of reach.
 
@@ -219,3 +219,28 @@ It was not long before a sort of 'Doctrine of Striding' formed, a title which so
 The mythos cultivated around the Strider Protocol and the Striders who wielded it persisted even well into the modern era. Gifted the power of flight and blessed with the ability to invoke hallowed velocities and perform incalculable chalkweaving, Striders cultivated an aura of omnipresence and immense potency around them. Seeing the Skydancers and the Danseers of their day hovering above others, weapons in hand, ready to charge off to distant battlefields, fighting to secure a Switchboard - a future - for the Third Kin, inspired an aura of divinity around them. It cultivated a sense of transcendence, that saw the Skydancer's deification to the pantheon worshipped by the Sil'khan, and lauded by many as the greatest beings to ever walk the Dancirah.
 
 It did not help that the Skydancers and the Danseers, those who even among the strongest Striders, were numbered few, were said to possess circlets above their heads. Rings, halos, pointed crowns and tiaras of pure chalk, that marked them as beyond conventional notion. And it did not help that even with the death of the Danseers, there are those who's feats seem to prompt these deific halos to emerge once again.
+
+## "What is the Speed of the Strider Protocol?"
+In initial models of Samsara's mechanics, the Strider Protocol travelled at 'fractions of the speed of light'. This proved to be problematic because;
+
+- The Samsara universe has no electromagnetism, and as such doesn't have a 'speed of light' as it doesn't... have light.
+
+- Even moving at the speed of light, inter*planetary* distances still take considerable time to cross - light takes 4.6 hours to travel just from Earth to Pluto - a distance well within Sol. Considering the vision of Samsara is one with plots that take place at an interstellar scale, a Strider Protocol moving at lightspeed simply wouldn't cut it.
+
+Fortunately;
+
+- Without electromagnetism and thus light, we have none of the various physics issues that come with moving close to - or beyond - lightspeed.
+
+As such, the Strider Protocol's velocity can simply be any arbitrary number I choose. My vision is that the Stride allows travelling between planets in mere seconds, and between stars in maybe minutes. This is simply, *ludicrously* fast.
+
+As such, with the velocity of the Stride being so terribly arbitrary, why bother assigning a number at all?
+
+The simplest answer is that the Strider Protocol enables ['traveling at the Speed of Plot'](https://tvtropes.org/pmwiki/pmwiki.php/Main/TravelingAtTheSpeedOfPlot). 
+
+Plot-speed is an amazing thing. Moving at plot-speed, the various users of the Strider Protocol arrive exactly when I need them too. Not too early, or too late; always on time.
+
+And that's the end of that.
+
+> As an appendum, there are times where I will allude to something moving at 'stride-speed' or 'near-stride-speed'. Considering that the Stride moves at plot-speed, anything moving slower than it moves at slower-than-plot-speed. Interestingly enough, this is still plot-speed in itself, and as such, anything travelling at near-plot-speed is also arriving exactly when I need it to. 
+> 
+> What it *does* mean, however, is that in a straight race between something moving at Stride Speed and near-Stride Speed, the former arrives first. So long as the logical consistency of things written to be slower than Striders always arrive later than Striders, then all truly necessary requirements for internal coherence are achieved.

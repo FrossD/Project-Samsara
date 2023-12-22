@@ -159,14 +159,16 @@ Assuming the following problems are fixed;
 	- Glass momentum.
 
 Then we can revise the following docs according;
-[[Switchboard Technology]]
+- [ ] [[Switchboard Technology]]
 - The section on electricity and power generation gets updated into a more generic-appearing but far more canon-compliant **Power Generation, Distribution and Utilization**.
 	- Under **Generation**, we describe the various sources of chalk that exist in the Switchboard and how they are harnessed on an industrial scale.
 	- Under **Distribution**, we describe how hyperweave is used to move ultra-dense chalk over long distances, and how - by some mechanism - it becomes heat at various distribution substations, that in turn move it through various solid media.
 	- Under **Utilization**, we describe how appliances in the Switchboard harness the negentropic ability of glass to reverse entropy and turn heat into motion, serving as the basis for the functioning of many of the Switchboard's appliances.
 		- We also discuss the narrative or in-universe consequences that arise from something as destructive as glass being essential for day-to-day operation within the Switchboard.
 
-[[Glass]]
+> This update is dependent upon the rectification of Hyperweave.
+
+- [ ] [[Glass]]
 - **Glass 4.0**; which will primarily be a revision that discusses;
 	- How glass propagates through negentropic reactions.
 	- How glass reverses entropy and thus this gives it various applications.
@@ -178,15 +180,19 @@ Then we can revise the following docs according;
 	- Devise a 'language of glass' to replace and account for the nature of glass as something that *simplifies* and *perfects* rather than destroys.
 - What did Hex mean by 'reverse time'?; https://discord.com/channels/@me/886763578722500668/1179987636019023882
 
-[[Communications and Compute]]
-- Glasswire needs a mechanical revision.
+- [ ] [[Communications and Compute]]
+- Glasswire needs a mechanical revision due to changes in the mechanics of Glass.
 
-[[Calcodynamics]]
+- [x] [[Calcodynamics]]
 - This doc will simply be complete at all, and many of its sections will be linked into other docs to explain how the foundational mechanics outlined here are used and built upon elsewhere. Examples of such are;
-	- Inductive weave explaining **Inductive Damage** in  [[On Weave and Warfare]]
-	- Property weaves being used in [[Chalk Ritualism]]
+	- [x] Inductive weave explaining **Inductive Damage** in  [[On Weave and Warfare]]
+	- [x] Property weaves being used in [[Chalk Ritualism]]
+
+- [ ] **Hyperweave** - under [[The Hands as Chalk]]
+- Underlying mechanic need a second pass.
+
+- [x] [[Calcodynamics]]
+Hex's Proposal on Light;
+- Light is an inductive weave that transmits color information. It is easily blocked by even thin boundaries, and without quantum mechanics there are no lasers to prevent it from dispersing. Its usage as communication is therefore limited to the scale of, say, binary code transmission via the mirrors and lamps of a lighthouse. Light is produced by specific materials - you can decide which - and obeys the simple laws of geometric optics, which means it allows for things like lenses.
 
 - Far more to come regarding harnessing the mechanics developed here to solve the larger encryption and currency problem that exists within the canon.
-
-**Hyperweave** - under [[The Hands as Chalk]]
-- Underlying mechanic need a second pass.

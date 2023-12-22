@@ -18,32 +18,34 @@
     "2023/11/12": 340,
     "2023/11/13": 4,
     "2023/11/14": 1440,
-    "2023/11/15": 3317
+    "2023/11/15": 3317,
+    "2023/11/17": 366,
+    "2023/11/18": 0,
+    "2023/11/19": 2000,
+    "2023/11/20": 2101,
+    "2023/11/21": 419,
+    "2023/11/22": 525
   },
   "todaysWordCount": {
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/The EPIT.md": {
-      "initial": 2467,
-      "current": 2466
+    "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md": {
+      "initial": 2491,
+      "current": 2844
     },
-    "2.Development/Narrative_Worldbuilding/DT.Thought_Synthesis_Tracker.md": {
-      "initial": 0,
-      "current": 1352
+    "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md": {
+      "initial": 3190,
+      "current": 3194
     },
-    "2.Development/Narrative_Worldbuilding/DT.Thought_Tracker.md": {
-      "initial": 1351,
-      "current": 1351
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Chalk Ritualism.md": {
+      "initial": 8446,
+      "current": 8577
     },
-    "1.TL_Board/Meta/Home.md": {
-      "initial": 83,
-      "current": 85
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md": {
+      "initial": 32708,
+      "current": 32741
     },
-    "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md": {
-      "initial": 1351,
-      "current": 3314
-    },
-    "2.Development/Mechanical_Pillars/The Mysticism.md": {
-      "initial": 1820,
-      "current": 1820
+    "2.Development/Mechanical_Pillars/Glass.md": {
+      "initial": 2271,
+      "current": 2275
     }
   }
 }

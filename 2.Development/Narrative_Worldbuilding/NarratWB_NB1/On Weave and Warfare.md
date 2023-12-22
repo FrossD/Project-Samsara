@@ -33,45 +33,64 @@ Lattice 'thickness' varies in distribution across a Strider's body, and striking
 
 > "And so did the First Dancers of the Great Sky grasp that for a brief moment, they too could shine like the life-giving Law Stars, and within those windows of cosmic divinity, they could take hold of the Current, and wrench from it a tomorrow skewed to their ideals."
 
-The blessing that is the Flash Protocol, conferred upon Striders allows them to surpass limits, to cheat - as it were - in their chalkweaving. By using the power of the stride equation, they are able ramrod complex patterns through the computation required to realize them as weave, and through expending massive amounts of chalk, they are able to shine as bright as stars, and execute a dimension of chalkweaving that escapes even the strongest, the most skilled, weavers.
+The blessing that is the Flash Protocol, conferred upon Striders allows them to surpass limits, to cheat - as it were - in their chalkweaving. By using the power of the stride equation, they are able ramrod complex patterns through the computation required to realize them as weave, and through expending massive amounts of chalk, they are able to shine as bright as stars, and execute a dimension of chalkweaving that escapes even the strongest and most skilled weavers.
 
 Primarily, the Flash Protocol is used in combat; few other scenarios demand so cataclysmic a display of power. The nuances of this usage are seen in three major forms, depending on the pattern of the Flash the Strider means to execute;
 
-- **Physical Overclock**; a massive augment to the Strider's base physical abilities, allowing them to vastly exceed the constraints of the body as well as massively augment the power of their physical weapons. In addition to merely buffing speed and strength, it augments finer skills such as dexterity and nimbleness, and other qualities such as eyesight, granting a boost to Striders using ranged weapons. This ability, simply put, overclocks the lattice of the caster.
+- **Flash Output: Lattice**; a massive numerical augmentation of the Strider's base physical abilities, allowing them to vastly exceed the constraints of their physical form. In addition to buffing more crude physical metrics such as speed and strength, it enhances finer skills such as dexterity and agility, and other lattice-dependent features such as eyesight. In addition to the above, it further accelerates the operation of the Five Straits, granting cross-board enhancements to any and all things that depend on them. **Latflashing** leads to a general enhancement in the usage of mundane weapons - martial and firearms - as well as enhancements to durability and regeneration.
 
-- **Weave Overclock**; a massive augment to the Strider's weaving abilities. It grants the power to supercharge a Strider's 'Weave Powers', increasing the potency of their highest-uptime, most versatile calcic abilities. This ability functions by overclocking the Weave Protocol.
+> Various brands of RUtek or **Reverse Unravelling Technique** require subjects sufficient in flashing the lattice.
 
-- **Flashcharge**; outputs a massive amount of power to a singular component of the Strider's arsenal, to make a singular, decisive cast. Allows for massively enhancing the effectiveness of a Tek, relic, a combat ritual, titular power, or artifact power. Most high-level Striders choose to use their flashcharge - '**using their flash**' - as the sheer power of their Teks and relics enhanced multiple fold does far more damage than merely augmenting their physical or base weaving abilities. Particularly skilled Striders can supercharge multiple components of their arsenal, such as multiple relics, multiple Teks, or a Tek and a relic. 
+- **Flash Output: Weave**; a means of utilizing the Flash Protocol that allows a caster to perform a complicated bit of chalkweaving nigh effortlessly. Erecting the parameters of an equation and compelling it to evolve via copious suffusions of chalk allows for shaping chalk into complex weave in an instant. Typically however, in exchange for realizing a complex feat of chalkweaving, the result of the weaving bears considerable strength, but lacks stability, and thus dissipates after a time or a number of uses. This is typically described as **flashweaving**, describing the means of using the Flash Protocol to use it, the speed at which it is done, and the quickness with which the result resolves itself.
 
-The Physical and Weave Overclocks can be used as both a **burst flash** and a **sustained flash**. Burst flashes grant the entire power boost spread over very short time, allowing only a few seconds of decisive action. The sustained flash grants the '**flash state**', and serves as a passive but long term boost to the Strider's abilities. The flashcharge can only be burst flashed. 
+- **Flash Output: Charge**; the power of the Flash Protocol is output into a target that isn't the subject themselves, such as a weapon or Tek of theirs, with the aim of making a single, decisive action. It allows for massively increasing the effectiveness of the target; a Tek, relic, ritual, titular power, esoterica power, the like. To receive the overwhelming power of the Flash Protocol - or to be able to be **flashcharged** as one might put it - requires a level of 'soundness' of the target itself, as well as a predetermined manner by which the power of the Flash Protocol will be used. In a sense, an outlet for the Flash's power must exist before the subject undergoes the flashcharging, otherwise one runs the risk of uncorking raw calcic force.
 
-One common usage of the Ribbon Overclock in particular is **Flash-Woven Armament**, the ability to cast the Flash Protocol and expend it in weaving immensely complex, proportionally powerful woven weaponry that can be used for a handful of devastating attacks before resolving back into chalk.
+> As a flavor note, many high-level fighters in the Switchboard primarily make use of their Flash Protocol through flashcharging some other component of their arsenal, as this yields far more raw benefit than enhancing physical form or weave capabilities. Additionally, one can have multiple ways they can flashcharge one component of their arsenal, or multiple components, each with different ways of being flashcharged.
 
-**Terms**
-- Burst Physical Overclock: **Flash Strike**
-- Sustained Physical Overclock: **Lattice Overclock**
-- Burst Weave Overclock: **Flash Weave**
-- Sustained Weave Overclock: **Ribbon Overclock**
-- **Flashcharging**
+Adding to Latflashing and Flashweaving above, they can also expend the Flash through **burning** or **bursting**. Burst-flashes expend the entirety of the Flash Protocol's power in one fell swoop, surging mightily forward, glowing like a star, and then cooling off as fast as it began. Burn-flashes expend the power of the Flash over a longer duration, granting one greater control over the efficacy of the Flash, serving as a long-term boost to the caster's abilities. The 'Burn' modes of the abilities allow for entering a '**flash state**', which denotes the time period that a flash is burning.
+
+Linguistically, any kind of usage of the Flash Protocol whatsoever is commonly described as simply '**using the/their flash**' by the Switchboard's many denizens.
+
+With that outlined, the means of using the Flash Protocol are;
+**D1**
+- Latflash Burst
+- Latflash Burn
+- Flashweave Burst
+- Flashweave Burn
+- Flashcharge
+
+**D2**
+- Lattice Burst
+- Lattice Burn
+- Weave Burst
+- Weave Burn
+- Flashcharge
+
+**D3**
+- LT-Burst
+- LT-Burn
+- WV-Burst
+- WV-Burn
+- Flashcharge
 
 > **Further notes on inspiration**;
-> The Flash Protocol, going full mask-off, is effectively a super ability. An ultimate move, z-move, final smash, whatever you want to call it. Primarily it is inspired by Destiny 2's super abilities, of which there are primarily two types; burst supers and 'roaming' supers.
+> The Flash Protocol, going full mask-off, is effectively a super ability. An ultimate move, z-move, final smash, whatever you want to call it. Primarily it is inspired by Destiny 2's super abilities, of which there are primarily two types; **burst** supers and '**roaming**' supers.
 > 
 > Burst supers function by burning your 'supercharge' in one fell swoop. You cast the ability and it resolves, such as throwing a black hole (Nova Bomb) or a freezing tornado (Silence & Squall). Roaming supers place the caster in a 'state' in which they obtain a 'super shield' (functionally an increase to damage resistance) and empower their attacks often by summoning a weapon (Arcstaff summons a quarterstaff made of lightning, Daybreak summons a flaming sword, Sentinel Shield summons an enemy-devouring shield etc.)
 > 
-> How this transitions to Samsara is that roaming supers take the form of **Lattice Overclock** and **Ribbon Overclock** abilities. In this, a Strider expends their flashcharge on a sustained cast, which by design, summons something that persists for an amount of time that the caster is able to use. A ribbon overclock could be summoning a powerful weapon to make devastating attacks, while a lattice overclock, which empowers physical abilities, would see exponential boosts to those.
+> How this transitions to Samsara is that roaming supers take the form of **Latflash Burn** and **Flashweave Burn** abilities. In this, a Strider expends their flashcharge on a sustained cast, which by design, summons something that persists for an amount of time that the caster is able to use. A Flashweave Burn could be summoning a powerful weapon to make devastating attacks, while a Latflash Burn, which empowers physical abilities, would see exponential boosts to those.
 > 
-> **Flash Strikes** and **Flash Weaves** are the burst super equivalents. All the power of the flashcharge is expended in a single strike or a very brief moment. Flash Weave often involves spinning a weapon from ribbon that is immensely powerful, but only persists for a single, or a couple of actions. Similar for a Flash Strike. That isn't to say that the **effects** of these casts do not linger in the environment for an amount of time.
+> **Latflash Burst**s and **Flashweave Bursts** are the burst super equivalents. All the power of the Flash Protocol is expended in a single strike or a very brief moment. Flashweave Bursts often involves spinning a weapon from ribbon that is immensely powerful, but only persists for a single, or a couple of actions. Similar for a Latflash Burst. That isn't to say that the **effects** of these casts do not linger in the environment for an amount of time.
 > 
 > **Flashcharging** a part of the arsenal is a fairly more original idea. The power of the flashcharge is expended in a weapon, power, rituals etc. 
 
 There is a fair amount of debate among field Striders on what is the most effective way to expend a flashcharge once one is ready. Most of the discourse results from the fact most field Striders cultivate fighting styles that naturally include how they use the flashcharge, and so are naturally inclined towards declaring their methods as superior. The more nuanced take however, is that it is fairly dependent on target and caster.
 
-For one, many feel that the Lattice Overclock and Flash Strike are the weakest means of utilizing the flashcharge. Unless you are fighting [[The EPIT#The Shattered|Shattered]], in which case calcic alternatives and abilities would be useless. The Lattice Overlock as well does present the problem of a target having to engage with an opponent that is moving faster, hitting harder, and taking more hits... at absolute minimum. So long as it is a physical ability, the Lattice Overclock can rapidly enhance it, meaning a caster of it could improve hand-eye coordination to enhance firearm accuracy, or reflexes to dodge fast-moving projectiles. 
+For one, many feel that the LT-Burn and LT-Burst are the weakest means of utilizing the flashcharge. Unless you are fighting [[The EPIT#The Shattered|Shattered]], in which case calcic alternatives and abilities would be useless. The LT-Burn as well does present the problem of a target having to engage with an opponent that is moving faster, hitting harder, and taking more hits... at absolute minimum. So long as it is a physical ability - or better put, dependent on the baseline functions of the lattice, the LT-Burn can rapidly enhance it, meaning a caster of it could improve hand-eye coordination to enhance firearm accuracy, or reflexes to dodge fast-moving projectiles. The fact it can enhance or accelerate the functions of the Five Straits provides a litany of benefits for the caster, and those who bear Reverse Unravelling Techniques can recover rapidly from damaged sustained before flashing and become nigh-unkillable during it.
 
-That all being said, the sheer versatility and power output of calcic powers ensures that they remain steadily on top, and all Striders of some repute make it a point to have some means of expending their flashcharge towards calcic ends. Striders able to constantly maintain a 'low power' version of the Flash State typically do so in Ribbon Overclock 'mode', and have all their calcic abilities (weave powers et al.) empowered while partnered with new ones.
+That all being said, the sheer versatility and power output of calcic powers ensures that they remain steadily on top, and all Striders of some repute make it a point to have some means of expending their flashcharge towards calcic ends. Striders able to constantly maintain a 'low power' version of the Flash State typically do so in WV-Burn 'mode', and have all their calcic abilities (weave powers et al.) empowered while partnered with new ones. This is particularly made possible by those who are proficient with the fundamentals of Flashing in general; that being the dumping of chalk down the stride strait. More efficiently doing so translates to more cost-effective usage of chalk and thus a longer time spent in the flash state.
 
-Expending the Flash Protocol to 'flashcharge' a component of the Strider's arsenal, however, is preferred and practiced by veteran Striders with fighting styles honed over dozens of processions and hundred of sojourns. It comes down to a simple logic, that a fighting style should have a singular or couple of ways to achieve a 'win condition', and that the flashcharge should be used to expedite the process of getting to it. Likewise with Striders who wield relic weapons; a weapon powerful enough to fell most things is usually only a flashcharge away from felling *all* things. 
+Expending the Flash Protocol to 'flashcharge' a component of the Strider's arsenal, however, is preferred and practiced by veteran Striders with fighting styles honed over dozens of processions and hundred of sojourns. It comes down to a simple logic; that a fighting style should have a singular or couple of ways to achieve a 'win condition', and that the flashcharge should be used to expedite the process of getting to it. Likewise with Striders who wield relic weapons; a weapon powerful enough to fell most things is usually only a flashcharge away from felling *all* things. 
 
 Such is the way Strider veterans utilize the flashcharge; utilize abilities that create vulnerabilities - these are the win conditions - then exploit the vulnerabilities maximally to reap maximum rewards.
 
@@ -798,6 +817,8 @@ An interesting form of damage in the Switchboard dealt by blunt instruments and 
 	**Mitigation**: Specific to individual subtypes, general protection against offensive weave.
 	**Shorthand**: Induc, I
 Inductive damage is done by **inductive weave**; weave phenomena that propagates in subject by inducing themselves on contact. When something is set on fire in the switchboard, for example, temperature is induced in it, and this invasive weave causes damage to the subject lattice. Attacks that cause damage over time such as poisons, burns and bleeds work by inducing continual damage to weave, while effects like stuns, blinds, freezes and paralysis continually re-manifest themselves in a targets lattice, inflicting their effects on a victim.
+
+> Inductive Damage and Inductive Effects are dependent on the mechanics of [[Calcodynamics#Inductive Weave|Inductive Weave]]; rogue patterns so-wound as to propagate themselves almost parasitically through the lattice structure of another pattern. 
 
 #### Resource Damage
 Damage that is inflicted against 'resources', or more simply put, the ability to use certain powers. Chalk and the calcic in particular are vulnerable to resource damage forms, either through physical, numerical depletion of the chalk available for use, or damage inflicted on a system to prevent its usage.

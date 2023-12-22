@@ -84,3 +84,5 @@ Mega Compendium
 
 **Something Starbound?**
 [Astral Confined Homepage | World Anvil](https://www.worldanvil.com/w/astral-confined-elcadrane)
+
+A note from Byf about **how common/regular folk might be apathetic to the causes and actions of giants; [Destiny 2 Lore - What's Next? What happens to Humanity after The Final Shape? - YouTube](https://www.youtube.com/watch?v=M3v_9PnFzic)**

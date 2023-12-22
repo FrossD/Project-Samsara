@@ -1,16 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1.TL_Board/Meta/Home.md"
+      "basename": "DT.CANTHAR_2",
+      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md"
+    },
+    {
+      "basename": "DT.Expansion_Tracker",
+      "path": "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md"
+    },
+    {
+      "basename": "Calcodynamics",
+      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md"
     },
     {
       "basename": "DT.WN-DT",
       "path": "2.Development/Narrative_Worldbuilding/DT.WN-DT.md"
     },
     {
-      "basename": "DT.Expansion_Tracker",
-      "path": "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md"
+      "basename": "Home",
+      "path": "1.TL_Board/Meta/Home.md"
+    },
+    {
+      "basename": "Glass",
+      "path": "2.Development/Mechanical_Pillars/Glass.md"
+    },
+    {
+      "basename": "On Weave and Warfare",
+      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md"
+    },
+    {
+      "basename": "Chalk Ritualism",
+      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Chalk Ritualism.md"
+    },
+    {
+      "basename": "Hex_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Hex_AC.md"
+    },
+    {
+      "basename": "Blakk_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md"
+    },
+    {
+      "basename": "DT.Arsenal_Cards",
+      "path": "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md"
+    },
+    {
+      "basename": "Fyre_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Fyre_AC.md"
+    },
+    {
+      "basename": "Communications and Compute",
+      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Communications and Compute.md"
+    },
+    {
+      "basename": "Research & Development",
+      "path": "1.TL_Board/Research_&_Resources/Research & Development.md"
+    },
+    {
+      "basename": "DT.MelFeedback",
+      "path": "2.Development/Narrative_Worldbuilding/DT.MelFeedback.md"
+    },
+    {
+      "basename": "FamDesignDoc",
+      "path": "2.Development/Workshop/FamDev/FamDesignDoc.md"
+    },
+    {
+      "basename": "The Fel-Arcad",
+      "path": "2.Development/Workshop/Families/The Fel-Arcad.md"
+    },
+    {
+      "basename": "The Hands as Chalk",
+      "path": "2.Development/Foundational_Pillars/The Hands as Chalk.md"
+    },
+    {
+      "basename": "On Birthing and Being",
+      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Birthing and Being.md"
+    },
+    {
+      "basename": "Prop.The_Families",
+      "path": "2.Development/Workshop/Families/Prop.The_Families.md"
+    },
+    {
+      "basename": "Ven_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Ven_AC.md"
+    },
+    {
+      "basename": "Prop.CalcicChemistry",
+      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/Prop.CalcicChemistry.md"
+    },
+    {
+      "basename": "The Strider Protocol",
+      "path": "2.Development/Foundational_Pillars/The Strider Protocol.md"
+    },
+    {
+      "basename": "The Dawn of the Dancirah",
+      "path": "2.Development/Foundational_Pillars/The Dawn of the Dancirah.md"
+    },
+    {
+      "basename": "Samsara 1 - The Proposal",
+      "path": "1.TL_Board/Meta/Samsara 1 - The Proposal.md"
+    },
+    {
+      "basename": "The Sil'khan",
+      "path": "2.Development/Workshop/Families/The Sil'khan.md"
+    },
+    {
+      "basename": "Switchboard Technology",
+      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Switchboard Technology.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Void 5",
+      "path": "Void 5.canvas"
+    },
+    {
+      "basename": "DT.CharTemplate",
+      "path": "2.Development/Narrative_Worldbuilding/Characters/DT.CharTemplate.md"
     },
     {
       "basename": "The Mysticism",
@@ -19,14 +127,6 @@
     {
       "basename": "The Skywards Pursuit",
       "path": "2.Development/Mechanical_Pillars/The Skywards Pursuit.md"
-    },
-    {
-      "basename": "The Dawn of the Dancirah",
-      "path": "2.Development/Foundational_Pillars/The Dawn of the Dancirah.md"
-    },
-    {
-      "basename": "On Weave and Warfare",
-      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md"
     },
     {
       "basename": "DT.Notebook_Tracker",
@@ -41,14 +141,6 @@
       "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/The EPIT.md"
     },
     {
-      "basename": "DT.CANTHAR_2",
-      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md"
-    },
-    {
-      "basename": "The Strider Protocol",
-      "path": "2.Development/Foundational_Pillars/The Strider Protocol.md"
-    },
-    {
       "basename": "Prop.SpyndlNoon",
       "path": "2.Development/Workshop/SpyndlAcaMaster/Prop.SpyndlNoon.md"
     },
@@ -57,16 +149,8 @@
       "path": "2.Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md"
     },
     {
-      "basename": "The Fel-Arcad",
-      "path": "2.Development/Workshop/Families/The Fel-Arcad.md"
-    },
-    {
       "basename": "1. AC_Template",
       "path": "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md"
-    },
-    {
-      "basename": "Blakk_AC",
-      "path": "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md"
     },
     {
       "basename": "Patreon",
@@ -77,16 +161,8 @@
       "path": "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md"
     },
     {
-      "basename": "Research & Development",
-      "path": "1.TL_Board/Research_&_Resources/Research & Development.md"
-    },
-    {
       "basename": "BlakkSheep's Naming",
       "path": "1.TL_Board/Research_&_Resources/BlakkSheep's Naming.md"
-    },
-    {
-      "basename": "The Hands as Chalk",
-      "path": "2.Development/Foundational_Pillars/The Hands as Chalk.md"
     },
     {
       "basename": "C3-A1B1-Antags",
@@ -99,14 +175,6 @@
     {
       "basename": "C2-B2B3-SideChars",
       "path": "2.Development/Narrative_Worldbuilding/Characters/C2-B2B3-SideChars.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Void 5",
-      "path": "Void 5.canvas"
     }
   ],
   "omittedPaths": [],

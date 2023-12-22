@@ -191,6 +191,15 @@ A sort of odd-sock drawer for rituals, which are in this category because they d
 
 Most problems in the Switchboard have two solutions: their actual solution and the ritual that was made to solve it by someone who didn't have the actual solution. They can serve as shortcuts, underhanded methods, quick fixes, duct tape and WD-40, a vast toolbox of things - that is rituals. Utility rituals solve problems; there's little more to it.
 
+#### Further Notes: Property Weave
+> The [[Calcodynamics#Property Weaves|Property Weaves]] heading under Calcodynamics is recommended reading for this section. 
+
+![[Calcodynamics#^d5c612]]
+
+Property weave combined with the chalk ritualism is perhaps the most concrete example of calcic chemistry practiced in the verse, as the various kind of property weaves one can harvest from the various patterns in the Switchboard can be utilized in rituals to **bestow their properties** on other patterns. Done rightly and delicately, additional properties can be conferred upon patterns as one chooses, a very effective means of realizing various **metamaterials** that combine the benefits of their existing nature plus additional modification.
+
+Certain quikasts and even elementary weavings can make use of property weave as well, conferring additional... properties on the various quick-use weft implements a weaver might make.
+
 ## Ritual Formation
 Creating rituals is complex.
 
