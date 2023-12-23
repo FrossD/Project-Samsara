@@ -24,28 +24,21 @@
     "2023/11/19": 2000,
     "2023/11/20": 2101,
     "2023/11/21": 419,
-    "2023/11/22": 525
+    "2023/11/22": 525,
+    "2023/11/23": 0
   },
   "todaysWordCount": {
-    "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md": {
-      "initial": 2491,
-      "current": 2844
+    "1.TL_Board/GitIgnoreExperiment/DT.File3.md": {
+      "initial": 80,
+      "current": 80
     },
-    "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md": {
-      "initial": 3190,
-      "current": 3194
+    "1.TL_Board/GitIgnoreExperiment/DT.File2.md": {
+      "initial": 69,
+      "current": 69
     },
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Chalk Ritualism.md": {
-      "initial": 8446,
-      "current": 8577
-    },
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md": {
-      "initial": 32708,
-      "current": 32741
-    },
-    "2.Development/Mechanical_Pillars/Glass.md": {
-      "initial": 2271,
-      "current": 2275
+    "1.TL_Board/GitIgnoreExperiment/DT.File1.md": {
+      "initial": 169,
+      "current": 169
     }
   }
 }
