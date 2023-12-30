@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc79bf7d0710ee9",
+        "id": "3c1316f9d2e0d128",
         "type": "tabs",
         "children": [
           {
-            "id": "942084c0e23d535e",
+            "id": "486b9596c710a52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.TL_Board/GitIgnoreExperiment/DT.File3.md",
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.TL_Board/GitIgnoreExperiment/DT.File3.md",
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.TL_Board/GitIgnoreExperiment/DT.File3.md",
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +133,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.TL_Board/GitIgnoreExperiment/DT.File3.md"
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,45 +159,45 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "942084c0e23d535e",
+  "active": "93cb784d559b3db0",
   "lastOpenFiles": [
-    "1.TL_Board/GitIgnoreExperiment/DT.File2.md",
-    "1.TL_Board/GitIgnoreExperiment/DT.File1.md",
-    "1.TL_Board/GitIgnoreExperiment/DT.File3.md",
-    "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md",
-    "1.TL_Board/GitIgnoreExperiment",
-    "2.Development/Narrative_Worldbuilding/DT.WN-DT.md",
-    "1.TL_Board/Meta/Home.md",
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Chalk Ritualism.md",
-    "2.Development/Mechanical_Pillars/Glass.md",
-    "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md",
-    "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md",
-    "DT.Spot_Lore_Tracker.md",
-    "2. Offshore/Prop.DT_CANTHAR.md",
-    "2. Offshore/New Text Document.txt",
-    "2. Offshore",
-    "2",
-    "New Folder",
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
-    "2.Development/Workshop/Arsenal_Cards/Hex_AC.md",
-    "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md",
+    "1.TL_Board/Meta/DT.Home.md",
     "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md",
-    "2.Development/Workshop/Arsenal_Cards/Fyre_AC.md",
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Communications and Compute.md",
-    "1.TL_Board/Research_&_Resources/Research & Development.md",
-    "2.Development/Narrative_Worldbuilding/DT.MelFeedback.md",
-    "2.Development/Workshop/FamDev/FamDesignDoc.md",
-    "2.Development/Workshop/Families/The Fel-Arcad.md",
-    "2.Development/Foundational_Pillars/The Hands as Chalk.md",
+    "2.Development/Workshop/Arsenal_Cards/Hex_AC.md",
+    "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
     "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Birthing and Being.md",
-    "2.Development/Workshop/Families/Prop.The_Families.md",
-    "2.Development/Workshop/Arsenal_Cards/Ven_AC.md",
-    "2.Development/Workshop/WORKSHOP_DOCS",
-    "Z.Assets/EAEA6500",
+    "2.Development/Workshop/Arsenal_Cards/Fyre_AC.md",
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Switchboard Technology.md",
+    "2.Development/Narrative_Worldbuilding/DT.WN-DT.md",
+    "2.Development/Foundational_Pillars/The Blank-Slate Mind.md",
+    "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md",
+    "2.Development/Foundational_Pillars/The Hands as Chalk.md",
+    "2.Development/Workshop/WORKSHOP_DOCS/DT.Hyperweave_2.md",
+    "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md",
+    "2.Development/Mechanical_Pillars/The Void.md",
+    "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md",
+    "2.Development/Mechanical_Pillars/The Skywards Pursuit.md",
+    "Z.Assets/E75BC200",
+    "Z.Assets/C36AC200",
+    "Z.Assets/A066C200",
+    "Z.Assets/5136C200",
+    "Z.Assets/24B5C200",
     "Z.Assets/~$SamsaraExcel.xlsx",
+    "2.Development/Mechanical_Pillars/Glass.md",
+    "1.TL_Board/GRAVEYARD",
+    "2.Development/Workshop/Untitled",
+    "1.TL_Board/GRAVEYARD/DT.The_Mysticism.md",
+    "2.Development/Foundational_Pillars/The Dawn of the Dancirah.md",
+    "2.Development/Foundational_Pillars/The Switchboard.md",
+    "2.Development/Foundational_Pillars/The Strider Protocol.md",
+    "2.Development/Narrative_Worldbuilding/DT.Notebook_Tracker.md",
+    "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md",
+    "2.Development/Workshop/Families/The Fel-Arcad.md",
+    "2.Development/Narrative_Worldbuilding/DT.MelFeedback.md",
+    "3.Scribbling/RegionGenEngine.pdf",
+    "3.Scribbling/Concept AV.pdf",
     "Pasted image 20231214004522.png",
-    "1.TL_Board/Research_&_Resources",
-    "1.TL_Board/1._R&D",
     "Z.Assets/VoidDaughtersRel.png",
     "Z.Assets/Pasted image 20231027212609.png",
     "Z.Assets/Pasted image 20230804174944.png",

@@ -25,20 +25,23 @@
     "2023/11/20": 2101,
     "2023/11/21": 419,
     "2023/11/22": 525,
-    "2023/11/23": 0
+    "2023/11/23": 2180,
+    "2023/11/24": 2527,
+    "2023/11/25": 99,
+    "2023/11/26": 1122,
+    "2023/11/27": 762,
+    "2023/11/28": 2271,
+    "2023/11/29": 235,
+    "2023/11/30": 266
   },
   "todaysWordCount": {
-    "1.TL_Board/GitIgnoreExperiment/DT.File3.md": {
-      "initial": 80,
-      "current": 80
+    "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md": {
+      "initial": 2055,
+      "current": 2223
     },
-    "1.TL_Board/GitIgnoreExperiment/DT.File2.md": {
-      "initial": 69,
-      "current": 69
-    },
-    "1.TL_Board/GitIgnoreExperiment/DT.File1.md": {
-      "initial": 169,
-      "current": 169
+    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md": {
+      "initial": 32744,
+      "current": 32842
     }
   }
 }

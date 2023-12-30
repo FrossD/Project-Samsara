@@ -239,7 +239,7 @@ Axle: Tek | Trajectory Calculator
 
 ## T5 - Flash Protocol
 **Sojourner's Summit** - Weave Burst - Cado, Brch
-*"Never forget where you came from. You will need that for the road ahead."*
+*"Never forget where you came from, or the lessons learned while getting here; you will need to know both of those things for the road ahead."*
 	Ventura summons forth his strength gifted to him as descendant-kin of the storied Danseers, his focus honed over a thousand sojourns and ten thousand battles, and his command of chalk that sees the realization of dreams into reality - and conjures forth a restrained salvo of massively destructive hyperweave bolts. With a gesture he can launch individual charges or the full salvo, which travel at near-instantaneous speed to wherever he directs them and - upon arrival - detonate with magnificent calcic force. Forgoing all higher intricacies of chalkweaving, Ventura embraces the purest aspects under the discipline; immense power and uncanny control. 
 
 **Danseerform** - Lattice Burn
@@ -252,4 +252,4 @@ Axle: Firearm | Sojourner's Tale
 Axle: Axle: Relic Feat | The Sojourner's Tale
 *"To live is to risk everything. Once I found it terrifying. Now, I still do, but I have come to take pleasure from it."*
 	Ventura invokes the full power of the Skydancer Pact upon the Sojourner's Tale, doing so by disabling his Tek, Weavesight and blinding himself with a woven blade dragged across the eyes. With this done, he is then able to call forth his aged, stratified qui-wheel, raging with power, and fills it with components that channel the aspect of Skydancer Leilani, the Reveler. With this, he weaves eight rounds blessed with the powers of chance and praxis, a random-sided die baked ritualistically into the makeup of each round. Upon striking a target, the damage done by each round is **magnified** by the number rolled on the die.
-	- If **any doubt is expressed** concerning Ventura's ability to land the shot prior to being struck by a Reveler Round, the damage done is **praxicaly** multiplied **nine-fold**.
+	- If **any doubt is expressed** concerning Ventura's ability to land the shot prior to being struck by a Reveler Round, the round is empowered by the doctrine of the Skydancers, and the damage done is **praxicaly** multiplied **nine-fold**.

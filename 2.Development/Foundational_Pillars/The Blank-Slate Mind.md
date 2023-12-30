@@ -85,7 +85,7 @@ The culmination of these things is the Spyndl Academy's **doctrine**, their beli
 
 The formation of doctrine is thus fairly simple, as doctrines can arise from the simplest things and proceed to weave themselves into the Switchboard Current. Subconscious actions as seemingly trivial as sparing insects instead of crushing them once they disturb oneself forms doctrine, just as deliberate actions such as outlining a set of rules to be followed by a group of individuals subject to those rules is also creating a doctrine. As will be necessary, doctrines will clash with doctrines, and the superior ones will triumph over those formed with poor methodology, granting **doctrinal power** to those that adhere to that doctrine.
 
-### Adhering by or 'Playing to' Doctrines
+### Adhering by or 'Playing To' Doctrines
 Adhering to a doctrine is a set of conscious and unconscious actions, traveling down a spectrum of consciousness levels and competence. Adhering to a doctrine is a matter of subjecting one's actions and the thoughts that guide them to the yardstick of the doctrine's principles, with closer adherence conferring greater doctrinal power, but also a burden to defend that doctrine, as well as additional losses suffered by both doctrine and adherent when they fail to.
 
 Beginning at unconscious incompetence, one who aspires to adhere to a doctrine will be repeatedly failing to do so, and not even be aware of it. It can be a Spyndl Operative choosing to sour relations with Spyndl Academy allies through poor behavior. Their inability to properly 'fulfill' the tenets of their doctrine shows poor adherence to it, and thus very little doctrinal power is reaped.

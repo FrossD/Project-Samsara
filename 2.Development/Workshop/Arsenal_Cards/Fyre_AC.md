@@ -63,7 +63,7 @@ Experience in the Wylds has taught Cendyr a number of martial disciplines, which
 **Sun-smitten Apathy** - Prax
 Axle: Flashcharge, Relic Defensive | Gun-trigger Parry
 *"They asked how I could keep fighting. Now that I've told them, they've asked whether I'll know when to stop."*
-	When a flashcharge is available, Gun-trigger Parry is upgraded into Apathy of the Sun-smitten. When an event is occurring in the vicinity in a manner that can be interpreted as 'occurring **to** the caster', the flashcharge can be expended to parry it at the doctrinal level, eliminating whatever effects it would have had on the caster. This power can be used to parry nearly anything, from the flashes of other Striders to the emotional response upon hearing bad news.
+	When enough **flashcharge** is available, Gun-trigger Parry is upgraded into **Sun-smitten Apathy**. When an event is occurring in the vicinity in a manner that can be interpreted as 'occurring **to** the caster', the flashcharge can be expended to parry it at the doctrinal level, eliminating whatever effects it would have had on the caster. This power can be used to parry nearly anything, from the flashes of other Striders to the emotional response upon hearing bad news. ^828bec
 
 ### Fire Arms
 **(N/A)**
@@ -124,10 +124,11 @@ When starfire is depleted, starfire flames in the environment can be **re-absorb
 	When ashflame is available, it can be expelled from the mouth as a dense, choking cloud of black fume. Targets who inhale it have their chalk siphoned, their lattices chilled by inductive damage, and are at risk of starfire flame erupting in their bodies. Weavesight and other sight abilities are unable to pierce the dense cloud.
  
 - Burst
-**Lunarstrikes** - Cado, Brch, Induc, Siph
-Axle: Martial Arm | 1530 Centigrade
-*"Now cometh the age of the stars."*
-	Ashflame is suffused into a weapon, and a series of powerful, sweeping cuts are made against a target, shattering their defenses, inflicting inductive cold-burns, and siphoning a considerable amount of chalk. This attack can only be performed when the starfire reserves are majorly filled with ashflame. Upon cast, half of all ashflame expended is refunded as starfire in the reserves.
+**Starsurge** - Induc, Siph
+*"Everything, everyone, is a resource out here."*
+Axle: Flashcharge
+	By expending an amount of **flashcharge**, Cendyr is able to **replenish his reserves** of starfire flames. By expending a bit more of his flashcharge energy, he can form ashflame directly within his straits as well.
+	- When **Starsurge** is cast, Cendyr unleashes a corona of twin starfire and ashflame around him, incinerating nearby targets and applying their relevant effects.
 
 ### Quis
 Cendyr's arsenal of quikasts relies heavily on their Tek, and clever usage of both starfire and ashflame along with the employment of ritual components, allowing for devastating attacks and helpful utility casts, all acquired over many processions out in the Starwylds.
@@ -164,12 +165,12 @@ Axle: Tek | Starfire Conduit
 
 ## T4 - Grand Calcic
 ### Rituals
-- **Stargift: Opening Gambit** - Cast
+- **Cendyr's Pride: Opening Act** - Cast
 Axle: Tek | Starfire Conduit
 *"I made this one to pass a class. And to end things quickly. But mainly to pass a class."*
-	The caster creates a site of ritual geometry and expends components, including a vast majority of the starfire reserves. Upon successful cast, all starfire fed to the ritual is unwound and converted into raw chalk that saturates the local lattice. This huge infusion of chalk allows for a **free use** of the subject's **Flash Protocol**.
+	The caster creates a site of ritual geometry and expends components, including a vast majority of the starfire reserves. Upon successful cast, all starfire fed to the ritual is unwound and converted into raw chalk that saturates the local lattice. This huge infusion of chalk allows for a **full recharge** of the subject's **Flashcharge**.
  
-- **Stargift: Leyndell Squall** - Channeled - Induc, Siph
+- **Arcology Ritualism: Leyndell Squall** - Channeled - Induc, Siph
 Axle: Tek | Starfire Conduit
 *"I hate to see what Spyndl has become, but perhaps it is what we deserve. Perhaps something will rise from this ash, but I am not hopeful."*
 	The caster creates a site of ritual geometry and expends components, including a considerable amount of ashflame. The ritual resolves as a bottled tempest in the chest of caster, which can then be blown into the world as a tumultuous tornado of burning cold and chalk-siphoning blackness. Weave integrated into the cast allows it to mark and pursue targets, aiming to consume their chalk. As it consumes, the ashflame becomes starfire and the tornado grows more intense, burning everything in its path. The tornado ends when dismissed by the caster, or after reaching a size at which it can no longer maintain structural soundness.
@@ -178,9 +179,15 @@ Axle: Tek | Starfire Conduit
 **Crownsplitter** - Lattice Burst - Cado, Brch, Unrav, Prax
 *"This is the power to fell kings."*
 	The caster burns the entirety of their flash, and performs a nigh-unblockable downward strike with a weapon in hand, dealing absolutely massive damage, shattering all defenses, and rendering the target nearly unable to use chalk dependent powers. The attack has a praxis component to it, and will do additional damage if the target;
-- Is a Strider or Weaver
-- Is an Operator
-- Is a leader of some regard in a litany of Switchboard organizations
-- Bears a Title
-- Wields multiple Teks
-- Has performed or been a part of a structural cast
+	- Is a Strider or Weaver
+	- Is an Operator
+	- Is a leader of some regard in a litany of Switchboard organizations
+	- Bears a Title
+	- Wields multiple Teks
+	- Has performed or been a part of a structural cast
+
+**Encendyr's Flare** - Weft Burst - Induc, Brch, Unrav, Siph
+Axle: Tek | Starfire Conduit
+"*Name something after yourself, so they'll know who to say did them in.*"
+	Cendyr forms hand-seals and mocks drawing a bow, feeding it the power of the flash, and starfire and ashflame from his Tek. This technique will use **a third** of the Flash Protocol's charge by default, but can be **charged** up until the **entirety of the Flash Protocol** is suffused into the flash-woven bow. Once sufficiently charged, the bow fires a colossal arrow of starfire and ashflame, spiraling in upon itself, travelling at wicked speed to strike a target, inflicting both classes of burn, breaching defenses, heavily unravelling the target and siphoning chalk from them back to Cendyr.
+	- The siphoning effect of the Encendyr's Flare siphons charge **directly into the Flash Strait**, allowing further casting of Flash Protocols and usage of abilities that expend flashcharge.

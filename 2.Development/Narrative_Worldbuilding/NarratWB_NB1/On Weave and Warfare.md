@@ -7,8 +7,6 @@ In addition to how Striders move, is how Striders fight. Here, we look over the 
 ### The Theory of Damage
 The theory of damage is a study of how damage is dealt and taken in the Switchboard. It begins with an essential bit of information on chalk interactions;
 
-![[The Hands as Chalk#^c91b12]]
-
 Chalk interactions happen primarily at the ribbon level, and this is true of combat interactions between denizens of the Switchboard. The physical form of a being in the Switchboard is a series of **chalk ribbons** arranged into **patterns** possessing immense **intricacy and complexity**. The integrity of this pattern subsequently determines the integrity of the subject that makes them up. Striders are '**lattices**' of Chalk that function optimally when fully intact.
 
 As a subject's lattice sustains damage, it disrupts the behavior of chalk within them, affecting their ability to use chalk-dependent abilities; weaving chalk, casting rituals, using Teks and Relics, and the Strider Protocol. The lattice of denizens with the **Weave Protocol** passively repairs itself as the subject accumulates chalk via Information Affinity. Regeneration of the lattice can be accelerated by focusing on the task, but this leaves the subject unable to actively utilize other abilities. 
@@ -832,7 +830,7 @@ Unravelling is inflicted by causing a lattice to undo itself, pattern spontaneou
 Some abilities in the Switchboard also inflict unravelling against targets, either by creating more of these frayed ends on contact or pulling at ones already present. These are of considerable concern to Weavers, as it is a direct attack upon their ability to fight an enemy. Heavily unraveled targets sustain damage to their **potential** and **interface** Five Straits, resulting in an ability to accumulate and weave chalk. Forcing through this causes considerable harm, possibly leading up the the total unravelling mentioned earlier.
 
 - **Siphon Damage**
-	**Source**: The Void and void-based weapons, abilities and phenomena.
+	**Source**: The Void and void-based weapons, abilities and phenomena; other similar phenomena
 	**Mitigation**: Counter-depth shielding, large chalk reservoirs.
 	**Shorthand**: Siph, S
 A specific kind of damage dealt by the Void and attacks drawing upon it and using it as their basis for attack. Void attacks against calcic lattices siphon chalk away from them, inducing depth, which empowers Void weapons to siphon away more chalk, thus granting Void weapons a sort of vampirism. This presents a tangible threat to the many calcic entities in the Switchboard, particularly weavers who use it for their casts. Mitigating this siphon effect is difficult, as Void weapons and powers even do so passively, and thus Weavers and others who depend on chalk are incentivized to get rid of void-wielding targets as quickly as possible, lest all their available chalk reserves and chalk in the vicinity be dried up.
@@ -982,7 +980,13 @@ And the perfect time for this 'something' to be introduced into the straits is o
 
 This 'something' is always information, where it is gleaned from being the true question. From something in the mind and brought to the forefront without explanation, from something tried in the heat of battle that paid off more than was expected, from something an opponent is able to do, dropped into the straits from the Current; it can come from nearly anywhere. And once it is introduced into the furnace where the straits broil wickedly, an **epiphany** is obtained, and should the straits grasp it, even just a little, it is possible for the evolutionary cap on a technique to be utterly shattered, a subject going through multiple seasons or even processions of otherwise slow growth in mere moments.
 
-This manifests - mid battle - as the power to use a new power, deployed as though it had been known and practiced for ages. And with this, it can be enough to turn the tide of battle. 
+This manifests - mid battle - as the power to use a new power, deployed as though it had been known and practiced for ages. And with this, it can be enough to turn the tide of battle. This, is an **Epiphanic Breakthrough**.
+
+> Elsewhere, for brevity reasons, this is referred to as an '**E-Break**' or '**Epi-Break**'.
+> 
+> A technique enhanced or formulated by the E-Break occupies an imaginary **T6** '**slot**' that is present in all Arsenal Cards, and as thus can be regarded as a 'T6 technique'.
+> 
+> Generally, T6s are my own flavor of justifiable asspull. Based on the technique being enhanced and the source of the epiphany, the T6 is realized, and as such, there's no fixed T6, and actors can have a considerable number of them, even if unable to realize them on demand or simultaneously.
 
 ### Cross-Arsenal Interplay
 The cultivation of a fighting style in the Switchboard requires the accumulation of various forms of power, and their amalgamation into a final, cohesive unit, wieldable by a denizen of the Switchboard. This cohesion may need to be created, and one such way this is done is by seeing what parts of a subject's arsenal can enhance with other parts of it.

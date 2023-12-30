@@ -16,7 +16,7 @@
   "highlight": true,
   "showPreviousQueryResults": true,
   "simpleSearch": false,
-  "fuzziness": "1",
+  "fuzziness": "0",
   "weightBasename": 3,
   "weightDirectory": 2,
   "weightH1": 1.5,

@@ -124,13 +124,15 @@ Axle: Tainted Tek | Lesser Eye of Shadri
 	With their excellent command of the depths, Ellaine can conjure a spherical manifestation of local depth, causing a powerful distortion to space, inducing a **repel**. Ellaine's proficiency, however, allows them to move this sphere through space at will, as well as fire it along trajectories.
 	- When Ellaine's **Lesser Eye of Shadri** is active, the sphere can be set to pursue targets.
 
-
 ## T3 - Polar Black
 ### Plunder from the Void
 **Ellaine's Riftlock**
 *"Information remains the greatest currency, even in the depths of the Void."*
 	The Vahnic Riftlocks serve the Daughters of Vahn, and act as the arbiters of those who can cross the Challenger Horizon over restricted space. With their riftlocks - hallowed apparatus of the depths - they can sequester the ability to transit between the Void and the Dancirah itself.
-	When Ellaine deploys their riftlock, it takes its place on the battlefield as a **summoned object**, maintaining an effective radius controllable by Ellaine. While active, and depending on the size of the affected space, the riftlock will **oppose any attempts to cross into the Void from the Dancirah, or into the Dancirah from the Void**. At certain coverage ranges, it wholly prohibits transiting planes, decreasing in effectiveness the large an area it has to act upon.
+	When Ellaine deploys their riftlock, it takes its place on the battlefield as a **summoned object**, maintaining an effective radius controllable by Ellaine. While active, and depending on the size of the affected space, the riftlock will;
+	- **Oppose any attempts to cross into the Void from the Dancirah, or into the Dancirah from the Void**.
+	- **Oppose any spatial manipulation not originating from Hex themselves**.
+	At certain coverage ranges, it wholly prohibits transiting planes, decreasing in effectiveness the large an area it has to act upon.
 	- Additionally, while Ellaine's riftlock is active, **any and all inductive effects** inflicted by Ellaine will continue to **act indefinitely**, rather than decay with time. 
 	- Additionally, while Ellaine's riftlock is active, they can - at the expense of the riftlock - **banish** any one cohesive and unique entity to the depths of the Void, placing the riftlock on a time-bound restriction before it can be summoned again. 
 	- When Ellaine's riftlock is active, it counts as a Polar Black T3 being actively casted. As such, it **disables** their Tainted Tek; the Lesser Eyes of Shadri, and prevents usage of its derivative powers.

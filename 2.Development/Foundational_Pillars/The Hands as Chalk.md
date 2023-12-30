@@ -117,30 +117,110 @@ Happening on a much smaller scale, a spontaneous equation can evolve using some 
 
 Teks are another product of the micro-spontaneous equations. These are powerful equations that grant Weavers powers, taking the form of chalk ribbon, often encased in chalk crystal, or in transit across the Switchboard on chalk currents. Finding one of such Teks is no mean feat. A vast majority of Teks wielded by Weavers are seeded by scraps of patterned chalk moving across the Switchboard Sky; ideas from Weavers themselves, bits from other concepts lost in the Switchboard, etc. 
 
-## Hyperweave
-> We can't have lasers or lightning in the Switchboard so this is the next best thing.
 
-By most metrics, chalk can be viewed as somewhat inert. Chalk in latent dust form, solid crystalline form, activated ribbon form, bound pattern form and stable weave form all share a somewhat common thread between them; they are stable forms of chalk that outside of most calcic interference, will remain in their current states. There is a final form of chalk however, that is defined by its instability. This is chalk in the 'hyperwoven' state, more commonly referred to as **hyperweave**.
+## Weft Dynamics
+[[Calcodynamics]] deals with - primarily - chalk at the macroscopic level, interacting with various kinds of pattern and weave that make up the Switchboard, as well as the mechanics governing them that - in turn - govern the operation of the Switchboard. That being said, it is also essential to discuss further how chalk operates 'at the ribbon level', a field we can call **Weft Dynamics**.
+
+> This section was created primarily to better realize the phenomena of **hyperweave** in the Switchboard. That means there is still a fair bit of room for further expansion in the future.
+
+### The Information Mass/Density Problem
+As outlined in [[The Void]], [[The Hands as Chalk]] and elsewhere, the information - weave - within pattern in the Switchboard induces mass, and this mass in turn induces a curving effect along the fourth spatial axis, from which the Switchboard obtains its gravity analogue - a curvature along space itself. However, it follows that large things in the Switchboard would induce enough curvature to pull more and more of the Switchboard towards themselves, and as they do, become more and more capable of doing this exact thing.
+
+It follows then, that inevitably, the entire Switchboard would collapse in upon itself, creating an object so incomprehensibly dense with information that the spatial distortion induced by it would result in exactly what happens in our world when such a phenomenon occurs; a singularity, or black hole.
+
+This is dreadful.
+
+The rectification of this is found, however, in the equations that yield pattern themselves. As equations fold chalk ribbon to yield weave, encoded into this process is instructions to fabricate **repulsive substructures**. They can be imagined as the pillars in a building that keep the decking above from collapsing to the floor below it. These substructures serve double duty in ensuring the stability of more complex folded patterns, as well as inducing a rule of sorts in the Switchboard; **differentiated, unique, distinct patterns, have an apparent disinclination to deviate too strongly from that state without external action**.
+
+Things that are simply prefer to be what they are, and as such, the Switchboard does not collapse in upon itself into a spherical bolus of supermassive calcic fury.
+
+> These ribbon-level substructures are employed similarly in the mechanics that facilitate the performance of the [[On Weave and Warfare#The Flash Protocol|Flash Protocol]] by Striders, making use of scaffolding-like structures to bear a suffusion of chalk and realize complex weave in mere moments.
+
+### Pattern/Weave Complexity
+Weave and pattern can be described as complex, but what observable and measurable qualities of a pattern dictate whether it is complex or not?
+
+Immediately, I can give the following;
+- The abundance of **property weaves** within the structure.
+- The general **intricacy** with which the pattern is folded.
+- **Emergent properties** that stem from the manner by which the pattern is made.
+- In the cases of various kinds of **ritualism**, prominently **calcic ritualism**; the number and nature of components expended in forming the pattern.
+- Whether the pattern relies or utilizes **praxis mechanics** in some manner.
+- The **compaction** of the pattern.
+- If the pattern is something **alive**.
+
+> This list is likely to expand with time.
+
+Complex weaves generally have a number of common properties as a result of their complexity, such as being far more information dense and difficult to unweave.
+
+### Pattern Compaction
+Repulsive substructures exist in pattern as a means of maintaining the stability of the weave, as well as its differentiation and distinction from other weave in the Switchboard. However, at the microscopic level, these repulsive substructures are chalk ribbon themselves, and additionally posses **length**.
+
+In theory then, it is possible to **compact** pattern - physically - in a manner that causes its repulsive support substructures to **shorten** considerably, leading to a tangible physical **shrinking** of the pattern. Generally, this is done by unweaving the pattern and reweaving it with a more **capable** equation. This doesn't reduce the information mass of the pattern in any manner, but it *does* reduce the physical space occupied by the pattern, something that can prove useful in a number of applications.
+
+> It is particularly the case that Striders and other flavors of nomad and sojourner in the Switchboard make use of pattern compaction to 'shrink' the physical space occupied by their usually voluminous kits. Far simpler weave - such as the kind you'd find in more elementary objects like tents or sleeping backs - can be compacted down to considerable small sizes, unwound and deployed as needed. More complex implements such as relic weapons that have a number of additional calcic clauses built in such as rituals are far more difficult to compact in this manner. 
+
+### Pattern Compression
+There is a far less elegant form of pattern compaction that is employed on some occasions; instead of unweaving pattern and reweaving it in more compact form, it is possible to forcibly compel the repulsive support substructures to shorten via application of external physical pressure - quite literal **squashing** pattern and compelling to take this new, compressed shape.
+
+What allows for weave to be compacted in this manner is its **Spring Coefficient**, a measure of the dynamics surrounding the repulsive support substructures, more specifically;
+- Ease of Compression
+- Pressure Exerted on the Compression Front
+
+Generally, to maintain the compression state, a '**compression front**' is employed, this being a calcic over-structure that is 'wrapped' around the compressed pattern, keeping it in the compressed state. However, because the substructures are not physically shortened, and only compelled to be, they exert an amount of force upon the compression front, that renders the entire pattern relatively unstable.
+
+Generally;
+- Low Spring Coefficient;
+	- Easy to compress
+	- Little force exerted on the compression front
+	- More stable structure
+- High Spring Coefficient
+	- Difficult to compress
+	- More force exerted on the compression front
+	- Less stable structure
+
+### Equational Compression - Optimization Equations
+The question of how to reduce the **information mass** of pattern is one that plagues the denizens of the Switchboard, particular those who are far more disposed to travelling the lengths of it, these being the Striders. The Strider Protocol being heavily constrained by one's total information mass means there is a hard cap on what can bring on a sojourn, or how far one can go with what they're carrying.
+
+As such, in circumstances where it isn't possible to simply shed the load one is already carrying, it becomes necessary to **optimize the weave** of what must come along for the trip. This is done using **Optimization Equations**, general purpose equations that are capable of subjecting existing patterns to a number of methods - ranging from complex folding algorithms to downright tricks - to reduce the information mass of the pattern while maintaining its integrity.
+
+The means by which it does so - in more detail - isn't far too dissimilar to what is used by compression software in our world. Under weave however, the general tactic is various forms of '**culling**'; working to remove non-essential details and complexity from a pattern, while maintaining utmost functionality. 
+
+> The resultant of this, often, are considerable changes to the visual appearance of the object, as equational compression can - say - reduce a colored cube featuring a gradient of shades from light to dark, to a single color or small handful of them, reducing the overall amount of information in the pattern.
+> 
+> In a sense then, pattern run through optimization equations may come out the other end with simplified color profiles, lower 'resolution' textures, perhaps even bits of the geometry shorn off as though it were an object made of polygons in 3D software, and its shape budget were suddenly constrained. 
+> 
+> Naturally, there are means to reverse this process to reobtain the pattern that was subjected to optimization equations to begin with.
+
+## Hyperweave
+By most metrics, chalk can be viewed as somewhat inert. Chalk in latent dust form, solid crystalline form, activated ribbon form, bound pattern form and stable weave form all share a somewhat common thread between them; they are stable forms of chalk that outside of most calcic interference, will remain in their current states. There is a final form of chalk however, that is defined by the extreme conditions necessary for its formation - and by extension the extreme nature of the chalk itself.
+
+This is chalk in the 'hyperwoven' state, more commonly referred to as **hyperweave**.
 
 ### Nature & Formation
-Hyperweave is most commonly is densely - but haphazardly - packed chalk. One can imagine trying to pack a box of identical springs into a space smaller than what would be adequate. Done properly, it is possible to form arrays of springs that push on all sides of the box equally, resulting in a fair amount of pressure on all sides, but otherwise a stable structure. Hyperweave would be simply tossing all the springs in the bag and then trying to compress it, pulling ever harder on the cord on the lip to shrink the available spence. Eventually, the energy must go somewhere, and it can result in the entire structure collapsing.
+When pattern undergoes the rather unrefined physical compression, it can be done to a fairly considerable degree with suitable conditions - but only up to a point. Beyond a certain threshold, the unstable structure begins to show signs of failing, and the distinction of and within the pattern gradually begins to **degenerate**. The resultant is a churning, furious, calcic slurry, merely awaiting an outlet under the immense pressure. As it is nearly impossible to exert and maintain uniform pressure across the entire compression front, inevitably something must give in the over-structure, and the pressurized slurry surges out and forth - crackling with violent animation - as **hyperweave**. 
 
-When chalk does this, it follows a sort of 'line of best fit' through a space, which would result in a perfect line or beam of pure chalk. However, it is additionally skewed by an amount of randomness that stems from the conditions of its release and the nature of the medium it passes through, which can result in these stable beams behaving more like crackling bolts, cracking and splitting through the air. Their destination is usually the most chalk-dense weave in the environment - prioritizing complexity of weft over quantity of chalk used to make it - which in most cases results in released bolts of hyperweave targeting kin, especially Striders. 
+Upon being provided with an outlet - an **aperture** - hyperweave is able to form and be released into the local environment, the preferred shape it takes being that of frenzied, discordant bolts, crackling outwards and in nearly random directions. Typically, once hyperweave is released into the environment, it is skewed by minute spatial distortion, and thus typically crackles towards the most chalk-dense entity in the vicinity - this often being Striders, presenting a considerable hazard towards them.
 
-Forming hyperweave then is fairly easy, as a chalkweaver merely needs to be able to pack and restrain a large amount of chalk into a very tiny space, before providing it a crack in the unstable structure through which it can escape. Released hyperweave travels incredibly fast too, moving at speeds equivalent to the upper-middle launch velocities of skilled Striders. In a sense, forming hyperweave is even easier than doing proper chalkweaving, as hyperweave can indeed be viewed simply as poorly-woven chalk.
+The manner in which hyperweave is released is determined primarily by the **shape of the aperture** that is provided to the undifferentiated calcic slurry that serves as its birthplace. With no true aperture provided, hyperweave surges outwards towards the most calcically dense subject in the vicinity, and - if possible - tears the aperture from which it emerges open further, resulting in it beginning as a fairly powerful release, then tapering off at the end. As it is released, the pressure exerted by the compression front is no longer present, and the repulsive support substructures violently restore themselves to their original state, resulting in the hyperweave structure collapsing as it travels, in an attempt to restore itself to the original pattern shape from which it was made. The degeneration of the pattern structure, however, is often permanent, and hyperweave tends to resolve itself into calcic ribbon once released into the environment.
 
-Hyperweave is an unstable state of chalk, however, and if projected over long distances, it gradually loses the little integrity it still has, dissipating into the local environment as latent chalk.
+That being said, for the brief moments it exists, it is a truly mighty phenomenon, travelling at speeds rivalling the Strider Protocol and inflicting considerable lattice damage to whatever it strikes. Based on the release aperture it is provided, hyperweave can be restrained to **beams**, increasing its lifespan in the environment, the distance it can travel, and its destructive potential. 
 
 ### Utilization
-It is possible to create calcic apertures through which to fire hyperweave, compelling it to travel in certain manners, most commonly the perfect beam shape that comes with hyperweave that is released with reduced interference. Considering hyperweave is made of very, very large amounts of chalk, hyperweave emitters and receivers can be used to transmit colossal amounts of it across long distances. This sees a number of industrial applications, such as moving calcic power between sections of a large structure or bits of a minuscule device.
+One of the larger-scale applications of hyperweave exists in industry - [[Switchboard Technology]] - as hyperweave is an immensely effective means to move colossal amounts of chalk over equally colossal distances. **Emitter** and **receiver** apparatus are able to form and launch beams of hyperweave, and 'catch' it at a destination. When working under ultra-long-distance applications as this, **relay** apparatus that **re-compress** hyperweave midflight, as well as **rifled release apertures** that stabilize it via applying **spin** are used to move hyperweave across inter-regional distances, facilitating grand applications such as Wellspring drilling and powering interstellar fleets - and even small, even *minuscule* applications such as powering minute devices.
 
-However, hyperweave sees plenty of use in offensive or weapons applications, either as a power source, or a weapon itself.
+> Further elaboration on this will be done in [[Switchboard Technology]].
+
+On smaller scale however, hyperweave is used by Striders and other denizens of the Switchboard as a **weapon**, due to the considerable [[On Weave and Warfare#Unravelling|unravelling]] effect it has on lattices.
 
 ### Effects
 Being hit by hyperweave has been described as - and is particularly similar to - being hit by the full calcic radiance of a Law Star. Though less powerful, it rips and cascades through the lattice of a target, inflicting considerable unravelling, and saturating a target with unharnessed, wild chalk. It takes on inductive properties and can ricochet throughout the lattice, and even strike a target, reform, and ricochet to another target, chaining between them and doing substantial, though diminishing damage. 
 
+One of the greatest dangers presented by hyperweave is hyperweave formed from pattern that is able to **re-differentiate** itself with time, resulting in hyperweave that can resolve into - say - the large object that was compressed to form it. Should this re-differentiation happen *within* the lattice of a Strider, the results can be catastrophic, akin to detonating a bomb within their very body.
+
 ### Chalkweaver Combat
 Hyperweave saw inevitable adoption in combat due to the considerable damage it does to all that it strikes, as well as its chaining, unravelling and inductive properties. How each individual subject used hyperweave - harnessing its raw damage potential, suppressing unravelling power, or spreading inductive power - is up to them. But those who can harness hyperweave cultivate considerable notoriety, as hyperweave in use is a memorable, visual spectacle, one to wow allies, foes and onlookers alike. 
+
+Generally, forming hyperweave in combat must account for the context that *is* an active engagement, and as such, forming hyperweave needs to be **fast** to be worthwhile. For this reason, Striders who are able to harness hyperweave are only capable of doing so via **exploiting** the foundational mechanics behind its formation, via **assistance** by some other power they possess - and often a mix of both. It is very commonplace to see [[On Weave and Warfare#Pale Amaran|Pale Amarans]] use hyperweave, as one of the most practical ways to get the compressive force needed to form hyperweave, as well as a large enough supply of chalk to compress, is through **curvature manipulation** and **access to the Stardrip Cycle** respectively. 
 
 ## Teks
 > It was coming sooner rather than later anyway.
