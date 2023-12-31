@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1316f9d2e0d128",
+        "id": "0652b16f6b04cdd8",
         "type": "tabs",
         "children": [
           {
-            "id": "486b9596c710a52f",
+            "id": "6d9c04f1206e4912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
+                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e48d56e269509b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
+                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
+                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md"
+                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,8 +173,10 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "93cb784d559b3db0",
+  "active": "6d9c04f1206e4912",
   "lastOpenFiles": [
+    "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md",
+    "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
     "1.TL_Board/Meta/DT.Home.md",
     "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md",
     "2.Development/Workshop/Arsenal_Cards/Hex_AC.md",
@@ -193,8 +209,6 @@
     "2.Development/Foundational_Pillars/The Strider Protocol.md",
     "2.Development/Narrative_Worldbuilding/DT.Notebook_Tracker.md",
     "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md",
-    "2.Development/Workshop/Families/The Fel-Arcad.md",
-    "2.Development/Narrative_Worldbuilding/DT.MelFeedback.md",
     "3.Scribbling/RegionGenEngine.pdf",
     "3.Scribbling/Concept AV.pdf",
     "Pasted image 20231214004522.png",

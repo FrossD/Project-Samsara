@@ -32,16 +32,17 @@
     "2023/11/27": 762,
     "2023/11/28": 2271,
     "2023/11/29": 235,
-    "2023/11/30": 266
+    "2023/11/30": 266,
+    "2023/11/31": 701
   },
   "todaysWordCount": {
-    "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md": {
-      "initial": 2055,
-      "current": 2223
+    "1.TL_Board/Meta/Samsara 3 -.md": {
+      "initial": 0,
+      "current": 2
     },
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md": {
-      "initial": 32744,
-      "current": 32842
+    "1.TL_Board/Meta/Samsara 3 - A Year's End.md": {
+      "initial": 2,
+      "current": 701
     }
   }
 }

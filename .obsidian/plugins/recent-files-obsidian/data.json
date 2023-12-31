@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "DT.Weftcrash",
-      "path": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md"
+      "basename": "Samsara 3 - A Year's End",
+      "path": "1.TL_Board/Meta/Samsara 3 - A Year's End.md"
+    },
+    {
+      "basename": "Samsara 2.5 - Sunburst",
+      "path": "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md"
     },
     {
       "basename": "DT.Home",
       "path": "1.TL_Board/Meta/DT.Home.md"
+    },
+    {
+      "basename": "DT.Weftcrash",
+      "path": "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md"
     },
     {
       "basename": "DT.Arsenal_Cards",
@@ -191,14 +199,6 @@
     {
       "basename": "SpyndlAcademy",
       "path": "2.Development/Workshop/SpyndlAcaMaster/SpyndlAcademy.md"
-    },
-    {
-      "basename": "1. AC_Template",
-      "path": "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md"
-    },
-    {
-      "basename": "Patreon",
-      "path": "1.TL_Board/Meta/Patreon.md"
     }
   ],
   "omittedPaths": [],
