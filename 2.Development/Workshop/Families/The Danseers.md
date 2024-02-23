@@ -5,7 +5,7 @@
 # The Danseers
 	This is the first iteration of the Danseers, the ancestor-kin of the Sil'khan and the first Chalkstriders to take a name for themselves. 
 
-In the earliest times of the Switchboard, the early chalkstriders were without name. All the same, they were skilled Striders, very proficient with weaving chalk and tinkering with calcic constructs that dotted the Astrolabic Regions. This translated into skill at exploration and later conquest of the Switchboard. From these early Striders emerged a clan of the particularly skilled at using the Strider Protocol, and they came to be known as the Skydancers - or as they are known now - the **Danseers**.
+In the earliest times of the Switchboard, the early chalkstriders were without name. All the same, they were skilled Striders, very proficient with weaving chalk and tinkering with calcic constructs that dotted the astrolabic spheres. This translated into skill at exploration and later conquest of the Switchboard. From these early Striders emerged a clan of the particularly skilled at using the Strider Protocol, and they came to be known as the Skydancers - or as they are known now - the **Danseers**.
 
 In particular, the Danseers were known for their immense power, ambition, hunger and hedonism. They possessed an immense lust for conquest, and were swift to anger and carrying out violence, prone to mismanaging their calcic powers. They spread swiftly across the Switchboard and caused chaos across sweeping expanses of it.
 

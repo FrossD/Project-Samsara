@@ -1,7 +1,7 @@
 # The Switchboard 2.0
 The Switchboard is the staging ground for Project Samsara and the Post-Mysticism. It is a universe that operates primarily on the mechanics of tangible information.
 
-## Cryogen's Proposal
+## Cryogen's Proposal: The Switchboard
 The Switchboard is a realized vision for an infinite literary sandbox. What I want it to be, or wish it was, is something hard to fully capture or explain, but I will try.
 
 I imagine the Switchboard as a bare wall in a rough, urban downtown. It is at the side of some otherwise unnoticeable building; a travel agent's, or funeral parlor, or law office. Something that serves a specific, uncommon purpose, a purpose that you can name it, but not when last in particular you had need of it. There is an industry by a lake or river, it does something with plastics or metal, and dumps the wastes into the aforementioned water body. Every house has guard dogs, but not all have signs indicating their presence. Those people want to be crossed, and you can tell by how their evening entertainment is sitting, scowling, on their porch, sipping lemonade with a loaded shotgun in their lap.  
@@ -27,7 +27,7 @@ It applies to Project Samsara at large.
 ## The Switchboard
 The Switchboard is an informationpunk universe characterized by esoteric mathematics, magic, magic-adjacent ritualism and grand exploration. Striders gifted powers over information itself via the Strider Protocol take grand sojourns across an endless sky, searching for secrets, powers and new frontiers.
 
-Cities and settlements dot the various spherical planet-like regions that hang in stately appointments, stars moving between them in grand processions, sections of the sky cordoned off by supernaturally deep void. And the farther out you go, the farther you Stride, the further you stretch your mind - as a net - capturing swathes of the infinite, you only realize how much more there is to see, and how much stronger there is to get.
+Cities and settlements dot the various planets that hang in stately appointments, stars moving between them in grand processions, sections of the sky cordoned off by supernaturally deep void. And the farther out you go, the farther you Stride, the further you stretch your mind - as a net - capturing swathes of the infinite, you only realize how much more there is to see, and how much stronger there is to get.
 
 And Striders and other Striders make names for themselves, and as they exist, they grow weightier and sharper, leaving deeper grooves on the Switchboard as a whole, and like a tapestry or a relief sculpture, slices of it tell of the story of those who traversed it, eyes pointed upwards, in relentless skywards pursuit.
 

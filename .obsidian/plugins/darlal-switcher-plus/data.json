@@ -5,8 +5,8 @@
   "useActiveTabForSymbolsOnMobile": false,
   "symbolsInLineOrder": true,
   "editorListCommand": "edt ",
-  "symbolListCommand": "@",
-  "symbolListActiveEditorCommand": "$ ",
+  "symbolListCommand": "$",
+  "symbolListActiveEditorCommand": "@",
   "workspaceListCommand": "+",
   "headingsListCommand": "#",
   "bookmarksListCommand": "'",
@@ -96,7 +96,7 @@
         "id": "Heading",
         "mode": 4,
         "label": "headings",
-        "isActive": false,
+        "isActive": true,
         "isAvailable": true
       },
       {
@@ -132,28 +132,28 @@
         "mode": 4,
         "label": "file cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       {
         "id": "canvas-node-text",
         "mode": 4,
         "label": "text cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       {
         "id": "canvas-node-link",
         "mode": 4,
         "label": "link cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       {
         "id": "canvas-node-group",
         "mode": 4,
         "label": "groups",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       {
         "id": "backlink",

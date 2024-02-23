@@ -20,7 +20,7 @@ As a result, *any* modification to the Lattice - intentional or otherwise - beco
 
 Truly integrated bodily modification is therefore rare. While cybernetics and prostheses are possible, and decorative elements may be added or altered, these are often more like a costume to the Strider, one that they can cast off if they so choose. The costume may become frayed or discarded during battle without damaging the Strider, as it isn't an inherent part of the self.
 
-As an example, a Strider with wings travelling too near a Law Star may find that while their core can endure the pounding radiation of random information, their adornments cannot, and will dissolve under the barrage of the Law Star, leaving the Strider wingless.
+As an example, a Strider with wings travelling too near a armillary star may find that while their core can endure the pounding radiation of random information, their adornments cannot, and will dissolve under the barrage of the armillary star, leaving the Strider wingless.
 
 To experience true integration, a Strider must overcome some burden, must accept some theretofore unaccepted truth, must reach a world-shattering ephiphany that shakes the foundations of their beliefs. Under such a metaphysical crucible, the Strider's philosophy - and therefore their bodily self - becomes mutable. A Strider may not always choose to change their physical appearance after such an event, but many do so (either intentionally or unintentionally) as a result of this life-changing experience.
 

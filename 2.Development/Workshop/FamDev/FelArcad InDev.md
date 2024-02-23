@@ -121,6 +121,19 @@ Fel-Arcad generally make it a point not to punish offenders for crimes against t
 
 Offences committed outside an arcology's jurisdiction against a member of that arcology are handled somewhat differently. Investigations are carried out to find the nature of the offence and the perpetrators, and then this information is passed over the arcology's External Affairs. EA contacts relevant parties that the perpetrator is subject too - such as another arcology in the case of a Fel-Arcad offender - and issues their demands regarding a desire for punishment and the degree of severity in its dispensation. Noncompliance is met with sanctions from the Fel-Arcad, often in the form of trade refusal by the relevant arcology and other arcologies that feel so inclined. The economic value of the Fel-Arcad sees that their demands are often answered sooner rather than later.
 
+## #08 Rituals and Periodicals
+Yes, there are numerous written materials and academic studies that explore the relationship between conflict and the creation or evolution of cultures. Here are a few examples:
 
+1. **"The Art of War" by Sun Tzu**: This ancient Chinese military treatise, written by Sun Tzu, discusses strategies and tactics for warfare. It has influenced not only military thought but also aspects of Chinese culture and philosophy.
 
+2. **"Culture and Conflict Resolution" edited by Kevin Avruch, Peter W. Black, and Joseph A. Scimecca**: This book explores how culture shapes conflict resolution processes and outcomes. It examines case studies from various regions and cultural contexts to illustrate the complex interplay between culture, conflict, and peacebuilding.
 
+3. **"Violence and Social Orders: A Conceptual Framework for Interpreting Recorded Human History" by Douglass C. North, John Joseph Wallis, and Barry R. Weingast**: This book provides a comprehensive framework for understanding the role of violence and conflict in shaping social orders throughout history. It examines how institutions, including cultural norms and beliefs, emerge in response to conflicts over power and resources.
+
+4. **"Cultures of War: Pearl Harbor/Hiroshima/9-11/Iraq" by John W. Dower**: This book explores the cultural dimensions of war and conflict through the lens of four significant historical events: the attack on Pearl Harbor, the atomic bombings of Hiroshima and Nagasaki, the September 11 attacks, and the Iraq War. It analyzes how these events have shaped national identities, narratives, and memory.
+
+5. **"Blood and Belonging: Journeys into the New Nationalism" by Michael Ignatieff**: In this book, Ignatieff examines the relationship between nationalism, identity, and conflict in the context of post-Cold War geopolitics. He explores how conflicts over ethnicity, religion, and territory contribute to the formation of national identities and cultural boundaries.
+
+6. **"Cultural Anthropology: Global Forces, Local Lives" by Jack David Eller**: This textbook provides an overview of cultural anthropology, including discussions on the role of conflict and globalization in shaping cultural diversity. It examines how conflicts over resources, power, and ideology influence cultural practices, identities, and social change.
+
+These are just a few examples, and there is a vast array of literature and scholarly research available on the topic of conflict and its impact on the formation, evolution, and resilience of cultures around the world.

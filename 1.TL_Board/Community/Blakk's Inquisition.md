@@ -20,12 +20,12 @@ There's another question I want to ask, but I'll read the entry on the Void firs
 	Correct, the Void would speed them up based on their position 
 
 ---
->Also, another thing, in the regions, are emergent properties a thing? (Skywards Pursuit) (edited)
->I find it a little hard to believe every single one of every single property that exists within the region is governed by its own equation that do not interact with each other in any way.
+>Also, another thing, in the planetss, are emergent properties a thing? (Skywards Pursuit) (edited)
+>I find it a little hard to believe every single one of every single property that exists within the planets is governed by its own equation that do not interact with each other in any way.
 
 	I don't really understand the question, but here goes.
 
-	I'm guessing the question is asking; suppose three equations, one controls wind patterns, one controls rain frequency, one controls sunlight distribution, do these equations interact in a manner that produces additional properties? What would these properties be? The model for a regional equation is a box of gears, each gear controls something that dictates the nature of the region. Nothing needs to 'emerge' from the interactions of these gears as everything that *could* is already governed by aforementioned gears. 
+	I'm guessing the question is asking; suppose three equations, one controls wind patterns, one controls rain frequency, one controls sunlight distribution, do these equations interact in a manner that produces additional properties? What would these properties be? The model for a planetary equation is a box of gears, each gear controls something that dictates the nature of the planets. Nothing needs to 'emerge' from the interactions of these gears as everything that *could* is already governed by aforementioned gears. 
 
 ---
 > Also, if all the memories of a Strider is packed onto a ribbon, and ribbons are folded to create objects, is it then possible to fold the memory of something into that thing? (The Hands As Chalk)
@@ -33,16 +33,16 @@ There's another question I want to ask, but I'll read the entry on the Void firs
 	As chalk works now, anything can be unwoven using the right equation, and refolded into something else using another equation. I could fold my arm into a leg if I had the right equations.
 
 ---
-> A barrier or membrane, around the regions...
-While you say that the anchorage superstructures keep the region equation themselves stable, I like to think more that they simply keep the surrounding membrane intact. 
-In their absence, the pull of the Void rips the region apart.
+> A barrier or membrane, around the planets...
+While you say that the anchorage superstructures keep the planet equation themselves stable, I like to think more that they simply keep the surrounding membrane intact. 
+In their absence, the pull of the Void rips the planet apart.
 (Skyward Pursuit)
-Otherwise it'd be pretty hard to explain why regional equations need a link to the Wellspring, but absolutely nothing else does.
-Also, do regions move in respect to each other?
+Otherwise it'd be pretty hard to explain why planetary equations need a link to the Wellspring, but absolutely nothing else does.
+Also, do planets move in respect to each other?
 
-	Anchorage superstructures connecting the Wellsprings to the regional equation of a region descended from it are what keeps the region intact. The regional equation also maintains the membrane that keeps the region - again - intact. 
+	Anchorage superstructures connecting the Wellsprings to the planetary equation of a planet descended from it are what keeps the planet intact. The planetary equation also maintains the membrane that keeps the planet - again - intact. 
 
-	I don't see why there's an issue with regions needing links to Wellsprings when nothing else does. Regions are descended *from* the Wellsprings. It is designed that way and I think it is more than fine.
+	I don't see why there's an issue with planets needing links to Wellsprings when nothing else does. planets are descended *from* the Wellsprings. It is designed that way and I think it is more than fine.
 
 ---
 > Also, quick question: You mentioned in (Information Tangibility) that all qualities of something are intrinsic.
@@ -85,6 +85,6 @@ You say they can discard speed by turning it into heat. But that'll probably kil
 
 	I don't imagine a strong Strider 'looks' that different from a weak one. I don't see why they would. As for how it manifests, having information that is desired does provide what is - egregiously simply put - an almost numerical multiplier to a Strider's strength. Knowing things does indeed make a Strider powerful in the way being muscular or swift does.
 
-	Striders survive Striding because Striding is survivable. That's all there is to it. The SProt grants the power to Stride as well as the means to survive all that Striding brings. I encourage you to reread the SProt document again. I don't see why doing it on a region (planet) would 'tear them to bits' or have any effect on the planet. As well as the point on discarding speed as heat killing them.
+	Striders survive Striding because Striding is survivable. That's all there is to it. The SProt grants the power to Stride as well as the means to survive all that Striding brings. I encourage you to reread the SProt document again. I don't see why doing it on a planet (planet) would 'tear them to bits' or have any effect on the planet. As well as the point on discarding speed as heat killing them.
 
 	Something I encourage you to remember is that we are building a fictional universe. Your question of "Why doesn't the Strider Protocol obey Newton's Third Law, Thermodynamics or all the other things that plague near-light-speed travel?" is just one door down from "Why is the Strider Protocol a thing?" It is a thing because the story needs it, and the story needs it to be a certain way for it to serve as optimally as a narrative element. We once again reach the issue of pedantry. We could go back and forth to reach a 100% realized physics-accurate version of the SProt, as soon you can tell me how that positively affects the story.

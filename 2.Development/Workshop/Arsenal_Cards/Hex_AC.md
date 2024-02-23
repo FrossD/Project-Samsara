@@ -18,7 +18,7 @@ Having spent much of their life studying behind desks only to be forced into the
 
 ## T1 - Polarized Armaments
 ### Woven Armaments - White
-**Yama Cutter** - Longsword
+**Yama Cutter** - Woven - Longsword
 Axle: Tainted Tek | Lesser Eye of Shadri
 *"The Stardrip Cycle is a magnificent thing; right there in the Void, pure chalk unimaginable, spilling from cracks and erupting from the Onina. I had doubted the Current theory, but not anymore."*
 	Chalk folded and folded and folded in upon itself until it becomes a length of contained hyperweave - pure potential, densely packed to reach unrivalled hardness, and honed by the caustic depths to a lacerating razor-edge. With it, Ellaine cuts through foe and falsehood alike.
@@ -63,7 +63,7 @@ Axle: Tainted Tek | Lesser Eye of Shadri
 *"Let me show you what I have learnt."*
 	The Eye of Shadri taken from the Void has granted Ellaine enhanced Weavesight, allowing them to peer deep into the workings of all things calcic. With their Perfect Strikes, they can accumulate chalk from the Stardrip Cycle, and empower the Yama Cutter to cut through chalk phenomena, including living targets, hurled attacks, relics and rituals. The effect varies, but in some sense they are rendered inert and incapable of harm for a moment if they are able to self-correct, or entirely if not.
 
-**Yama Cutter: Vlad Strikes** - Cado, Siph, Induc
+**Yama Cutter: Siphon Strikes** - Cado, Siph, Induc
 Axle: Spectrum Charge | Witchfire Synthesis
 Axle: Tainted Tek | Lesser Eye of Shadri
 *"Know that the path understanding is rife with blades and poisons. Many of them are wielded by you, against yourself."*
@@ -86,7 +86,7 @@ Axle: Tainted Tek | Lesser Eye of Shadri
 
 In the times of the Danseers and the battles against the Minds, the Skydancers reigned over the Starwylds, and on star-gifted wings did they traverse its span. Skydancer Shadri, Keeper of Ledgers, found themselves thirsty for discovery, and sought to learn of the entirety of the Dancirah in her lifetime. They did so by purging their eyes, in exchange for a new kind of sight; weave infused with their mandate, eyes that traversed the length of the Wylds, transmitting back all they discovered to the mistress sitting atop the high tower.
 
-When the Refrain claimed the Danseers, the Eyes of Shadri were lost to the depths of the Dancirah, some captured in Vaults, others obliterated by the scorching law stars, more still encased in wellsprings to not be seen for thousands of processions. But some found their ways into the hands of the many denizens of the Switchboard, granting them a sight beyond mere sight.
+When the Refrain claimed the Danseers, the Eyes of Shadri were lost to the depths of the Dancirah, some captured in Vaults, others obliterated by the scorching armillary stars, more still encased in wellsprings to not be seen for thousands of processions. But some found their ways into the hands of the many denizens of the Switchboard, granting them a sight beyond mere sight.
 
 But Ellaine's differs, in that it passed through the flux storms and the Challenger Horizon, becoming suffused with the caustic stardrip. It did not stop them from coming to wield it however, suspending the eye of the fallen Skydancer between the apex of their horns, a second mouth through which they drank of the world around them.
 
@@ -95,7 +95,7 @@ The Lesser Eyes of Shadri grants Ellaine sight beyond sight, a deep understandin
 - Offensive
 **Hyperwoven Scorn** - Unrav
 *"Focus."*
-	The eye suspended between Ellaine's horns charges, summoning forth colossal quantities of chalk from the end of the Stardrip Cycle and subjecting it to destabilizing folding, forming a measure of hyperweave that surges forth as an incinerating death ray. Targets struck by it are scorched with pure chalk as though kissed by a law star, and are unraveled so heavily as to impair any further chalkweaving for considerable periods of time.
+	The eye suspended between Ellaine's horns charges, summoning forth colossal quantities of chalk from the end of the Stardrip Cycle and subjecting it to destabilizing folding, forming a measure of hyperweave that surges forth as an incinerating death ray. Targets struck by it are scorched with pure chalk as though kissed by a armillary star, and are unraveled so heavily as to impair any further chalkweaving for considerable periods of time.
 
 - Defensive
 **Shadri's Adaptation**
@@ -111,15 +111,15 @@ The Lesser Eyes of Shadri grants Ellaine sight beyond sight, a deep understandin
 **(N/A)**
 
 ## T2 - Polar Black
-### Point Collapse
+### Force Imposition
 **Spherical Depth Manifestation: Black**
 Axle: Tainted Tek | Lesser Eye of Shadri
 *"Hardly delicate, but no knowledge - or power from it - is wasted."*
 	With their excellent command of the depths, Ellaine can conjure a spherical manifestation of local depth, causing a powerful distortion to space, inducing a **pull**. Ellaine's proficiency, however, allows them to move this sphere through space at will, as well as fire it along trajectories.
 	- When Ellaine's **Lesser Eye of Shadri** is active, the sphere can be set to pursue targets.
 
-### Point Expulsion
 **Spherical Reverse-Depth Manifestation: White**
+Axle: Tainted Tek | Lesser Eye of Shadri
 *"Harnessing depth is required to harness reverse-depth. I am told harnessing reverse-depth is the easier of the two, but my time in the Dark attuned me to both - far quicker than most."*
 	With their excellent command of the depths, Ellaine can conjure a spherical manifestation of local depth, causing a powerful distortion to space, inducing a **repel**. Ellaine's proficiency, however, allows them to move this sphere through space at will, as well as fire it along trajectories.
 	- When Ellaine's **Lesser Eye of Shadri** is active, the sphere can be set to pursue targets.
@@ -166,9 +166,8 @@ Ellaine's Horizon Ritualism makes use of their **witchfire**, chalk and the dept
 	Ellaine siphons witchfire and prepares a ritual, manifesting as a brand on their fingertips. Upon touching and branding a target with it, the subject will suffer from the effects of the ritual until it decays or is cleared. For a brief moment upon being branded, all vitality siphoned by active witchfire is shared in a ratio determined by Ellaine between themselves and the target. The witchfire siphoning mends damage on the target and replenishes calcic reserves.
 	- If **Ellaine's Riftlock** is active, the tonic healing is distributed over an area around them.
 
-
 ### Aural Riposte
-**Yama Cutter: Realmstrikes** - Cado, Siph, Unrav(W-B), Comp(B-W)
+**Yama Cutter: Realm Strikes** - Cado, Siph, Unrav(W-B), Comp(B-W)
 Axle: Spectrum Shift | Witchsteps
 *"There was a moment where, at the top of the tallest Onina in Isalveh, I pierced the Horizon and felt instantly the low hum of the Astrolabe. It told me what I already knew; that great truths lay in the Void, and they had scarred me for all to see."*
 	When transiting from the Dancirah to Isalveh or vice versa, Ellaine is able to make an attack upon emerging, a flurry of lacerating cuts that siphon power from their targets, unravel or sunder their computational lines based on the direction of transit, and replenish **witchfire** for them.

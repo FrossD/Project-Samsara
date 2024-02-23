@@ -1,48 +1,42 @@
 {
   "dayCounts": {
-    "2023/10/21": 761,
-    "2023/10/25": 466,
-    "2023/10/27": 898,
-    "2023/10/28": 3192,
-    "2023/10/29": 1469,
-    "2023/10/30": 3030,
-    "2023/11/1": 49,
-    "2023/11/2": 246,
-    "2023/11/3": 117,
-    "2023/11/5": 1369,
-    "2023/11/6": 721,
-    "2023/11/7": 122,
-    "2023/11/9": 2946,
-    "2023/11/10": 4,
-    "2023/11/11": 0,
-    "2023/11/12": 340,
-    "2023/11/13": 4,
-    "2023/11/14": 1440,
-    "2023/11/15": 3317,
-    "2023/11/17": 366,
-    "2023/11/18": 0,
-    "2023/11/19": 2000,
-    "2023/11/20": 2101,
-    "2023/11/21": 419,
-    "2023/11/22": 525,
-    "2023/11/23": 2180,
-    "2023/11/24": 2527,
-    "2023/11/25": 99,
-    "2023/11/26": 1122,
-    "2023/11/27": 762,
-    "2023/11/28": 2271,
-    "2023/11/29": 235,
-    "2023/11/30": 266,
-    "2023/11/31": 701
+    "2024/1/16": 2,
+    "2024/1/19": 55,
+    "2024/1/20": 1029,
+    "2024/1/21": 532
   },
   "todaysWordCount": {
-    "1.TL_Board/Meta/Samsara 3 -.md": {
-      "initial": 0,
-      "current": 2
+    "2.Development/Workshop/Families/Prop.The_Families.md": {
+      "initial": 2479,
+      "current": 2479
     },
-    "1.TL_Board/Meta/Samsara 3 - A Year's End.md": {
-      "initial": 2,
-      "current": 701
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Index.md": {
+      "initial": 11,
+      "current": 11
+    },
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test.md": {
+      "initial": 0,
+      "current": 196
+    },
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test 2.md": {
+      "initial": 0,
+      "current": 322
+    },
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test 3.md": {
+      "initial": 1,
+      "current": 6
+    },
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Title Card.md": {
+      "initial": 32,
+      "current": 32
+    },
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md": {
+      "initial": 2795,
+      "current": 2795
+    },
+    "2.Development/Workshop/Families/The Fel-Arcad.md": {
+      "initial": 50380,
+      "current": 50389
     }
   }
 }

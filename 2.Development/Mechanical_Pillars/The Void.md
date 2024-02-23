@@ -1,6 +1,6 @@
 # The Void
 ## Preamble
-As described extensively in [[The Skywards Pursuit]], the Switchboard is a vast space filled with ever-bright Law Stars, the ancient regions, and the cradles that birth them, as well as the innumerable smaller points of interest and phenomena that dot it. However, lurking between - and yet under - the mighty sky is a yet mightier deep, lurking just out of sight by means of physics. It's nature pulls all information towards it, and this pull affects the Switchboard that rests above it. It is an existence of both unmatched power and treachery.
+As described extensively in [[SB_Astromechanics]], the Switchboard is a vast space filled with ever-bright armillary stars, the ancient planets, and the cradles that birth them, as well as the innumerable smaller points of interest and phenomena that dot it. However, lurking between - and yet under - the mighty sky is a yet mightier deep, lurking just out of sight by means of physics. It's nature pulls all information towards it, and this pull affects the Switchboard that rests above it. It is an existence of both unmatched power and treachery.
 
 It is called the Deep, the Challenger Dark; the Void.
 
@@ -10,12 +10,12 @@ The Void is multifaceted in nature, and we will analyze all of these facets in t
 **The Shape of the Void**
 The Void possess a global curvature that grants it its shape, and this curvature dictates what can occupy the Void, as well path taken when passing through it. The global curvature additionally slows down anything attempting to pass through it, via its effect of global deceleration, which exists as a result of it's curvature. 
 
-The presence of Information induces information density, which further warps the Void but a considerably smaller scale, causing 'local curvature', and the Void itself warps and bends on smaller scales - relative to the global scale - causing flux storms ([[The Skywards Pursuit]]). Throwing an object out into inter-regional space should result in consistent deceleration then, but due to small dips, dings, curves and bends along the way, it is not so.
+The presence of Information induces information density, which further warps the Void but a considerably smaller scale, causing 'local curvature', and the Void itself warps and bends on smaller scales - relative to the global scale - causing flux storms ([[SB_Astromechanics]]). Throwing an object out into interplanetary space should result in consistent deceleration then, but due to small dips, dings, curves and bends along the way, it is not so.
 
 **The Depth of the Void**
 Independent of the Void's behavior in three-dimensional space is it's depth in the fourth dimension, functioning as a massive cave system or the rest of a waterbody below the serene, flat surface. 
 
-	It additionally explains a plothole of why objects with zero momentum (such as Law Stars) don't fall into the Void, but are rather seemingly affixed in place. It is due to the shallowness of the Void at that specific region, ignoring the curvature.
+	It additionally explains a plothole of why objects with zero momentum (such as armillary stars) don't fall into the Void, but are rather seemingly affixed in place. It is due to the shallowness of the Void at that specific region, ignoring the curvature.
 
 A base depth of Void needs establishing. A Void a kilometer deep at it's shallowest allows neutron stars to be somewhat above 'v-level'. A Strider however, is not a kilometer tall and so falling even into impossibly shallow Void means loss to the Challenger Dark. This is why the Strider Protocol is essential; it allows moving too fast - much like a stone skipped across water - to fall into the Void.
 
@@ -35,14 +35,14 @@ However, if information produces density which produces curvature, then it follo
 
 	The problem now is what negative information even is, in-universe.
 
-Those who lack the Strider Protocol are able to learn Depthstriding. Unlike the Strider Protocol which is [[On Birthing and Being#Hereditary Protocols|hereditary]], the Depthstride can be taught, and learning to conjure negative information and manipulate spatial curvature grants access to the rest of the powers available to wielders of the Void. Learning the Depthstride - however - 'locks' you out of using calcic or chalk-based powers, such as the Weave Protocol, Teks and Rituals. 
+Those who lack the Strider Protocol are able to learn Depthstriding. Unlike the Strider Protocol which is [[Birthing and Being#Hereditary Protocols|hereditary]], the Depthstride can be taught, and learning to conjure negative information and manipulate spatial curvature grants access to the rest of the powers available to wielders of the Void. Learning the Depthstride - however - 'locks' you out of using calcic or chalk-based powers, such as the Weave Protocol, Teks and Rituals. 
 
 	That said, mechanisms exist to allow an amount of overlap between Chalk and Depth Striders. Chalkstriders can use some of the unique horticulture found in the Challenger Dark for their rituals, while Depthstriders can wield chalk-reliant implements such as relic and Slates, though with expectedly reduced proficiency.
 
 #### The Depthstride vs. The Strider Protocol
 While the Strider Protocol functions by amassing Chalk and flaring it as forward propulsion, the Depthstride functions by inducing localized curvature to produce forward movement. This however means that users of the Strider Protocol are susceptible to the nature of the media they are travelling through. The curvature of the Void gradually decelerates the Stride, and it is the speed of the Stride that prevents striders from being lost to the depths of the void. Depthstriders can simply induce anti-curvature and move across pockets of Void without issue. 
 
-> As a narrative point, early Chalkstriders with no knowledge of the Void could have assumed that inter-regional space possessed something akin to 'air-resistance' that slowed down the Stride, produced by some unknown fluid. This was the case until an Einstein-analogue came up with a more complete description of mechanics by somehow measuring the Void. Historically this was done by measuring the curvature of light from a star 'around the sun' (ask Hex for clarification) during an eclipse. Similar thing can be done (leaning towards 'should be done') with information flow.
+> As a narrative point, early Chalkstriders with no knowledge of the Void could have assumed that interplanetary space possessed something akin to 'air-resistance' that slowed down the Stride, produced by some unknown fluid. This was the case until an Einstein-analogue came up with a more complete description of mechanics by somehow measuring the Void. Historically this was done by measuring the curvature of light from a star 'around the sun' (ask Hex for clarification) during an eclipse. Similar thing can be done (leaning towards 'should be done') with information flow.
 
 > As a further side note, this is a very workable way to introduce Vahn as a character in mythos, as the arrival of someone from functionally, down under, radically shakes up known science, prompting new inquiry.
 
@@ -98,7 +98,7 @@ Some things can't be Given however, and what can't be given must be Taken.
 The issue of specificity is solved by Void Drifters, who's power to Take extends beyond Demanding, to the power to Shape. With it, you can obtain exactly what is desired from the Void.
 
 ### Wielding the Void
-![[On Weave and Warfare#Depthstrider Combat]]
+![[Weave and Warfare#Depthstrider Combat]]
 
 ## The Void as a Being
 There was an initial idea for the Void as a Being that went somewhat like this; there was an amount of direction in the behavior of the Void that belied some kind of elementary intelligence. Imagine laying out a handful of rocks, and they constantly skittered to align themselves in straight line across the east-west direction. They are still rocks, but there's something more to them - something internal or external - directing them to behave in a manner that appears calculated, but cannot possibly be as the subject is rocks.
@@ -107,7 +107,7 @@ Similarly is the Void. When using the power to Give, what governs what emerges f
 
 >You could ask - for example - for when a bus will arrive, and you may receive a bus timetable, or maybe a photo of said bus at an intersection you know, or a promise that you won't miss it, or you may simply receive patience.
 
-You could assume that it is random. For the most part, it seems to be. But another way to look at it is to assume every 'transaction' with the Void is a product of an innumerable number of variables, all with varying amounts of influence on the final outcome. These variables could be nigh anything; the position of two random law stars, the body temperature of the person being Given, the timbre of their voice, the depth of the Void at that location, what was eaten by a person at a randomly generated coordinate - and all these pieces of information undergo calculation to produce a final conclusion.
+You could assume that it is random. For the most part, it seems to be. But another way to look at it is to assume every 'transaction' with the Void is a product of an innumerable number of variables, all with varying amounts of influence on the final outcome. These variables could be nigh anything; the position of two random armillary stars, the body temperature of the person being Given, the timbre of their voice, the depth of the Void at that location, what was eaten by a person at a randomly generated coordinate - and all these pieces of information undergo calculation to produce a final conclusion.
 
 The most significant variable of all however, is one emergent from the Void itself, that in itself contains sub-variables, one of which is the outcomes of previous interactions with the Void, another that induces outcomes which produce forward progression, and a final third sub-variable discussed further down. This forward progression sub-variable is abstract in what it governs, but it ultimately works towards providing those who interact with the Void a means to - ultimately - keep on living, pressing on in the realization of their goals. This variable is a mathematical push on the small of the back, urging void-wielders to keep pursuing all it is the endeavor to achieve. 
 
@@ -158,7 +158,7 @@ Both philosophies  - despite their differences - hold a core belief in the power
 The Drift Protocol is answering a call of the Void that tugs at the mind of any who have plumbed the depths of the Void. It is a call of Vahn themselves, calling all to come and witness what awaits in the depths; all that is to be seen, all that is to be learned, all that is to be fought, all that is to be explored - things to be done that are doable nowhere else, all working towards honing the doer in the image of the Void that tests them. The journey terminates at the final resting place of Vahn, and lying with him are secrets untold. This is the Pilgrimage, and those who complete it are made into the Void Drifters. The trial that precedes becoming a Drifter crushes many, but those that survive have their footfalls resound across the expanse of the Switchboard.
 
 ### Void Drifter Powers
-Void Drifters obtain the power to Shape creations from the Void, the power to Stride across the previously impassable [[The Skywards Pursuit#The Veils |Veils]] that cordon off the Switchboard Sky, and true mastery of the depths, allowing wielding Void to their purposes with immense proficiency.
+Void Drifters obtain the power to Shape creations from the Void, the power to Stride across the previously impassable [[SB_Astromechanics#The Veils|Veils]] that cordon off the Switchboard Sky, and true mastery of the depths, allowing wielding Void to their purposes with immense proficiency.
 
 	As a snap thought, do Void Drifters cross the Veils via forming wormholes? Explore this idea later.
 

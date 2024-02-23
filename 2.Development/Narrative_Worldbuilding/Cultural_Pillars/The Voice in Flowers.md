@@ -117,8 +117,8 @@ The bloom code for the tiered flowers is merely their numerical tier.
 Before the table of the final four, we must discuss how they differ. The final four flowers of the floral alphabet are the **Family Blooms**, flowers that are a part of each family's canon and symbology, relating to its origin or significant events in its history. 
 
 These flowers appear only very specific spawn criteria, relating to the family they represent in some way. These conditions - as of now - are as follows;
-- Formed alongside a descendant of a notable figure in family formed via the [[On Birthing and Being#The Ritual of Conjugation|Ritual of Conjugation]].
-- Spawn immensely rarely on the Astrolabic Region from which the family can trace their origin.
+- Formed alongside a descendant of a notable figure in family formed via the [[Birthing and Being#The Ritual of Conjugation|Ritual of Conjugation]].
+- Spawn immensely rarely on the astrolabic sphere from which the family can trace their origin.
 - Weaves itself from the latent chalk when the core doctrine of the family is 'splendidly exhibited'. Better put, forming when when an event occurs that is an example of the perfected exhibition of that family's doctrine.
 
 Due to their rarity, they are all **Tier 8** blooms, making them capable of fueling the pinnacle of rituals, or communicating truly monumentous feeling across with the bouquet-speak.

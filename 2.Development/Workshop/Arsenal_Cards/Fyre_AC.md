@@ -127,7 +127,7 @@ When starfire is depleted, starfire flames in the environment can be **re-absorb
 **Starsurge** - Induc, Siph
 *"Everything, everyone, is a resource out here."*
 Axle: Flashcharge
-	By expending an amount of **flashcharge**, Cendyr is able to **replenish his reserves** of starfire flames. By expending a bit more of his flashcharge energy, he can form ashflame directly within his straits as well.
+	By expending an amount of **starfire and ashflame**, Cendyr is able to **replenish his flashcharge**. This conversion isn't massively efficient, but it restores flashcharge energy immediately, bypassing the need to accumulate it over time.
 	- When **Starsurge** is cast, Cendyr unleashes a corona of twin starfire and ashflame around him, incinerating nearby targets and applying their relevant effects.
 
 ### Quis
@@ -165,11 +165,6 @@ Axle: Tek | Starfire Conduit
 
 ## T4 - Grand Calcic
 ### Rituals
-- **Cendyr's Pride: Opening Act** - Cast
-Axle: Tek | Starfire Conduit
-*"I made this one to pass a class. And to end things quickly. But mainly to pass a class."*
-	The caster creates a site of ritual geometry and expends components, including a vast majority of the starfire reserves. Upon successful cast, all starfire fed to the ritual is unwound and converted into raw chalk that saturates the local lattice. This huge infusion of chalk allows for a **full recharge** of the subject's **Flashcharge**.
- 
 - **Arcology Ritualism: Leyndell Squall** - Channeled - Induc, Siph
 Axle: Tek | Starfire Conduit
 *"I hate to see what Spyndl has become, but perhaps it is what we deserve. Perhaps something will rise from this ash, but I am not hopeful."*
@@ -184,10 +179,10 @@ Axle: Tek | Starfire Conduit
 	- Is a leader of some regard in a litany of Switchboard organizations
 	- Bears a Title
 	- Wields multiple Teks
-	- Has performed or been a part of a structural cast
+	- Has performed or been a part of a structural or ledgerial cast
 
 **Encendyr's Flare** - Weft Burst - Induc, Brch, Unrav, Siph
 Axle: Tek | Starfire Conduit
 "*Name something after yourself, so they'll know who to say did them in.*"
 	Cendyr forms hand-seals and mocks drawing a bow, feeding it the power of the flash, and starfire and ashflame from his Tek. This technique will use **a third** of the Flash Protocol's charge by default, but can be **charged** up until the **entirety of the Flash Protocol** is suffused into the flash-woven bow. Once sufficiently charged, the bow fires a colossal arrow of starfire and ashflame, spiraling in upon itself, travelling at wicked speed to strike a target, inflicting both classes of burn, breaching defenses, heavily unravelling the target and siphoning chalk from them back to Cendyr.
-	- The siphoning effect of the Encendyr's Flare siphons charge **directly into the Flash Strait**, allowing further casting of Flash Protocols and usage of abilities that expend flashcharge.
+	- The siphoning effect of the Encendyr's Flare siphons charge **directly into the starfire reservoirs present in the body**, allowing for offensively expending flashcharge to replenish the power of his Tek.

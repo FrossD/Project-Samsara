@@ -1,5 +1,5 @@
 # Arsenal Card: Operator Adven Ventura
-His white-burned hands and feet speak of his age, his filled cabinets speak of his feats, but his blank, marble stare belies something far greater. For one cursed to be old in a profession where most die young, he has seen the rise and fall of many, lived through the**** greatest times in the modern Dancirah, and proved that the doctrine of Spyndl still burns powerfully through all these processions. And the Dancirah has seen many a man and creed, but Ventura is here, and they are not. Boasting infamous **marksmanship** and battle-honed **chalkweaving**, it is not that Ventura is a force to be reckoned with, but rather the yardstick by which reckon-worthy forces are measured. 
+His white-burned hands and feet speak of his age, his filled cabinets speak of his feats, but his blank, marble stare belies something far greater. For one cursed to be old in a profession where most die young, he has seen the rise and fall of many, lived through the greatest times in the modern Dancirah, and proved that the doctrine of Spyndl still burns powerfully through all these processions. And the Dancirah has seen many a man and creed, but Ventura is here, and they are not. Boasting infamous **marksmanship** and battle-honed **chalkweaving**, it is not that Ventura is a force to be reckoned with, but rather the yardstick by which reckon-worthy forces are measured. 
 
 ## T0 - Martial Disciplines
 Rigorous training in the ranks of the Spyndl Academy's Operator school, further honing out in the field and gathering experience in his many travels has taught and honed Operator Adven Ventura into a lethal weapon. Proficiency with fists, martial weapons and firearms has granted him supreme confidence in engaging in all forms of combat against any type of target.
@@ -39,7 +39,7 @@ Rigorous training in the ranks of the Spyndl Academy's Operator school, further 
 *"My head forever hangs low."*
 	Ventura takes a stance, and then swings the Oblige in a wide arc, the mechanics of the praxlance assembly mirroring the strike with a follow-up wave of cutting chalkweave. The sheer calcic force is enough to cleave through even the strongest targets. 
 
-**Mark of  Office: Sunderblast** - Brch, Induc, Unrav
+**Mark of Office: Sunderblast** - Brch, Induc, Unrav
 *"Bring low all baseless pride."*
 	Ventura takes a stance, and arms the firing mechanisms built into the praxlance. From the blade roars forth concentrated blasts of hyperweave projectiles, fired in bursts and spreads. Targets struck are heavily unraveled in an instant, as well as inflicted with **inductive unraveling** that sees the effect continue and escalate with time. 
 
@@ -47,7 +47,7 @@ Rigorous training in the ranks of the Spyndl Academy's Operator school, further 
 **Mark of Office: Subjugation** - Brch, Induc, Prax
 *"The path before you is still worth walking, even if you can see it ends lower than others."*
 	Slamming the end of the Oblige groundward releases an incapacitating shockwave that inflicts inductive doctrinal damage on the knees of sufferers, compelling them to fall and be unable to rise momentarily. This cast cannot be performed immediately after use, however the effect lasts longer through the mechanics of praxis, **based on the ill-will held by the target towards the Spyndl Academy**.  
-
+ ^06236d
 - Utility
 **Mark of Office: Dancer-born**
 *"The Current confers post as it sees fit."*
@@ -155,13 +155,14 @@ Axle: Relic Feat | The Sojourner's Tale
 	If Ventura is using a weapon other than the Sojourner's Tale, the effect of **both stances** is triggered, albeit without the latter affects of Ballistics Data gain scaling with accuracy, or reloaded ammunition taking on the properties of oncoming projectiles.
 
 ### Weave Armament
-**(N/A)**
-*"I carry an Operator's full kit; I need nothing else."*
+**Wheelstrider's Stiletto** - Equation - Dagger
+*"A mark of steadfast service and accomplishment, in an age of traitors and failures."*
+	A woven armament spawned from a complex equation, gifted by the Spyndl Wheelhouse to its finest operators. A foot and a half of razor-honed weave down to a point, hilted in an ornate assembly, and never far from the owner's reach, resting sheathed in their memory strait. This weapon can be drawn from thin air at the speed of thought, and used as any other weapon in the wielder's arsenal, and in their roaming across the Dancirah.
 
 ## T3 - Advanced Calcic
 ### Tek
 **Trajectory Calculator**
-*"If you want to go far as an Operator, you want to get a Tek early on. Hopefully a good one, but that's subjective. Mine is simple, maybe even weak, but I've gone as far as I have because I know how to use. Some Striders can breathe fire or throw stars; me? I just never get hit and never miss."*
+*"If you want to go far as an Operator, you want to get a Tek early on. Hopefully a good one, but that's subjective. Mine is simple, maybe even weak, but I've gone as far as I have because I know how to use it. Some Striders can breathe fire or throw stars; me? I just never get hit... and never miss."*
 
 The Trajectory Calculator interfaces directly with the bearer's Weavesight, enhancing its normal functions and granting it new ones. When activated, the Tek draws slide rules in space visible only in bearer, taking the form of graduated gossamer strings. When the slide rules are active, the bearer is able to track the movement of any object in space, as well as anticipate its movement using its present and previous positions. 
 
@@ -199,27 +200,27 @@ Operator Adven Ventura specializes in firearms and ammunition of all kind, and i
 - **Hardpoint Rounds** - Brch, Cado
 Axle: Tek | Trajectory Calculator
 *"Six shots were too few, so I asked for eight. In time, I learned I only needed one."*
-	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data and powers it with calcic inferno. With this, he weaves eight hardpoint calcic rounds, capable of piercing targets and rebounding off of hard surfaces multiple times.
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data, and powers it with calcic inferno. With this, he weaves eight hardpoint calcic rounds, capable of piercing targets and rebounding off of hard surfaces multiple times.
 
 - **Unravelling Rounds** - Brch, Unrav, Induc
 Axle: Tek | Trajectory Calculator
 *"The warning shot. Into their central mass."*
-	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data and powers it with calcic inferno. With this, he weaves eight rounds encased with discordant chalkweave, that burrow into targets and unravel them from within, suppressing their power to weave chalk and use abilities.
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data, and powers it with calcic inferno. With this, he weaves eight rounds encased with discordant chalkweave, that burrow into targets and unravel them from within, suppressing their power to weave chalk and use abilities.
 
 - **Antamaran Rounds**
 Axle: Tek | Trajectory Calculator
 *"Become a student. Let the Great Sky teach you what it knows."*
-	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data and powers it with calcic inferno. With this, he weaves eight rounds with context-specific curvature manipulation ritualism built into their make-up. Upon detecting active curvature manipulation - such as from Depthstrider powers - they trigger the reverse effect in a localized space, counteracting and thus nullifying any ongoing spatial manipulation.
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data, and powers it with calcic inferno. With this, he weaves eight rounds with context-specific curvature manipulation ritualism built into their make-up. Upon detecting active curvature manipulation - such as from Depthstrider powers - they trigger the reverse effect in a localized space, counteracting and thus nullifying any ongoing spatial manipulation.
 
 - **Noble Rounds**
 Axle: Tek | Trajectory Calculator
 *"A Lancaster once told me of an adage among them; 'if you want to go fast, go alone, but going far takes friends'. I found it rather quaint. I can already move fast, and so I can always bring company along for the ride."*
-	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data and powers it with calcic inferno. With this, he weaves eight rounds suffused with the grace of the Sabai, nomad-zealots of the Great Sky. Ventura's Noble Rounds travel slowly and seek out targets chosen by him. On contact, they heal and undo unravelling affects on their targets, as well as dismiss all active inductive effects of his choosing.
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data, and powers it with calcic inferno. With this, he weaves eight rounds suffused with the grace of the Sabai, nomad-zealots of the Great Sky. Ventura's Noble Rounds travel slowly and seek out targets chosen by him. On contact, they heal and undo unravelling affects on their targets, as well as dismiss all active inductive effects of his choosing.
 
-- **Starblight Rounds** - Unrav,
+- **Starblight Rounds** - Unrav, Brch
 Axle: Tek | Trajectory Calculator
 *"The life of a Sil'khan is much like a star; glowing bright, living short, giving life to some and scorching others, and dying in manner that all the Dancirah can see."*
-	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data and powers it with calcic inferno. With this, he weaves eight rounds packed dense with stellar matter, taking the form of virulent hyperweave. Targets struck are lanced through and sundered, being struck with the raw calcic fury of a star, disabling abilities and often knocking targets out of a fight in its entirety.
+	Ventura calls forth his aged, stratified qui-wheel, raging with power. He fills it with components, accumulated Ballistics Data, and powers it with calcic inferno. With this, he weaves eight rounds packed dense with stellar matter, taking the form of virulent hyperweave. Targets struck are lanced through and sundered, being struck with the raw calcic fury of a star, disabling abilities and often knocking targets out of a fight in its entirety.
 
 ## T4 - Grand Calcic
 ### Rituals
@@ -232,7 +233,7 @@ Axle: Tek | Trajectory Calculator
 	- Unravelling is considerably reduced
 	- Immunity to undesired inductive effects
 
-**Ritual Conjuration: Vitric Rounds** - Neg, Cado
+**Ritual Conjuration: Vitric Rounds** - Cast - Neg, Cado
 Axle: Tek | Trajectory Calculator
 *"We vow to never use glass - unless absolutely necessary. You are right to ask who decides in the moment whether it is necessary, and I tell you now that only the winners - no, the survivors - write the after-action reports."*
 	Ventura declares a site of ritual geometry, expanding outwards under his will. He expends components, notably scintillate and pure, sharp glass from the Vitric Shelf, and concocts a single round, filled with honed glass. Targets struck by this round will have their lattices invaded, consumed and subjugated by the wicked, lacerating, simplifying wrath of glass.

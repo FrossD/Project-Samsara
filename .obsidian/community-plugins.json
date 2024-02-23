@@ -8,13 +8,15 @@
   "obsidian-icon-folder",
   "obsidian-kanban",
   "obsidian-excel-to-markdown-table",
-  "obsidian-daily-stats",
   "obsidian-hover-editor",
   "recent-files-obsidian",
   "markdown-table-editor",
   "darlal-switcher-plus",
-  "homepage",
   "chronology",
   "better-word-count",
-  "omnisearch"
+  "omnisearch",
+  "global-search-and-replace",
+  "obsidian-daily-stats",
+  "homepage",
+  "longform"
 ]

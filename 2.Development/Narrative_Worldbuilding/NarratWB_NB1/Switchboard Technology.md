@@ -16,6 +16,7 @@ Is it really of immense relevance how fast moving consumer goods are manufacture
 
 In which we can begin.
 
+
 ## The Piano Design Approach
 The Switchboard piano design approach or paradigm, stems from viewing chalk as it would function in a system as a mean of transmitting will or intent from an emanator actor to receiver system, moving from one context to another. Put more simply, the ribbon nature of chalk facilitates the transmission of disruption; the transformation of change in one context to change in another.
 
@@ -52,22 +53,22 @@ The Strider protocol facilitates traversing considerably long distances extremel
 The Strider Protocol is very much a means for a Strider and their bare essentials that make their person to traverse the Switchboard. As such, the SProt does not make other forms of transportation obsolete.
 
 ### The Strider Protocol, Distance and Society
-The shortening in effective distance between locales has driven Striders to behave in manners that reflect that. Settlements can and often are set up in regions and at distances that make no logistical sense, as logistics simply isn't a concern. It is also reflective of the isolationist nature of Striders as a whole. A 'city' in the Switchboard is often multiple *actual* cities on the same region, separated by vast distances - these distances often valued for social reasons.
+The shortening in effective distance between locales has driven Striders to behave in manners that reflect that. Settlements can and often are set up in regions and at distances that make no logistical sense, as logistics simply isn't a concern. It is also reflective of the isolationist nature of Striders as a whole. A 'city' in the Switchboard is often multiple *actual* cities on the same planet, separated by vast distances - these distances often valued for social reasons.
 
 	Often it is simply easier to participate in a society if people who think too differently or are too different from you simply aren't anywhere you could readily see them. 
 
-This willingness to build far from others also has some roots in actual geography, the willingness to put distances between each other further encouraged by the quirks of a region's regional equation. A group of Striders seeking to establish a settlement will always take the effort to select a locale most desirable to them, rather than factor in nearness to other settlements. 
+This willingness to build far from others also has some roots in actual geography, the willingness to put distances between each other further encouraged by the quirks of a planet's planetary equation. A group of Striders seeking to establish a settlement will always take the effort to select a locale most desirable to them, rather than factor in nearness to other settlements. 
 
-	As an example, New Valkyjria is a region dominated by the Trifold Desert (PHldr); a nearly region-wide expanse of barren ground made of sand, salt and chalk. The Fel-Arcad live closer to the poles, fairly south of them, to obtain water from the melting ice flats closer to the poles. The water provides essential sustenance for their green arcadias and for growing their arcologies. 
+	As an example, New Valkyjria is a planet dominated by the Trifold Desert (PHldr); a nearly planet-wide expanse of barren ground made of sand, salt and chalk. The Fel-Arcad live closer to the poles, fairly south of them, to obtain water from the melting ice flats closer to the poles. The water provides essential sustenance for their green arcadias and for growing their arcologies. 
 
 #### Types of Transportation - Land
 ##### 1. Working Title: The Hyperloop
-Linking most region-side settlements are advanced train analogues known as 'loops' or the hyperloop. Characterized particularly by the distinct appearance of their infrastructure; that of kilometers of glass tubes suspended above the ground, they move at incredible speed, ferrying people and goods across a region.
+Linking most planet-side settlements are advanced train analogues known as 'loops' or the hyperloop. Characterized particularly by the distinct appearance of their infrastructure; that of kilometers of glass tubes suspended above the ground, they move at incredible speed, ferrying people and goods across a planet.
 
 	It's the most common form of transport used by the Grounded.
 
 ##### 2. Wheeled Vehicles
-The most common means of moving within a region-side settlement, containing the typical, recognizable assortment of vehicles ranging from human powered bikes to large, multi-wheeled trucks. The major difference is in design; some of these vehicles are outfitted with engines driven by chalk rituals. 
+The most common means of moving within a planet-side settlement, containing the typical, recognizable assortment of vehicles ranging from human powered bikes to large, multi-wheeled trucks. The major difference is in design; some of these vehicles are outfitted with engines driven by chalk rituals. 
 
 	Expansion is possible here. Vehicles should differe in *some way* in the Switchboard. Find out how. 
 
@@ -75,7 +76,7 @@ The most common means of moving within a region-side settlement, containing the 
 ##### 1. Working Title: The Personal 'Jumpship'
 The most popular form of Strider transportation is the personal jumpship. These are chalk-dependent, ritual-powered near-stride-speed capable craft designed and built with reliability, personalization, speed and utility in mind, aiming to be a vehicle that serves a multitude of functions for Striders, from a leisurely alternative to Striding to a last resort when Striding is no longer possible. A hauler of cargo as well as a formidable mobile weapons platform, an unmatched bridge between one place and another, as well as a home-away-from-home for Striders on protracted jaunts across the Cradles.
 
-Variance in the design of jumpships is equal to that of the variance between individual Striders themselves, though many stick to some elementary design principles; able to seat two to six passengers, able to carry considerable amounts of cargo, able to navigate the skies of regions as well as the greater Switchboard Sky, outfitted with various offensive and defensive measures and boasting - most of all - a considerable amount of 'aftermarket' modularity and customization. 
+Variance in the design of jumpships is equal to that of the variance between individual Striders themselves, though many stick to some elementary design principles; able to seat two to six passengers, able to carry considerable amounts of cargo, able to navigate the skies of planets as well as the greater Switchboard Sky, outfitted with various offensive and defensive measures and boasting - most of all - a considerable amount of 'aftermarket' modularity and customization. 
 
 Central to their operation is 'ritual engine core' (something that will definitely need a more concise name down the line), taking in and folding chalk to power the ship and all it's components. 
 
@@ -96,76 +97,9 @@ Distance is frequently both a bane and a non-issue for Striders in the Switchboa
 > 
 > It can be found in [[Communications and Compute]].
 
-## SBTech: Medical
-Medicine in the Switchboard works off the mechanics outlined in the Theory of Damage. Ailments in the Switchboard are perversions of a Strider's lattice, thus is follows that healing would be the restoration of the lattice to its proper, ideal state.
 
-### The Theory of Damage
-![[On Weave and Warfare#^d2b154]]
-
-More information is available under the [[On Weave and Warfare#The Theory of Damage |Theory of Damage]].
-
-### Healing
-Thus all healing in the Switchboard is done through mechanisms that restore the lattice to its intact state. The means by which this is done vary, but isn't particular different from conventional medicine as we understand it. 
-
-![[On Weave and Warfare#^86f483]]
-
-To achieve restoration of the lattice, the same is down but with reverse intent; a means must be found to induce the lattice to refold back into it's proper position, restoring it to its original state, and achieving the status of 'health'.
-
-### Diagnosis
-Determining the nature of the ailment is done through analysis of the lattice. This can be done through plain physical analysis such as touch and sight, using devices, or employing rituals. Differing ailments and damage leave identifiable patterns or residue that can be cross-checked with banks of knowledge to ascertain the nature of the damage to the lattice.
-
-	Here's an analogy to aid understanding; the damage done to a wool sweater by it getting caught on brambles differs visibly from the damage done to it by sharp knife, or a hand haphazardly pulling strings out of weave, or a burn left by contact with a hot pressing iron. Striders and their lattices are much like that wool sweater, and someone with experience or a guide can take a glance at the damage and reach a fairly accurate conclusion of the cause. 
-
-### Switchboard Pharmacology
-Treatment of ailments in the Switchboard is done typically with derivatives from **calcobotany** - that is, the various flowers found throughout the Switchboard as detailed under [[The Voice in Flowers]]. Striders working as herbalists combine their natures and from it make catalysts that induce the lattice to refold itself back from certain kinds of fold damage. More clearly put, certain combinations of Switchboard flowers are used to reverse the folding of certain kinds of damage folding done to the lattice. 
-
-### Surgery
-Occasionally, damage to the lattice requires hands-on repair. Skilled practitioners are able to pry open a Strider's lattice, locate the damage and repair it using various techniques, stitching particularly bad tears in the weave, introducing fresh ribbon chalk where material has 'rotted' or been lost, or clean and prepare frayed, damaged ends for other healing methods to work more effectively. 
-
-Touching a lattice directly isn't without consequence however, as chalk interactions all occur down at the ribbon level. To make contact with another Strider's internal ribbon is to touch them at their very core.
-
-	The implications of this are narrative ones, and will be established when needed.
-
-### Appendum: Physiological Hazards of Traversing the Switchboard
-Health hazards presented by traversing through the Switchboard. 
-
-#### 'Ailments', as it were
-	This section is incomplete, with more to come.
-
-- **Overwrite**: replacement of the useful information in a Strider's lattice by junk/random chalk, often caused by lattice bombardment by high-intensity chalk sources such as a Law Star. Causes loss of information in the form of memories or weakened abilities. 
-- **Depthburn**: violet, burn-like scarring caused by encounters with the Challenger Dark. Prevents the normal operation of the ribbon through those areas.
-- **Calcification**: the transmutation of flesh lattice into pure chalk. Common amongst Striders that frequently interact with pure chalk, such as using rituals and drinking from Wellsprings. This isn't necessarily a negative ailment, as under some circumstances it is more desirable to have a lattice made of pure chalk.
-- **'Mystic Madness'**: (currently) the result of using the Interpretative Doctrine/Powers to understand the self/things not meant to be understood.
-- **Starblight**: Inflicted by repeated exposure to the light of Law Stars, manifesting as immensely pure chalk on the lattice of a Strider, which their Five Straits cannot swiftly assimilate. When accumulated, it wears out the regenerative cycles performed by a Strider's Five Straits and causes a subtle but cumulative reduction in life expectancy.
-
-### Appendum: 'Slow'
-Through various means, it is possible for Striders to lose the ability to Stride. This is usually by the corruption or decay of the Strider Protocol. Though it is most known for losing the ability to Stride, becoming 'Slow' leads to the decay of other information abilities.
-
-**Cause**
-The most common cause of Slow is age. As Striders take in, manipulate, generate, expel and general immerse themselves in information, bits of the Strider Protocol get partially overwritten with jargon. Its effectiveness begins to decay, beginning with an increase in the launch threshold that must be exceeded to begin Striding, coupled with a reduction in information affinity. Continued use of the Strider Protocol causes further decay, until Striding is nearly impossible or too unsafe to attempt. The life span of a Strider correlates with the integrity of their Strider Protocol. Very active Striders typically live for fifty to seventy years.
-
-Artificially induced Slow is caused mainly by corruption of the Strider Protocol. Exposure to Glass via the Instrument Six is the most common culprit, and more extreme versions of I-6 seize the ability to Stride permanently. Exposure to immense amounts of chalk (such as approaching a Star or accumulating too much Latent Chalk) can overwrite bits or all of the Strider Protocol, much like blasting the paint off a surface with high velocity abrasive powder.
-
-Additionally, esoteric rituals exist that can break the Strider Protocol, as well as Teks and Relics.
-
-**Effects**
-In addition to the loss of the ability to Stride, Striders swiftly lose access to other information abilities as well. Their proficiency with using Chalk deteriorates, disallowing them from using rituals effectively. Teks are usually the first to go as this deterioration takes place, followed by the ability to effectively use Relics and [[The Skywards Pursuit#Strider Wayfinding|Strider Wayfinding]] equipment. 
-
-Beyond losing information powers, the corruption and decay of information and equations typically begins producing faults in the Strider's own information, manifesting as more conventional ailments. Chronic fatigue, mental dullness, low response speeds to stimuli, and loss of motor functions are what earned it the name 'Slow', as those afflicted become slow in every sense of the word.
-
-Further deterioration results in the mind reaching a fairly vegetative state. Organ failure happens in a number of cases. Avoiding death requires intensive life support, though most Striders opt for physician-assisted suicide.
-
-**Treatment**
-None so far exist.
-
-It is suspected that a ritual can reverse the effects of corruption, but it has not been discovered or developed.
-
-**Perception**
-Striders as a whole dread becoming Slow.
-
-The loss of the Strider Protocol in particular is so terrible because of Strider's deification of speed. Speed colors all aspect of Strider life. This is best further explored in [[The Doctrine of Passing]].
-
-In general, the slow are regarded as people who are already dead. Other Striders gradually distance themselves from a Strider known to be close to their demise, as it becomes more and more certain that a Strider afflicted with Slow is unable to keep up and participate in activities carried out by other Striders.
+## ## SBTech: Medical & Pharmacological Technology
+> Similarly, once contained here, the scope of this heading expanded beyond the bounds of this document, and as such the original contents of this heading as well as other related subject matter have been moved to  [[SB_Physiology]].
 
 ## SBTech: Mechanical, Manufacturing and Heavy Technology
 Elaboration on technology relating to materials and manufacturing in the Switchboard, as well as some notes on how chalk affects the production/manufacturing process and materials used in the Switchboard.
@@ -190,11 +124,11 @@ Similar to what we observe in [[The Voice in Flowers]], a series of materials ex
 The various metamaterial metals and alloys in the Switchboard are harvested from ores or similar from various locales in the Switchboard. They serve the basis for various weapons, armor, implements, devices, machines and the like in the Switchboard.
 
 **Tier One - Famylar**
-A product of the creation of regions via regional equations in the Switchboard, this lime-green ore is seeded deep underground in regions at their formation. Able to be mined and extracted fairly easily, it serves as a sort of alternative to various flavors of regular steel when a material more calcic-attuned is required. It's used in various applications as such, where non-calcic materials will not suffice.
+A product of the creation of planets via planetary equations in the Switchboard, this lime-green ore is seeded deep underground in planets at their formation. Able to be mined and extracted fairly easily, it serves as a sort of alternative to various flavors of regular steel when a material more calcic-attuned is required. It's used in various applications as such, where non-calcic materials will not suffice.
 
 > Tentative, ideally it would be alloyed with silicon to form a silicon-famylar that serves as the basis for various calcic-enabled components in the Switchboard such as Slates, the control boards for Chromelings, and the control boards for various Strider electronics such as jumpships and more mundane purposes in regular computers. Ideally, the advantage presented by famylar is that it bypasses the molecular limitations of silicon by using chalk, enabling it to alter its conductivity calcicaly instead of through doping with other materials, as well as facilitating the usage of a calcic-analogue to transistors. 
 
-Famylar is refined through conventional means of melting and allowing to cool, as impurities are obliterated in the process. A final stage in the refining process, however, is that they are spread out in 'sheets' while hot and allowed to cool under the light of law stars. While not essential, the exposure to fresh chalk aids in its usefulness as a calcic material.
+Famylar is refined through conventional means of melting and allowing to cool, as impurities are obliterated in the process. A final stage in the refining process, however, is that they are spread out in 'sheets' while hot and allowed to cool under the light of armillary stars. While not essential, the exposure to fresh chalk aids in its usefulness as a calcic material.
 
 While it can be used in making weapons for Striders, it is relatively weak to shock, and not very good at keeping an edge, and requires the usage of reinforcing weaves or rituals to make it far more suitable as a weapon. That being said, weaves and rituals 'adhere' far more readily to famylar than steel, and as such it sees more usage as a weapon in the hands of those able to make it more viable as one through calcic means.
 
@@ -229,10 +163,10 @@ In chalk-void spanning devices, they often need to exploit some trick to functio
 
 In the hands of depthstriders, their Void-gifted powers of curvature control are performed more powerfully when used with weapons formed from pale amara. Particularly, pale amara is capable of disrupting chalk systems, allowing depthstriders to counter attacks and rituals used by the chalkstrider cousins. Pale amara weaponry can magnify local curvature and anti-curvature, allowing them to induce strong gravitational fields. 
 
-Where pale amara finds its greatest utility is its ability to **bridge calcic and depth reliant systems**. Where chalk needs to interact with the Void, pale amara is used as its constitution contains 'stabilized' forms of both. [[On Weave and Warfare#Pale Amaran|Pale Amarans]] require inculcations of pale amara to be able to use their 'Polarity' powers. 
+Where pale amara finds its greatest utility is its ability to **bridge calcic and depth reliant systems**. Where chalk needs to interact with the Void, pale amara is used as its constitution contains 'stabilized' forms of both. [[Weave and Warfare#Pale Amaran|Pale Amarans]] require inculcations of pale amara to be able to use their 'Polarity' powers. 
 
 **Tier Five - Hexic Kacherock**
-The Vault Minds of the Switchboard are leftovers from a crueler era, as well as emerging with each passing second under the mechanics of chalk. Burdened with the doctrine of protection, they establish a series of machinations that result in the construction of the mighty Vaults of the Switchboard. Structurally, the Vaults of the Switchboard are built primarily out of **kacherock**, the result of material stripped from ancient regions and the chalk in them and their vicinity allowed to soak up the doctrine of the vault minds, aging them. This kacherock accumulates the secrets of ages, as currents of chalk used by the calculations of the Vault Minds and other super-regional constructs pass through the vaults, and the kacherock becomes a sort of naturally-occurring relic material.  ^09d274
+The Vault Minds of the Switchboard are leftovers from a crueler era, as well as emerging with each passing second under the mechanics of chalk. Burdened with the doctrine of protection, they establish a series of machinations that result in the construction of the mighty Vaults of the Switchboard. Structurally, the Vaults of the Switchboard are built primarily out of **kacherock**, the result of material stripped from ancient planets and the chalk in them and their vicinity allowed to soak up the doctrine of the vault minds, aging them. This kacherock accumulates the secrets of ages, as currents of chalk used by the calculations of the Vault Minds and other super-planetary constructs pass through the vaults, and the kacherock becomes a sort of naturally-occurring relic material.  ^09d274
 
 Kache Krashers frequently search for the oldest kacherock in a Vault, often the deposits closest to the final chamber of the Vault and the resting place of the avatar of the Vault Mind, as these were the rock laid first. Extraction of this kacherock and firing it powerful furnaces melts it down, and when it cools and reforms, it adopts an inexplicable hexagonal structure that bestows upon it immense structural strength and defense against deformation. It finds much of its use in defensive applications - sheets of it used to fortify and armor constructs, and plates of it used in making high-level armor for Striders. The hexagonal crystal-metal adopts a characteristic fiery red-orange hue, pulsing dark and bright in tune with seemingly the 'heartbeat' of the Vault Mind from which the kacherock was initially harvested.
 
@@ -241,9 +175,9 @@ Additional utility is found in the aged chalk of hexic kacherock. Casting and ch
 	Truth bears six corners.
 
 **Tier Six - Astratite**
-A material that forms from law stars. During periods of surge in the Conflara season, law stars burn with truly mighty wrath, emanating waves of calcic radiance that rip through weaves throughout the Switchboard. Occasionally, some truly unstable stellar material lashes out as a tendril (similar to solar flares in our world) and occasionally this tendril touches a wellspring. It flash-transmutes the crystalline chalk there into something new, scorching it black with the pure wrath of the Switchboard's engines. This touch remains permanent, turning white chalk pitch black. 
+A material that forms from armillary stars. During periods of surge in the Conflara season, armillary stars burn with truly mighty wrath, emanating waves of calcic radiance that rip through weaves throughout the Switchboard. Occasionally, some truly unstable stellar material lashes out as a tendril (similar to solar flares in our world) and occasionally this tendril touches a wellspring. It flash-transmutes the crystalline chalk there into something new, scorching it black with the pure wrath of the Switchboard's engines. This touch remains permanent, turning white chalk pitch black. 
 
-Refinement of the scorched chalk is done using rituals, in which components bearing the aspect of heat and pressure compress and smelt the black chalk down into liquid resembling the pure sky of the Switchboard. It finally cools down into a twilit glass-like crystalline solid. It is not actually possible to cast astratite, and instead any application it is intended for requires inculcation of astratite into the subject by ritual means. Because of the sheer calcic power contained in astratite however, and the fact rituals 'uncork' this power briefly, it is immensely dangerous to work with, as allowing its volatile power to run rampant would be similar to having a piece of a law star in one's lap. Overwrite is guaranteed. Death only slightly less so.
+Refinement of the scorched chalk is done using rituals, in which components bearing the aspect of heat and pressure compress and smelt the black chalk down into liquid resembling the pure sky of the Switchboard. It finally cools down into a twilit glass-like crystalline solid. It is not actually possible to cast astratite, and instead any application it is intended for requires inculcation of astratite into the subject by ritual means. Because of the sheer calcic power contained in astratite however, and the fact rituals 'uncork' this power briefly, it is immensely dangerous to work with, as allowing its volatile power to run rampant would be similar to having a piece of a armillary star in one's lap. Overwrite is guaranteed. Death only slightly less so.
 
 Astratite sees particular use in the hands of Striders. Shards of it no bigger than coins can be drawn from and provide a calcic power boost so immense one can Stride without regard for information mass, or cast their Flash Protocol multiple times in succession. Of course, this is implicitly dangerous as not quickly dissipating the immensely powerful chalk coursing through one's body places them at risk of Overwrite. 
 
@@ -251,12 +185,12 @@ It sees extensive use in chalk ritualism as 'mark' and 'fire' components, and it
 
 Perhaps a final quality of astratite is that under circumstances it is capable of resisting Glass. A Strider having their lattice being consumed by glass can take astratite orally, and the pure calcic power within can flush their lattice and utterly overwhelm the Glass. Striders who are able keep a measure of it on their person, as a last resort against a glass-wielding threat.
 
-**Tier Seven - Barristone**
-Barristone is the headstone of law stars. It forms only when a law star dies.
+**Tier Seven - Barristeel**
+Barristeel is the headstone of armillary stars. It forms only when a armillary star dies.
 
-What is left behind is supposedly white-gold rock, glowing so powerfully with calcic radiance that it unravels the lattices and weaves of all things around it, defeating every equation, overwhelming every ritual. It leads many to believe that there is no means in reality to actually handle it, and has also led many to conclude that nothing about it that is 'known' is actually true, as being in the mere presence of barristone would kill any possible observer.
+What is left behind is supposedly white-gold rock, glowing so powerfully with calcic radiance that it unravels the lattices and weaves of all things around it, defeating every equation, overwhelming every ritual. It leads many to believe that there is no means in reality to actually handle it, and has also led many to conclude that nothing about it that is 'known' is actually true, as being in the mere presence of barristeel would kill any possible observer.
 
-The only thing confirming it exists is knowledge gleaned from the walls of Vaults, the fact the Astrolabe is built out of some modified form of it, and theorizing done by various Switchboard scientists. But none know how to check for it. None even know how to make a law star die, or what it even means for a law star to 'die'. 
+The only thing confirming it exists is knowledge gleaned from the walls of Vaults, the fact the Astrolabe is built out of some modified form of it, and theorizing done by various Switchboard scientists. But none know how to check for it. None even know how to make a armillary star die, or what it even means for a armillary star to 'die'. 
 
 ### The Artifact Materials
 For all the various artifact materials that exist in the Switchboard.
@@ -264,7 +198,7 @@ For all the various artifact materials that exist in the Switchboard.
 #### Replichrome
 - Replichrome is a creation of the twin Fel-Arcad artifacts, the Loom and the Lathe. This artifact-material was spun into being with unique properties that would allow it to serve as the backbone of Fel-Arcad architecture, engineering, and by extension, civilization. 
 
-- Being an artifact-material, replichrome possesses a Five Straits of its own, bestowed upon it by its artifact nature. In these Five Straits are the equations that give replichrome its unique property; the ability to fold chalk to create more of itself. When exposed to the calcic radiance from law stars, radiant chalk passes through a sample of replichrome's interface line into the potential line. From there it moves to the computational line, where the incalculably complex equation housed within the adjacent memory line guides the folding of the radiant chalk into more replichrome, which is output as physical deposits through the interface line. 
+- Being an artifact-material, replichrome possesses a Five Straits of its own, bestowed upon it by its artifact nature. In these Five Straits are the equations that give replichrome its unique property; the ability to fold chalk to create more of itself. When exposed to the calcic radiance from armillary stars, radiant chalk passes through a sample of replichrome's interface line into the potential line. From there it moves to the computational line, where the incalculably complex equation housed within the adjacent memory line guides the folding of the radiant chalk into more replichrome, which is output as physical deposits through the interface line. 
 
 - Regarding its physical properties, replichrome is silvery-grey, strangely warm to the touch, metallic in appearance and feel. Regarding hardness and strength, replichrome boasts similarity to steel in this regard, making it an excellent material for construction when paired with its other qualities. It sees a willingness to take various forms, as it can be shaped easily when instructed to soften through the Five Straits, allowing for wire, sheet, bar, plate and more forms of it. It is fairly lightweight as well.
 

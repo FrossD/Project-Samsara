@@ -1,5 +1,5 @@
 # Arsenal Card: Riftlock Blakk
-Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Daughter enters the battlefield. Her attunement with the Depths and frequent supplication to the Amaranth Sultan through feats of innovation and engineering has granted her a vast, blessed toolbelt of unrivalled versatility. Specializing in command of various **technological relics**, there is no situation she cannot meet head-on. And when the opportunity arises, she can deploy their foul **black ice**, and shatter heretical foes with crushing force.
+Depthstrider Blakk, Rogue Riftlock and former Master of Artifice for a Veiled Daughter enters the battlefield. Her attunement with the Depths and frequent supplication to the Amaranth Sultan through feats of innovation and engineering has granted her a vast, blessed toolbelt of unrivalled versatility. Specializing in command of various **technological relics**, there is no situation she cannot meet head-on. Her high command of **spatial techniques and vows** as a true descendant of the Void grants her otherworldly powers as well, seeing to it that no foe is left with a means to escape.
 
 ## T0 - Martial Disciplines
 Service in the Void and the Daughter's courts has exposed the Riftlock Blakk to a variety of the Void's disciplinary offerings, and going rogue has made them privy to a fair bit more. Favoring the brutality that overt measures allow, Blakk has translated this to their martial doctrines. A long life spent in workshops, however, has worked against them in this respect.
@@ -25,15 +25,18 @@ Service in the Void and the Daughter's courts has exposed the Riftlock Blakk to 
 	A curved length of hardened pale amara mocks an axeblade as it takes the form of a sword. Along its length are carved scripture from the Depthstone Codices, and its handle, fine leather wrapped around the full-tang crystal. In the hands of a Depthstrider, it strafes this realm and the other.
 
 - Offensive
-**Blakkstrikes** - Brch, Cado, Siph, Unrav
+**Blakk's Breaker** - Brch, Cado, Siph, Unrav, Induc
 Axle: Formshift | Re-Innovate
+Axle: Gifts and Possessions of the Void | Radial Blast Shield
 *"The Daughter gave me a charge; 'go, show them the depths of the Void; the all-encompassing wrath therein'."*
-	This attack synergizes with Blakk's **Formshift**, and does additional damage based on the number of **innovation charges** that Blakk has accumulated through formshifts, **capped at twenty charges** expended. This strike bypasses and destroys armor, cuts, siphons chalk and suppresses further chalkweaving. **It is Blakk's most powerful technique**.
+	Blakk strikes her **Radial Blast Shield** with her **Rift Vibrokhopesh** as if beating a gong, releasing a catastrophically damaging spatial explosion in the vicinity. This explosion breaches armor, pierces, siphons chalk from all caught in the blast radius, and inflicts heavy unravelling, suppressing further chalkweaving. All struck are additionally hit with a powerful inductive stun.
+	- The efficacy of this ability scales with the level of **Momentum Conduit** on the Rift Vibrokhopesh.
+	- This ability can only be used once, as it **destroys** the Radial Blast Shield, requiring it to be summoned again.
  
 - Utility
 **Momentum Conduit**
 *"You know it's working when it starts singing."*
-	 The Rift Vibrokhopesh shunts constantly between the Dancirah and the Challenger Dark, its blade thus being a densely-contained piece of crystal with immensely high momentum but little apparent displacement. With a touch, it can impart this momentum on structures sensitive to it. The momentum with which the Rift Vibrokhopesh vibrates **scales** with the **hack counter**.
+	 The Rift Vibrokhopesh shunts constantly between the Dancirah and the Challenger Dark, its blade thus being a densely-contained piece of crystal with immensely high momentum. With a touch, it can impart this momentum on structures receptive to it. The momentum with which the Rift Vibrokhopesh vibrates **scales** with the **hack counter**.
 
 ### Taken Armament
 **Crash Spanner** - Quarterstaff
@@ -55,7 +58,7 @@ Axle: Formshift | Re-Innovate
 *"In time."*
 
 ## T2 - Curvature Manipulation
-### Point Attraction/Repulsion
+### Force Manipulation
 **Calculated Assembly**
 *"80% of the screws make it into the finished product. A passing grade by all metrics. I pride myself on doing more with less."*
 	If Blakk has the component parts, and is aware of the internal workings of an object, such as through a blueprint, they can use their powers of attraction and repulsion to spontaneously assemble it. 
@@ -126,11 +129,11 @@ Axle: Formshift | Re-Innovate
 *"Let 'em stew.'"*
 	The twin machinegun barrels are cycled out in favor of a nozzle, and a canister is fitted to the back. Blakk can blast dense swathes of incredibly hot flames at close targets, incinerating them and inflicting heavy inductive burn, as well as siphoning their calcic reserves.
  - Offensives - Skew
-**Boost Bludgeoner Hack** - Brch
+**Bludgeoner Hack** - Brch
 *"I am under oath to not share the formula for the rocket boosters. That being said, I take my coffee with milk, two sugars, a measure of stardrip, tritanium powder, supercooled-gallium, yellow dye #5, sawdust and burnt kacherock."*
 	Blakk's gauntlets are refitted with spiked alloy shielding on the fingers and various housings and nozzles on the wrist and elbow. These housings store void-renewed rocket enginery, which fire out through the nozzles and produce considerable thrust. These rockets are triggered by Blakk's movement, firing when they detect an action interpretable as a thrown punch. Each punch of Blakk's is thus accelerated by rocket propulsion, and the Boost Bludgeoners are capable of punching through solid metal.
  - Offensive - Skew
-**Hook-shot Hack** - Induc
+**Grappler Hack** - Induc
 *"If I really focus, I can pluck a hair off a beard. Usually I just break a nose."*
 	The gauntlets are refitted with repulsion-capable apparatus and high-strength chain, allowing for launching the arms and retracting them. Should they strike a target, Blakk can reel them in while they are unable to resist due to a heavy inductive stun. If they fire at an object, they can reel it towards them, or reel themselves towards it.
 - Offensive - Skew
@@ -151,7 +154,7 @@ Axle: Formshift | Re-Innovate
 	The Breach Visors enhance other components of Blakk's loadout;
 	- **Strafe Boosters: Blast Hack** can be chain-triggered into itself five times, granting Blakk the ability to perform five bursts of immense velocity that decays with time, allowing instantaneously changing direction.
 	- **Assault Gauntlets: Barrage** and **Railgun Hack** have greatly increased accuracy. Additionally, the scaling damage from stacking the **hack counter** on the Railgun Hack is **uncapped.**
-	- **Assault Gauntlets: Hook-shot Hack** can now send hyperweave careening down its length, dealing devastating damage to any at the end of the hook.
+	- **Assault Gauntlets: Grappler Hack** can now send hyperweave careening down its length, dealing devastating damage to any at the end of the hook.
 	- **Repulsor Plate: Slam Hack** can now discriminate between targets at Blakk's discretion.
 	- Blakk's **Draw Strike: Hazard Drawer** sees additional modifications;
 		- Twice as many missiles are spawned, and they home more aggressively on targets.
@@ -159,43 +162,46 @@ Axle: Formshift | Re-Innovate
 		- The shower of oil is mixed with additional compounds, producing a larger explosion.
 	- Blakk's **Innovation Charge** gain from using her Formshift is **tripled**.
   
-- **Contraption #5 - The Black Ice Shield**
-*"By all metrics, my finest work."*
-Otherwise dull metals are melted and fused to form pristine alloy, and the incants of the dwellers in the Dark, the riftlock arbiters of the Deep, and the daughter-born scorn-bearers of the Sky are stamped into its make. Around its edges are a lip of violet amara, rime and ash gathering on its vertices, effused from the underwhere. Gripped with the conviction implicit to its making, blackened frost springs forth, granting shape to the buckler. Its lattice quakes at the ever-present possibility of its own unmaking.
-	Tooled and shaped in the deepest dark of the Void, Blakk's **Black Ice Shield** has attained void-hallowed status, becoming a weapon that evangelizes the word of the Amaranth Daughters. In its usage, it spawns Blakk's signature **black ice**, a crystalline hybrid complex of amaranthite and packed water-ice. **When struck**, it **assimilates the momentum of the strike**, and dissipates it within its crystal structure, **shattering explosively with proportional force**.
-	- Rather than being Re-Innovated under Blakk's **Formshift: Innovation Routine**, the Black Ice Shield can only be summoned **after all four others of Blakk's Contraptions are active**, requires **having more than 20 innovation charges**, and is always in **hacked** state, adding one point to the hack counter. Using the powers provided by the Black Ice Shield adds **virtual charge** to the hack counter, building it beyond cap. 
-	- The Black Ice Shield, however, consumes a number of **innovation charges** to perform its abilities, and is returned to the Void when the innovation charge counter is depleted to **twenty charges**.
+- **Contraption #5 -  Radial Blast Shield**
+*"Doubles as an umbrella."*
+Otherwise dull metals are melted and fused to form pristine alloy, and the incants of the dwellers in the Dark, the riftlock arbiters of the Deep, and the daughter-born scorn-bearers of the Sky are stamped into its make. Around its edges are a lip of violet amara, metal and ash gathering on its vertices, effused from the underwhere. When gripped with the conviction implicit to its making, blackened sheets unfurl in a spiral, granting shape to the buckler. Its lattice quakes at the ever-present possibility of its own unmaking.
+	Tooled in the depths of the Void, Blakk's **Radial Blast Shield** is an implement that promises supreme protection against the threats of the Switchboard. Taking form as a forearm-mounted stack of plates, with a gesture the plates unfold outwards into a stalwart round-shield built for mitigating attack.
+	- Rather than being Re-Innovated under Blakk's **Formshift: Innovation Routine**, the Radial Blast Shield can only be summoned **after all four others of Blakk's Contraptions are active**, requires **having more than 20 innovation charges**, and is always in **hacked** state, adding one point to the hack counter. Using the powers provided by the Radial Blast Shield adds **virtual charge** to the hack counter, building it beyond cap.
+	- The Shield, however, consumes a number of **innovation charges** to perform its abilities, and is returned to the Void when the innovation charge counter is depleted to **twenty charges**.
 - Offensive
-**Winter's Throw** - Brch
-*"Catch."*
-	Blakk throws the Black Ice Shield. Targets struck with it are encased in black ice, and the shield rebounds between targets, seeking out the strongest - calcically-determined - and working down from there, rebounding between a maximum of three targets. The shield can be recalled back to Blakk at will.
-	- This ability consumes **4 Innovation Charges**.
-- Offensive
-**Glacial Quake** - Cado, Brch
-*"Watch out for falling rocks."*
-	Blakk slams the edge of the shield in the ground, causing a cascading wave of jagged black ice to emanate in a cone before her, ripping through and freezing any targets caught in its effective radius.
-	- This ability consumes **6 Innovation Charges**.
-- Offensive
-**Cold Shoulder**
+**The Iron Shoulder** - Brch
 *"Please remember that teeth are small objects and are expectedly a choking hazard."*
-	Blakk charges and then rams a target frontally with the full brunt of the shield. Struck targets are encased in black ice, targets that are already encased in black ice are shattered, causing it to explode.
+	Blakk charges and then rams a target frontally with the full brunt of the Radial Blast Shield. Upon impact, depth manipulation apparatus within the shield repel the target with ludicrous force, shattering defenses and sending targets flying.
 	- This ability consumes **3 Innovation Charges**.
 - Defensive
-**Artificer's Parry**
+**The Iron Vortex**
+*"For shop cleanups. Very good at handling broken glass."*
+	Spinning the Radial Blast Shield invokes spatial manipulation power within the alloy of its make, causing a swirling vortex to emerge that leads straight to the Challenger Dark. Projectiles are yanked off-course into the shield, allowing Blakk to greatly nullify the efficacy of ranged opponents. 
+	- This ability consumes **5 Innovation Charges**.
+- Defensive
+**The Iron Shell** - Cado, Brch
+*"For when you realize far too late that you cut the fuse far too short."*
+	Blakk raises the Radial Blast Shield high and summons forth additional alloy plating from the depths of the Void, assembling a hemispherical armored shell at a position of her choosing. This shell is built with layers of reactive plating, that explosively shed armor plates when struck, effectively mitigating many attacks so long as they aren't focused to a single point.
+	- This ability can summon a structure with **four stages** (four layers of armor), each stage costing **7 Innovation Charges** to summon.
+	- This ability takes some time to cast, during which Blakk is vulnerable.
+- Defensive
+**The Iron Rebuttal** - Cado
 *"Nothing quite like seeing gears mesh so nicely together."*
-	Blakk performs a swipe with the shield, with the aim of wholly nullifying an attack. Performed perfectly, the attack is nullified, the attacker or striking projectile is encased in black ice, and Blakk reaps **an amount of innovation points proportional to the severity of the attack.**
+	Blakk performs a swipe with the shield, with the aim of wholly nullifying an attack. Performed perfectly, the attack is nullified - as it is banished to the depths of the Void - and Blakk reaps **an amount of innovation points proportional to the severity of the attack.**
 	- This ability consumes **10 Innovation Charges**.
-- Utility
-**Shattering Bulwark**
-*"A failsafe is an essential."*
-	If the Black Ice Shield is struck with an attack strong enough to utterly destroy it, or after taking enough damage it, it explodes violently into a massive glacier of black ice. 
+	- This ability additionally can only be used on projectiles.
+- Defensive
+**The Iron Wall** - Brch, Cado
+*"Lubricant for when it should be moving, duct tape for otherwise."*
+	Blakk takes up a solid stance, submerging her feet partially into the Void. So long as she is **not moving**, the Radial Blast Shield unfurls further and expands into a wall of amaranthine alloy, and is able to soak up physical blows based on how many innovation charges she has left. This ability can take everything from blades and bullets to explosions, and serves to fortify any position Blakk occupies.
+	- This ability consumes a number of innovation charges per blow, based on the **severity of the strike**.
 
 ### Draw Strike
 **Hazard Drawer** - Cado, Brch, Induc, Unrav
 *"The mark of a good engineer is organization. The mark of a better engineer is not needing it."*
 	When Blakk executes her **Innovation Routine** formshift, one of six phenomena occur, randomly chosen;
 	- Three to five weave-seeking missiles emerge from the rift and hunt down the strongest discernable targets in the vicinity, exploding once sufficiently close-by. 
-	- The vicinity is suffused with glass-based gas, doing damage exclusively to those bearing the Strider Protocol.
+	- The vicinity is suffused with lattice-melting gas, doing considerable inductive damage to those who are touched by it.
 	- A blinding flash and a disorienting sonic follow-up surge from the rift, stunning all targets.
 	- An explosion of lacerating depthstone shrapnel that rips through friend and foe alike, defeating defenses and armor.
 	- A shower of oil that suffuses the air and slicks the ground beneath, before violently igniting.
@@ -224,27 +230,43 @@ Thus, Blakk has three actions they can perform; **formshift/innovate**, **formsh
 Blakk can also **expend two innovation charges** to formshift a contraption with a hack (a void gift) and return it to the Void, to then re-Take it as a contraption in base form with no hacks (a void possession). This depletes the count on the hack counter, expectedly.
 
 >Additionally,
->- With upwards of **20 ICs** available, Blakk can summon the final contraption, the **Black Ice Shield**. This raises the HC to 5.
->- Attacks with the Black Ice Shield consume ICs but generate **virtual points** for the Hack Counter, allowing it to exceed the cap.
+>- With upwards of **20 ICs** available, Blakk can summon the final contraption, the **Radial Blast Shield**. This raises the HC to 5.
+>- Attacks with the Radial Blast Shield consume ICs but generate **virtual points** for the Hack Counter, allowing it to exceed the cap.
 >- Virtual points added to the Hack Counter allows for further empowering the **Assault Gauntlets: Railgun Hack** and the **Rift Vibrokhopesh**'s **Utility: Momentum Conduit**. When expended on either attack, all virtual points are lost.
->- The Blakk Ice Shield dissipating once reaching **20 ICs** allows for Blakk to perform her de-facto finisher; the **Rift Vibrokhopesh**'s **Offensive: Blakkstrikes**. With 20 ICs remaining, Blakk's Blakkstrikes will hit at maximum power. With the virtual hack counter charge instead, Blakk can strike black ice created by the Black Ice Shield before dissipating, imparting its momentum and causing catastrophically damaging explosions.
+>- When Blakk feels enough virtual hack charge has been accumulated, she can perform her de-facto finisher, **Blakk's Breaker**. This ability shatters the Radial Blast Shield, requiring it to be summoned again. 
 
 ## T4 - The Deep Hollow
 ### Hollow Basilica
 **Ill-Fitted Workshop** - Induc, Comp, Unrav, Prax 
 *"We can all learn a thing or two from each other. Like workplace safety. But not from me."*
 
-Blakk takes hold of local space and plunges it into the depths, expanding a consecrated space encircled by an impassable boundary of prohibitive curvature; the Deep Hollow. Performed with a spread-palmed slap on the ground, all caught in its rapidly expanding range are transported into the excavated hollow, and compelled to engage by the rules of Blakk's Basilica.
+Blakk takes hold of local reality and plunges it into the depths, expanding a consecrated space encircled by an impassable boundary of prohibitive curvature; the Deep Hollow. Performed with a spread-palmed slap on the ground, all caught in its rapidly expanding range are transported into the excavated hollow, and compelled to engage by the rules of Blakk's Basilica.
 
 Blakk's Basilica takes the shape of a metalworking workshop, a spherical space built of dull riveted alloy and piercingly bright lights. Machines of all disciplines - lathes, mills, presses and grinders - take hallowed positions on the cramped floorspace, workbenches littered with files, calipers and blowtorches. Lined against one wall are canisters of all manners of gases, valves at their necks and pipes disappearing into corners and crevices. Cabinets line the wall filled with aged metalwork. An oil slick mocks the mop propped next to it, a shrine to the evils of procrastination. Levers sprout from a central junction box, labeled worryingly with various descriptions of grievous bodily harm. At its center, a vaulted chair, cushioned, regally placed, mechanical arms snapping from its backrest, glowing wires spiraling out from its beneath, blinking monitors bathing it in blue halogen. It watches over the entire workshop, and the steel-bronze scrap-work sculpture of a Daughter leans over it, veil drooping as a willow, watches over the mechanic at its center.
 
-Being a Basilica, both the Forbid and the Binding are active. Blakk's Binding is fairly simple; all within the Basilica space are compelled to assemble a metal box by cutting, folding and welding sheet metal. Should the box be assembled by all parties successfully, the Hollow resolves and dissipates.
+Being a Basilica, both the Forbid and the Binding are active. The Binding of the Acolyte has written a facet of her *Draw Strike: Hazard Drawer* into the Cathedral Ledgers of her Basilica, and under circumstances, she can deploy a powerful **flux gas** throughout her Hollow as a **sultanic strike**, guaranteeing that it hits. 
 
-The win state for Blakk within her Hollow is for the other parties in it with her to not notice that the lever controlling the ventilation systems is flung down, thus disabling the exhaust fans and rendering her workshop unsafe to work within. Should parties in the workshop perform any welding while the ventilation system remains off, they are immediately struck by the massively toxic fumes from vaporizing flux, causing them to sustain a **heavy inductive poison** that tears through their lattice, as well as **computational damage that inhibits their performance of chalkweaving and other abilities**, heavy **unravelling that further restricts any calcic casting**, and finally a heavy dose of **praxis sundering that weakens them, their allies, and connected parties** even further. At this point, Blakk may complete her own assembly of the metal box - with a gas mask equipped - and thus fulfill the Binding of her Basilica, causing it to resolve and collapse.
+This gas-based technique;
+- Inflicts a **heavy inductive poison** that caustically rips through the lattice.
+- Sunders the Five Straits with **computational damage** that inhibits the casting of complex abilities.
+	- Those struck cannot use any ability above their T2s.
+- Inflicts heavy **unravelling** on the target as well, further hampering the ability to use chalkweaving and other techniques.
 
-The intricacies of Blakk's Basilica Binding is that a single box must be assembled before the Hollow can resolve, and thus Blakk is incentivized by the logic of her Hollow and derivative battle strategy to never weld first. If she does, and doesn't weld with either a gas mask on or after turning on the ventilation, she will be struck by her own poisonous flux vapors, and indicate to those within the Hollow that something must be done to nullify the danger posed by gas in an enclosed space.
+Additionally, Blakk can summon her Basilica in two **different states**;
+- **Ill-Fitted Workshop: Evacuation**: the base state of Blakk's Basilica. Upon being expanded, her flux gas technique immediately takes hold of the space and saturating the lattices of all of Blakk's targets in the Hollow. However, it must reach a certain level of saturation before the effects of the gas takes place. As such, Blakk must restrain targets in her Basilica for as long as possible so that her sultanic strike can activate.
+	- Using a **vow**, Blakk can place an exit in her Hollow; a trapdoor in the roof of her workshop, that manipulates the spatial barrier at a point to allow exit. By providing a means to escape her technique however, the efficacy of the flux gas is multiplied **1.5 times**.
 
-Should the other parties discover that the workshop is poorly ventilated, resolve the problem and complete their assembly of the metal box, the Hollow resolves, leaving them unmolested and Blakk with no advantage gained, and a considerable one lost as Blakk's Hollow has little effect on those who've defeated it once before.
+- **Ill-Fitted Workshop: Supplication**: a modification of the base form of the Hollow, that makes use of a binding vow had with the Amaranth Sultan. When the Hollow is expanded in the Supplication state, each party in the Hollow is informed that they must perform a **random feat of workshop activity**. This can be anything from filing down a knife to assembling a jumpship; the Amaranth Sultan decides. Based on who **completes their feat first**, the Hollow resolves in one of two ways.
+	- Should Blakk succeed, the flux gas in the Hollow space will strike immediately, and with a potency of **2.5 times** base. Additionally, it gains a **praxis component**, and inflicts an inductive weaken to the struck target **and their allies** if they are not aligned with the Void.
+	- Should Blakk's *allies* succeed, the flux gas strikes, but with only a **2x** multiplier above base.
+	- Should an opponent succeed, the Hollow immediately collapses, and Blakk suffers the spatial backlash by being **unable to summon anything from the Void**. This locks her out of her *Formshift: Innovation Routine* ability temporarily.
+
+In addition to the above, Blakk's Hollow being a workshop comes with a suite of aptly themed **environmental hazards**, more specifically manifesting as supersized power tools;
+- **Burners**: welding torch flames, belt sanders.
+- **Blades**: angle grinders, circular saws, band saws, drills.
+- **Bludgeoners**: power hammers.
+
+In addition to being able to deploy these various tools as attacks throughout her entire Hollow, she has an unlimited supply of hand tools to throw as projectiles and strike with in close range.
 
 ## T5 - The Crescent Hollow
 ### Crescent Basilica

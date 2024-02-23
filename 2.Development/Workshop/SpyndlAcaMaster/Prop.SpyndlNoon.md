@@ -19,11 +19,11 @@ As such, the task then is to highlight possible events that could have occurred 
 	- Also a **Danseer.**
 	- Reputed to be a true Danseer who survived the Refrain, and aimed to do *something* (take over Spyndl, I don't know)
 3. **Chrome's Graveyard**
-	- All decommissioned Fel-Arcad chromegrafts were repossessed by Lancaster Innovations as a (recycling measure, general contract stipulation) and then dumped on a region for processing.
-	- Character: Regional Administrator **Lisian Yanagi**
+	- All decommissioned Fel-Arcad chromegrafts were repossessed by Lancaster Innovations as a (recycling measure, general contract stipulation) and then dumped on a planet for processing.
+	- Character: planetary Administrator **Lisian Yanagi**
 	- Daughter of Fel-Arcad and Danseer who survived the Refrain.
-	- The mechanics of the mindspun resulted in the region being taken over by elementary intelligences spawned from the weave present in the decommissioned chromegrafts from previous owners. 
-	- The region awoke and basically began to scream.
+	- The mechanics of the mindspun resulted in the planet being taken over by elementary intelligences spawned from the weave present in the decommissioned chromegrafts from previous owners. 
+	- The planet awoke and basically began to scream.
 	- Lisian saw herself as a 'mother of chrome', and sought to 'rule' over the half-necro'd screaming minds of the chromegrafts under her control.
 	- A multifaceted campaign began to take over the planet.
 	- It scarred most who were involved, particularly due to the fact the Sil'khan did not know how to handle this otherwise loving and nurturing figure.
@@ -64,5 +64,7 @@ As such, the task then is to highlight possible events that could have occurred 
 	- Speaking of crime, contraband and all things clandestine in the Switchboard
 	- Related primarily to the Rosenthalists, Starwylds and the Black Arcologies
 
+### Notes
+The Horizon Crisis spawned the Sil's PvP culture and ritualism. It naturally expanded into more than just training for various eventualities. 
 
 ### P#1

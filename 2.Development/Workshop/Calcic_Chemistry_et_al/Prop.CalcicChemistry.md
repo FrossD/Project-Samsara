@@ -29,7 +29,7 @@
 - Possessors of the Weave Protocol however, gain access to a heightened form of sight known as the **Weavesight**. This advanced form of sight has two primary differences; calcic rays can be cast from anywhere on the body, and the actual rays penetrate deep into what they strike, allowing reaping more information, particularly that of the nature of the folded weave in patterned objects.
 - This weavesight provides possessors passive information streams on the calcic world around them.
 
-## The Proposal - Calcic Chemistry
+## Calcic Chemistry
 ### Transforming Weave
 What happens when food is cooked in the Switchboard? In our world, application of heat compels the molecules of food to undergo chemical changes. Meat sees its proteins morph. Powdery flour is mixed into water to become a soft solid, then the yeast in it causes gas to form, and finally the heat applied turns this soft solid into a webbed, mesh-like structure. Vegetables boiled in water shrink and become soft. And in all these cases, something previously dubious to eat now becomes inarguably fine to do so.
 
@@ -42,7 +42,7 @@ In the Switchboard, weave interacts in weave in manners similar to combining. In
 
 There exists a phenomena inherent to some kinds of naturally occurring weave in which the weave is able to move from pattern to pattern by 'inducing' itself in a subject pattern while expending itself from where it originated from. More simply put, heat and other phenomena in the Switchboard are weave that can spontaneously or otherwise move from pattern A to pattern B, in a manner that the amount of weave present in A reduces, and the amount in B increases. The efficiency with which heat-weave moves between subject patterns, as well as the ability of something that is heated to store that heat, are controlled by property weaves that bear real-world names of thermal conductivity and thermal capacity.
 
->In which we then ask ourselves how far we can take the inductive weave. For one, we must establish an origin for inductive weave. For heat, it can be the Law Stars, Wellsprings and regions themselves if their regional equations are written such that they produce heat.
+>In which we then ask ourselves how far we can take the inductive weave. For one, we must establish an origin for inductive weave. For heat, it can be the armillary stars, Wellsprings and planets themselves if their planetary equations are written such that they produce heat.
 >
 >What is of particular concern however, is what else can be inductive weave. Suppose we replaced the phenomena of electricity with one of simply 'charge' or the state of *being* charged, and this charge-weave is something that flows through subject patterns and is stored within them, with these behaviors of flowing and storage controlled by property weaves of electroconductivity and another for 'propensity to hold charge' - borrowing a real world term here of 'capacitance'.
 >

@@ -37,6 +37,8 @@ Tracking progress on the doc.
 ### Snap Thoughts
 Spur of the moment thoughts that could use work.
 
+- The **inscrit**; a body modification practice done on calcified limbs, that involves making relief carvings to depict various things of interest.
+
 #### Danseer Ancestor-Kin Names
 Established idea; out of their great understanding of these things, the Fel-Arcad selected nine to twelve Danseers from which to build the Sil'khan peoples. These Danseers in true Switchboard fashion bore a name, aspect and had some lore associated with them and how they shaped the Sil'khan civilization, as when the new Sil'khan were born, the Danseers served as their parents, and educated them in their skills and doctrine.
 
@@ -67,7 +69,7 @@ Some of the name categories;
 #### Nomad Classes
 The Sil'khan are nomads but how so? I've had an idea of dividing them into the nomad 'purists' and the nomad... something else. We'll call them the alphas and betas.
 
-Nomad alphas are Sil'khan who ascribe to nomadic living in a purer form, defined by living light, travelling light, and having an almost religious slant to their nomadic living. Their nomadism is worship to the Danseers almost, both their ancestor-kin and the Skydancers that fought for all Third Kin. They are preoccupied with seeing, discovering, hopping from one region to the next, one star to the next, and their aims while on individual regions vary from group to group. Some are nomadic evangelists - spreading the word of the Nine Skydancers and serving the Third Kin through their immense proficiency with the SProt, others are nomadic conquerors, who believe that the victory won by their ancestor-kin grants them the entire Switchboard as their birthright. 
+Nomad alphas are Sil'khan who ascribe to nomadic living in a purer form, defined by living light, travelling light, and having an almost religious slant to their nomadic living. Their nomadism is worship to the Danseers almost, both their ancestor-kin and the Skydancers that fought for all Third Kin. They are preoccupied with seeing, discovering, hopping from one planet to the next, one star to the next, and their aims while on individual planets vary from group to group. Some are nomadic evangelists - spreading the word of the Nine Skydancers and serving the Third Kin through their immense proficiency with the SProt, others are nomadic conquerors, who believe that the victory won by their ancestor-kin grants them the entire Switchboard as their birthright. 
 
 > These Sil'khan are known as the **Sabai**, a derivative from 'sabaism' referring to star worshipping. 
 
@@ -88,3 +90,32 @@ As such, the King of Roads holds a place of cultural significance in Strider soc
 
 #### Jaunteer Engines
 Sil'khan technology like the **Jaunteer engine**, devices designed to emulate the Strider Protocol, and what allows the Sil's fleet of starships to operate.
+
+#### Skydancer Profiles
+The aim is to have the various Skydancer somewhat subvert the aspects they espouse, in a manner not too distant from their core doctrine. 
+
+**Leilani**
+- Immensely hedonistic
+- Immensely jaded
+- Office lady attire (its not a fetish)
+
+**Zahir**
+- A huge nerd
+- Less so a war god, more a battle strategist
+- Methodical and skilled, a war gamer
+
+**Ryjik**
+- Chef
+- Bad at it
+
+**Morrigan**
+- Speaks in threes
+- Voices
+- Word count
+
+**Onuris**
+- Craftsman more than blacksmith
+
+#### Skydancer Aspects
+The aspects of the Skydancers, this being their various motifs and the like.
+- Skydancer Pacts; their own kind of ritualism. 

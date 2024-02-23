@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0652b16f6b04cdd8",
+        "id": "6de5333624b6e5d9",
         "type": "tabs",
         "children": [
           {
-            "id": "6d9c04f1206e4912",
+            "id": "6c12b1011ceb266d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e48d56e269509b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md",
+                "file": "READING_GUIDE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
+                "file": "READING_GUIDE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
+                "file": "READING_GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +116,14 @@
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1906e95593cea3bd",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           },
@@ -146,12 +141,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.TL_Board/Meta/Samsara 3 - A Year's End.md"
+                "file": "READING_GUIDE.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,58 +163,57 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "homepage:Open homepage": false,
-      "chronology:Open Chronology": false
+      "chronology:Open Chronology": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6d9c04f1206e4912",
+  "active": "6c12b1011ceb266d",
   "lastOpenFiles": [
-    "1.TL_Board/Meta/Samsara 2.5 - Sunburst.md",
-    "1.TL_Board/Meta/Samsara 3 - A Year's End.md",
-    "1.TL_Board/Meta/DT.Home.md",
-    "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md",
-    "2.Development/Workshop/Arsenal_Cards/Hex_AC.md",
-    "3.Scribbling/DT.WEFTCRASH/DT.Weftcrash.md",
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Weave and Warfare.md",
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/On Birthing and Being.md",
-    "2.Development/Workshop/Arsenal_Cards/Fyre_AC.md",
-    "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Switchboard Technology.md",
-    "2.Development/Narrative_Worldbuilding/DT.WN-DT.md",
-    "2.Development/Foundational_Pillars/The Blank-Slate Mind.md",
-    "2.Development/Narrative_Worldbuilding/DT.Expansion_Tracker.md",
-    "2.Development/Foundational_Pillars/The Hands as Chalk.md",
-    "2.Development/Workshop/WORKSHOP_DOCS/DT.Hyperweave_2.md",
-    "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md",
-    "2.Development/Mechanical_Pillars/The Void.md",
-    "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md",
-    "2.Development/Mechanical_Pillars/The Skywards Pursuit.md",
-    "Z.Assets/E75BC200",
-    "Z.Assets/C36AC200",
-    "Z.Assets/A066C200",
-    "Z.Assets/5136C200",
-    "Z.Assets/24B5C200",
-    "Z.Assets/~$SamsaraExcel.xlsx",
-    "2.Development/Mechanical_Pillars/Glass.md",
-    "1.TL_Board/GRAVEYARD",
-    "2.Development/Workshop/Untitled",
-    "1.TL_Board/GRAVEYARD/DT.The_Mysticism.md",
-    "2.Development/Foundational_Pillars/The Dawn of the Dancirah.md",
-    "2.Development/Foundational_Pillars/The Switchboard.md",
-    "2.Development/Foundational_Pillars/The Strider Protocol.md",
-    "2.Development/Narrative_Worldbuilding/DT.Notebook_Tracker.md",
+    "1.TL_Board/DT.Meta/DT.Home.md",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.vQIFWH",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.lock",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Title Card.md",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.KlaXTV",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/user.lock",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/user.lock.fEWTJj",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/user.lock.lock",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Index.md",
+    "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1",
+    "2.Development/Workshop/Families/Prop.The_Families.md",
+    "2.Development/Workshop/Families/The Fel-Arcad.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test 3.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test 2.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test 2.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/manuscript.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Index.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1",
+    "2.Development/Workshop/FamDev/FelArcad InDev.md",
+    "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.WN-DT.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ",
+    "FamTemplate.md",
+    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weftcrash Narrative.md",
+    "2.Development/Workshop/Calcic_Chemistry_et_al/SB_Physiology.md",
+    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weave and Warfare.md",
     "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md",
-    "3.Scribbling/RegionGenEngine.pdf",
-    "3.Scribbling/Concept AV.pdf",
-    "Pasted image 20231214004522.png",
-    "Z.Assets/VoidDaughtersRel.png",
-    "Z.Assets/Pasted image 20231027212609.png",
-    "Z.Assets/Pasted image 20230804174944.png",
-    "Z.Assets/Pasted image 20230430235927.png",
-    "Z.Assets/Pasted image 20230306015533.png",
-    "Z.Assets/Pasted image 20230323175613.png",
-    "Z.Assets/Pasted image 20230323175549.png",
-    "Z.Assets/Pasted image 20230306011045.png",
-    "Z.Assets/Pasted image 20230306011133.png",
-    "Void 5.canvas"
+    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Praxis Vows.md",
+    "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md",
+    "2.Development/Workshop/Arsenal_Cards/Ven_AC.md",
+    "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.utlFGb",
+    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/Data/62FF97C4-994E-4778-B24F-1B07FB81601D/content.png",
+    "3.Scribbling/Scrivener/Tut.scriv/QuickLook/Thumbnail.jpg",
+    "3.Scribbling/Scrivener/Tut.scriv/Files/Data/CD531760-289F-45A4-85D1-501C730AF986/content.jpg",
+    "Pasted image 20240131221346.png",
+    "2.Development/Workshop/DT.Void 5/DT.Void_5.canvas",
+    "Z.Assets/DT.Logos/SamsaraLogoCrackFinal.gif",
+    "Z.Assets/DT.Logos/SamsaraLogoCrack.gif",
+    "Z.Assets/DT.Logos/MOSHED-2024-1-28-0-49-56.gif",
+    "Z.Assets/DT.Logos/LogoFinal_2ColorBlackandWhitet.png",
+    "Z.Assets/DT.Logos/LogoFinal.png",
+    "Z.Assets/DT.Logos/LogoFinal_2ColorRed.png"
   ]
 }

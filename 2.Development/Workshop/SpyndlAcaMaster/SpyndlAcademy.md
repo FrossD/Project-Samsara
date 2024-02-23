@@ -5,7 +5,10 @@ The pride of the Third Kin, and the symbol of their triumph over the First Think
 
 The consolidation of powers and dreams; that is the Spyndl Academy. 
 
-## Development Checklist
+## Workshop
+Workshop on the building of the Spyndl Academy
+
+### Development Checklist
 1. [x] Name, Abbreviations and Contractions
 2. [ ] Mission, Purpose, Future Goals and Aspirations
 3. [x] History and Origins
@@ -23,7 +26,7 @@ The consolidation of powers and dreams; that is the Spyndl Academy.
 15. [ ] Impact on the World
 16. [ ] Challenges and Conflicts
 
-## Writer's Forum Feedback
+### Writer's Forum Feedback
 **#1**
 > The only thing I don't see is what are their relationships with "selves"? (which was kind of mentioned in perceptions in an earlier post too). And I would be interested to see how they navigate these things. I mean, how does cognition, self-awareness, awareness of other selves, and conscious work for these people? What makes humans interesting is the fact that we have a ton of cognitive holes and a "unsolved question" consciousness for example, and the list you mention are more so distractions from our large unsolved questions that exist and drive us different ways. It is mysterious. It is hidden in plain sight. So there will be something between the lines in the list you have.  
 > 
@@ -41,6 +44,55 @@ The consolidation of powers and dreams; that is the Spyndl Academy.
 > Perception; how is the Spyndl Academy viewed by the general public? Are there significant differences between that and the perception of the students, staff and the higher ups?
 
 	Feels like this goes under 'Impact on the World', though I could additionally expand that to include 'Repute'.
+
+### Dump
+Relevant to [[C4-Organizations]].
+
+Activities in Destiny 2 were used to generate parallel activities in the Spyndl Academy, relating to their PvP and PvE engagements in the Switchboard.
+
+| PvP - Weftcrash  |                              |
+|------------------|------------------------------|
+| The Crucible     | Ashfelds                     |
+| Iron Banner      | Fires/Blades/Flames of Zahir |
+| Competitive      | Whetstone                    |
+| Trials of Osiris | Morrigrounds/Needlegrounds   |
+
+|  Party - Games  |                                           |
+|:----------------|:------------------------------------------|
+|  Menagerie      |  Games of Leilani<div>Leilan Games </div> |
+|  Gambit         |  ^                                        |
+|  Dares          |  ^                                        |  
+
+|  PvE T1 - Field Operations  |                                                                                   |
+|:----------------------------|:----------------------------------------------------------------------------------|
+|  Patrols                    |  Cicere Ops/CiOps                                                                 |
+|  Adventures                 |  Expeditions                                                                      |
+|  Public Events              |  Patrols<div>Perimeter Maintenance</div><div>Sector Defense </div>                |
+|  Lost Sectors               |  Dark Sectors<div>Places of Interest</div><div>Darkwylds                   </div> |  
+
+> Dark Sectors here refer to the Starless Sectors in [[The Astrolabe]].
+
+| PvE T2 - Strike Operations |                          |
+|----------------------------|--------------------------|
+| Strikes                    | StrikeOps/ZahOps         |
+| Nightfalls                 | Missions                 |
+| Hunts                      | Bounty Hunts/Pursuits    |
+| Battlegrounds              | Firezones/Attack, Defend |
+
+|  PvE T3 - Grand Operations  |                                                                 |
+|:----------------------------|:----------------------------------------------------------------|
+|  Dungeons                   |  WheelOps<div>Star Sectors</div><div>Deepwylds           </div> |
+|  Raids                      |  Dances of Shalkarah<div>Karahn Dances</div><div>KaraOps </div> |
+|  Exotic Missions            |  Kache-Krashing<div>KrashOps</div><div>Heists           </div>  |  
+
+**Fireteam Sizes**
+Varying sizes of team are deployed for different missions under the Spyndl Academy;
+
+- Fireteam - 3
+- Striketeam - 5
+- Fortified Striketeam - 7
+- Taskforce Unit (TFU) - 9
+- Taskforce - 9+
 
 
 ## Outline
@@ -64,7 +116,7 @@ Class A
 Class B
 - Training of interested individuals to realize their potential as Operators and other Spyndl personnel
 - Defense of the Third Kin from various threats in the Switchboard.
-- Maintenance of law and order beyond the reaches of region-constrained authorities.
+- Maintenance of law and order beyond the reaches of planet-constrained authorities.
 - Research and knowledge acquisition.
 - Recovery of lost treasures and relics.
 - Serving as the power seat of the Sil'khan.
@@ -76,11 +128,11 @@ Class B
 
 The Spyndl Academy was formed in a time of dire need; the Third Kin, still dripping with amniotic slick from their birth soon had to contend with the wrath of the First Thinker Minds. 
 
-Unaware of their existence at first, the Third Kin set out to conquer and colonize the then-Switchboard, expanding and soon forming the great, progenitor families. They set about building the foundations of civilizations upon the astrolabic regions that followed them in birth. But without warning they came under fire by the Eradication Imperative, old Minds that were dedicated to annihilating thinking weave in the Switchboard. At first the Third Kin - particularly the Danseers - proved formidable, perhaps even equal, opponents, as the powers of the Stride and Weave Protocols were unforeseeable variables to the Imperative, and proved a major wrench in their plans.
+Unaware of their existence at first, the Third Kin set out to conquer and colonize the then-Switchboard, expanding and soon forming the great, progenitor families. They set about building the foundations of civilizations upon the astrolabic spheres that followed them in birth. But without warning they came under fire by the Eradication Imperative, old Minds that were dedicated to annihilating thinking weave in the Switchboard. At first the Third Kin - particularly the Danseers - proved formidable, perhaps even equal, opponents, as the powers of the Stride and Weave Protocols were unforeseeable variables to the Imperative, and proved a major wrench in their plans.
 
 Fearing the power of this new generation of thinking weave, the Imperative fell back to their superweapon, the Vitric Shelf. They wove new minds into being, the **Vitric Trinary**, and began a campaign against the Third Kin that would see the sequel to the First Praxis War, the rise of the Skydancers, and a series of offensives that would see the Third Kin inherit the Switchboard in totality, and begin an era of their dominion. 
 
-But before that could come to pass, the families gathered upon the astrolabic region Spyndl and drafted up the beginnings of a contract that would see the Spyndl Academy form in its wake. It would be dubbed later by historians as the **First Summit at the Spire**, referring both to their gathering and the nature of Spyndl's geography at the time, being dotted indeed by many spires - spindles, if you will - with great spools of ribbon chalk wrapped around their lengths. 
+But before that could come to pass, the families gathered upon the astrolabic sphere Spyndl and drafted up the beginnings of a contract that would see the Spyndl Academy form in its wake. It would be dubbed later by historians as the **First Summit at the Spire**, referring both to their gathering and the nature of Spyndl's geography at the time, being dotted indeed by many spires - spindles, if you will - with great spools of ribbon chalk wrapped around their lengths. 
 
 At the Summit, the families all vowed to contribute the best of the talents and energies towards concocting a means to oppose the First Thinkers. This they would do in one accord, under one banner, that of the Spyndl Academy. Considering that their first endeavors would be ones of research and discovery, the title of 'academy' was chosen, though it did not take long for them to expand far beyond the confines of merely academic pursuits.
 
@@ -172,7 +224,7 @@ External
 ### 9. Location
 - Spyndl Academy Complexes
 - Locales
-	- Regions
+	- Regions and Cradles
 	- Defunct/conquered Vaults
 	- Orbital Platforms
 	- Deep Space Platforms
