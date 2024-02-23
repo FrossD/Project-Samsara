@@ -5,6 +5,14 @@
       "path": "READING_GUIDE.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "General Graveyard",
+      "path": "1.TL_Board/GRAVEYARD/General Graveyard.md"
+    },
+    {
       "basename": "DT.Home",
       "path": "1.TL_Board/DT.Meta/DT.Home.md"
     },
@@ -175,10 +183,6 @@
     {
       "basename": "The Switchboard",
       "path": "2.Development/Foundational_Pillars/The Switchboard.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "The Challenger Dark",

@@ -3,40 +3,21 @@
     "2024/1/16": 2,
     "2024/1/19": 55,
     "2024/1/20": 1029,
-    "2024/1/21": 532
+    "2024/1/21": 532,
+    "2024/1/23": 549
   },
   "todaysWordCount": {
-    "2.Development/Workshop/Families/Prop.The_Families.md": {
-      "initial": 2479,
-      "current": 2479
+    "README.md": {
+      "initial": 226,
+      "current": 244
     },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Index.md": {
-      "initial": 11,
-      "current": 11
+    "1.TL_Board/GRAVEYARD/General Graveyard.md": {
+      "initial": 418,
+      "current": 759
     },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test.md": {
-      "initial": 0,
-      "current": 196
-    },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test 2.md": {
-      "initial": 0,
-      "current": 322
-    },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test 3.md": {
-      "initial": 1,
-      "current": 6
-    },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Title Card.md": {
-      "initial": 32,
-      "current": 32
-    },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md": {
-      "initial": 2795,
-      "current": 2795
-    },
-    "2.Development/Workshop/Families/The Fel-Arcad.md": {
-      "initial": 50380,
-      "current": 50389
+    "READING_GUIDE.md": {
+      "initial": 229,
+      "current": 419
     }
   }
 }
