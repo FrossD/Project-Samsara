@@ -58,7 +58,7 @@ Control of the CWC brace lines is **Linear Dynamism**, the action of feeding the
 ## Latent Chalk
 Both the Strider Protocol and the Weave Protocol function by expending chalk to perform actions, chalk that is accumulated actively or passively via information affinity. Chalk exists in 'clouds' of it in dust form in the general environment, and though the concentration can be low, it is present. This is 'Latent Chalk'. Weavers draw from it extensively when using their powers.
 
-	This section delves into world mechanics heavily reliant on concepts outlined in The Skywards Pursuit.
+> This section delves into world mechanics heavily reliant on concepts outlined in [[SB_Astromechanics]].
 
 Latent Chalk tends to accumulate in already fairly information-dense regions, drawn towards them like water moving from a high point to a lower one. Latent Chalk often accumulates into crystalline form, become crystal chalk, depositing itself and often growing to colossal proportions. We see this often in the [[SB_Astromechanics#The Wellsprings|Wellsprings]], regions of immense information density fed directly by armillary stars. 
 
@@ -184,7 +184,6 @@ So how do Teks form? Seemingly, they emerge from thin air, seeded by apparently 
 > 
 > And there is a far more questionable, worrying, but leagues more interesting theory that Teks are the Vermeil themselves, their thinking weave being compacted, reduced and yet honed into weft of pure function; the capabilities of the Tek being emblematic of the Vermeil entity and its nature that it once was.
 
-
 What do Teks 'calculating' look like then? Imagine travelling across a frozen tundra, sheets of ice as far as the eyes can see. Blizzards strike without warning, valleys dip below eyelevel and promise colder temperatures, while high peaks threatening heavy exposure. Nights bring truly nail-biting cold, and all but the absolute strongest are felled. And then, without explanation, in your travels you come across a patch of verdantly green grass. Continuing forward you find larger and larger patches, taller grass, now flowers and even bushes, before you find a small tree, growing pleasantly in the inexplicably warm air. Beyond it, a pool of sparkling warm water, summertime fields all around it.
 
 In most cases, this would simply be a fluke with the planet's equation, or a psychitect inserting a jarring clause in the equation stack, laughing to themselves at the face they imagine whoever stumbles upon it to have. But in some cases, for reasons that escape even those who do nothing other than study it, the Astrolabe's calculus may require there to be a hot spring in the middle of ice-scorched lands, and the task of realizing such a thing is offloaded to a Tek, that will be present in the local lattice of that environment. 
@@ -226,3 +225,20 @@ There was once an effort to classify and compartmentalize Teks, but it has been 
 A rather interesting ramification of most denizens of the Switchboard only being able to wield a singular Tek at a time, coupled with the fact Teks are immensely varied and unique from one another, is that certain Teks become 'assigned' to certain persons - a part of their identity, as it were - especially in the case of Striders. 
 
 Striders known for using certain Teks accumulate renown or notoriety, the implications of which is elaborated upon in the discussion of [[The Doctrine of Passing#On Names and Tales|Yarns]]. Striders with particularly powerful and well-known Teks may knowingly or unknowingly cultivate groups of other Striders that follow them, and by virtue of Strider Evolution, may develop weaker versions of the Tek they posses. It leads to the formation of 'cults' of Striders, all using powers similar to that of their leader's.
+
+### pNarrat: Common Teks
+> [[Weave and Warfare]] is recommended reading for this section.
+
+There is something that always struck me - with regards to various fictional media - as one of those things that must be done to fulfill the author's desire to avoid monotony in their works. This 'thing' is that, in worlds and universes where having supernatural powers of whatever flavor is established - magic, mutations, sufficiently-advanced-technology, whatever - you rarely ever see two characters wielding the same power, unless immensely needed by narrative.
+
+Ultimately, this is a point of flavor. It is simply more interesting to see how a diverse sandbox of powers and power-wielders interacts with itself, than for everyone or even overwhelming majorities of people to bear one of a small pool of possible supernatural capabilities. Granted, I have seen this done in a number of ways.
+
+- Supernatural capabilities have divisions/subdivisions or 'schools' much like RPG classes, and while there is variation within subclasses, the theme of the superclass can't truly be escaped from entirely, ensuring there is still an amount of diversity in the sandbox, and interesting sparks from the clashes between them.
+- Very restricted pools of only being able to do one thing (like super strength, speed etc) and the interesting bits comes from the creativity characters are able to display in their usage.
+
+That all being said, Samsara does handle things in a somewhat similar manner; generally Teks are as varied as they come, as narratively, the power of a Tek is to massively expedite or facilitate something that may or may not be doable with plain chalkweaving. For this reason, Teks are immensely varied. That being said, Teks are hard things to acquire, in that they are scattered across the stars and the stars are a dangerous place. Ironically, the power granted by a Tek would be immensely handy on the quest to find one. 
+
+The fact that Teks are also physical and tangible - as opposed to various supernatural power systems that have all manners of restrictions on passing powers between parties, or even outright hardcoded rules that make doing so impossible - and the fact Teks have mechanics behind their formation, means that there are various Teks used by vast swathes of people across the Switchboard, due to their having being spawned in places that can be monitored and thus farmed for them, and the fact they can be transferred from subject to subject. 
+
+For this reason, 'newbie' strider-combatants in the Switchboard may wield a very widely-practiced skillset, and the differentiation between them comes from the individual creativity and auxiliary proficiencies possessed by individual subjects.
+

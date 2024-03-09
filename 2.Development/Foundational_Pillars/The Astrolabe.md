@@ -3,7 +3,7 @@ Outlined most succinctly in the account of the Switchboard's origin;
 
 ![[The Dawn of the Dancirah#The Astrolabe]]
 
-At the center of the Switchboard lies the Astrolabe, a colossal construct that stood at the beginning of the Switchboard before it even bore that name, Manifesting physically as a star-sized analogue computer-like construct of incomprehensible complexity, the workings of is **grand calculus** serves to dictate the very nature of the Switchboard, all the way down to the most elementary calcic mechanics. It is this significance that has earned the Astrolabe equal parts curiosity, reverence and often fear. Nonetheless, the mechanics of the Switchboard are - in a sense - the mechanics of the Astrolabe, plus making it necessary that there be a document to outline the many workings of the super-construct.
+At the center of the Switchboard lies the Astrolabe, a colossal construct that stood at the beginning of the Switchboard before it even bore that name, Manifesting physically as a star-sized analogue computer-like construct of incomprehensible complexity, the workings of its **grand calculus** serves to dictate the very nature of the Switchboard, all the way down to the most elementary calcic mechanics. It is this significance that has earned the Astrolabe equal parts curiosity, reverence and often fear. Nonetheless, the mechanics of the Switchboard are - in a sense - the mechanics of the Astrolabe, plus making it necessary that there be a document to outline the many workings of the super-construct.
 
 ## The Origin of the Astrolabe.
 > For now, there is no conclusive answer to this question.

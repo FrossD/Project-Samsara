@@ -206,7 +206,7 @@ Nadira was convinced that something 'plagued' the Third Kin through no fault of 
 From these findings and philosophies they penned one of the more controversial tomes of Fel-Arcad relevance; **Thy Self, A Canvas**. In it, the 'Semblance Doctrine' as it was dubbed was described, as well as the path to achieving reconciliation with mind and body - the perfected Semblance - through usage of the Fel-Arcad weave-looms and grafts made from chalk and chrome. For this work, Nadira was given the title of **ArcDanseer**; Arcad Danseer, and was immortalized in Fel-Arcad canon.
 
 **They That Rose #10 - Starwards**
-And with this, the Fel-Arcad grew into the future. In this time they expanded across the Dancirah, building arcologies as they went. The Refrain's curse upon the Danseers struck and the Fel-Arcad were there to help their ancient allies, utilizing the Triptych Crucible to give rise to the Sil'khan. Philosophies formed and fell. Fel-Arcad did mighty things the Dancirah-over. Procession after procession came and went, but the Fel-Arcad stood strong, their place as one of the great families more than secured.
+And with this, the Fel-Arcad grew into the future. In this time they expanded across the Dancirah, building arcologies as they went. The Refrain's curse upon the Danseers struck and the Fel-Arcad were there to help their ancient allies, utilizing the Triptych Crucible to give rise to the Sil'khan. Philosophies formed and fell. Fel-Arcad did mighty things the Dancirah-over. Procession after procession came and went, but the Fel-Arcad stood strong, their place as one of the Great Families more than secured.
 
 ### 04. Appearance
 I planted two baselines for the Fel-Arcad's appearance, one being their doctrine and the second being my desire to create my take on the elf/fae race that is a staple in fantasy fiction. 
@@ -1418,7 +1418,7 @@ Coupled with rights and freedoms are responsibilities, spawned primarily from th
 One of the ways responsibilities manifest is in occupation, in that all Fel-Arcad are expected to work in some regard, and are additionally given various options on what work they wish to do. It is generally understood that much work is hard and lacking in glamour, and thus there must be considerable incentive in place to ensure that it gets done. Approaches vary, from acceptance of the nature of work as a sort of necessary evil, and thus it must be counterbalanced with the various 'goods' provided by arcology living, to a somewhat stricter strategy of sticks rather than carrots - though within the realms of Fel-Arcad punitive philosophy.
 
 #### The Fel-Arcad Economy
-Outlined in many of the Fey Curlicue's texts were notes on the matter of economics; how it shaped the other great families in the earliest Switchboard, and the star-spanning effects it would have in the near and distant futures. For this reason, the Arcad and Fel-Arcad over time have theory-crafted and tested various models and approaches to this problem, in order to minimize ills while still reaping the benefits of trade in general. 
+Outlined in many of the Fey Curlicue's texts were notes on the matter of economics; how it shaped the other Great Families in the earliest Switchboard, and the star-spanning effects it would have in the near and distant futures. For this reason, the Arcad and Fel-Arcad over time have theory-crafted and tested various models and approaches to this problem, in order to minimize ills while still reaping the benefits of trade in general. 
 
 ##### The Fel-Arcad Economy & The Wider Switchboard
 How does the Fel-Arcad economy work?
@@ -1493,3 +1493,5 @@ While I didn't intend this to be the case when I was building the Fel-Arcad, it 
 In a sense, the Fel-Arcad are rationalists to their core. They began the task of civilization-building operating under the assumption that they had only one shot to get it right, and miraculously, they did to a large extent - much larger compared to their other Third Kin siblings. In addition to starting well, they maintained what they had begun procession over procession, with the changes in the Switchboard only demanding a further refinement of the methods they already employed, rather than a deviation from those methods towards new ones. 
 
 In a sense, the Fel-Arcad got it figured out.
+
+I think what really birthed the idea of the Fel-Arcad were three major things. The first of them was a lore book from the video game **Destiny 2**; titled '**Last Days on Kraken Mare**'

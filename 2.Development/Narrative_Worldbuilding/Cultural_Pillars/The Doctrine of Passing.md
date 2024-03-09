@@ -159,4 +159,4 @@ For this reason, it is essential to give enough definition to the wireframe to e
 - Developing and using signature and unique combat styles, weapons, 
 - Cultivating additional means of identifying themselves such as visual flairs - specific colors and patterns of **light** that emerge when performing techniques and casts, for example.
 
-By working to cultivate a **name** for oneself, and existing in such a manner that that name becomes **known to as many as possible**, the subsequent **questions posed** about that name leads to the bearer of it **reaping tangible calcic dividends**. 
+By working to cultivate a **name** for oneself, and existing in such a manner that that name becomes **known to as many as possible**, the subsequent **questions posed** about that name leads to the bearer of it **reaping tangible calcic dividends**.

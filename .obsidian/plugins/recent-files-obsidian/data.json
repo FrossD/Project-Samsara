@@ -1,100 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "READING_GUIDE",
-      "path": "READING_GUIDE.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "General Graveyard",
-      "path": "1.TL_Board/GRAVEYARD/General Graveyard.md"
+      "basename": "DT.WC_1",
+      "path": "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md"
     },
     {
       "basename": "DT.Home",
       "path": "1.TL_Board/DT.Meta/DT.Home.md"
     },
     {
-      "basename": "The Fel-Arcad",
-      "path": "2.Development/Workshop/Families/The Fel-Arcad.md"
-    },
-    {
-      "basename": "VenCendyrBanter2",
-      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md"
-    },
-    {
-      "basename": "Title Card",
-      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Title Card.md"
-    },
-    {
-      "basename": "Index",
-      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Index.md"
-    },
-    {
-      "basename": "DT.WC_1",
-      "path": "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md"
-    },
-    {
-      "basename": "Prop.The_Families",
-      "path": "2.Development/Workshop/Families/Prop.The_Families.md"
-    },
-    {
-      "basename": "FelArcad InDev",
-      "path": "2.Development/Workshop/FamDev/FelArcad InDev.md"
-    },
-    {
-      "basename": "DT.WN-DT",
-      "path": "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.WN-DT.md"
-    },
-    {
-      "basename": "Weftcrash Narrative",
-      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weftcrash Narrative.md"
-    },
-    {
-      "basename": "SB_Physiology",
-      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/SB_Physiology.md"
+      "basename": "Meta",
+      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Meta.md"
     },
     {
       "basename": "Weave and Warfare",
       "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weave and Warfare.md"
     },
     {
-      "basename": "The Doctrine of Passing",
-      "path": "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md"
+      "basename": "VenCendyrBanter2",
+      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md"
     },
     {
-      "basename": "Praxis Vows",
-      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Praxis Vows.md"
+      "basename": "Index",
+      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Index.md"
+    },
+    {
+      "basename": "DT.Weftcrash_Narrative",
+      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/DT.Weftcrash_Narrative.md"
+    },
+    {
+      "basename": "Sil_Nagika_FP_Proposal",
+      "path": "2.Development/Workshop/DT.WORKSHOP_DOCS/Sil_Nagika_FP_Proposal.md"
+    },
+    {
+      "basename": "Sequence 3",
+      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Sequence 3.md"
+    },
+    {
+      "basename": "DT.CharTemplate",
+      "path": "2.Development/Narrative_Worldbuilding/Characters/DT.CharTemplate.md"
+    },
+    {
+      "basename": "The Fel-Arcad",
+      "path": "2.Development/Workshop/Families/The Fel-Arcad.md"
+    },
+    {
+      "basename": "Prop.The_Families",
+      "path": "2.Development/Workshop/Families/Prop.The_Families.md"
+    },
+    {
+      "basename": "DT.Spot_Lore_Tracker",
+      "path": "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.Spot_Lore_Tracker.md"
+    },
+    {
+      "basename": "boscosalignment",
+      "path": "Z.Assets/boscosalignment.png"
+    },
+    {
+      "basename": "VoidDaughtersRel",
+      "path": "Z.Assets/VoidDaughtersRel.png"
+    },
+    {
+      "basename": "Pasted image 20231027212609",
+      "path": "Z.Assets/Pasted image 20231027212609.png"
+    },
+    {
+      "basename": "Pasted image 20220529032402",
+      "path": "Z.Assets/Pasted image 20220529032402.png"
+    },
+    {
+      "basename": "Pasted image 20230430235927",
+      "path": "Z.Assets/Pasted image 20230430235927.png"
+    },
+    {
+      "basename": "Pasted image 20230323175613",
+      "path": "Z.Assets/Pasted image 20230323175613.png"
+    },
+    {
+      "basename": "Pasted image 20230323175549",
+      "path": "Z.Assets/Pasted image 20230323175549.png"
+    },
+    {
+      "basename": "Pasted image 20230306015533",
+      "path": "Z.Assets/Pasted image 20230306015533.png"
+    },
+    {
+      "basename": "Pasted image 20230306011133",
+      "path": "Z.Assets/Pasted image 20230306011133.png"
+    },
+    {
+      "basename": "Pasted image 20230303014516",
+      "path": "Z.Assets/Pasted image 20230303014516.png"
+    },
+    {
+      "basename": "Pasted image 20230306011045",
+      "path": "Z.Assets/Pasted image 20230306011045.png"
+    },
+    {
+      "basename": "DT.WN-DT",
+      "path": "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.WN-DT.md"
+    },
+    {
+      "basename": "Biomes of the Dancirah",
+      "path": "2.Development/Mechanical_Pillars/Biomes of the Dancirah.md"
+    },
+    {
+      "basename": "BiomesFinal",
+      "path": "3.Scribbling/BiomesFinal.pdf"
+    },
+    {
+      "basename": "Freedryck_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Freedryck_AC.md"
+    },
+    {
+      "basename": "DT.CANTHAR_2",
+      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md"
+    },
+    {
+      "basename": "SB_Physiology",
+      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/SB_Physiology.md"
     },
     {
       "basename": "Fyre_AC",
       "path": "2.Development/Workshop/Arsenal_Cards/Fyre_AC.md"
-    },
-    {
-      "basename": "Blakk_AC",
-      "path": "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md"
-    },
-    {
-      "basename": "Ven_AC",
-      "path": "2.Development/Workshop/Arsenal_Cards/Ven_AC.md"
-    },
-    {
-      "basename": "DT.Arsenal_Cards",
-      "path": "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md"
-    },
-    {
-      "basename": "DT.The_Mysticism",
-      "path": "1.TL_Board/GRAVEYARD/DT.The_Mysticism.md"
-    },
-    {
-      "basename": "RegionGenEngine",
-      "path": "3.Scribbling/External_Asset_Projects/RegionGenEngine.md"
-    },
-    {
-      "basename": "BlakkSheep's Naming",
-      "path": "1.TL_Board/DT.Research_&_Resources/BlakkSheep's Naming.md"
     },
     {
       "basename": "Martial Disciplines",
@@ -105,100 +133,72 @@
       "path": "2.Development/Mechanical_Pillars/SB_Astromechanics.md"
     },
     {
-      "basename": "DT.Spot_Lore_Tracker",
-      "path": "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.Spot_Lore_Tracker.md"
-    },
-    {
       "basename": "The Strider Protocol",
       "path": "2.Development/Foundational_Pillars/The Strider Protocol.md"
     },
     {
-      "basename": "FamDesignDoc",
-      "path": "2.Development/Workshop/FamDev/FamDesignDoc.md"
-    },
-    {
-      "basename": "DT.Conlang_Nomen",
-      "path": "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.Conlang_Nomen.md"
-    },
-    {
-      "basename": "Research & Development",
-      "path": "1.TL_Board/DT.Research_&_Resources/Research & Development.md"
-    },
-    {
-      "basename": "DT.SBTech_2",
-      "path": "2.Development/Workshop/WORKSHOP_DOCS/DT.SBTech_2.md"
-    },
-    {
-      "basename": "Calcodynamics",
-      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/Calcodynamics.md"
-    },
-    {
-      "basename": "DT.CANTHAR_2",
-      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md"
-    },
-    {
-      "basename": "Glass",
-      "path": "2.Development/Mechanical_Pillars/Glass.md"
-    },
-    {
-      "basename": "The Sil'khan",
-      "path": "2.Development/Workshop/Families/The Sil'khan.md"
-    },
-    {
-      "basename": "DT.Expansion_Tracker",
-      "path": "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.Expansion_Tracker.md"
-    },
-    {
-      "basename": "Cross-Danciran_Arcology_Economies_and_Logistics",
-      "path": "2.Development/Workshop/WORKSHOP_DOCS/Cross-Danciran_Arcology_Economies_and_Logistics.md"
-    },
-    {
-      "basename": "Extended Disciplines",
-      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Extended Disciplines.md"
-    },
-    {
-      "basename": "1. AC_Template",
-      "path": "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md"
-    },
-    {
-      "basename": "Hex_AC",
-      "path": "2.Development/Workshop/Arsenal_Cards/Hex_AC.md"
-    },
-    {
-      "basename": "The Vitric Shelf",
-      "path": "2.Development/Workshop/PlanesDev/The Vitric Shelf.md"
-    },
-    {
-      "basename": "Writing",
-      "path": "3.Scribbling/Writing.md"
-    },
-    {
-      "basename": "Latest Void Revisions",
-      "path": "2.Development/Workshop/DT.Void 5/Latest Void Revisions.md"
+      "basename": "The Hands as Chalk",
+      "path": "2.Development/Foundational_Pillars/The Hands as Chalk.md"
     },
     {
       "basename": "The Blank-Slate Mind",
       "path": "2.Development/Foundational_Pillars/The Blank-Slate Mind.md"
     },
     {
-      "basename": "The Switchboard",
-      "path": "2.Development/Foundational_Pillars/The Switchboard.md"
+      "basename": "The Astrolabe",
+      "path": "2.Development/Foundational_Pillars/The Astrolabe.md"
     },
     {
-      "basename": "The Challenger Dark",
-      "path": "2.Development/Workshop/PlanesDev/The Challenger Dark.md"
+      "basename": "Extended Disciplines",
+      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Extended Disciplines.md"
     },
     {
-      "basename": "Birthing and Being",
-      "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Birthing and Being.md"
+      "basename": "Ven_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Ven_AC.md"
     },
     {
-      "basename": "Chalk Ritualism",
-      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Chalk Ritualism.md"
+      "basename": "Hex_AC",
+      "path": "2.Development/Workshop/Arsenal_Cards/Hex_AC.md"
+    },
+    {
+      "basename": "1. AC_Template",
+      "path": "2.Development/Workshop/Arsenal_Cards/1. AC_Template.md"
+    },
+    {
+      "basename": "DT.Arsenal_Cards",
+      "path": "2.Development/Workshop/Arsenal_Cards/DT.Arsenal_Cards.md"
     },
     {
       "basename": "Communications and Compute",
       "path": "2.Development/Narrative_Worldbuilding/NarratWB_NB1/Communications and Compute.md"
+    },
+    {
+      "basename": "Praxis Vows",
+      "path": "2.Development/Narrative_Worldbuilding/Switchboard Powers/Praxis Vows.md"
+    },
+    {
+      "basename": "Sequence 1",
+      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Sequence 1.md"
+    },
+    {
+      "basename": "Sequence 2",
+      "path": "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Sequence 2.md"
+    },
+    {
+      "basename": "The Void",
+      "path": "2.Development/Mechanical_Pillars/The Void.md"
+    },
+    {
+      "basename": "Pasted image 20220617173939",
+      "path": "Z.Assets/Pasted image 20220617173939.png"
+    },
+    {
+      "basename": "Prop.CalcicChemistry",
+      "path": "2.Development/Workshop/Calcic_Chemistry_et_al/Prop.CalcicChemistry.md"
+    },
+    {
+      "basename": "Prop.Blackjack",
+      "path": "2.Development/Workshop/DT.Void 5/Prop.Blackjack.md"
     }
   ],
   "omittedPaths": [],

@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f45ff618e7121354",
+        "id": "60039627d4b36da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e8567301e9a542",
+            "id": "2708ed70b6798789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "READING_GUIDE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33e07f06b79b26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.TL_Board/GRAVEYARD/General Graveyard.md",
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "READING_GUIDE.md",
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "READING_GUIDE.md",
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "READING_GUIDE.md"
+                "file": "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md"
               }
             }
           }
@@ -180,54 +167,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c5e8567301e9a542",
+  "active": "2708ed70b6798789",
   "lastOpenFiles": [
-    "README.md",
-    "1.TL_Board/GRAVEYARD/General Graveyard.md",
-    "READING_GUIDE.md",
     "1.TL_Board/DT.Meta/DT.Home.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Meta.md",
+    "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md",
+    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weave and Warfare.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Index.md",
+    "2.Development/Narrative_Worldbuilding/Switchboard Powers/DT.Weftcrash_Narrative.md",
+    "2.Development/Workshop/DT.WORKSHOP_DOCS/Sil_Nagika_FP_Proposal.md",
+    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Sequence 3.md",
+    "2.Development/Narrative_Worldbuilding/Characters/DT.CharTemplate.md",
+    "2.Development/Workshop/DT.WORKSHOP_DOCS/Hex_Clocking_v2.md",
+    "2.Development/Workshop/Families/Prop.The_Families.md",
+    "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.Spot_Lore_Tracker.md",
+    "Z.Assets/boscosalignment.png",
+    "Z.Assets/VoidDaughtersRel.png",
+    "Z.Assets/Pasted image 20231027212609.png",
+    "Z.Assets/Pasted image 20220529032402.png",
+    "Z.Assets/Pasted image 20230430235927.png",
+    "Z.Assets/Pasted image 20230323175613.png",
+    "Z.Assets/Pasted image 20230323175549.png",
+    "Z.Assets/Pasted image 20230306015533.png",
+    "Z.Assets/Pasted image 20230306011133.png",
+    "Z.Assets/Pasted image 20230303014516.png",
+    "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.WN-DT.md",
+    "2.Development/Workshop/Families/The Fel-Arcad.md",
+    "2.Development/Mechanical_Pillars/Biomes of the Dancirah.md",
+    "3.Scribbling/BiomesFinal.pdf",
+    "2.Development/Workshop/Arsenal_Cards/Freedryck_AC.md",
+    "2.Development/Workshop/Calcic_Chemistry_et_al/DT.CANTHAR_2.md",
+    "2.Development/Workshop/Calcic_Chemistry_et_al/SB_Physiology.md",
+    "2.Development/Workshop/Arsenal_Cards/Fyre_AC.md",
+    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Martial Disciplines.md",
+    "2.Development/Mechanical_Pillars/SB_Astromechanics.md",
+    "2.Development/Foundational_Pillars/The Strider Protocol.md",
+    "2.Development/Foundational_Pillars/The Hands as Chalk.md",
+    "2.Development/Foundational_Pillars/The Blank-Slate Mind.md",
+    "2.Development/Foundational_Pillars/The Astrolabe.md",
     "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.vQIFWH",
     "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.lock",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/VenCendyrBanter2.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Title Card.md",
     "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.KlaXTV",
     "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/user.lock",
     "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/user.lock.fEWTJj",
     "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/user.lock.lock",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Index.md",
-    "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md",
     "3.Scribbling/DT.WEFTCRASH/Weftcrash_1",
-    "2.Development/Workshop/Families/Prop.The_Families.md",
-    "2.Development/Workshop/Families/The Fel-Arcad.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test 3.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Test 2.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test 2.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/manuscript.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Test.md",
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1/Index.md",
     "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ/Weftcrash_1",
-    "2.Development/Workshop/FamDev/FelArcad InDev.md",
-    "2.Development/Narrative_Worldbuilding/Z Drafting Tables/DT.WN-DT.md",
     "3.Scribbling/DT.WEFTCRASH/Weftcrash_Writ",
-    "FamTemplate.md",
-    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weftcrash Narrative.md",
-    "2.Development/Workshop/Calcic_Chemistry_et_al/SB_Physiology.md",
-    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weave and Warfare.md",
-    "2.Development/Narrative_Worldbuilding/Cultural_Pillars/The Doctrine of Passing.md",
-    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Praxis Vows.md",
-    "2.Development/Workshop/Arsenal_Cards/Blakk_AC.md",
-    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Settings/ui.ini.utlFGb",
-    "3.Scribbling/Scrivener/WeftcrashOne.scriv/Files/Data/62FF97C4-994E-4778-B24F-1B07FB81601D/content.png",
-    "3.Scribbling/Scrivener/Tut.scriv/QuickLook/Thumbnail.jpg",
-    "3.Scribbling/Scrivener/Tut.scriv/Files/Data/CD531760-289F-45A4-85D1-501C730AF986/content.jpg",
-    "Pasted image 20240131221346.png",
-    "2.Development/Workshop/DT.Void 5/DT.Void_5.canvas",
-    "Z.Assets/DT.Logos/SamsaraLogoCrackFinal.gif",
-    "Z.Assets/DT.Logos/SamsaraLogoCrack.gif",
-    "Z.Assets/DT.Logos/MOSHED-2024-1-28-0-49-56.gif",
-    "Z.Assets/DT.Logos/LogoFinal_2ColorBlackandWhitet.png",
-    "Z.Assets/DT.Logos/LogoFinal.png",
-    "Z.Assets/DT.Logos/LogoFinal_2ColorRed.png"
+    "2.Development/Workshop/DT.Void 5/DT.Void_5.canvas"
   ]
 }
