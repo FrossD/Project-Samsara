@@ -1,0 +1,669 @@
+# Switchboard Technology
+A look into the technology of the Switchboard, particularly exploring how the mechanics of the verse determine the technology within it, the design philosophies behind some of this technology, the effects it has on civilization, and some sections with regards to how technology intersects with narrative.
+
+## Forewords
+Some preliminary writ that it appropriate reading before delving into various subject matter.
+
+### Foreword: Calcic Measures
+Chalk has two primary units of measure; **amount** and **complexity**.
+
+Amounts of chalk are measured in **tomes**, which is an **expression of the amount of chalk per cubic meter**. Complexity - which is a measure of the **number of folds in the calcic ribbon per square meter** - is denoted with **setts**.
+
+The Third Kin - arguably among the most complex calcic entities in the Switchboard - have a **rating** of about **one million setts** or **1 sett-k**. This number is averaged across the entirety of their person, this including the far *more* complex straits, and the far *less* complex lattice. Expressions of complexity often use fractions of an **Stk**, such as 0.8StK, 1.45StK, as so. 
+
+When considering structures that feature immensely complex and immensely simple weave, **sett deviation** is used to express a ratio of the simplest weft against the most complex weft in the structure. Third Kin have a **StKD** of about **one hundred thousand**, meaning the most complex weft within them - the Five Straits - is about one hundred thousand times more complex than the simplest, often their lattice.
+
+The calcic mass of a Third Kin is subject to too many variables to have any sort of useful average to employ in ratios of other things to it, and as such, things simply have their '**tomic**' mass. 
+
+### Foreword: No Atoms Here
+> [[Calcodynamics]] is recommended reading before this section.
+
+In retrospect I cannot discourage enough killing the atom. It's an incredibly useful thing to have in worldbuilding that you don't even realize, as it serves as the solid natural world foundation upon which you can then build your heart's desires with regards to fictional phenomena. All that being said, we still have managed to build a fairly coherent and working world even after throwing away the most obviously useful toolbox. 
+
+Switchboard Technology was uniquely affected by this, in that no atoms meant no electromagnetism, which in turn meant no electricity. When you want to define how technology works without perhaps the defining component of technology as most people understand it - electricity - you have given yourself an immensely difficult task. Chalk as the building blocks of the universe didn't have a 1-to-1 analogue for electricity, instead stealing bits of its consequences rather than the foundation of the phenomenon itself. 
+
+To answer the question of "How do toaster ovens and blenders work in the Switchboard?" we had to get a little creative. Many discussions were held on the matter, and the final conclusions were that, fundamentally, electricity is used primarily to create heat and/or create motion, and these three phenomena all existed in a sort of skewed triangle, where any one node could produce the other, and you could reach one node from any other node by passing through the last one. Cutting one vertex out of this triangle would thus leave behind a still-functional connection between the last two, even if it eliminated some simple avenues of doing things.
+
+As such, the entirety of the Switchboard does indeed run on exclusively heat and motion.
+
+The Calcodynamics outlines the phenomena of [[Calcodynamics#Property Weaves|property weave]] and [[Calcodynamics#Inductive Weave|inductive weave]]; weave that outlines the nature of the comprised weft, as well as weft that can induce its presence in one endpoint at the expense of its presence in where it began. Heat and motion being inductive property weaves, means that when objects begin moving, it is due to their weft ontology being altered by the induction of motive weave into them, and when objects are hot, it is due to thermal weave being introduced as well. As objects slow, they lose motive weave to the environment as heat, while thermal weave merely induces itself into the environment as objects cool. An object with motive weave striking something without causes a loss of motion in the first body and the induction of it in the second, replicating - rather neatly - the conventional laws of motion under atomic (real world) and Newtonian physics.
+
+Addressed later on, we explore how this electricity-less technology has led to novel approaches to things such as generating and distributing power, powering appliances, and the like. 
+
+In turn, the reverse of the relationship between motion and heat - whereby heat is 'wound' back into motion, is made possible by the [[Glass#Entropy Reversal|negentropic properties]] of glass. This heat to motion, motion to heat is the fundamental principle upon which Switchboard technology is built.
+
+### Foreword: Materials Science
+> [[Calcodynamics]] is greatly encouraged reading before this section.
+
+Under our traditional systems of atomic chemistry, a 'material' is a very exact thing. Metals and non-metals being top-level classifications have allowed for neatly sorting iron and oxygen into fairly intuitive boxes, with further classifications such as metalloids and noble gases serving the purpose of differentiating iron and silicon, and oxygen and argon.
+
+These classifications are borne from the properties these materials and substances exhibit as a result of their fundamental particle structure. Adding protons to aluminum, a malleable metal, gives the semiconductor silicon, the two-faced phosphorus, the yellow powder sulfur, the toxic gas chlorine, and then the utterly imperceptible argon. Vast changes in exhibited properties stem from merely adding more particles, and this is true across and down the periodic table - though down less so.
+
+Under Samsara however, the properties of any existing things are a product of the weft within it. In our world, the lustrous and malleable nature of metals are an emergent property of proton count; in Samsara, 'luster' and 'malleability' are two different patterns of weft encoded in the weave of any matter, as though they were salt and pepper added to a meal. 
+
+So how then does classification work? What is a metal, metalloid, non metal or noble gas in the Switchboard?
+
+You can imagine material classification in the Switchboard as a series of rooms with certain entry requirements, these requirements being exceeding a certain threshold in a certain metric, such as security clearance on a key card. Consider this example; rooms one and two exist, as do possible entrants A, B and C. To qualify for room one, you need higher 'x' clearance than 'y' clearance, and to qualify for room two, you need a certain amount of both 'x' and 'y' clearance.
+
+If entrant A has low 'y' clearance but high 'x' clearance, they might - due to the lack of hard figures in this example - qualify for room one, as well as not have enough 'y' clearance for room two. If entrant B has 'x' and 'y' clearance that exceed the threshold required by room two, but are also equal in measure, they are disqualified from room one. Entrant C, however, has high 'y' clearance - and higher still 'x' clearance, and thus might qualify for both rooms. As such, they are simply placed in both. 
+
+Materials and property weave behave much the same way. A 'metal' in the Switchboard is simply whatever has enough property weave within it to exceed a certain threshold of what can be declared a metal. Luster, malleability, ductility, thermo-conductivity, a satisfying sound when struck; the possession of these properties - or rather the weft that causes them - to a certain degree makes the weft-material in question suitable to be called a metal.
+
+This does somewhat broaden the sheer number of classifications available for various things in the Switchboard. A 'plastic' in our world refers to a synthetic material made from organic polymers sourced from hydrocarbons. In the Switchboard, a plastic is defined by the properties plastic in our world exhibits; being light, transparent, moldable when heated, rigid when not. Gemstones such as emeralds and rubies in our verse are simply non-metals or 'crystalline solids', while in the Switchboard they define a class of weft material with immense crystalline strength and a distinct behavior towards light. How about wood? Organic, fibrous, flammable. I believe the spirit of the idea is relatively clear.
+
+This does mean that the overall number of classifications for materials in the Switchboard is decidedly numerous, with metals and non-metals expanding to become metals, plastics, woods, 'crystallines', fabrics, the like, continuing on into more esoteric categories such as elastics, bioluminescents, aerogels, piezo-*thermals*, photochromics, hydrophobics and 'intelligent' polymers. While being a decidedly strange way of classifying things, it works rather suitably for the Switchboard canon.
+
+#### Metamaterials
+> [[Chalk Ritualism]] is recommended reading for this section.
+
+The properties held by various materials in the Switchboard can be 'extracted' and utilized elsewhere by the calcic ritualism. You can, in a sense, extract hardness from iron and imbue it in cotton, giving you soft iron and strong cotton. This soft iron might be useful for a conductor undergoing frequent reshaping, and the strong cotton useful for creating light but still effective armor.
+
+Both of these are examples of **metamaterials**, which describe any material in the Switchboard bearing inculcated properties that differ considerably from its original state. The calcic ritualism thus allows for the fabrication of purpose-built metamaterials meant for tackling even the most unfathomable of industrial needs, and the amalgamation of various materials into one incidence of weft matter creates highly esoteric **meta-alloys** that see extensive use in these use-cases.
+
+Metamaterials do come with their own caveats however, these being things such as relative weft instability, the considerable and proportional difficulty of their creation, the various additional conditionals that must be met in their use - some begin actively consuming latent chalk to remain functional or even stable, an increased vulnerability to glass, as well as emergent adverse reactions with other materials and metamaterials and even living, thinking weave. While they have decidedly made a nontrivial impact on the Switchboard's technologies, they are not without relative risk in both creation and utilization, and much work is put into maximizing their usefulness while mitigating the danger they present as much as possible.
+
+#### pNarrat: Relic Materials
+Relic materials are materials in the Switchboard differentiated from others by an immense and unique esotericism to their function. Narratively, they are transcendent fabrications that go beyond the domain of mere property weave to explain their behaviors, instead possessing the **five straits**.
+
+In a sense then, the relic materials exhibit behavior akin to being alive. They can be interacted with and utilized in manners that vastly exceed what is doable with mundane materials, and thus the use cases they satisfy are among the most prominent.
+
+Their anomalous properties are primarily the result of immensely complex ritualism or spontaneous evolution under astrolabic-favored conditions, and often they are purpose-built to address some explicit demand that no other thing can satisfy. Their having the five straits makes them able to be 'spoken to' by weavers, ritualists and various parties making use of them, this enhanced interactive allowing for 'programming' the material's function as need be. 
+
+## Switchboard Technologies
+The various technologies that exist in the Switchboard, categorized and tackled accordingly. The scope of this document is an extensive series of first and second-order application of many first principles and *their* applications in the Switchboard universe. As such, it is highly recommended one read the following documents before beginning;
+
+- [[The Hands as Chalk]]
+- [[Calcodynamics]]
+
+### SBTech: Information & Communication Technology
+Distance is frequently both a bane and a non-issue for Striders in the Switchboard. Irrespective of that, communications and computer technology remain an essential element of the Switchboard. We detail the unique way these systems function.
+
+Because of the sheer scope of this subject matter, however, it became necessary to develop and store it within its own document, separate from the rest of the rest of this document; it can be found in [[Communications and Compute]].
+
+### SBTech: Medical & Pharmacological Technology
+The nuances of how the denizens of the Switchboard handle medicine is entirely a product of their unique physiology and the nature of chalk.
+
+Similarly, once contained here, the scope of this heading expanded beyond the bounds of this document, and as such the original contents of this heading as well as other related subject matter have been moved to [[SB_Physiology]].
+
+### SBTech: Power Generation and Distribution
+A discussion on 'power' with regards to Switchboard technology, and how it is produced, moved around, and used.
+
+> And something of a foreword before we begin. Much of SBTech is incredibly pedestrian in scope; explaining how toaster ovens and blenders and later, vehicles and damn jumpships even function. For this reason, it helps to categorize and thus denote all things within this scope as simply '**appliances**'; things that take in something to do something, that they otherwise could not have done without taking in that thing.
+
+> Much of what is discussed here falls under a fictional, in-canon discipline; **thermo-motives**. This describes the interactions and conversions between heat and motion, and how these interactions can be harnessed and exploited.
+
+#### The Thermal Grid
+The entire Switchboard, in a sense of its technologies, run on heat.
+
+Of course, there are some exceptions to this rule. Slates, for example, really only need latent chalk to perform their many functions, and chalk in general to work. Many other things merely need chalk to do what they do, but still, various appliances in the Switchboard are predicated upon heat and motion, be it using one to obtain the other, or either to accomplish some end.
+
+As such, **heat** and **chalk** can be viewed as the 'fuels' for various appliances and applications in the Switchboard; heat for more mundane cases, and chalk for more esoteric, conditional ones. Much like our own electrical grids, which are intricate superstructures of electricity production, distribution and utilization, the Switchboard has somewhat equivalent **thermal grids**, which are concerned with the production, distribution and utlization of heat. 
+
+#### Production
+Considering that heat is a [[Calcodynamics#Property Weaves|property weave]], it is thus prohibitively  difficult - downright impossible - to manufacture it directly from chalk, via chalkweaving. The ideal way to obtain heat is via the natural calcic chemistry of motion dissipating - unravelling - into heat as objects in the Switchboard slow to a point of rest. This, however, just moves the problem elsewhere; how do we get something moving fast enough, and then slowing it, to produce heat?
+
+##### The Jaunteer Equation
+> [[The Dawn of the Dancirah]] and [[The Fel-Arcad]] is recommended reading for this section.
+
+The means by which this is done is the **Jaunteer Equation**. The Jaunteer Equations is, at its absolute simplest, an immensely neutered Strider Protocol. Fed chalk, the Jaunteer Equation yields immense velocity upon anything it is incident to - not nearly enough to accelerate it to the hallowed velocities of the Strider Protocol, but more than enough to get things *really* moving. 
+
+Its origin dates all the way back to the Vermeil Civilization, as the Vermeil discovered and further 'refined' the workings of it to yield the basis upon which they'd build their interplanetary - and later, interstellar - ships, and subsequently their interstellar civilization. Dumping massive amounts of chalk into Jaunteer engines generated the enormous amounts of velocity necessary to move the Vermeil's many colossal ships, allow for the operation of magnificent starfleets that dominated the Switchboard of that day.
+
+Now, various **grades** of the Jaunteer equation are used to accelerate mechanisms to immensely high velocities, and further mechanics are used to slow them down, yielding the desired heat via weft reaction.
+
+##### Coupling Ratios
+How much motion lost translates to heat produced?
+
+I cannot give hard numbers for this as I simply do not have any, and in turn, it is fairly hard to visualize or conceive of how it would convert at all. Would slowing down from a walk melt my flesh off? Would a jumpship after a log jaunt barely be toasty. There are simply too many scenarios, and thus it helps more to establish overarching rules that apply in as large a majority of instances as possible - or even all of them as the case may be.
+
+One of the general rules is that **exponentially more heat is released the further a subject is slowed from the initial motion it possessed**. More simply put, slowing from 10 units of motion to 5 units will yield a measure of heat, but slowing from 15 units to 10 yields more heat than slowing from 10 to 5 does. This means that faster things slowing down yield incredible amounts of heat, and this is one of the reasons why the [[The Strider Protocol#After the Stride - Arrival Maneuvers|arrival maneuvers]] performed by landing Striders are both visual spectacles, and immensely dangerous, as this heat must be rapidly dissipated via directly purging it from the lattice.
+
+The second rule is that **even larger quantities of heat are produced the faster the moving object is decelerated**. Very quick decelerations produce *immense* - often even catastrophic - quantities of heat, and it is thus essential that if something cannot handle the heat generated by too severe a rapid deceleration, alternatives must be found with the aim of slowing it more gradually. Striders, jumpships and other fast-moving craft are very subject to this rule. 
+
+##### 'Flywheels'
+> For want of a better name, for now they are simply called flywheels. This name will be changed in time.
+
+As such, we can now discuss the actual device that generates heat.
+
+It is rather simple in both make and function, and it makes use of both calcic and amaranthine principles. The main assembly of the flywheel consists of a free-standing wheel - hence the name - that it is ritualistically inscribed with writ that makes use of the Jaunteer equation. Supplied chalk via apparatus, the wheel begins spinning rapidly, attaining considerable velocities in mere moments. Once it has spun up to a desirable speed - monitoring done using various computational apparatus, usually slates - the process of slowing it can be done using amaranthine apparatus that manipulate curvature. With strong enough space manipulation in play, the flywheel can be slowed *immensely* quickly, releasing colossal amounts of heat as it does.
+
+Transferring this heat is the next major dilemma, and many methods have been employed, discussed further under *Distribution*.
+
+Asides from flywheels, which have a number of constraints to their operation, heat and motion tend to be harnessed naturally from various natural sources, particularly geographical ones such as moving water, high winds, and even lava. Much of the restrictions upon flywheel usage stems from their amaranthine requirement, which requires sourcing materials from the Void, as well as matters of convenience and safety; their being noisy, large and thus obtrusive, as well as immensely dangerous should they fail in any manner. 
+
+All the same, flywheels built to varying specifications are the core source of thermal power throughout the Switchboard.
+
+#### Distribution
+Getting the heat produced by flywheels to their various final destinations serves as perhaps the most robust aspect of the thermal grid. The question of distribution is one of logistics; how do we get the subject matter from one endpoint to another?
+
+Logistics is fundamentally a question of physics. Moving a one kilogram cube across one kilometer has a nigh infinite number of approaches that can be employed. It can be placed in a cart and tugged or pushed, or placed in a car and driven, or placed in a plane or carried by a drone and flown, or a strong enough device could throw it. Or it could be teleported. Or dropped from orbit. Or caused to cease to exist in its place of origin while spontaneously arising from simpler materials and mechanics at its destination. Constraints come with greater definition. If the cube weighs a kilogram, but but is ten meters tall and wide, it instantly becomes more difficult to move. If it's a liquid, or fragile, or hazardous, or volatile, it immediately has additional clauses attached to moving it any amount of distance whatsoever. If additional constraints such as time, economics and minimizing first and second order consequences enter the fray, our available options for moving this cube shrink proportionally.
+
+Moving heat in the Switchboard is thus a question of its physics, and the physics of the avenues available to us. Consider then, the following clauses to heat's behavior;
+
+- Being an inductive weave, it is immensely difficult for it to move across a vacuum, as inductive weave must have a destination weft for it to induce itself into. It *can* induce itself into latent chalk and thus heat the environment, but this process is prohibitively inefficient and cannot meaningfully be harnessed.
+
+- Heat also tends to favor inducing itself in places where it isn't already present. Much like real world physics, heat weft equalizes its presence in weave it induces itself into, resulting in a uniform heating of the subject pattern.
+
+- Heat weft can induce transformations in some materials via the calcic chemistry, and thus some materials are ill-advised for moving heat around. Much like we don't store pure acids in metal containers, some materials undergo changes to the calcic structure when heat is introduced, that make them unfit for handling heat.
+
+- Heat can be compelled into more esoteric behavior via the calcic ritualism, and induced heat weft is subject to the calcic principles of the subject weave it has taken root within. 
+
+It follows then that the most obvious way of moving heat is via material medium. Where it gets more nuanced is in what medium to use. This is where the **metamaterials** discussed above come into play. To open a lock, one must craft the right key; and to maximally move heat, one must design a material maximally capable of it. This involves devising a material that has immense thermal conductivity along its self, while losing as little heat as possible to the environment. It must also be immune to any changes in its own nature borne from being heated, that might make it unable to serve its function.
+
+This material can then be used in a manner not too dissimilar from our own conventional electrical grid; laying extensive lengths of material from production sites to various deescalating tiers of distribution substation, finally reaching the consumers of the supplied heat and their own personal distribution grids, where the heat can be siphoned to where it will finally be used.
+
+> For narrative reasons, this metamaterial can be given the name '**thercon**' for 'thermal conduction', and varying grades of it as well as forks of the initial deployment design would exist to account for various utlization contexts.
+
+##### Interplanetary Distribution
+> [[Calcodynamics#Hyperweave|Hyperweave]] is recommended reading before this section.
+
+There is a common conundrum faced by denizens of the Switchboard with regards to how to move massive amounts of chalk.
+
+Very early on, it was fairly common practice mine wellsprings for their rich, pure chalk, lash the crystals to starships, and ferry them down to planets. In some extreme cases, wellsprings were annihilated into calcic debris either by collapsing their regional equation or bombarding them with warheads, and the resulting asteroids of pure chalk were flung down to a target planet as meteors. And while this absolutely worked for what it was - though not without immense auxiliary risks, especially in the case of the latter method - the Kin in their endless expansionism and this quest for even greater efficiency realized that fleets could simply not deliver large enough amounts of chalk quickly enough, and as such, an alternative had to be found.
+
+Hyperweave proved to be the solution. Multiple starship-loads of crystalline chalk material could be compressed to the size of a basketball, with the problem then becoming how on earth to contain it for transport. The answer proved to be rather simple; they didn't bother. Unlike heat, hyperweave maintains its structural integrity while travelling over distances, and travels fast enough that even if it couldn't, it wouldn't matter. Once it is given the opportunity, it crackles towards chalk-dense entities and resolves itself into colossal deposits of chalk. This meant that hyperweave released in the depths of space would almost always travel to the nearest planet or armillary star.
+
+Harnessing this then, was rather trivial. Void-based emittance apparatus were installed on wellsprings, and used to compress massive amounts of chalk down to violent singularities of degenerated pattern. Given an aperture down a rifled barrel to give it stability and accuracy via spin, it can then be fired at a target - such as flat land on a planet - and immediately it resolves and explodes into stable form as crystalline chalk deposits. It can be viewed almost as compressing an asteroid into a .zip file and mailing it. No starships needed to ferry massive amounts of material, just a colossal cannon and hopefully stable spatial weather.
+
+Hyperweave being skewed by differentials in space - curvature - means that firing beams of it across interplanetary distances is not without risk. A passing jumpship filled with powerful striders, for example, can deflect the beam towards them and even if they are not hit and vaporized instantly, it will still be thrown off target, with its inaccuracy increasing the the further away the diverging point was from the target. All the same, it is still widely used as the fastest means to move colossal quantities of chalk across equally massive distances.
+
+#### Utilization
+> [[Glass]] is recommended reading before this section.
+
+The final aspect under power in the Switchboard, utilization.
+
+The elimination of electricity made this a fairly difficult ambition to realize. Atoms are incredibly useful things worldbuilding-wise, in that extensive work has been done in understanding all the nifty things they do, and additional work has been done into harnessing all the things that they do for numerous applications. Eliminating them requires finding not just something to replace them, but more 'somethings' to justify the continued functionality of things that relied on them - such as toaster ovens and WIFI - should they persist unchanged.
+
+Much, much work was spent trying to justify the functioning of a blender in the Switchboard, and after much ado, it came down to harnessing the unique properties of glass;
+
+![[Glass#Entropy Reversal]]
+
+The entropy-reversing nature of glass is utilized in that, while motion dispersing into heat in the Switchboard is an entropic process, somehow turning heat back into motion would be a *negentropic* one. Without glass, it would not be feasible, but with glass, it is.
+
+As such, any device imaginable that needs to move for any reason - blenders, car tires, drills, clocks, conveyor belts - performs its function via a measure of glass material stitching thermal weft back into motive weft, a reversal of the process that produced the heat to begin with. The motor in the Switchboard, is a vitric device that takes in heat, and outputs motion.
+
+Due to the relative risk presented by pure glass, [[Glass#'Dilute' Glass Scintillate|scintillate]] - effectively dilute or impure glass - is used instead to perform the task of transmuting heat to motion. Its chalk-glass nature also means it responds to calcic ritualism, which can be used as a basis for building control apparatus for the output of produced motion. The employment of scintillate does introduce a non-trivial cut in efficiency of the conversion however - furthermore dependent on the ratio of glass to chalk in the scintillate measure - and some applications require pure glass for maximal efficiency.
+
+But at the crux of utilization of power in the Switchboard is the harnessing of glass; the fearsome lattice-eating material made useful in the everyday lives of its greatest prey. 
+
+#### pNarrat: Thermals Versus the Jaunteer
+A question that might arise after reading preceding sections might go something like this; what is the need for using glass or scintillate for reversing heat into motion, when the Jaunteer equation can do the same thing with chalk normally? Most simply put, it's a matter of numbers and control.
+
+The Jaunteer equation - much like the Strider Protocol - has a threshold of calcic supply rate that must be exceeded before any tangible motion is realized. Like an exponential curve, once this threshold is exceeded, it takes off *rapidly*, and the amount of motion in imparts upon anything the equation is written into accelerates it to ludicrous speed. While this is welcome and usable in applications like jumpships and other vehicles that either need to move fast, move large amounts of things, or a fair bit of both, it is far more problematic when used in more mundane applications like industrial equipment.
+
+In those cases, it is far better to supply heat and have it unspun into motion, as this process happens on a much smaller scale, and thus is much easier to finely control. This availability of fine control allows it to be used in these smaller applications, as well as thermal conversion taking less chalk to perform.
+
+### SBTech: Mechanical Engineering and Manufacturing
+Writ on how the unique systems of the Switchboard have affected mechanical engineering and manufacturing within it.
+
+#### pNarrat: Mundane and Arcane
+I recently concluded the Founder's Trilogy by Robert Jackson Bennet.
+
+One of the conundrums you face as a writer is how you it takes away time from being a reader, but being a reader is how you be a better writer. Writing in turn gives you more appreciation for reading. One feeds the other, even while taking away from your ability to do it. Its rather humorous - highly reflective of the human condition at large - and a digression.
+
+The Founder's Trilogy had a very interesting magic system called 'scriving'. At its core, the usage of an in-universe arcane alphabet allows for conferring mundane, dead materials with supernatural properties that almost resembles elementary intelligence. A wheel can be convinced, for example, that it is going down a hill by scriving it to 'believe' so, and it will thus behave as if it is genuinely going downhill, accelerating from rest without any apparent induced motion or source of power. One particularly robust application of it was a sort of gravity-based 'flight suit', in which a set of plates on the body were convinced that an object roughly the size of the sun was acting in a given direction, pulling the plate - and thus the wearer - in a desired direction. 
+
+Delving into how this system was used in a variety of ways that still stirs my mind even after reading it would easily double this document's length, but instead I want to talk about some of the world that existed *around* the magic system as a consequence of it. The world of the Founder's Trilogy had a technology level that featured swords, crossbows, brick forges, wooden warships, stone castles, horse-drawn carriages, the like. But all of these things were enhanced by the world's arcane systems in some regard. Bridges were made more sturdy because they were convinced by magic that they were. Boats that ordinarily shouldn't have floated did so anyway because - again - they were convinced they should. And weapons of middling destruction became ones of mass destruction because, as has been established, they were 'told' that is their nature.
+
+Mechanical engineering is a broad discipline. When I did some inquiry into it and found a commonality in the definitions of the field as being concerned with 'force and movement', I got a fairly solid idea of just how broad it truly was. If anything, the things mechanical engineering is concerned with might just outnumber the things it isn't. It gets even broader when you consider all the things it overlaps with. Manufacturing plants, industrial equipment, machinery, heating and cooling systems, transport systems, motor vehicles, aircraft, water craft *and* spacecraft, robotics, medical devices, weapons - list continues - as its baseline focuses, expanding outwards into further disciplines such as aerospace, civil, metallurgical, structural, electrical, manufacturing, chemical, and industrial engineering. At the very edge of the field are disciplines such as composites, mechatronics and nanotech, and we even see robust sojourns into biotechnology.
+
+A fair bit of thought was put - in the Founder's Trilogy's case - into how the integration of magic would affect a number of these disciplines. In perhaps one of the more elegant displays of 'its the little things that make the world believable' bit of worldbuilding advice, very few things in the Founders universe *weren't* touched in one way or another by the supernatural systems it possessed. In the cases where something remained mundane and untouched by the arcane, it was mostly a product of economic nuances of worldbuilding; items with scriving on them, and scriving and its practitioners itself having a proportional cost associated with high demand and limited supply.
+
+This is decidedly profound worldbuilding in that it is deeply reflective of how such a system of phenomena - were it to exist in our world - will almost inevitably be used to enhance the mundane. Consider a bridge engineer, for example, tasked with the arduous undertaking that is constructing a bridge. They must account for the terrain it's built over, what will ply the bridge, the effects of the elements and time; this, that and the other. That bridges and many more things in the same vein such as skyscrapers, bullet trains and the damn International Space Station exist is the result of a centuries-long war that human thinkers have waged against the natural tendencies of things and the laws that govern us. Every day, an engineer fights heat, gravity, friction, motion; the presence of these things as well as the lack of them, and the same rules that govern lubricant also governs glue. It is through consistent lightbulb moments that the modern world as it exists, does exist, and all that continually holds us back is that the more marked our demands become, the more the mechanics that be oppose them. It is a conflict waged by faceless forces against the concept of scale itself, in that getting the first airplane off the ground was a trial, and getting the first rocket off the ground, a trial by fire.
+
+In a battle of mundane versus mundane, what effect does the arcane have?
+
+It depends, primarily, on the nature of the arcane. In many pieces of media I've come to enjoy, all sorts of deeply profound and interesting magical systems exist, but exist mostly to grant immense flash and pizazz to physical altercations, as well as serving as the bedrock for much grander plots than what may be doable in a world where such didn't exist. You wind up with a world where characters can perform all manners of supernatural feats, but then retire to societies and lives not very much different from ours. I will add the caveat that I take little to no issue with this; if anything, a wizard being compelled to use a toaster oven is ultimately more hilarious than indicative of poor worldbuilding. But a reader will occasionally be joggled to ponder what prevents magic and the supernatural from solving small problems if it can already solve large ones, and if no real demonstrable reason exists, why no one does. Most of these nitpicks will be solely nitpicked by fellow builders of sandboxes such as myself, and thus will be of little consequence to most parties, but they are still fun things to ponder all the same.
+
+This brings us then, to Samsara.
+
+Samsara is somewhat unique in that it isn't constructed as our world with a layer of magic draped over it, but rather engineered from the ground up to operate on fundamentally different first principles, even if in many cases it leads to similar mechanical outcomes. Where it differs is that what can be done is always taken a step further under chalk. At the very beginning of building Samsara, I intended chalk and subsequent all I built with it to not have immensely different mechanical operation from the rules of our own universe, but rather, to be a layer between us and the natural sciences and mechanics of the world that allowed for much greater interactivity. A sort of screen, a pair of gloves almost, with which any denizen of the Switchboard could grab the background logics of existence and tweak as they see fit, should they be outfitted in capabilities and possessed of adequate drive.
+
+For a mechanical engineer, our bridge-builder for example, this would be something valuable beyond measure. Bridges resist weather conditions, particularly strong winds, by being elastic. Now, metal and concrete are very *not* elastic, and as such it takes quite a bit of ingenuity to get them to behave as if they were. But what if they already were? What if it were possible to engineer elastic concrete and steel? Under our own materials science disciplines - constrained while also enabled by the behavioral writ of atoms - it might take multiple breakthroughs in the field *and* other tangential fields to achieve such a thing. In the Founder's universe, a very talented scriver might need to employ the upper limits of conventional scriving - or maybe the blood/soul scriving that came later but that's an entire thing on its own - to achiever similar. But chalk makes it immensely possible via the plasticity of the mechanics and what they yield.
+
+All it took to make the arcane supremely capable of aiding the mundane, was to build the arcane *as* the mundane. Even though chalk has facilitated mostly equal outcomes to our world, it has made it much easier to get both *more* and *different* outcomes as the case may be. What then are the ramifications this has on the Switchboard's engineering?
+
+#### pNarrat: Engineering in the Switchboard
+> [[The Hands as Chalk]], [[Calcodynamics]] and [[Chalk Ritualism]] are recommended reading for this section.
+
+If you subscribe to the idea that engineering is applied science, what is doable under engineering is thus what is in accordance with the verse's science. The Calcodynamics extensively explains much of this, as does Hands as Chalk and the Ritualism in explaining more esoteric applications of the in-canon mechanics.
+
+This section need not be too long.
+
+There is a common trap that ensnares many a young worldbuilder and it is the trap of chasing all-encompassing originality. Setting about devising a new world, the worldbuilder - in a bid to prove themselves and the vast, bottomlessness of their creativity - sets about on a trajectory of maximal deviation from anything to be perceived as a norm. Everything must be different and done differently from anything and everything else that has ever existed. It's a lofty ambition but a taxing one, and impossible in some manners.
+
+One such manner is the question of how manufacturing and engineering works in a verse with magic in it. If you have both a limited grasp of those two topics as well as a limited grasp on the verse's arcane, you might be inclined towards deferring on the side of 'magic absolutely revolutionizes everything'. You wouldn't even be wrong for doing so, especially under Samsara where chalk does indeed facilitate a level of interactivity with the raw stuff of the verse that transcends the familiar and the conventional. But much also remains the same too, and a lot of things that are done in familiar ways in our verse wouldn't be done that much differently in one with supernatural capabilities.
+
+If tomorrow, the ontology of mankind was irreparably altered such that we could control the elements like fire, ice, rock and electricity, very little by way of industry-revolutionizing change would follow suit. You could indeed have humans who could heat forges, cool machines, move massive amounts of terrain and power entire cities, but this would be far more difficult to realize in  a world that's been realistically thought out. Yes you could use a human as a living battery, but you'd run into plenty of moral and ethical walls and pitfalls. If these element-wielders are a minority, they will either be hunted and exploited or elevate themselves to a dominant ruling class - also through extensive employment of violence. An ironic consequence is that most things that could occur in this universe would be intrinsically far more interesting than the fact you could use humans to melt ore instead of anything else, as 'we exploit humans or some aspect of them for gain' is perhaps one of the oldest motifs in storytelling.
+
+But I digress. More so the point I'm trying to make is that there are only so many ways you can make a fired clay brick. You can heat it with fire spirits or have the clay delivered from a dimension that has it to another that doesn't via some blasphemous perversion of calculus, but so long as some first principles of the verse and ours remain identical, you still have to fire that clay to get a brick. Similarly, there are only so many ways you can assemble a bicycle, or build a bridge, or fence a city, or irrigate a field, or reload a firearm, or put a shuttle into orbit. You can indeed expedite or complicate the steps involved, but the first principles that govern the outcomes are what they are because - unless you radically change *those* too - sometimes the best answers are indeed the simplest. As complex and intricate as a fictional world can get, sometimes you just want clay to get hard when you torch it.
+
+And that's fine.
+
+So what then is the Switchboard's engineering? How do I assemble a bicycle, build a bridge, fence a city, irrigate a field, reload a firearm and launch a shuttle into orbit in the Switchboard? In much the same ways as you'd do in our own canon, because the first principles and the outcomes they yield are much the same. But it is that middle bit, the gap between dreams and reality, that chalk has always existed to occupy. It is the process of physicalization that chalk governs and truly alters in ways that can be called arcane. 
+
+Making a bike in the Switchboard is indeed an exercise in structural rigidity, motion transfer and adequate attachment of all parts, and these are all achieved in mundane ways. But it is the fact the calcic ritualism can fabricate the metamaterials needed for heightened function, that weftcraft can allow it to collapse to easy-to-carry form, that installing a compute cube in it makes it capable of autonomous function, that amaranthine wheels can let it skirt on the bounds between one world and the next, these are the things - the differences in outcome - that makes the Switchboard's engineering different from ours.
+
+To summarize the Switchboard's engineering in a manner most easily graspable; Switchboard engineering processes and the outcomes they yield are in the vast majority of cases, very indistinct from our own. They still heat, cool, lubricate, glue, cut, weld, fold, straighten, paint, strip, attach, break apart, wet, dry, polish, roughen, engrave, emboss, sharpen and dull things in much the same we do. Where whatever is needed by denizens in the Switchboard to serve a purpose, is a purpose nearly indistinguishable from our own, similar engineering techniques and principles are used, albeit the materials and processes being enhanced and expedited in numerous ways brought on by the nuances of the verse. But when purposes delve into the truly esoteric, so does the engineering needed to realize the answer to those demands, and this is where the true extents of weftcraft and the ritualism show themselves.
+
+### SBTech: Transportation
+Writ on transportation technologies in the Switchboard, and the nuances of getting around on an interstellar scale.
+
+#### pNarrat: The Strider Protocol and Distance
+> [[The Strider Protocol]] is recommended reading before this section.
+
+The Strider Protocol introduces a very poignant question with regards to how distance and speed are portrayed in narrative. Mechanically, the Stride facilitates movement on an interstellar scale within the space of an eyeblink. Striders can jump from planet to planet in under a second, and at virtually zero cost beyond the risks associated with landing. So what then is the use for the various forms of transport, real or imaginable, that might exist?
+
+The answer to this stems from the Strider Protocol's rather numerous and non-trivial constraints;
+
+- The first and most obvious is that not all Switchboard denizens have the Strider Protocol. Rather, the vast majority of the Switchboard's denizens lack it, or are unable to use it to any truly noteworthy degree. The Sil'khan are the most prolific striders, followed by the Fel-Arcad, but the percentage of Fel striders relative to Fel-Arcad in total is fairly small. Fewer still the Vahnkin, even *fewer* still the Lancasters.
+
+- The Stride is subject to a number of conditionals that stem from the fact it is more suited for going longer distances, so much so that attempting to go short distances with it causes the Strider to run up against hurdles they would not have faced otherwise. To stride, one must overcome their launch threshold, but the calcic charge that must be accumulated to overcome the launch threshold of a strider is simultaneously enough to accelerate them to just above the lower bounds of their stride velocity. Attempting a short hop of a stride can lead to vastly overshooting the target, and sending the strider careening out into space.
+
+- Additionally, the Stride greatly benefits from clean flightpaths  between end endpoint and endpoint, which cannot be guaranteed due to the sheer vastness and randomness of space. Having low maneuverability except under limited circumstances, the Stride is dependent on clean paths between start and end to maximize its utility. Debris and other materials in space can intercept a strider's trajectory and throw them off, or they might be forced to simply barrel through it - and eating the damage one would expect from hitting an object while moving faster than light in our world.
+
+- The launch threshold must be exceeded to stride, and the various parameters tied to the Stride are subject to the weight of the Strider. Striders typically have their ability to accumulate enough chalk to stride scale somewhat comfortably with their primary overhead, such that a naked Strider is generally able to stride at their maximum velocity and go their maximum distance. Once adding more stuff however - secondary overhead - the effective speed and range of the stride is considerably diminished - and further still if one tries to carry 'cargo'. In practice, striders travel immensely lightly.
+
+- Striding itself is also dreadfully difficult, in that it is a series of immensely dexterous movements made at ludicrously high speeds with vanishingly slim room for error. Outside of the actual execution, a unique skillset is required to both prepare for, and recover from a Stride.
+
+The various flaws striding has can thus be summarized as;
+
+- Non-universal
+- Constraints of travel distance
+- Constraints of travel terrain
+- Lacking in logistical utility
+- Elitist in execution
+
+As such, the Strider Protocol is not a suitable replacement for conventional means of travel. On the grounds of it not being universal and unable to move cargo, it is already defeated by the humble aircraft in our world. Constraints of distance and terrain means it loses out to most motor vehicles and trains rather quickly as well. Being elitist and demanding in function means that it, again, is constrained only to a chosen few.
+
+The Strider Protocol exists to do what it does; bridge interstellar and interplanetary distances. After that however, its nuances greater hamper its ability to serve in any other context.
+
+#### Transport Classes
+The main classes of transportation avenues that exist in the Switchboard are.
+
+- Air and Space
+- Land
+- Liquid
+
+The Switchboard - and by extension, its narrative - being conducted on the scale that it is has made it such that air and space vehicles have earned a considerable mount of prominence when compared to other avenues. Land vehicles have a much reduced position compared to them, and vehicles designed to pass on or through liquid even more so, seeing only extensive use in the deep [[The Challenger Dark#The Amaranthine Sea|Amaranthine Sea]] that dominates the geography of the Challenger Dark.
+
+#### pNarrat: Jumpships
+The most popular form of transportation in the Switchboard is the personal jumpship. These are chalk-reliant, slim and sleek, fast and dangerous, highly customizable multi-context craft built with reliability, speed, utility, personalization and modularity in mind. At their core, they are built to account for the weaknesses of the Strider Protocol, being able to travel shorter distances at high speeds, while carrying extra persons and cargo and needing far less skill and mental exertion to operate. Utility is the name of the game in this regard, with many jumpships serving as the actual homes for a number of striders, their nomadic lifestyles demanding similarly-minded infrastructure.
+
+Their focus on modularity and personalization means means that jumpships vary about as much as their pilots do. Many choose to stick with the base models all the same, getting the ability to move multiple passengers, cargo, and through virtually any terrain and conditions, but just as many choose to modify them as they see fit, outfitting them with offensive and defensive capabilities, greater utility functions, and the occasional welcome comfort.
+
+Central to their operation are their core engine components, of which there are two;
+- **Thermal Cell** ships that make use of glass' [[Glass#Entropy Reversal|entropy reversal]] to convert heat to motion - thrust - for the craft.
+- **Jaunteer Engine** ships that make use of the **Jaunteer equation** to convert chalk to motion for the craft, operating in a manner not too dissimilar from the Strider Protocol.
+
+Each of these craft designs have their pros and cons;
+- Thermal jumpships benefit from a ruggedness of build that stems from not being dependent on esoteric applications of calcic ritualism to function. Additionally, they are highly efficient, as the craft's own deceleration generates heat, which can be siphoned back into the thermal cells to provide further thrust.
+- Their reliance on glass, however, introduces an amount of risk - no matter how small. Additionally, they require considerable amounts of glass to make the process of converting heat to motion efficient enough to rival the speeds of Jaunteer craft, which further increases the risk of vitric breach. It also goes without saying that - without proper insulation - thermal craft run immensely hot, and this can produce a poor experience for crew, as well as restrict the kind of cargo and the sorts of places the craft can go.
+- Jaunteer ships benefit from the immense efficiency of the Jaunteer equation, which grants them immense dividends in the form of matchless speed. Tailor-made Jaunteer craft can reach speeds close to the velocity floors of midrange striders, allowing for long distance trips across the Dancirah at speeds of the Strider Protocol with virtually none of its drawbacks.
+- Reliance on only chalk and ritualism in their operation allows for immensely light constructions, which manifests as a viable baseplate for building super-maneuverable craft optimized for offensive engagements.
+- However, the Jaunteer equation is voraciously hungry for chalk, scaling proportionally with speed, and Jaunteer engines thus need to be fed with immense amounts of chalk to keep functioning at their desired levels. Storing this calcic fuel is done often in the form of [[Calcodynamics#Hyperweave|hyperweave]], which allows for storing considerable amounts of chalk per square foot, but adds additional risks in manners not too dissimilar to glass.
+- Their incredible speed is also in many ways, their undoing, as decelerating from their incredible speed must be done carefully or the generated heat can melt the entire craft. Jaunteer ships thus have a number of heat dissipation methodologies - sometimes including shedding entire layers of the ship - which add more complexity to their construction and operation.
+
+The solution to many was clear; hybrid craft that used the strengths of one engine type to cover for the weaknesses of the other. This does of course lead to an overall more complex machine, but also one far more adaptable and versatile; overall far more capable. One such result of hybrid engines in this manner are craft capable of using the Jaunteer for speed, and thermals for maneuverability, due to the finer control over resultant motion they facilitate. Hybrid engine craft are thus incredibly formidable fighters in air-to-air engagements, planetary or stellar.
+
+The strengths of the jumpship is further enhanced by integration with Slates, which serve as powerful multitools with regards to how they can interface with various calcic devices. Slates with auxiliary control periphery, paired with onboard ship computers, allows for the supreme conduction of the will of the pilot into the piloted craft, it becoming an extension of their person - their lattice - and granting a level of responsiveness and control akin to moving one's own body.
+
+#### pNarrat: Star Fleets
+> Considerable expansion to come here soon.
+
+Powered by colossal hybrid thermal-Jaunteer engines, fleets of spacefaring craft dot and dominate the Switchboard sky, serving a litany of purposes ranging from economics, to logistics, to leisure, to defense. Fleets consist of a variety of vessels and are staffed, operated and commanded by a diverse force with regards to skills and experience. Fleet commanders of particularly large fleets can serve as authorities in deep space, operating off of legal precepts outlined by the factions they bear allegiance too.
+
+The largest bearers of fleets are the Sil'khan and the Lancasters. The Lancasters possess the largest fleets of the Switchboard, using them as one of their many ways to escape irrelevance among the Great Families as a result of their being defined by an inability to stride or weave. These large fleets have made them an economic force to be reckoned with, so much so that various non-Lancaster parties ally themselves with, and fight on behalf of, Lancaster fleet assets, working to ensure the free flow of commerce. 
+
+Sil'khan fleets are one of their many forms of worship tendered to the Skydancers, serving as mobile temples and celebrations of nomadic culture. Their vessels vary wildly in form and function, to mobile fighting pits in worship of Skydancer Zahir, to pleasure ships in adoration of Skydancer Leilani. When turned to battle however, each ship can deploy squadrons of fearsome chalkstriders, as well as swathes of attack-capable jumpships.
+
+The Fel-Arcad, domiciled in their archologies, have little need for robust or even meager fleets, the one exception to this being the Brass Monastery, that maintain a defensive fleet perimeter around the Astrolabe. The Vahnkin - many of them sky-scorners - see the ships even as outright heresy, and refuse to have anything to do with them. 
+
+#### pNarrat: 'Carapace Jumping'
+> A placeholder name for a method of realizing various forms of FTL spacecraft travel seen in fiction.
+
+Jaunteer engines function in a fairly simple manner; when something conferred with the Jaunteer equation is fed chalk, it folds that chalk into motion at a fairly steady rate. Given enough chalk, the Jaunteer engine can enable reaching immensely noteworthy velocities.
+
+The engine is constrained, however, in a number of ways. For one, Newtonian-analogous laws of motion apply, in that it is harder to accelerate heavier objects in the sense of overcoming their inertia. For another, even when this is done, acceleration with Jaunteer enginery is a product of how much chalk one is ready to dump into how large an engine. In some situations, dumping chalk quickly or having/building larger engines isn't feasible. When accounting for the fact that the Switchboard has immensely large vessels that make up large star-crossing fleets, with the larger ships being considerably so, the problem of accelerating these ships arises. 
+
+What is the solution to this problem?
+
+Researchers into the conundrum found the first part of a two-part solution. The first part was a modification of Jaunteer enginery to make use of the calcic ritualism, whereby it was possible to accumulate motive weft rather than dumping it steadily and immediately as it is produced. Like compressing a spring, it was possible to store the raw capacity of motion in weft form, and then release it when needed. These were **Impulse-Jaunt engines**, defined by their introduction of motive capacitors. This had the immediate benefit of allowing starships to go from rest to ludicrous speeds almost shadowing the Strider Protocol in mere seconds by charging up and storing motion beforehand, greatly speeding up interstellar travel.
+
+The second part of the solution wasn't initially needed; with a calculated trajectory towards the final destination and other variables such as the mass of the ship, it was possible to deduce how much chalk and thus velocity was needed to impulse-drive any given vessel such that it accelerates, attains top speed, begins decelerating, and comes to rest within a workable margin of the target destination. While this was wholly usable a methodology, some began to theorize whether it would be possible to launch a craft, let it accelerate to top speed in fractions of a second, and then decelerate it at fractions of a second upon arrival at it's destination, such that - almost within an eyeblink, and considerably faster than relativistic velocity in our canon - a craft can go from anywhere to near anywhere at the full potential of its enginery. 
+
+Of course, this is fairly doable via curvature manipulation, which allows for rapidly dumping the motive weft inherent in a given weft construct by subjecting it to immense localized gravity. This allows for slowing down even an upper-echelon Strider midflight to rest, but it isn't without consequence; it is immutable law in the Switchboard that things heat up when they slow down, as a result of motive weft converting to thermal weft as velocity is lost. This conversion scales considerable with the starting velocity and rate of deceleration, such that decelerating rapidly from high speeds results in immense thermal weft production. This is a problem, because our ambitious instant start-stop starships could effectively only make long impulse jumps once; upon arrival, and immediately after decelerating from their ludicrous velocities to rest, the motive weft transforming into heat would effectively turn the starship into a large microwave oven, cooking both itself and all it's occupants; a decidedly undesirable way to go.
+
+What then, was the solution?
+
+The scientists of the Switchboard in their endless cleverness found it soon enough; things that slow in the Switchboard heat up from the outside in, meaning that should a hypothetical layered object begin to slow, only the outermost layers will suffer the conversion of motion to heat, before the innermost layers do by virtue of heat being inductive weft that propagates from regions of high presence to regions of lower presence. It was theorized then, that should a craft be able to fabricate temporary outer layers, impulse-jump, and then jettison those outer layers as the thermal conversion reaches its pinnacle, it could effectively dispel all the heat instantly before it was absorbed by the actual craft and cooking it and its occupants.
+
+As such, carapace jumping was born.
+
+Capably-outfitted craft were able to use mechanisms to weave material to cover the outermost layers of the craft right before impulse-jumping, forming a literal carapace to shield it. Once enough material is woven and the jump is ready, it is initiated, and the craft accelerates in the space of an eyeblink to ludicrous velocity. Once at its destination, the outermost material layer is allowed to heat up... and then violently jettisoned off, via physically propelling it from the craft with methods as crude as hydraulic pistons, calcic ritual writ upon it that causes it to fly off under certain conditions or after a given trigger, further curvature manipulation that causes a bubble of space to expand under the layer, ripping it off, or having it be a material quirk of the carapace layer that at high enough temperature, it detonates or disintegrates into fine powder. Considering that thermal weft is inductive weave and propagates maximally through material, the vacuum of space makes it difficult for the heat in the material to conduct back to the craft even after being jettisoned.
+
+Of course, carapace jumping is not without issues. For one, craft must be specially outfitted with outermost material fabricators across the entire surface area of the vessel, which raises concerns of engineering - the layer might interfere with ship defense systems, for example - and cost. Further compounding the problem is that additional cost and engineering is need for the jettison methodology, which results in a problem where every square meter of space-faring craft is packed with all kinds of mechanical components, metamaterials, calcic ritual writ, equations, and more, which compound the problem of cost and newly, maintenance. A single plate that does not jettison can conduct heat into the craft below and burn a hole through even the passive heat shielding crafts have to protect from the radiance of armillary stars, and deep enough a breach can result in a lost of pressure, air, and the subsequent death of everyone inside. They straddle a knife edge of raw efficiency versus the cost it takes - and the pitfalls that must be avoided - to attain it.
+
+Nonetheless, carapace jump compatibility is still highly desirable, as the speed it facilitates craft to move at gives them unrivalled logistical edge. Personal jumpships - being small, and thus the problems of cost, engineering and maintenance are proportionally reduced - tend to be outfitted with such as well, granting their pilots immense mobility throughout the Dancirah.
+
+#### pNarrat: Curvature Engines
+In addition to thermals and Jaunteer enginery is a final, more esoteric entry into the list of means to propel a ship in the Switchboard. Built with both materials and principles origination from the Void, **curvature engines** exploit the attraction and repulsion forces created by the manipulation of the local curvature of space.
+
+By suspending a vehicle between induced positions of curvature and revers-curvature, it is possible to cause it to 'ride' almost on what is seemingly a cushion of air. Instead, suspended in a cradle of forces, they are pushed and pulled along in a simulation of being permanently downhill, keeping them moving forward. Further control mechanisms allow for determining speed and direction.
+
+The necessity of parts and skills only procured in the Void makes them somewhat a hassle to build and operate, but they do benefit from having decidedly the smoothest and quietest operation of all engine classes, so much so that curvature engines are commonly used for luxurious vehicle classes owned by persons who are ready to pay a premium for superior experiences. They also require little to no calcic fuel in their operation as they harness an equilibrium born from balanced forces of attraction and repulsion, and thus they are well suited for vehicles used within settlements. 
+
+#### Non-Extraplanetary Aircraft
+Scaling back a jumpship in some ways and upscaling it in others grants you a rough equivalent for the commercial passenger airliners we have in our world today. However, as is elaborated upon later, there is very little large-scale air travel done in the Switchboard due to the proliferation of high-speed rail alternatives, elaborated upon - again - further.
+
+It is much more the case that anyone who can acquire any craft that can fly at all owns a jumpship, and there's little reason to do otherwise. That being said, non-extraplanetary vehicles do get an edge in relaxed requirements allowing for focusing on other appeals, such as smoothness and luxuriousness of travel.
+
+#### Land Transportation
+The Switchboard's narrative being conducted at an interstellar scale does little to nothing to do away with the fact that much of its narrative is still performed with solid rock underfoot. Moving over land then, remains fairly robust a practice.
+
+Those who are privileged one way or another to have jumpships or be skilled enough to perform short hops with the Strider Protocol generally make little use of the Switchboard's land transport methods, but even then, this is only the case under the context of fairly long distances. Aircraft cannot take you to your door, and even owners of ships must often land them at designated locations and then make their way to their final destination. This is often achieved with smaller scale vehicles, but that comes later.
+
+The most prolific form of planet-side travel is by **rail**. Making use of similar enginery to jumpships, highspeed rail running off of chalk and thermals bridge the divides between a planet's various settlements and points of interest. Their robust cargo hauling capacity and ruggedness of build and operation makes them monsters of utility, and immensely suited for planetary expansion. So refined is the deployment and maintenance doctrine of rail in the Switchboard that sections of larger rail networks can be deployed from orbit with precision launch systems, and cover country-sized landmasses in mere days and weeks. Planetary colonization and even offensive efforts are greatly aided in this regard.
+
+Within settlements, their smooth operation, low running costs, passable speed and little noise make **curvature engines** an optimal choice for powering a variety of low-altitude land vehicles, in other words, hovercars. Able to go fairly high up in the air, city infrastructure is built to accommodate this form of 'land' transportation, doing away with conventional roads almost entirely, leaving them mostly the fare of foot traffic. That being said, thermal engine wheeled vehicles are still commonplace, especially in contexts where amaranth material matter isn't desirable or acquirable, or merely as a resultant of economics.
+
+#### Sea Transportation
+Sea transportation exists in a rather interesting spot in the Switchboard.
+
+For one, the proliferation of air and space craft have radically shifted the shape of logistics, such that in most cases, anything that would traditionally need to be moved by sea can almost just as easily be dropped from orbit. As such, moving by sea is really only relegated to transport to and from deep-sea installations, for moving fragile cargo, or when no other options are available. Beyond that, the vehicle design doctrines of vessels built for waterways remain considerably familiar to us.
+
+Where sea transport sees far more robust prominence is in the Challenger Dark. The Challenger Horizon's caustic effect on advanced technology keeps the overall tech level of the Void and its civilizations low, making it impossible to have any sort of jumpship or other complex vehicle down there. Thus, the denizens of the Void must harness the Void-spanning [[The Challenger Dark#The Amaranthine Sea|Amaranthine Sea]] to move around the Challenger Dark, making use of vessels that are generations old in some ways, but markedly novel in others.
+
+The sheer reliance on naval infrastructure in the Void has come to define much of its denizen's culture, and ownership of a large fleet is one of the more tangible signs of strength and power in the Dark.
+
+## Technology in Narrative
+This section contains writ concerning technology in the Switchboard and how it drives narrative.
+
+### pNarrat: Design Language
+The technology of the Switchboard possesses a distinct design language inspired by the technology of various times in our own history, an aesthetic best conveyed with pictorial examples of where it has been done elsewhere. As such, the writ of this section is contained in [[DT.VMD.TechDesignLang]].
+
+> However, that document is in development, and will be available later in the lifetime of Samsara.
+
+### pNarrat: Technology History
+A discussion of a general history of technology in the Switchboard, with the aim of explaining how the Switchboard attained the technological level it possesses, as well as justify the nature of that technology with regards to design as function.
+
+> [[The Dawn of the Dancirah]] is mandatory reading before this section.
+
+#### The Ones Who Came Before
+The second generation of thinkers - the Vermeil - emerged following the Astrolabic resolutions that in turn followed the actions of the First Thinkers in serving the Astrolabe, and the Astrolabe itself operating under a prime directive of perpetuation. Lacking the Strider and Weave Protocols, the Vermeil were far less outfitted for tackling the Switchboard that existed at the time, and their lattices were not nearly as capable of dwelling in the world that existed then.
+
+By design, the Vermeil were very much like us. Squishy, yes, but driven.
+
+And as such, as the First Thinkers rattled and reeled under the weight of the changing Switchboard, the Second Thinkers had a technological progression virtually identical to ours, moving from stone to iron to steel to silicon, and going far and beyond that. The time it took to do it was of arguably little consequence; in time, the Vermeil achieved an analogue to FTL travel, and spread far and wide across the Switchboard to become a multiplanetary and soon interstellar civilization. All this achieved with zero command over chalk, making use of nothing else than the baseline calcic mechanics as they function without outside ribbon-level interaction done by capable beings. The sheer vastness of what they built ironically dwarfs the Third Kin's own establishments today, despite being far less outfitted for the raw feats of flight needed to move around the Switchboard.
+
+Their civilization came to a close, however, as the First Thinkers finally concluded on what they must do, and split off into various factions to decide the fate of the Switchboard. The Eradication Imperative did war with the Vermeil in a bid to restore order, making use of everything at their disposal and then some, going as far as to manipulate the Astrolabe into creating glass and the Vitric Shelf, giving them a superweapon to use against the Vermeil. And when they had been crushed, they were functionally redacted from the annals of Switchboard history by the Interdiction Collective, that collected the remains of their civilization and stored them in the colossal extra-planetary vaults, that came to hang in inter-space like headstones.
+
+The Switchboard was just about scrubbed of any evidence of their existence, with only bits and pieces of missed ruin material still dotting the stars. The interdicted material was left for the sole perusal of the Overseer Adamant, and the Vermeil peoples themselves collapsed into discordant chalkweave and drifted into the Current and the cosmos. Anything seen as undesirable or useless was ground to powder - and if allowed to go on any longer, the Vermeil would have been utterly wiped out from all record except inaccessible ledgerial record.
+
+But then the Third Kin arose, and changed everything.
+
+#### The Ones Who Cracked Open the Vaults
+The Third Kin are very much like if a civilization came after us. Suppose, as our ultimate comeuppance, a solar flare finally wiped out all of mankind, collapsing our electrical grids and computer systems and leaving the resultant chaos to finish us off. Those who survived the first, second, third - however many fires it took - inevitable succumb to old age, and our biomass is reclaimed by the earth, followed less-than-shortly by all evidence of our existence; our infrastructure. Nature reclaims the roads, then the cars, then houses, bigger houses, parked airplanes, large complexes, skyscrapers, an endless cascade of encroaching wood and foilage that learns to anchor on glass and feast on concrete. The planet hardly misses us, and chugs along merrily.
+
+But then, something happens; something that happened billions of years ago.
+
+Something smart enters the biological scene. Better than that; something smarter than us. Even more than smarter, it arises with capabilities beyond ours; the ability to sense electromagnetic radiation or even see it, to eat and digest rock, or hear on wider spectra, or be resistant to radiation, or breathe under water, or form electricity in the depths of their flesh. But critical is that they are, by pure biology, better outfitted than us. They crawl forth from mountaintop or bog or wherever they emerge from, star-eyed in a manner the planet hasn't seen in a while, and immediately - as though guided by otherworldly directive - set about the task of building rudimentary civilization, progressing down similar tech trees as us - when all of a sudden it clicks; the ruins that they've been skulking amongst, the odd shapes and things that fill them, the disrepair that implies the existence of once-repair, it is all indicative of something that came before. Something like them, intelligent, capable; builders.
+
+As rudimentary as their civilization currently is, they recognize that there is something different about the ruins but familiar to them. They observe a fallen hammer, or a bit of a circular saw in a ruined workshop, and can tell that these things are not like the woods or trees or animals around them. Those things *grew*, but these things were *made*. *Someone* put them there, *someone* made them the way they are. There is a deliberateness to their nature that could only be the product of something *like them*, that does things because there is an end they are trying to achieve. What then, was that end?
+
+It begs the question of whether the ruins of our civilization would serve as an adequate guidebook for another. It's a tricky question. How easy would it be to deduce the screw from a screwdriver, or the screwdriver from the screw? You cannot really deduce how to split an atom by looking at a nuclear reactor, nor how to build a combustion engine by observing a car. Even an advanced species that learns the value of dismantling things into smaller pieces to understand them, would still really only be dismantling large things they don't understand into small things they don't understand. Much like finding a wristwatch on the side of the road, you might deduce it is very different from what is around it, and go further to conclude it came to exist by vastly different means, but you can hardly deduce the means from the end. 
+
+That being said, I still do believe that had mankind grown in the shadow of a space-travel-capable civilization that came before us, we would've made a litany of connections between what we were doing, what they had done, and thus progressed down our tech trees much further. It would have been all the more advantageous for us if the records of this civilization remained somehow accessible; their books rotted away by soil, wind and water, but their digital media surviving by virtue of the greater care given to those things. The language barrier would need to be overcome, as would many other barriers that one might imagine would arise in what is effectively talking to a dead relative through the medium of old, nigh-indecipherable notes that only go one way with regards to the nature of communication, but it would still be far more doable than repeating the journey up until that point all over again.
+
+It is thus rather interesting that the Third Kin did very much that, except on an interstellar level.
+
+The technological progression of the Third Kin is made considerably different by virtue of the fact they were possessed of the power to alter local reality, shuttle between planets, superior cognitive ability and most importantly, had arisen in a universe where someone had already done much of the heavy lifting necessary. Their ruins where everywhere, and it was easy to see how the ruins of the Vermeil and the rudimentary habitations of the Kin were very much alike. If they were so spread apart, it means that they either were a very nomadic people who built more so outposts and waystations than habitations, or that they were a colossal civilization that once covered the spheres like dust atop the chalk deserts from which the Third Kin arose. Either conclusion led to the same deduction, whoever came before them were like them; they built, and they could fly - so where were they?
+
+The answers came when the Third Kin began raiding the vaults.
+
+The early Third Kin had very lopsided technological progression. Born from the resource barren chalk desert, the only escape was when the first few grasped how to utilize the Strider Protocol to escape the surface of the astrolabic spheres. Taking root on other planets gave them access to the resources they needed to begin building rudimentary civilization, and this process was greatly expedited by their growing understanding of how to interact with chalk, as well as their gift of flight allowing them to spread rapidly and source resources from wider locales.
+
+While they were more capable of advancing quickly due to the weave protocol and higher cognition, there was somewhat less urgency to do so, as they were better suited to the Switchboard by virtue of their unique lattices that made them far less prone to the various ails that plague life like our own; a need for food, water, shelter, the like. Somewhat uncompelled by various necessities to evolve and adapt or die, the only real compulsion borne by the Third Kin was curiosity; a desire to see the world for no other reason than wanting to know. Reveling in their own existence, the Third Kin spread in pursuit of whatever might have caught their fancy, differentiating down emerging cultural and ideological lines, which became further exacerbated when something came to shake the Third Kin from their leisurely manners of being.
+
+The attack of the Eradication Imperative jostled the Third Kin and roused them to action. Suddenly, they were no longer alone among the stars. Not only did they have neighbors, they had enemies, enemies that soon made it apparent they had dwelt in this universe much longer than they had. While their powers did give them an edge the Vermeil never had, they were even more vulnerable to the First Thinker's vitric superweapon, and lacked the various conveniences and utilities created by advanced technology that granted the Vermeil the ability to last much longer than they would have otherwise. As such, it was thoroughly necessary for the Third Kin to race down the technology trees as fast as possible to devise means of defense and counterattack.
+
+Critical to this endeavor was the Third Kin's discovery of computers. First devised by the Vermeil, their significance as things that could think like them, while being *not* like them wasn't lost to wither the Vermeil or the First Thinkers, who came to employ them in their own infrastructure after annihilating the Vermeil civilization. The Third Kin captured the most prolific usage of computers by the First Thinkers - their automated chromeling swarms - and reverse-engineered them to obtain the Slates. With the Slates, they could attack First Thinker infrastructure, defeat their defenses, and breach the Interdiction Vaults.
+
+The rest is history. Once the Third Thinkers had access to the stored ruins of an interstellar civilization, it was almost trivial for them to finish out their own progression down the technology tree, and go even further than that using their command over calcic reality. While they achieved the level of the Vermeil's technology and even surpassed it, they never quite did reach the scale of their civilization, even with the Strider Protocol to make doing so far easier. Once the First Thinkers were defeated, the bodies at the time dedicated to studying and reverse-engineering Vermeil technology rapidly accelerated the overall technology level of the Switchboard, greatly expediting the process, and bringing them to where they are today.
+
+#### The Technology Level of the Switchboard
+> [[SB_Astromechanics]] is recommended reading before this section.
+
+How advanced were the Vermeil?
+
+A way to easily answer this question is the Kardashev scale, an expression of a civilization's technological advancement via a measure of how much energy it can produce and harness. While varying bands to this classification exist, Type 1, 2 and 3 - harnessing the total energy of a planet, star and galaxy respectively - seem to be the most widely used rungs on the ladder of the Kardashev scale. While more exotic and extreme classifications such as type 4 (harnessing the power of a whole universe), type 5 (multiple universes), type 6 (the multiverse), type 7 (the metaverse; you get the idea) they become redundant the further out you go.
+
+Earth and our civilization is estimated to be somewhere between 0.7 and 0.72 on the Kardashev scale; a decidedly modest report card to submit after civilization has existed for as long as it has. Or peered through another lens, a truly sterling result based on how difficult it seems to be for anything to be done in the universe in general, such as the emergence of life to begin with, and much less the ability for that life to send bits of itself to other planets. 
+
+Samsara's cosmological architecture is somewhat different from ours but not by much. Planets do indeed orbit stars, but these stars are stationary. Collections of them form cradles, and collections of those are regions, continuing onwards into clusters, superclusters and finally the top-level wedges. For narrative and mechanical reasons, the Vermeil were domiciled to their wedge - having been unable to find a means to defeat the Void and its impassable veils, and because I decided they didn't have the ability to do so - but they did spread far throughout the superclusters, such that more had a Vermeil presence than didn't. This would encompass innumerable planets and stars, and mandate the usage of transport technologies that were either capable of speeds close to that of the Strider Protocol, or able to sustain manned travel missions for very long times. Having followed much the same tech trees as we did, adjusted for the mechanics and quirks of the verse (they split no atoms, for there were no atoms to split) they possessed much of the technology you could put between sticks and stones and an FTL travel equivalent.
+
+Energy doesn't truly work in the Switchboard the way it works in our own universe, and as such, the critical metric of 'how much energy they can harness' doesn't translate from our universe into this one. If you're to judge the level of a civilization then, you need another metric, and perhaps the next viable one is what they'd use this energy to *do*. The Vermeil were massively, massively expansionist for no other reason that seemingly a desire to perpetuate themselves, and this manifested as their spreading, building and innovating into superior methods of spreading and building. Much like how the race to the moon and investment into space in general created a variety of useful technological byproducts that went on to improve our way of life, the Vermeil in their endless expansionism and expedition of that expansionism frequently yielded additional advanced technologies only tangentially related to their cause, but beneficial none the less. Iterated over numerous processions, their civilization grew and attained immense technological advancement before their extinction at the hands of the First Thinkers.
+
+But at the twilight of their days, the Vermeil could be said to have exceeded a Type 2 civilization on the Kardashev scale, having spread to multiple star systems equivalents and harnessed the power of multitudes of stars.
+
+The Third Kin thus, in plundering their graves, were rather rapidly elevated to their technological prominence, and this in turn took on new forms as it was adapted to fit the Third Kin's more poignant differences, such as their flight, command over local reality, unique physiologies and the like. While they indeed scaled back in terms of raw space they occupied, they elevated themselves in the far more relevant technological ladder, taking a post a few decimal points above the Vermeil.
+
+How this manifests in canon is fairly imaginable. Technologies previously domiciled in the realm of science of fiction become realizable in the Switchboard under calcic mechanics. What is capable in the spheres of harvesting and resource extraction, interstellar travel, computation, biotechnology, telecommunications, robotics, geoengineering and construction is pushed to the very limits, resulting in a civilization capable of creation and manipulation on a colossal scale.
+
+#### Uneven Distribution
+Though it goes without saying once pondered for long enough, it is still worth mentioning that the Kardashev scale is a measure of the pinnacle of a civilization's energy generation and utilization capacity. However, whatever it is that pushes a civilization one decimal point further is often domiciled to a very specific and relatively small region in space. Harnessing stable and viable fusion power on Earth would indeed push the entirety of mankind's rating higher, but the fusion reactors themselves would only occupy a minuscule amount of square footage relative to the entire planet.
+
+As such, the distribution is rather pyramidic. If the Kardashev scale was instead deduced by attaching numerical values to various technologies (1 point for the steam engine, 2 for the computer, 5 for fusion power, 10 for FTL drives) and then summing all the scores of technologies achieved by the civilization followed by dividing it by whatever number reduces it down to resulting in Earth still getting a score of 0.7, you would indeed still have the Switchboard's current Kardashev score. However, you could arrange different technologies and the score they contributed to the final score in a pyramid, with high score contributors thinning out in number towards the top.
+
+The 'uneven distribution' stems from the fact that different parts of the Switchboard might actually have much lower Kardashev ratings relative to the entirety of it. Parts of the Switchboard are still 'rural' or 'undeveloped' - much like our own world - and the Kardashev rating as a measure of localized technological progression rather than global energy consumption and production is skewed downwards in these contexts.
+
+### pNarrat: Getting Around the Switchboard
+> [[SB_Astromechanics]] and the '**SBTech: Transportation**' heading of this doc are recommended reading before this section. 
+
+Narrative universes that are conducted on multiplanetary and interstellar scales often run into a rather humorous problem; a sheer dearth of population on various locales. Not even just of people, but anything in general. Planets can have a single important city where all major narrative takes place, plus one or two points of interest where scenes and sequences occur. It's much like as if you take earth as it is normally and then blew it up to span multiple star systems; a narrative where London and Paris are separated by jumpship rather than car, train or plane.
+
+Perhaps it stems from desiring a geographically grand narrative because starships and all other related subject matter are plain cool, only to realize that now that you've declared a massive sandbox you now actually have to fill it with things. The next conundrum you run into is a matter of this filling out; if you need a city on a sandy desert planet, it doesn't really 'make sense' to have multiple cities on one desert planet as they're 'cities on desert planets', nor does it make much sense to have multiple desert planets with singular cities. I put 'makes sense' in quotes as ultimately this is a question of scope. You could have nine desert cities on desert planets if they all arose at different times under different circumstances for different reasons, such as splintering city states or the discovery of some natural resource or unique strategic value with regards to geography or the like.
+
+But you still run into the issue of underutilizing the geographical scale of your sandbox; how many locales will actually be explored over the course of a narrative, and how many remain to be spread across the cosmos if you place any amount of them on a singular planet? Could most large-geographical-scale narratives work if they were constrained to one planet? Perhaps, but you'd lose out on quite a bit. Which brings the matter to a head; the task at hand is frequently one of balancing what is desired and what is workable, with the aim of minimizing losses on both sides. As such, you can still have starships and star-system-spanning civilizations and narrative, so long as you make concessions one way or another.
+
+Where am I going with this?
+
+The question of 'getting around' in Samsara is more properly a question of narrative-geographical scale. How far away from everything is everything in Samsara? This question warps and reshapes itself into a new one that demands how populated the Switchboard is as well - a question I still have no answer for - and one that I sorely wish I did as it would greatly assist in further matters of scale that remain pending. But I digress.
+
+The smallest unit of the Switchboard's cosmological architecture is the Cradle, containing primarily one or two armillary stars and a cluster of planets. Perhaps only a third of the planets of any given Cradle will be inhabited, and a small fraction of Cradles likewise. This does mean that generally, a Cradle will 2-3 planets with Kin upon them, and thus it is necessary for there to be infrastructure ferrying persons between them. This has already been established though much earlier, in the form of the Switchboard's understandable focus upon interplanetary and interstellar mobility via jumpships and fleets.
+
+Planet-side however, on the ground, it's a little different. On planets with multiple inhabited locations and other such places of interest, bridging them together is fairly necessary. Majorly, this is achieved via the usage of high-speed rail. While various air vehicles are usable as well, the Switchboard doesn't have much by way of a commercial planet-side passenger airline scene, as flight in general is culturally viewed as the domain of the Switchboard's Striders. The proliferation of rail - which benefits from safer and cheaper operation coupled with equivalent speeds thanks to the Switchboard's enginery technologies - has mostly eliminated the need for planet-side air travel, beyond usage in fringe cases or by persons who truly cannot stand being around other people.
+
+Within settlements however, is tackled fairly thoroughly in the above section about getting around the Switchboard.
+
+### pNarrat: Amaranth Tech
+> [[The Void 4]], [[The Challenger Dark]] are recommended reading for this section. However, the Void and all related subject matter are soon to undergo a total reconstruction, and as such, much of what is in those documents and in this section are subject to change.
+
+One of the oldest original motifs for the Void was that it would be bordering on medieval in various aspects, ranging from the structure of people and governments, to the technology level exhibited by the people living within it. The immediate problem presented was that the Switchboard's canon also featured, to no small extent, interplanetary and interstellar travel, computers and analogues of their auxiliaries, advanced medicine all the way up to full-on bodily manipulation; list continues. A coherent explanation for why one realm had starships and the other manual grain mills needed to be found or this motif would be utterly irreconcilable with reality.
+ 
+The rectification of this came from the Challenger Horizon.
+
+The border between the Dancirah and Isalveh is the Challenger Horizon, a region of warped, distorted space where material caught in the trap of curvature is neither here nor there. In this turbulent between-space, chalk is dissolved and pooled into a caustic slurry known as [[The Challenger Dark#The Stardrip|stardrip]], and even briefly passing through this liquid layer is enough to compromise the calcic integrity of various kinds of weft that exist in the Switchboard.
+
+In particular, very complex weft is very vulnerable to the caustic nature of stardrip. This includes the inner workings of Slates, weaker relics, weft with active ritualism on them, and even the Third Kin themselves. Passing through the stardrip sees their lattices compromised - sometimes irreparably - and the nigh unavoidability of this phenomenon has resulted in the creation of explanatory material on what can and cannot be brought into the Void.
+
+Various Danciran appliances, making use of intricate ritualism and weftcraft to function, are rendered non-functional once passing through the Challenger Horizon, their inner workings quite literally dissolved by the liquid stardrip layer. Everything from mundane household implements to the command bridges of starships are turned to slurry once crossing the Horizon, and the result is that that the Void is littered with irreparable - and thus impossible to harness - junk tech. 
+
+It does beg the question of whether one could simply smuggle simpler components into the Void, and assemble devices and complex machines there, but the Void still suffers from a suffusion of stardrip in its very atmosphere, and as such, more intricate weft structure will be gradually eaten away at and corroded by the very air.
+
+The one means of bypassing this is making use of Void-originating materials, such as amaranthite and pale amara to engineer certain parts of these devices. Slates with crystalline amaranthite baseplates for example in their design, are capable of slowing or evening wholly circumventing the caustic air of the Void.
+
+For this reason, the Void is kept at a relatively low technology level, with its very geography and climate opposing the creation and proliferation of advanced technologies. This does introduce a wrinkle in he Void's on goings however, in the form of the imbalance of power that stems from those who can harness the few technologies able to function in the Dark, and the many that cannot. 
+
+### pNarrat: Tiered Materials
+> Some legacy writ from earlier iterations, the following section outlines some in-universe materials employed primarily for the usage of **Combined Strider Operations**; Spyndl Academy's paramilitary division. As such, these are materials used mainly in making armament, armor and various utility devices.
+> 
+> This section is ultimately of little consequence, existing mainly to store still-relevant legacy writ and for flavor - though it does help in elaborating upon the variety of exhibited qualities by the materials of the Switchboard, further buttressing the heading on materials science earlier. 
+> 
+> In actuality, it might be a good idea to ignore this heading altogether.
+
+The various metamaterial metals and alloys in the Switchboard are harvested from ores or similar from various locales in the Switchboard. They serve the basis for various weapons, armor, implements, devices, machines and the like in the Switchboard.
+
+**Tier One - Famylar**
+A product of the creation of planets via planetary equations in the Switchboard, this lime-green ore is seeded deep underground in planets at their formation. Able to be mined and extracted fairly easily, it serves as a sort of alternative to various flavors of regular steel when a material more calcic-attuned is required. It's used in various applications as such, where non-calcic materials will not suffice.
+
+> Tentative, ideally it would be alloyed with silicon to form a silicon-famylar that serves as the basis for various calcic-enabled components in the Switchboard such as Slates, the control boards for Chromelings, and the control boards for various Strider electronics such as jumpships and more mundane purposes in regular computers. Ideally, the advantage presented by famylar is that it bypasses the molecular limitations of silicon by using chalk, enabling it to alter its conductivity calcically instead of through doping with other materials, as well as facilitating the usage of a calcic-analogue to transistors. 
+
+Famylar is refined through conventional means of melting and allowing to cool, as impurities are obliterated in the process. A final stage in the refining process, however, is that they are spread out in 'sheets' while hot and allowed to cool under the light of armillary stars. While not essential, the exposure to fresh chalk aids in its usefulness as a calcic material.
+
+While it can be used in making weapons for Striders, it is relatively weak to shock, and not very good at keeping an edge, and requires the usage of reinforcing weaves or rituals to make it far more suitable as a weapon. That being said, weaves and rituals 'adhere' far more readily to famylar than steel, and as such it sees more usage as a weapon in the hands of those able to make it more viable as one through calcic means.
+
+One final advantage of famylar is its lightness on the doctrinal level, it being many times lighter than equivalent dimensions of steel, while still serving as a suitable alternative to it. The equivalent of 'grades' of steel comes down to how long famylar is allowed to cool in calcic radiance, with longer times spent under radiance resulting in a stronger, but subsequently harder to work with product.
+
+**Tier Two - Calcrysteel**
+Our first alloy on the list, made through the combining of various flavors of steel and pure, crystalline chalk as does form in the depths of wellsprings in the Switchboard. Based on the final use case of the calcrysteel, different grades of steel are used, with high-carbon steels finding their ways into calcrysteel and subsequently the most commonly used tier of Strider weapons.
+
+The manufacture of calcrysteel is done with first acquiring high-grade crystal chalk. While mining it in the depths of wellsprings is the most common method, in instances where high quality is desired, crystal chalk is 'crystallized out' of wellspring water drilled from deep within the wellsprings. Upon acquisition of the crystals, they are crushed to immensely fine powder and added to the molten steel of choice, drawn and folded. This drawing and folding inculcates the crystal finely into the mix of steel. The resultant material is metallic, scintillates mildly, and based on the starting steel, has a color that ranges from blue-grey to light blue. 
+
+Calcrysteel's properties are very dependent on the steel used to make it, but the addition of chalk does serve to 'enhance' the properties of the steel present, done by taking in the nature of the steel used in the composition and reinforcing its doctrine. This creates a calcrysteel that's lighter when the steel used to make it is just light, even more corrosion resistant than the corrosion-resistant steel used to make it, and even harder when the steel used to make it is merely hard.
+
+It is in this that calcrysteel serves as a direct upgrade to steel in all contexts, and it sees plenty of use everywhere steel would be used if there is any possibility at all that the presence of calcic properties would be valued. This also results in it seeing plenty of use by Striders as weaves and rituals adhere to it once again.
+
+**Tier Three - Tritanium**
+An alloy created by the Academy for usage by its various operatives, this material is immensely powerful as it is an alloy of famylar, calcrysteel and the relic material **replichrome**. The combination of these three confer upon tritanium a litany of properties that make it the Academy's bare minimum for equipment used by its Operators.
+
+Combining the doctrinal lightness of famylar with the cross-board superiority of calcrysteel already creates an almost 'fairy material'. The addition of replichrome however, grants tritanium 'self healing' properties by virtue of replichrome's ability to manufacture more of itself when fed calcic radiance. When tritanium is in molten state and then shaped, it 'remembers' that shape when cooled within a small margin of error. This means that while a hypothetical blade made of tritanium can be sharpened without its replichrome nature compelling it to replace the lost material from the sharpening process, thus dulling it, if that blade were to be chipped badly or snapped in half, it will passively feed on latent chalk to repair itself back to the original blade shape.
+
+This dull yellow-ochre metal thus sees extensive use in Strider weaponry and equipment, as its unrivalled lightness, strength, calcic affinity and self-repairing properties makes it a material unlike anything in the Switchboard. 
+
+As an aesthetic note, tritanium channeling or generally empowered with chalk glows a bright, neon yellow, giving weapons built from it the appearance of being made of pure energy.
+
+**Tier Four - Pale Amara**
+This purple crystal-metalloid is the product of harnessing '**amaranthite**', a fairly common crystal that forms in Isalveh, the Challenger Dark as a process of the natural crystallization of stardrip. Crushing, chalk, depthstone and amaranthite produces a white-black-purple powder blend that is then fired at supremely high temperature and pressure to force them to mix and create a 'liquid crystal' resultant that cools into solid crystal, which can then be cut down for usage in various applications.
+
+Pale Amara appears as a deep purple solid seemingly variegated with white and black streaks through its crystalline structure. It also boasts immense hardness, and it finds its way into various cutting tools used in the Switchboard.
+
+It sees two particularly prominent uses however; in devices that need to interface with both chalk and aspects or phenomena of the Void, and in the hands of Depthstriders. 
+
+In chalk-void spanning devices, they often need to exploit some trick to function, combining chalkweaving and ritualism with curvature manipulation and randomness to function. An example of this are the **entropic weft compressors** used in accelerator weaponry and elsewhere, to manufacture hyperweave by compressing down chalk with curvature.
+
+In the hands of depthstriders, their Void-gifted powers of curvature control are performed more powerfully when used with weapons formed from pale amara. Particularly, pale amara is capable of disrupting chalk systems, allowing depthstriders to counter attacks and rituals used by the chalkstrider cousins. Pale amara weaponry can magnify local curvature and anti-curvature, allowing them to induce strong gravitational fields. 
+
+Where pale amara finds its greatest utility is its ability to **bridge calcic and depth reliant systems**. Where chalk needs to interact with the Void, pale amara is used as its constitution contains 'stabilized' forms of both. [[Weave and Warfare#Pale Amaran|Pale Amarans]] require inculcations of pale amara to be able to use their 'Polarity' powers. 
+
+**Tier Five - Hexic Kacherock**
+The Vault Minds of the Switchboard are leftovers from a crueler era, as well as emerging with each passing second under the mechanics of chalk. Burdened with the doctrine of protection, they establish a series of machinations that result in the construction of the mighty Vaults of the Switchboard. Structurally, the Vaults of the Switchboard are built primarily out of **kacherock**, the result of material stripped from ancient planets and the chalk in them and their vicinity allowed to soak up the doctrine of the vault minds, aging them. This kacherock accumulates the secrets of ages, as currents of chalk used by the calculations of the Vault Minds and other super-planetary constructs pass through the vaults, and the kacherock becomes a sort of naturally-occurring relic material.  ^09d274
+
+Kache Krashers frequently search for the oldest kacherock in a Vault, often the deposits closest to the final chamber of the Vault and the resting place of the avatar of the Vault Mind, as these were the rock laid first. Extraction of this kacherock and firing it powerful furnaces melts it down, and when it cools and reforms, it adopts an inexplicable hexagonal structure that bestows upon it immense structural strength and defense against deformation. It finds much of its use in defensive applications - sheets of it used to fortify and armor constructs, and plates of it used in making high-level armor for Striders. The hexagonal crystal-metal adopts a characteristic fiery red-orange hue, pulsing dark and bright in tune with seemingly the 'heartbeat' of the Vault Mind from which the kacherock was initially harvested.
+
+Additional utility is found in the aged chalk of hexic kacherock. Casting and channeling chalk through it bestows some of its aging upon it, maturing the chalk and enhancing the effectiveness of all calcic abilities used with it. In Strider weaponry it is used as an upgrade from the Academy's tritanium, and serves almost as a symbol of status among high level Striders, differentiating those who have conquered Vault from the rest.
+
+**Tier Six - Astratite**
+A material that forms from armillary stars. During periods of surge in the Conflara season, armillary stars burn with truly mighty wrath, emanating waves of calcic radiance that rip through weaves throughout the Switchboard. Occasionally, some truly unstable stellar material lashes out as a tendril (similar to solar flares in our world) and occasionally this tendril touches a wellspring. It flash-transmutes the crystalline chalk there into something new, scorching it black with the pure wrath of the Switchboard's engines. This touch remains permanent, turning white chalk pitch black. 
+
+Refinement of the scorched chalk is done using rituals, in which components bearing the aspect of heat and pressure compress and smelt the black chalk down into liquid resembling the pure sky of the Switchboard. It finally cools down into a twilit glass-like crystalline solid. It is not actually possible to cast astratite, and instead any application it is intended for requires inculcation of astratite into the subject by ritual means. Because of the sheer calcic power contained in astratite however, and the fact rituals 'uncork' this power briefly, it is immensely dangerous to work with, as allowing its volatile power to run rampant would be similar to having a piece of a armillary star in one's lap. Overwrite is guaranteed. Death only slightly less so.
+
+Astratite sees particular use in the hands of Striders. Shards of it no bigger than coins can be drawn from and provide a calcic power boost so immense one can Stride without regard for information mass, or cast their Flash Protocol multiple times in succession. Of course, this is implicitly dangerous as not quickly dissipating the immensely powerful chalk coursing through one's body places them at risk of Overwrite. 
+
+It sees extensive use in chalk ritualism as 'mark' and 'fire' components, and it serves to greatly empower rituals cast with it. 
+
+Perhaps a final quality of astratite is that under circumstances it is capable of resisting Glass. A Strider having their lattice being consumed by glass can take astratite orally, and the pure calcic power within can flush their lattice and utterly overwhelm the Glass. Striders who are able keep a measure of it on their person, as a last resort against a glass-wielding threat.
+
+**Tier Seven - Barristeel**
+Barristeel is the headstone of armillary stars. It forms only when a armillary star dies.
+
+What is left behind is supposedly white-gold rock, glowing so powerfully with calcic radiance that it unravels the lattices and weaves of all things around it, defeating every equation, overwhelming every ritual. It leads many to believe that there is no means in reality to actually handle it, and has also led many to conclude that nothing about it that is 'known' is actually true, as being in the mere presence of barristeel would kill any possible observer.
+
+The only thing confirming it exists is knowledge gleaned from the walls of Vaults, the fact the Astrolabe is built out of some modified form of it, and theorizing done by various Switchboard scientists. But none know how to check for it. None even know how to make a armillary star die, or what it even means for a armillary star to 'die'. 
+
+### pNarrat: Switchboard Tech Repository
+A large repository for various bits of tech that exist in the narrative, outlining their origin, construction and function.
+
+#### Tech Repo Updates
+> In-development.
+- Writ within the Fel-Arcad doc; such as the Triptych Crucible
+- Slates
+
+#### Hyperweave Handling Devices
+> [[Calcodynamics#Hyperweave|Hyperweave]] is recommended reading for this section.
+
+A number of devices exist for handling hyperweave;
+
+- **Entropic weft compressors**; a component of larger assemblies, and used primarily as the core of weapon systems that rely on hyperweave to function. By harnessing pale amara and how it allows for constructive rather than destructive interaction between chalk and the depths, it induces an oscillating point of immense curvature, causing chalk to be scrambled while simultaneously being drawn in. It can be imagined as a whirlpool with a blender in the center. As chalk is drawn in more and more, packed more tightly and scrambled to become more chaotic, bottled lightning - hyperweave - is formed.
+- **Hyperweave cells/batteries and capacitors**; storage devices for hyperweave, meant to maintain hyperweave as stable as possible and then released into a system as needed. Ritualism in the make of each device's physical structure stabilizes the hyperweave within, allowing for the cell to power its own ability to stabilize its contents, though at the expense of being poorly suited for longer term storage. Additional ritualism controls the flow rate; batteries let hyperweave trickle out, capacitors almost blow themselves apart in the process of letting hyperweave escape as fast as possible.
+- **Apertures**; pits of sheet metal inscribed with ritualism, cut to resemble rings, designed to be slotted at the end of hyperweave emitters. They act as restraining fields, mildly folding and spinning close the 'edges' of a bolt of hyperweave to constrain it down to beam-like shape. 
+
+#### Wayfinding Apparatus
+> [[The Strider Protocol#Wayfinding Across the Dancirah|Wayfinding]] is recommended reading before this section.
+
+Over time, a wide array of tools, gadgets and resources have been developed in the practice of path and wayfinding. Primarily, the practice of wayfinding is an exercise in gathering information and making decisions based on what is available and what isn't. At the intersection of the known and unknown lies a feasible path through the Switchboard, made feasible by a wayfinder's own skills and ingenuity in working within the constraints of their tools and the dynamic nature of the Switchboard.
+
+1. **Stellar Sextant**
+	One of the simpler devices that exists in a wayfinder's toolkit. The sextant is a graduated assembly of spokes, dials, lenses and telescopes, granted an additional three-dimensional component to its assembly, which it allows it to measure the distance between armillary stars, wellsprings, planets - celestial bodies - in the Switchboard. The first question of every sojourn is that of distance, and the sextant answers this question.
+
+2. **Void Spherometer**
+	An assembly consisting primarily of a piece of encased amaranthite and depthstone, suspended on wire. Measuring the deflection of the material instructs the wayfinder on the local curvature of the void in a wide space around them. Further tuning allows for determining the curvature in certain directions, and the spherometer can be used to detect or even anticipate flux storms, which present one of the greatest hazards to a traveler in the Switchboard.
+
+3. **Astrolabic Timepiece**
+	A simple calcic device that latches on to one of the many minute calcic streams being fed from the Astrolabe. Once it does, it can give the universal time of the Switchboard, straight from the Astrolabe, information that is useful when planning routes that may pass hazards that strike at certain periods, calculating arrival times and more. 
+
+4. **Whitefield Navigator**
+	A curious device that is used to detect large, but non-radiant sources of chalk. Placed near a armillary star or wellspring, the compass-like apparatus will show very little activity. However, should an onina in the Void erupt, or the trail of a stellar procession or another large chalk construct pulling streams of chalk to itself, it will direct the carrier to it. Used first to detect onina and the whiterifts they form -  which double as relatively safe entrances into the Void - it proved to be effective at pointing towards large, non-celestial sources of chalk in general. In particular, it is an excellent way to find Vaults that are hidden from view, abandoned starships and Net nexuses, planets with noteworthy activity, hidden arcologies, and far more. It is carried by many hunters of oddities in the Switchboard.
+
+5. **Wedge Ledgers**
+	The Switchboard is divided into eight great wedges, along the Great Veils that emanate from the Switchboard and form impassable walls between each wedge. Despite how massive a wedge is, there are concerted efforts to map as much of a wedge as possible, with the aim to cultivate and create a body of knowledge on each wedge, updated over time, that provides useful information on matters related to the practice of travelling the Switchboard.
+	
+	Ledgers are divided by topic, as so;
+	- **Route Maps**
+	  Spooled and physical maps of the most travelled routes in the Switchboard, created and recorded by the travelers themselves. Planetary authorities, contractors, Spyndl and other similar institutions, arcologies, Sil'khan Sabai and often just lone individuals may undergo the task of creating route maps for regions of the Dancirah, which provide a very useful foundation upon which to map complex routes. While elements of standardization have been teased and even employed, having maps at all is valued fairly more than none whatsoever, and having an idea of what lies on a route is better than going in completely blind. Route atlases are often copied and distributed across the Switchboard, or maintained in spool form on networks, and it remains a constant struggle to determine and circulate the most update copy of a certain locales route atlases, if maintenance isn't done by a central cartographical body.
+	  
+	- **Starmaps**
+	Using stellar sextants and other tools, it is possible to create three-dimensional maps of celestial bodies in the Switchboard. Armillary stars, wellsprings, planets, and large natural formations like asteroid fields from planetary debris are recorded on these starmaps, featuring accurate-as-possible distances. More than natural bodies are recorded as well, however; publicly-accessible starwyld platforms (space stations), Net nexuses and buoys, defunct or active vaults, stationary or defunct fleets, outposts for notable organizations and planets and far more are recorded as well. In a sense, they are generalist maps of the Switchboard, that tell where everything is while not necessarily telling how to get there. These maps don't need to be as frequently updated, as much of what they deal with are colossal and thus permanent entities, though occasionally they may need to indicate a vault has been cleared, or an outpost has been abandoned by its previous owners. The one exception to this stellar processions; armillary stars taking ambles across the Switchboard, for reasons known only to the Astrolabe. For many, it is a seasonal thing, and thus consulting a starmap for the relevant time is advised.
+	
+	- **Netfrastructure Maps**
+	  Maps of infrastructure relevant to the [[SB_Technology#The Dendro-Vitric Network|Dendro-Vitric Root Network]], commonly shortened to the DevitNet. Due to the value and nature of the DevitNet however, this information is immensely sensitive, and thus various 'tiers' of maps exist based on what the wielders allowed to be privy to. Major bodies that deal on and with the DevitNet are usually the only ones with true maps of its infrastructure, this being primary, secondary, tertiary, major and minor conduits through which information is piped down, the various major and minor nexuses, buoys and relays that exist to keep the net functional, key maintenance locations where work can take place, control boards where sections of the Net can be blocked or shut down, the locations of certain [[SB_Technology#The DevitNet Netmasters|Netmasters]] and Breach Protocol weaponry (these being [[Weave and Warfare#Esomechanists The Teeth of Ryjik|the Teeth of Ryjik]]) and viable entrances into the **Glazwyre**, a physical manifestation of the Net itself. There are then DevitNet maps used by the Netmasters, that are more detailed than even *that*, and maps circulated among the general public, that are far lighter on content and the specifics of that content, serving more to tell where not to haphazardly deploy powerful explosives. And inevitably, there are a number of false, edited maps that contribute to a massive disinformation campaign run by numerous figures, to mask the true nature of the Net from prying eyes with ill intent. 
+	  
+	- **Flux Climatographs**
+	  Procession-on-procession records of the general state of the Challenger Horizon, the boundary between the Dancirah and the Void. Just as the Radiance Cycle has its seasons which are charted and monitored and have a considerable effect on activities within the Dancirah, the Void's many flux storms are monitored and recorded as well, with the aim of providing details of time and locale where storms can hit or are hitting. Flux storms are one of the few phenomena that even the Old Danseers were wary of, and as such, concerted effort exists to provide solid answers on whether certain routes are safe at certain times of a procession. Rescuing those who are dragged into the depths of the Void in a flux storm requires employing Spyndl Aca's **flux divers**, who are few, already stretched thin, and aren't guaranteed to succeed. Prevention remains better than cure, and even the lackadaisical wayfinder should ensure they give the flux climatographs a diligent look, lest this sojourn be their last.
+	  
+	- **Fleet Itineraries**
+	  These are frequently updated, fairly accurate timetables and maps on the movements of various starfleets in the Switchboard. Many fleets may operate within a wedge of the Switchboard, some stationary, some mobile, and it is useful to know where they are when planning a sojourn. Fleets serve as suitable grounds for launching a Stride, as well as welcome rest stops. It can also be idea to travel on routes within a fleet's beacon detection range, which is the range within which a fleets communications apparatus can pick up distress beacons and thus launch rescue operations. 
+
+6. **Riftcross Distress Beacon**
+	A device that works on a principle very similar to the void spherometer, in that a piece of depthstone and amaranthite is within it, mounted on a free wire. When the void-attuned materials within are heavily deflected - such as upon crossing the Challenger Horizon - it completes a bit of chalk ritualism and fires of a ritual, which manifests as a powerful calcic distress call that permeates the microwire network, travelling down the DevitNet to all nearby devices containing information that would be useful to anyone embarking on a rescue effort, such as location, time since the beacon was fired off, and additional information encoded into the beacon by the bearer. Plenty of discourse and sentiment surrounds the usage of these beacons, as just as they have led to genuine rescues, they have been used by unscrupulous individuals to bait well-meaning denizens of the Dancirah. It has led to some swearing off of responding to beacons entirely - a kneejerk response - but an entirely understandable one. 
+
+7. **Microwire NetTap**
+	A minuscule device that is often either a component of a larger one such as a Slate, or installed on the local lattice as a chromegraft. Either way, it contains a tiny sliver of anarhiza within it, as well as a compute core, which allows it to interface with the microwire lattice network - or the **microlNet** - a low throughput, wide permeation, purpose-specific network used primarily for high-urgency communications. Clearance is needed to use it, as even small communications can clog up the conduit, which grinds its operation to halt. Should a region of the Dancirah have a Net Buoy, a device that constantly outputs useful telemetry data to the local microlNet, the NetTap can interface with it and feed this data to the bearer, giving them information on this region of space such as places of interest, hazards, regulations and the like.
+
+8. **Pulsar Orienteer**
+	A device created by the Old Danseers, attuned to the songs of stars. It allows for orienting the carrier in three-dimensional space by using the pulsars of known stars in the Dancirah. By feeding this data directly to the lattice of the Strider - often by being a chromegraft - the bearer can orient themselves with minuscule adjustments to the output of their Stride, allowing for the performance of advanced striding techniques such as **skydancing** and **graceflying**. 
+
+9. **Karahn-Sabai Radar System**
+	A device created by the Skydancer Shalkarah, King of Roads, the one who claims dominion over the Strider Protocol itself. The original Karahn apparatus made use of the Astrolabe-native barristeel and astratite, granting it immensely contained calcic potential - and most interestingly - a praxis component. As one Strides, they do so in supplication to the King of Roads, and this device will be deflected to point at them. Further modifications by the Sil'khan Sabai, nomad-zealots, granted it enhanced precision and range, as well as multi-tracking capabilities. With it, one can track the movements of other sojourning striders midflight, as their striding is an act of worship to the Skydancers past. 
+
+10. **Pre-Stride Parameters Calculator**
+	A device created as the Old Danseers gradually learned of the mechanics of the Strider Protocol. With this device embedded in the local lattice, it can give numerical values for various parameters involved in the practice of striding, such as individual stride velocity and primary and secondary overhead, and then use this information to calculate various important values to a strider, such as their maximum and minimum stride ranges, their goldilocks zone, their information mass and subsequent launch threshold and cargo. This information combined with cartographic data can give a very solid picture of where a strider can go and the intricacies of getting there, and no strider in the modern era goes without their 'PSP' calculator. As striders stride, and if their PSP is a chromegraft or otherwise mounted on to their local lattice, it gradually updates its constants over time, as the strider either gets more proficient in striding, or suffers from the typical decay that comes with age.
+
+11. **Multivariate Path Inscriber**
+	An incredibly complicated device that more so resembles an entire slate on its own. In reality, it is a combination of many of the devices listed above, calibrated and interlinked to each other and a compute core so as to compute all the various data they all provide. The Path Inscriber is carried by **pathfinders**, who use it to chart and accumulate data on routes they take. As they stride, piles of data concerning the ongoing are generated, and used to generate detailed cartographical reports on routes in the Dancirah. Their effectiveness at this, however, is constrained by the overall fidelity of data recording and the speed of the compute core, as striding is done at ludicrous velocities - much faster than weaker sensor apparatus can pick up. Occasionally, multiple flights down the same route are needed to generate a full picture of the route's cartographical data, and multiple flights are needed irrespective to chart the data over seasonal trends.
+
+> As a note, much of the devices above, though being individual devices that work standalone, clever engineers have found means to compress and combine them to make multitools and multiscanners, some finding means to mount them all to a slate's calcic backboard.
+> 
+> As an additional note, much of the data accumulated by various traversers of the Switchboard is being upspooled - though not always in real time - to data collectors, should the device be fitted with the net-enabling apparatus. One such data collector is the Spyndl Academy, who feeds the data to their colossal data hoard known as the FOPL.db, a massive ledger of nearly anything, with the goal to one day amass *everything*.  
+
+#### Replichrome
+> [[The Fel-Arcad]] is recommended reading for this section.
+
+- Replichrome is a creation of the twin Fel-Arcad artifacts, the Loom and the Lathe. This artifact-material was spun into being with unique properties that would allow it to serve as the backbone of Fel-Arcad architecture, engineering, and by extension, civilization. 
+
+- Being an artifact-material, replichrome possesses a Five Straits of its own, bestowed upon it by its artifact nature. In these Five Straits are the equations that give replichrome its unique property; the ability to fold chalk to create more of itself. When exposed to the calcic radiance from armillary stars, radiant chalk passes through a sample of replichrome's interface line into the potential line. From there it moves to the computational line, where the incalculably complex equation housed within the adjacent memory line guides the folding of the radiant chalk into more replichrome, which is output as physical deposits through the interface line. 
+
+- Regarding its physical properties, replichrome is silvery-grey, strangely warm to the touch, metallic in appearance and feel. Regarding hardness and strength, replichrome boasts similarity to steel in this regard, making it an excellent material for construction when paired with its other qualities. It sees a willingness to take various forms, as it can be shaped easily when instructed to soften through the Five Straits, allowing for wire, sheet, bar, plate and more forms of it. It is fairly lightweight as well.
+
+- Replichrome is incredibly corrosion resistant, and in general very resistant to the elements, including extreme temperature changes, moisture and abrasive damage. It is observed to rapidly dissipate high temperatures applied to it, making it very heat resistant as well. However, these qualities are do to its self-restorative properties; corrosion is sloughed away by more replichrome growing from underneath to replace corroded layers. Abrasive damage is fixed similarly by more material growing to fix the wounds. Even in the case of continuous expansion and contraction from temperature changes, replichrome effortlessly repairs this wear and tear as well.
+
+- Speaking more on how it is used, the Five Straits within it allows it to be **programmed** to function in certain ways. This programming can be done with a Slate or a ritual.
+
+- Normally, replichrome grows more of itself towards the direction of the source of calcic radiance, similar to plants. If replichrome is left on a desk near a window, it will grow towards the outdoors. This can result in a replichrome cube for example, growing quite askance, resulting in an irregular shape. One of the first things that can be programmed into a measure of replichrome is a **redistribution clause.** This instructs the interface line to output fresh replichrome according to provided rules. For example, a replichrome cylinder may have a redistribution clause where instead of growing towards the strongest source of radiance, it instead forms additional material to grow longer, or to shrink its internal  diameter.
+
+- Second of these programmable clauses is the **pattern clause**. This instructs replichrome to repeat a certain structure using additional material output by the interface line. This is particularly useful when replichrome is used to make complex geometrical structures, such as tessellating plane shapes, or a mesh of replichrome woven in upon itself. In construction with replichrome, its common for weavers to design a sort of 'amenities plate'; a measure of replichrome that has been designed to have mounting points for various other constructs to be added later, such as securing brackets for pipes, mounting brackets for insulation, gutters for cables etc. and the pattern clause allows for recreating this amenities plate by growing it gradually through steadily feeding the replichrome with chalk.
+
+- Third of these programmable clauses is the **assimilation clause**. Replichrome also has the ability to assimilate other materials into itself, and the weaver programming it is capable of instructing it to do different things with it. While replichrome is not able to create more of the materials assimilated into it, it *is* able to redistribute them and form them into new shapes. Replichrome can be fed a block of copper for example, and spit out wire coils. Programming replichrome to assimilate materials like this grant it the power to 'build' structures out of those materials. Replichrome can assimilate plastic and reform it into plumbing, assimilate copper and lay wiring, assimilate glass and place windows at intervals as the growing replichrome forms a wall around it, assimilate wood and lay panel of it over itself to hide it from view. As such it sees its ultimate utility in construction. 
+
+- Outside construction, replichrome sees some utility in the sembleworks space, as its replicating properties can be easily transformed into self-healing properties, which find utility in self-repairing chromegrafts. 
+

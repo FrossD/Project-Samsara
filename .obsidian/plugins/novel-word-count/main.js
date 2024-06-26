@@ -355,6 +355,7 @@ var DEFAULT_SETTINGS = {
   excludeComments: false,
   excludeCodeBlocks: false,
   excludeNonVisibleLinkPortions: false,
+  excludeFootnotes: false,
   debugMode: false
 };
 var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
@@ -586,6 +587,15 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
           await this.plugin.initialize();
         })
       );
+      new import_obsidian2.Setting(containerEl).setName("Exclude footnotes").setDesc(
+        "Exclude footnotes[^1] from counts. May affect performance on large vaults."
+      ).addToggle(
+        (toggle) => toggle.setValue(this.plugin.settings.excludeFootnotes).onChange(async (value) => {
+          this.plugin.settings.excludeFootnotes = value;
+          await this.plugin.saveSettings();
+          await this.plugin.initialize();
+        })
+      );
       new import_obsidian2.Setting(containerEl).setName("Character count method").setDesc("For language compatibility").addDropdown((drop) => {
         drop.addOption("AllCharacters" /* StringLength */, "All characters").addOption(
           "ExcludeWhitespace" /* ExcludeWhitespace */,
@@ -782,8 +792,14 @@ function removeNonCountedContent(content, config) {
     content = content.replace(/(%%.+?%%|<!--.+?-->)/gims, "");
   }
   if (config.excludeNonVisibleLinkPortions) {
-    content = content.replace(/\[(.+?)\]\(.+?\)/gim, "$1");
-    content = content.replace(/\[\[.+?\|(.+?)\]\]/gim, "$1");
+    content = content.replace(/\[([^\]]*?)\]\([^\)]*?\)/gim, "$1");
+    content = content.replace(/\[\[(.*?)\]\]/gim, (_, $1) => {
+      return !$1 ? "" : $1.includes("|") ? $1.slice($1.indexOf("|") + 1) : $1;
+    });
+  }
+  if (config.excludeFootnotes) {
+    content = content.replace(/\[\^.+?\]: .*/gim, "");
+    content = content.replace(/\[\^.+?\]/gim, "");
   }
   return content;
 }
@@ -995,7 +1011,8 @@ var FileHelper = class {
     const countResult = countMarkdown(content, {
       excludeCodeBlocks: this.settings.excludeCodeBlocks,
       excludeComments: this.settings.excludeComments,
-      excludeNonVisibleLinkPortions: this.settings.excludeNonVisibleLinkPortions
+      excludeNonVisibleLinkPortions: this.settings.excludeNonVisibleLinkPortions,
+      excludeFootnotes: this.settings.excludeFootnotes
     });
     const combinedWordCount = countResult.cjkWordCount + countResult.spaceDelimitedWordCount;
     const wordGoal = this.getWordGoal(metadata);

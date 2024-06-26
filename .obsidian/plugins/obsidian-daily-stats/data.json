@@ -1,20 +1,23 @@
 {
   "dayCounts": {
-    "2024/2/8": 378,
-    "2024/2/9": 665
+    "2024/5/26": 168
   },
   "todaysWordCount": {
-    "3.Scribbling/DT.WEFTCRASH/DT.WC_1.md": {
-      "initial": 1675,
-      "current": 2331
+    "1.TL_Board/GRAVEYARD/General Graveyard.md": {
+      "initial": 0,
+      "current": 12
     },
-    "3.Scribbling/DT.WEFTCRASH/Weftcrash_1/Meta.md": {
-      "initial": 32,
-      "current": 34
+    "READING_GUIDE.md": {
+      "initial": 966,
+      "current": 987
     },
-    "2.Development/Narrative_Worldbuilding/Switchboard Powers/Weave and Warfare.md": {
-      "initial": 30458,
-      "current": 30465
+    "README.md": {
+      "initial": 229,
+      "current": 356
+    },
+    "1.TL_Board/DT.Meta/DT.Home.md": {
+      "initial": 162,
+      "current": 170
     }
   }
 }
