@@ -1,23 +1,43 @@
 {
   "dayCounts": {
-    "2024/5/26": 168
+    "2024/5/26": 168,
+    "2024/5/27": 0,
+    "2024/5/28": 3468,
+    "2024/6/1": 146,
+    "2024/6/2": 2004
   },
   "todaysWordCount": {
-    "1.TL_Board/GRAVEYARD/General Graveyard.md": {
-      "initial": 0,
-      "current": 12
+    "U24do1Patches.md": {
+      "initial": 46,
+      "current": 209
     },
-    "READING_GUIDE.md": {
-      "initial": 966,
-      "current": 987
+    "2.Development/B. Weftcraft/Weave and Warfare.md": {
+      "initial": 37305,
+      "current": 37305
     },
-    "README.md": {
-      "initial": 229,
-      "current": 356
+    "1.TL_Board/DT.Graveyard/DT.Graveyard.md": {
+      "initial": 880,
+      "current": 1104
     },
-    "1.TL_Board/DT.Meta/DT.Home.md": {
-      "initial": 162,
-      "current": 170
+    "2.Development/B. Weftcraft/DT.WFTCR/DT.WarExpansion.md": {
+      "initial": 251,
+      "current": 251
+    },
+    "2.Development/B. Weftcraft/Extended Disciplines.md": {
+      "initial": 8826,
+      "current": 10072
+    },
+    "2.Development/B. Weftcraft/DT.WFTCR/DT.Arsenal_Cards.md": {
+      "initial": 4679,
+      "current": 4680
+    },
+    "2.Development/B. Applied Mechanics/SB_Technology.md": {
+      "initial": 21318,
+      "current": 21681
+    },
+    "PATCH_NOTES.md": {
+      "initial": 209,
+      "current": 216
     }
   }
 }

@@ -16,7 +16,7 @@ A shirt can be reduced to a chalk ribbon containing all the information of that 
 ### Equations
 Before that however, it is necessary to discuss what it is that 'decides' the manner in which chalk folds.
 
-Everything in the Switchboard is indeed made of chalk ribbon, but what transits chalk ribbon to folded pattern are **equations**. These equations are calcic calcic phenomena themselves that fold chalk ribbon into given shapes, and the fact that the calcic material that goes in is equivalent to the folded pattern that comes out is why they bear this name.
+Everything in the Switchboard is indeed made of chalk ribbon, but what transits chalk ribbon to folded pattern are **equations**. These equations are calcic phenomena themselves that fold chalk ribbon into given shapes, and the fact that the calcic material that goes in is equivalent to the folded pattern that comes out is why they bear this name.
 
 Equations have a *robust* presence in the Switchboard's canon, appearing just about everywhere chalk does. Keeping in mind that equations are simply a 'something' that folds chalk will greatly aid in navigating the mechanics and world of the Switchboard.
 

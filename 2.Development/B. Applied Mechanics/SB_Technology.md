@@ -579,6 +579,23 @@ A large repository for various bits of tech that exist in the narrative, outlini
 - Writ within the Fel-Arcad doc; such as the Triptych Crucible
 - Slates
 
+#### Recurve Strafers
+> I had to.
+> Also, this doesn't even feel like a final name for them, workshopping this was ludicrously annoying;
+> - Vector Strafers
+> - Inline Strafers
+> - Recurveboards
+> - Recurves
+> - Skyline Strafers
+
+A natural conclusion following the repeated innovations upon the curvature engine; the proposal that it was possible to compress such enginery down to a device that could be used to sail across spatial currents. Inspired by the rocketskates of the Fel arcologies, the recurve strafers are engineered, single-passenger ultralight vehicles capable of riding spatial currents within the Challenger Horizon, giving the appearance of the device and its rider gliding effortlessly on air. Recurve strafers are the Switchboard's hoverboards.
+
+Much of the function of strafers stems from the vehicle straddling the divide between two planes - the Dancirah and the Challenger Dark - at any given time. Made possible by amaranthite alloying, strafers posses an underside fin like those on a surfboard, oriented perpendicular to the board while dipping sideways into fourth dimensional space. There, it can catch the currents of the turbulent Challenger Horizon, riding the combined roil of space and stardrip to grant the board a media through which to glide through. In this manner, riders can ascend, descend and perform all manners of complex movements via using their bodies and onboard machinery to steer the strafer as they see fit.
+
+Expectedly, their operation is conditional upon the 4D altitude of the Void, and they generally function maximally in locales where there is at least a little bit of spatial roil. Too much however, can tax both vehicle and rider, and both can be dragged down under into the Challenger Dark proper. Done properly however, recurve strafers are a widely-used means of shorter distance transport that combines utility with thrill, used particularly by depthstriders operating in the Dancirah - due to their enhanced utility with it due to their curvature manipulation - and Spyndl Academy operators in locales where jumpships and similar would be inconvenient or outrightly impossible to use.
+
+Naturally, it sees wide usage among the sporting types of the Dancirah as well, who have a robust culture of modifying their boards, honing their skills. and competing in grand displays of strafer proficiency for repute and rewards. 
+
 #### Hyperweave Handling Devices
 > [[Calcodynamics#Hyperweave|Hyperweave]] is recommended reading for this section.
 

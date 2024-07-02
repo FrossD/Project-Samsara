@@ -46,7 +46,6 @@
   "ITS@@alt-chkbx-off": false,
   "ITS@@check-color": true,
   "ITS@@check-bg": true,
-  "ITS@@chkbx-strike": false,
   "ITS@@vault-name-font-size": 25,
   "ITS@@vault-icon": false,
   "ITS@@background-image": true,
@@ -55,7 +54,6 @@
   "ITS@@tab-outline-width": 2,
   "ITS@@file-header-font-size": 19,
   "ITS@@file-header-breadcrumb-font-size": 15,
-  "ITS@@inline-title-font-size": 34,
   "ITS@@modal-width": 100,
   "ITS@@file-line-width": 800,
   "ITS@@ITS-Sizes": "sizing-readable",
@@ -66,5 +64,6 @@
   "ITS@@background-image-opacity": 90,
   "ITS@@background-image-width": 50,
   "ITS@@background-image-height": 50,
-  "ITS@@background-image-url": "url(https://cdn.discordapp.com/attachments/1028758953754103828/1179242780434890783/20231129_030813.png?ex=6674e0ec&is=66738f6c&hm=2d058a917043cda940986f398a0c5112c04fc9e71fdad928a5505ad629964831&)"
+  "ITS@@vault-title-none": false,
+  "ITS@@background-image-url": "url(https://cdn.discordapp.com/attachments/1028758953754103828/1179242780434890783/20231129_030813.png?ex=6683616c&is=66820fec&hm=3ac845f4be534fd454b5e7871fa4da6ecca2ca4e01d0c09d6b60c862eeeab9e9&)"
 }
