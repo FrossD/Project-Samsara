@@ -44,7 +44,7 @@ The Anarhiza, additionally, by some - as of now, with regards to you reading thi
 
 How does it do this?
 
-That is due to the fact the Anarhiza is in fact, thinking weave. More specifically, its an amalgamation of First Thinker Minds operating under a prime directive; the facilitation of communication. The Anarhiza is the final resting place of one of the many factions that the First Thinkers were split into before the First Praxis War against the Vermeil; they are known as the **Interlace Communicative**.
+That is due to the fact the Anarhiza is in fact, thinking weave. More specifically, its an amalgamation of First Thinker Minds operating under a prime directive; the facilitation of communication. The Anarhiza is the final resting place of one of the many factions that the First Thinkers were split into before the First Praxis War against the Vermeil; they are known as the **Interlace Communicative**. This they achieved by subjecting themselves to the Triptych Crucible to become a singular amalgam of minds that served as a seed, which would later grow in to the Anarhiza, and serve as the communication lattice for the entire Dancirah.
 
 Before the Eradication Imperative could ever possibly wage a Switchboard-spanning war, they would need two key things; an analogue for infantry, and a means of Dancirah-spanning communication. The Interlace Communicative arose to solve both of these problems, by first and foremost undergoing an **amalgamation** into a singular, cohesive mind, that was then situated in the Vitric Shelf upon a throne within a hollow, excavated via the manipulation of glass - something the First Thinkers were growing increasingly proficient at doing. From this, the Interlace Minds began to form more of themselves, multiplying like microorganisms, and gradually growing, spreading roots into the Vitric Shelf. Growth was slow, but exponential, and in time the roots had spread to occupy much of the known Switchboard and even further beyond, creating an extensive thinking lattice sandwiched between the Sky and the Shelf. Under their prime directive, a word spoken to them captioned with where it must go, was a request always honored and answered, and the Eradication Imperative now had a means to communicate the various intricacies of war across the expanse of the Dancirah.
 
@@ -288,6 +288,8 @@ These individual qualities listed below differ from mindspun to mindspun, but al
 	Some mindspun are 'touched' - perhaps - with the ability to compute the esoteric mechanics of the Praxis Protocol and the mechanics of the Astrolabe's ledgers. Should the rare occurrence when computing the mechanics of praxis arise, mindspun specifically gifted in this regard are required, and none else.
 
 #### Compute Cube Fabrication
+> [[SB_Technology#SBTech Mind Engineering|Mind Engineering]] is recommended reading for this section.
+
 A demand for compute devices translates into a demand for compute cubes, which in turn produces a demand for mindspun. While mindspun do occur in the wild, and there are even tangible advantages to using wild-formed mindspun over those produced in artificial conditions, it doesn't change the fact that much of the mindspun used in mass-produced compute cores are a result of synthesis. 
 
 Fortunately, the mechanics and nature of the Astrolabe sees to it that things, even intelligences, are always spawning into being, even more so in crafted, ideal conditions. Being emergent minds, they tend to arise wherever minds are already present - intelligence spawns intelligence - and as such simply having Kin present in an environment is enough to begin production of mindspun.
@@ -398,52 +400,6 @@ Information taking physical form in the Switchboard necessitated a way to store 
 These spools of ribbon being chalk themselves, however, makes them somewhat vulnerable to various phenomena. A chalkweaver activating their active draw in an environment full of spools can absorb their calcic matter and thus utterly destroy a large data hoard. Other chalk-consuming phenomena make little discrimination between ambient chalk and chalk in spools, and thus it is vary possible for an active ritual - for example - to unwind the contents of a spool and consume it as raw chalk.
 
 For this reason, spools are usually physically insulated, with larger mass-storage spools being stored and their contents fed like a belt over rollers to where they are needed to be read. Spools meant for usage in devices such as slates, or spools that are generally more mobile are instead incased in glass chambers, which insulate them from the outside calcic world, maintaining the integrity of the data within. 
-
-### Weftloaders
-The gap between those who can weave chalk and those not born so blessed is a gap established at the very moment of the rise of the Third Kin from the inert, but ripe seeding grounds of the astrolabic spheres. This gap has only grown with time, as the totality of the knowledge on chalk and how to weave it continues to grow. This gap is of concern to many, as it presents a tangible discrepancy in might between various actors in the Switchboard, and it is thus a common conclusion that those who cannot weave chalk have no real recourse against a chalkweaving opponent.
-
-Further advancements in the development and use of Slates, however, led to a realization of the nature of their make up; in a sense, a Slate can be viewed as a 'false' manifestation of the Five Straits intrinsic to calcic beings, particularly the Third Kin. With components on the Slate serving functions as straits; 
-
-- Calcic baseplate - Potential & Interpreter
-- Compute Cube - Computational
-- Ribbon Spool - Memory
-- Periphery and Ports - Interface
-
-The mechanics of praxis almost arise to fill in the conceptual gap between the true Five Straits and the mocking straits made by the Slate. In this manner, pioneers in this manner of thinking set about developing a form of chalkweaving they called **mockweaving**; chalkweaving that was performed with secondary apparatus, rather than the primary straits that would otherwise have been intrinsic to the wielder. In this manner, it became essential to develop both purpose-built Slates and additional hardware and Slate periphery to facilitate this. 
-
-Many bodies set to work bringing this theory to fruition, but it was Lancaster Innovations - perhaps acting for the betterment of all Lancaster kind - that prototyped and perfected the first **Weftloaders**; a series of devices that allowed nearly any Third Kin to take control - even in limited capacity - of the weave. 
-
-#### Mechanics
-'Weftloader' refers to only one of the two essential parts of achieving the aim of replicating chalkweaving. There is the weftloader, the physical apparatus that does the physical weaving, and there is the absolutely necessary '**Weft Repli-Capable**' - or WRC - Slate that controls the weftloader.
-
-The WRC Slate designation and weftloaders themselves were created by the purposely-established Nefelworks Corporation, or simply Nefelworks. Named after the Skydancer of Weave, the Dreamer Nefele, Nefelworks set about pursuing this technology to its utmost, developing a means for the Lancasters that primarily founded and staffed its corporate parent - Lancaster Innovations - to defend themselves, and later expand into civilian use. Many, many prototypes were built and plentiful resources were expended in reaching the state they occupy now, functional weftloaders built off of their most successful iteration of the tech, the foundation for all weave replication that would come after it; the **Needles V-1**. 
-
-The WRC designation for a Slate is given to it when it passes the metrics necessary to become weave-replication capable. Primarily, it require the Slate to have certain scores and properties on its compute cube, as well as further thresholds met on other aspects, particularly that of pure calcic output. Generally, meeting WRC designation requires;
-
-- For the compute cube;
-	- A cube with a generally **high Potency (P) score**, this being a measure of its ability to yield raw calcic output.
-	- A high **Adversity Compute Proficiency** value, as this is a direct measure of the compute cube's ability to compute Teks and calcic ritualism.
-	- High scores in **pattern** handling, **extrapolation**, **biscuit** information handling and **multivariate** information handling.
-- For the rest of the Slate;
-	- Immensely high calcic throughput, made possible by high-throughput ribbon connections between the components of the Slate.
-	- A calcic baseplate made of fairly aged, fairly complex chalkweave.
-
-Generally, the Slate must be maximally capable of non-information-focused computation, focusing instead on the ability to create and disseminate calcic pattern to periphery.
-
-The weftloader itself, the second piece of the puzzle, is a fairly complex piece of kit, as it aims to replicate mechanically what traditional chalkweavers do innately with their lattices. The silhouette of most forms of weftloader begins primarily as a large gauntlet, which encases the hands, but additionally continues past the writs, up the forearm and past the elbow, usually up to the shoulder, with other models featuring additional constituent parts on the chest or - more preferably - the back.
-
-We can look at the 'parts list' almost for the most prolific weftloader in service, the Needles V-1, to get around understanding this;
-
-- Critical to any weftloader is the **ambient/active intakes**. To weave chalk, it must first be accumulated by some means, and without the mechanics of drawing chalk to oneself to saturate the potential strait that is available to those with the Five Straits, the weftloader must accomplish this by other means. The Needles utilize a bit of pale amaranthite, contained in modified **weft compressors**, set to draw ambient chalk from the environment and compress it down to near-hyperweave state, providing incredibly dense - but worryingly volatile - chalk storage. The volatility problem is solved in part by having the compressed chalk stored in a vitric glass chamber of immense purity, such that the chalk going unstable will be instantly annihilated by the glass walls.
-
-- Following this are **spools**, and the weftloader needs many. Without an internal memory strait like the Five Straits, the Slate and the attached weftloader must thus have various equations and ritual schema loaded onto their local storage, in the form of high-density spools. Stored weft and schema information is passed to the Slate for computation - as this information is usually stored in dedicated storage on the weftloader, as even high-end Slates rare have enough storage for even a medium-sized ledger of weft pattern - and then passed back to the weftloader as instructions on how to articulate the business end of the entire assemble.
-
-- The weftloader's **stitchery array** is perhaps the most important part of the entire device, and it is what earned the Needles V-1 their name. The stitchery array for the Needles is a secondary, complex mechanical hand that folds over the main hand and articulates as it articulates normally. When not in use, it coils and folds away in sections around the wrist. When it needs to weave chalk however, instruction is fed to high-fidelity actuators on the spinmetal fingers' assembly, and a stream of chalk emanates from the palm. A series of tiny needles - much like knitting needles - then sprout from all over the finger assembly, particularly prominent ones emerging from the fingertips, and set about to the task of making tens of thousands of minuscule movements per second, the fingers themselves moving as well, stitching and weaving the stream of chalk provided into by the Slate into shape, done so along the instructions fed by the same Slate. Simple gestures can detach the woven pattern from the array. 
-
-#### Further Notes
-Weave replication is an immensely compute and resource-heavy task, especially when taken to the realm of Teks and the weftloader subdivision, **tekloaders**. The vast complexity of Teks requires even more exacting Slates and weftloader apparatus, in particular Teks need immensely large spools to store their equational entirety, as well as the various functions they possess when used in various manners. But the utility of tekloaders remains undeniable, placing some of the Switchboard's greatest forms of calcic power to the hands of those who cannot even wield weave.
-
-Additionally, it is fairly commonplace for a weftloader to be integrated onto the local lattice as a **chromegraft**, taking over an arm entirely and granting additional potency and function due to higher-fidelity connections from closer integration. It makes the conduction of the will even swifter, and empowers the users of weftloaders even further. 
 
 ### Software
 Software in the Switchboard functions much like our own software, in that it is meant to direct the function of hardware and execute specific tasks. With regards to Slates and other computational devices that exist in the Switchboard, software functions via directing the processes of the mindspun thinking-weave that make up compute cubes. Software interfaces with the instruction set in the compute cubes to convert complex instructions into a series of simpler ones that the mindspun can grasp, and then obtain the result of their computation and transform it to a higher-level form that can be grasped by the Third Kin.
@@ -663,6 +619,8 @@ Within the Glazwyre, answers to its questions are scare - scarcer still outside 
 The final concern, of course, is what the Netmasters truly are - perhaps what they've become - and above all, what are their ends. Many espouse a vision of a 'freeNet', one without oversight of any kind, allowed to grow and thrive, the only doctrine being endless proliferation. But skeptics remain so, believing that the Netmasters, shrouded in shadow as they are, have aims not dissimilar from many others in the Switchboard; grand chisel-blows in the slate-ledgers of the Current, actions that will ensure their names transcend death itself. 
 
 ### pNarrat: Artificial Thinkers
+This section should ideally be read following the headings on [[SB_Technology#SBTech Mind Engineering|Mind Engineering]] and [[SB_Technology#Mental Machining|Mental Machining]]. They are critical for understanding some of what is discussed towards the tail end of this section.
+
 #### The Old Thinkers
 A deliberate overarching theme of the Switchboard is intelligence arising from places it couldn't possibly. Weft exists, but weft is inert; dead, and has never lived. But folded the right way, it takes on qualities that call into question the true depths of understanding. By what means is it really that the Five Straits - particularly the computational - function as they do? It is an unknown. The number of conclusions scales inversely with theories. But even without total understanding of this black box, enough understanding has been obtained to harness it to certain ends.
 
@@ -691,12 +649,12 @@ In a sense, they are the Switchboard universe's best approximation of artificial
 
 This of course raises the questions one might expect with regards to ethics and morality, and the all important question of whether they can come to hate the Kin, and conclude their elimination is essential for achieving some end. The shortest answer is that these are conundrums better explored in the manner they most frequently are; in narrative. The slightly less short answer - of course - is that the greatest thinkers in this field have anticipated these problems and more as a matter of course, and have theorized means of rectifying most, while implementing means to rectify some. The question of how they might adequately - and later completely - simulate the Third Kin's small grass patch of morality relative to the entire moral landscape is a particularly prominent one, and it is of little surprise that Fel-Arcad researchers and Fel-built and oriented models dominate the space.
 
-> For want of a name, they were called the 'NuThi' - 'new thinkers'.
+> For want of a name, they were called the 'Nuthi' - 'new thinkers'.
 
 #### Really, In Our Own Image
 In very familiar fashion, the Kin too are driven to give faces and recognizable shapes to the intelligences they've built. For many, the likeness is purely virtual; a name and crafted face projected onto space by tricks of light, features that emote to convince the mind of the likeness to oneself that is the entity speaking.
 
-It isn't very much beyond conception however, that some would go considerably greater lengths to give these minds a presence in reality. Though a complex, demanding task, the Fel-Arcad with their sembleworks are more than capable of spinning an entire bodily lattice of weft and chrome for a mind to pilot, allowing them to exist in the Switchboard much like the Kin that created them. Much like animated dolls, they can live in fashion almost wholly identical to us.
+It isn't very much beyond conception however, that some would go considerably greater lengths to give these minds a presence in reality. Though a complex, demanding task, the Fel-Arcad with their sembleworks are more than capable of spinning an entire bodily lattice of weft and chrome for a mind to pilot, allowing them to exist in the Switchboard much like the Kin that created them. Much like animated dolls or androids, they can live in fashion almost wholly identical to us.
 
 Bestowing them with shapes in this manner is not without controversy however, begging questions - again - of morality and ethics. For their creators, it is merely a means to interact most familiarly with their creations. For dissenters, it is a litany of things, ranging from the seed of disruption to social orders, to the perceived heresy of conferring a higher privilege upon a lesser existence. 
 

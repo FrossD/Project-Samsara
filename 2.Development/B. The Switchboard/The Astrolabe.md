@@ -44,12 +44,14 @@ A list of the currently existing protocols, subroutines and functions in the can
 	- Index Function
 	- (Tentative) Cast Addendum Function
 	- (Tentative) Vow Addendum Function
-3. Strider Protocol
-	4. Flash Protocol
-5. Weave Protocol
-6. Drift Protocol
-7. Praxis Protocol
-8. Breach Protocol
+3. [[The Strider Protocol]]
+	4. [[Weave and Warfare#The Flash Protocol|The Flash Protocol]]
+		5. [[Extended Disciplines#Collapse Function|Collapse Protocol]] (though this is more of an imperfect protocol)
+6. [[The Hands as Chalk#The Weave Protocol|The Weave Protocol]]
+7. [[Latest Void Revisions#The Drift Protocol 2.0|The Drift Protocol]] (WIP)
+8. [[The Blank-Slate Mind#The Praxis Protocol|The Praxis Protocol]]
+9. [[Communications and Compute#The Breach Protocol|The breach Protocol]]
+
 
 ### Computational Apparatus
 Over the many processions counted by the Astrolabe and borne by the Switchboard, the Astrolabe has utilized various physical apparatus in the resolution of its calculus. Much like distributing a computational program across various machines to lighten the computational load on each individual machine, as well as hasten the overall completion of the task, the Astrolabe has similarly, across the ages, utilize other entities structures as **computational apparatus**, towards its end of computing the entirety of the Switchboard.

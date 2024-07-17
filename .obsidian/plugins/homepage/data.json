@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "homepages": {
     "Main Homepage": {
       "value": "1.TL_Board/DT.Meta/DT.Home",
@@ -15,8 +15,14 @@
       "autoScroll": false,
       "pin": false,
       "commands": [
-        "recent-files-obsidian:recent-files-open",
-        "chronology:show-chronology-view"
+        {
+          "id": "recent-files-obsidian:recent-files-open",
+          "period": "Both"
+        },
+        {
+          "id": "chronology:show-chronology-view",
+          "period": "Both"
+        }
       ],
       "alwaysApply": false
     }

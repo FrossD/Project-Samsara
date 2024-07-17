@@ -28,7 +28,7 @@ How the various people and creeds of the Switchboard standardized the methods of
 	- Felkrams/**Felkraves**
 - Firearms
 	- Combat Bows
-	- Handcannons
+	- Hand cannons
 	- Marksman Rifles
 
 **Esoterics**
@@ -380,14 +380,14 @@ A dumping bin - almost - of all things outlandish, questionable and strange. But
 - Anti-personnel
 **Weapons A**
 - Longswords
-- Handcannons
+- Hand cannons
 - Chalkweaving
 **Weapons B**
 - Thinswords
 - Curveswords
 - Sidearms
 
-A foundational aspect of the much larger Spyndl Combat Doctrine, stemming from the practices of the Old Danseers. Spyndl Operators train in marksmanship with sidearms and handcannons as weapons that are usable with either one hand or two, with benefits attached to both, coupled with swordsmanship training, all obtained at institutions under Combined Strider Operations. 
+A foundational aspect of the much larger Spyndl Combat Doctrine, stemming from the practices of the Old Danseers. Spyndl Operators train in marksmanship with sidearms and hand cannons as weapons that are usable with either one hand or two, with benefits attached to both, coupled with swordsmanship training, all obtained at institutions under Combined Strider Operations. 
 
 Much of the doctrine revolves around a mix of sword and gun and sword and weave fighting, granting practitioners considerable versatility and necessary lethality in the close, close-medium and medium ranges. Knowing when to move between pairings of sword, gun and weave is necessary for success with this doctrine.
 

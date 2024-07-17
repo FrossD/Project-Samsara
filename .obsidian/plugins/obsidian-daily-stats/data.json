@@ -4,40 +4,44 @@
     "2024/5/27": 0,
     "2024/5/28": 3468,
     "2024/6/1": 146,
-    "2024/6/2": 2004
+    "2024/6/2": 2007,
+    "2024/6/3": 0,
+    "2024/6/7": 0,
+    "2024/6/8": 1971,
+    "2024/6/9": 682,
+    "2024/6/10": 2001,
+    "2024/6/11": 2,
+    "2024/6/12": 13,
+    "2024/6/13": 4629,
+    "2024/6/14": 1176,
+    "2024/6/15": 2389,
+    "2024/6/16": 2197,
+    "2024/6/17": 2765
   },
   "todaysWordCount": {
-    "U24do1Patches.md": {
-      "initial": 46,
-      "current": 209
+    "2.Development/B. Applied Mechanics/SB_Physiology.md": {
+      "initial": 17543,
+      "current": 19298
     },
-    "2.Development/B. Weftcraft/Weave and Warfare.md": {
-      "initial": 37305,
-      "current": 37305
+    "2.Development/B. The People/The Doctrine of Passing.md": {
+      "initial": 4123,
+      "current": 4127
     },
-    "1.TL_Board/DT.Graveyard/DT.Graveyard.md": {
-      "initial": 880,
-      "current": 1104
+    "2.Development/B. The People/The Great Families/Family Addendums.md": {
+      "initial": 32260,
+      "current": 32260
     },
-    "2.Development/B. Weftcraft/DT.WFTCR/DT.WarExpansion.md": {
-      "initial": 251,
-      "current": 251
-    },
-    "2.Development/B. Weftcraft/Extended Disciplines.md": {
-      "initial": 8826,
-      "current": 10072
-    },
-    "2.Development/B. Weftcraft/DT.WFTCR/DT.Arsenal_Cards.md": {
-      "initial": 4679,
-      "current": 4680
-    },
-    "2.Development/B. Applied Mechanics/SB_Technology.md": {
-      "initial": 21318,
-      "current": 21681
+    "2.Development/B. Chalk Dynamics/Calcodynamics.md": {
+      "initial": 5302,
+      "current": 6228
     },
     "PATCH_NOTES.md": {
-      "initial": 209,
-      "current": 216
+      "initial": 627,
+      "current": 706
+    },
+    "1.TL_Board/DT.Meta/DT.Home.md": {
+      "initial": 153,
+      "current": 154
     }
   }
 }
