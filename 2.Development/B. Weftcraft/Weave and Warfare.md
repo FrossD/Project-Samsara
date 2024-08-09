@@ -35,25 +35,10 @@ Adding to Latflashing and Flashweaving above, they can also expend the Flash thr
 Linguistically, any kind of usage of the Flash Protocol whatsoever is commonly described as simply '**using the/their flash**' by the Switchboard's many denizens.
 
 With that outlined, the means of using the Flash Protocol are;
-**D1**
-- Latflash Burst
-- Latflash Burn
-- Flashweave Burst
-- Flashweave Burn
-- Flashcharge
-
-**D2**
 - Lattice Burst
 - Lattice Burn
 - Weave Burst
 - Weave Burn
-- Flashcharge
-
-**D3**
-- LT-Burst
-- LT-Burn
-- WV-Burst
-- WV-Burn
 - Flashcharge
 
 > **Further notes on inspiration**;
@@ -804,11 +789,11 @@ Passive defense remains an essential component of engagements in the Switchboard
 #### Counter-Weft
 The most elementary armors in the Switchboard operate using the macroscopic principles that govern calcic interactions, which function fairly inline with our own real-world physics. Incident force - motive weft - strikes a hypothetical armor piece, and that weft is distributed around the armor in optimal conditions, preventing that motive weft from being absorbed by whatever the armor is protecting, and subsequently damaging it. In this case, armor construction follows very elementary principles outlined further on with regards to construction.
 
-Armor that operates alongside the micro calcic principles, however, is a little different. Hypothetically, if a piece of armor could unravel incident motive weft as it strikes, it would utterly negate it, and thus be the theoretical and in most cases ultimate armor piece, in that it shields against the most common form of damage. Doing this, however, would require armor that possesses a '[[The Hands as Chalk#pNarrat 'Reverse' Equations|reverse equation]]'' on it. The workings of this is very easy to outline; should armor that possess the equation for unravelling a certain kind of weft be struck by that weft, it can unravel it into chalk ribbon, nullifying it and whatever danger it poses.
+Armor that operates alongside the micro calcic principles, however, is a little different. Hypothetically, if a piece of armor could unravel incident motive weft as it strikes, it would utterly negate it, and thus be the theoretical - and in most cases, the ultimate - defensive measure, in that it shields against the most common form of damage. Doing this, however, would require armor that possesses a '[[The Hands as Chalk#pNarrat 'Reverse' Equations|reverse equation]]' on it. The workings of this is very easy to outline; should armor that possess the equation for unravelling a certain kind of weft be struck by that weft, it can unravel it into chalk ribbon, nullifying it and whatever danger it poses.
 
 Unfortunately, the equation to unravel motion into nothing in the Switchboard is unknown to the entirety of the Switchboard's peoples. At absolute best, armor can be designed to stomach an impact by slowing it, but then that armor is forced to confront the fact that motive weft within an object transmutes into thermal weft when the moving object is slowed. A bullet that hits armor may be absorbed, but then the armor must contend with the fact the bullet heats up as well, and armor resistant to force may not necessarily be resistant to heat. While fabricating materials that can fit both bills is possible - the Fel-Arcad are particularly adept at the fabrication of metamaterials - there still arises the problem of cost and availability. In theory, armor that makes use of the fact glass can spin heat into motion could distribute that heat into making the armor vibrate, but using glass in general is avoided wherever possible, especially in cases where the device will be struck repeatedly with the intent to destroy it.
 
-The imagined recourse was then to make armor that was able to unravel target objects, such as incident bullets and blades. But this too was mostly undoable. In theory, if a bullet spun into being by an equation struck armor that possessed the reversal of that bullet's equation, that bullet would be summarily unraveled on impact, and thus pose little by way of threat to the person struck. The problem with this is that one must then account for every single kind of bullet used in the Switchboard. And even then, even if one could fit the writ necessary to unravel every kind of bullet on a piece of armor, it still would not be maximally effective if those bullets were not perfect spun by their equations to begin with. There is a degree of inaccuracy to chalkweaving that means that the product of an equation might not necessarily be perfectly unwound by the corresponding reverse equation. The bullet problem in particular is greatly troublesome as most chalkweavers spin their own bullets into being as needed, meaning chalkweaver opponents all have their own unique ammunition that cannot possibly be accounted for by counter weft armor.
+The imagined recourse was then to make armor that was able to unravel target objects, such as incident bullets and blades. But this too was mostly undoable. In theory, if a bullet spun into being by an equation struck armor that possessed the reversal of that bullet's equation, that bullet would be summarily unraveled on impact, and thus pose little by way of threat to the person struck. The problem with this is that one must then account for every single kind of bullet used in the Switchboard. And even then, even if one could fit the writ necessary to unravel every kind of bullet on a piece of armor, it still would not be maximally effective if those bullets were not perfectly spun by their equations to begin with. There is a degree of inaccuracy to chalkweaving that means that the product of an equation might not necessarily be perfectly unwound by the corresponding reverse equation. The bullet problem in particular is greatly troublesome as most chalkweavers spin their own bullets into being as needed, meaning chalkweaver opponents all have their own unique ammunition that cannot possibly be accounted for by counter weft armor.
 
 If the reverse equation for a threat is known, armor can specifically be built to mitigate against it. This is useful for armor meant to counter the caustic effects of stardrip, for example, or armor used to counteract known offensive measures employed by Vault Minds. That being said, acquisition of a reverse equation is ultimately the product of luck; there is no real way to obtain one under the conventional mechanics of the verse.
 
@@ -823,7 +808,7 @@ The recourse - then - is to find a means to oppose inductive weft.
 
 One such solution is an analogue for **explosive reactive armor** or **ERA** as we see in our world. It is terribly simple; when struck, armor plating explodes outwards, counteracting the incident motive weft by never letting it be absorbed by the larger armor body. In some cases, the armor can even regenerate the material that's blown outwards, meaning that fast-regenerating armor or infrequently-occurring attacks allows for virtually unlimited protection from attack.
 
-The limitations of this, however, are that the inductive motive weft produced by the explosive reaction must be less than the inductive weft motive weft that would have been sustained by simply taking the projectile. This means that in the vast majority of cases, ERA in the Switchboard works in the exact use cases that it does in our own world; counteracting explosive weaponry such as rocket-propelled grenades and similar. ERA armor is thus wholly unusable on personnel, as using a close-proximity explosion to counter a small projectile is decidedly unwise. It instead sees widespread application on vehicles, such as the ubiquitous personal jumpships that crisscross the Dancirah.
+The limitations of this, however, are that the inductive motive weft produced by the explosive reaction must be less than the inductive motive weft that would have been sustained by simply taking the projectile. This means that in the vast majority of cases, ERA in the Switchboard works in the exact use cases that it does in our own world; counteracting explosive weaponry such as rocket-propelled grenades and similar. ERA armor is thus wholly unusable on personnel, as using a close-proximity explosion to counter a small projectile is decidedly unwise. It instead sees widespread application on vehicles, such as the ubiquitous personal jumpships that crisscross the Dancirah.
 
 Armor more suited for personnel must thus function by either sustaining the damage in a manner that - as much as is materially possible - does not compromise the armor's integrity over an amount of time, or uses some kind of trick, technique or likewise to dissipate motive and thermal inductive weft. The former category are passive armors, and their effectiveness is entirely dependent on their material makeup. Combinations of alloys and metamaterials are used in these armor assemblies to give them their varying degrees of protection, but they in turn suffer any drawback that comes from the specific materials used in their make, the most common being weight.
 
@@ -851,7 +836,7 @@ This does present an interesting operating landscape for Spyndl's Operators in p
 
 It is a problem that plagues Spyndl's masters of operations, who've coined up everything from exotic super-metamaterials to Dancirah-wide supply launch depots as a means of solving this problem, but Spyndl's Operators have come to pursue a completely different path; 'getting good'. The solution, as it were, was to simply not need armor. Become skilled enough to not get hit, to mitigate damage using other means, and to regenerate from whatever damage that is taken as quickly and optimally as possible. The problem is then turned on its head almost, in that the situations and circumstances which demand armored response passively and actively select for response personnel who don't need it. Particularly capable Striders do wear light armor made of materials that define the absolute highest echelons of metamaterial engineering, but many simply go without, relying solely on their powers to protect themselves as they operate within the Dancirah.
 
-For those without the need to stride particularly long distances or at all, armor's utility expectedly shines through.
+For those without the need to stride particularly long distances or at all, armor's utility expectedly shines through. 
 
 #### Limits
 Armor in the Switchboard has some hard limitations with regards to what it can defend against.
@@ -860,7 +845,7 @@ Armor in the Switchboard has some hard limitations with regards to what it can d
 
 - The two major forms of damage inherent to the **Void** - raw spatial damage and siphon damage - operate fairly differently. Spatial damage comes with an intrinsic armor bypass, in the sense that it outrightly overwhelms the vast majority of all motive weave mitigation methods, resulting in the armor itself compounding the damage taken by the lattice below. Siphon damage is fairly worse, caustically peeling away the chalk weft of the armor and thus destroying it. Armor that cannot regenerate through any means will need repair.
 
-- Armor abjectly fails against **glass**. It really only serves to give the wearer a bit of insulation against incident glass - and thus precious seconds to react by disrobing as fast as possible. In most cases however, armor being an extra layer of material really only serves to give glass more time and matter with which to build vitric momentum, and thus wearing armor can actually make glass more difficult to recover from. Some armor is outfitted with ERA systems - even personnel armor - to explode when glass incidence is detected. Physical removal of glass remains the most effective way of countering it, and many will gladly take the injury of pointblank explosions on their person over the uniquely dreadful fate that is glass' perfection.  
+- Armor abjectly fails against **glass**. It really only serves to give the wearer a bit of insulation against incident glass - and thus precious seconds to react by disrobing as fast as possible. In most cases however, armor being an extra layer of material really only serves to give glass more time and matter with which to build vitric momentum, and thus wearing armor can actually make glass more difficult to recover from. Some armor is outfitted with ERA systems - even personnel armor - to explode when glass incidence is detected. Physical removal of glass remains the most effective way of countering it, and many will gladly take the injury of pointblank explosions on their person over the uniquely dreadful fate that is glass' unwanted perfection.  
 
 ### Active Draw Vulnerability
 One significant vulnerability in Striders and Weavers is during the moments when they switch from passive to active accumulation of chalk, much like taking in a huge breath to perform a task that will require the oxygen. As Weavers weave chalk and deplete their readily-accessible reserves, they may need to draw chalk from the environment to replenish these reserves and keep fighting.
@@ -880,10 +865,16 @@ Various kinds of weapons and threats in the Switchboard do damage to both struct
 This is damage as we understand it; physical harm inflicted upon the physical makeup of a thing. It is the most common and thus the easiest to inflict, achieved through the usage of weapons and powers, and is often a component in the delivery of other kinds of damage. 
 
 - **Caedometric Damage**
-	**Source**: Sharp weaponry. Things that cut and pierce.
+	**Source**: Sharp weaponry. Things that slash and cut.
 	**Mitigation**: Dense weaving, counter-weaving.
 	**Shorthand**: Caedo, Cado., C
-Caedometric damage in the Switchboard is damage dealt at the ribbon level by things that cut, this being simple blades to Tek-based attacks and calcic rituals designed to emulate cutting to damage lattices. Considering how common sharp and pointy things are, caedometric damage is encountered fairly frequently, and thus the methods to mitigate it are fairly well known. Densely woven targets are harder to cut, and certain powers of counter-weave sees cuts do far less damage by cutting alongside the 'grain' instead of against it.
+Macroscopic damage to weft done by slashing, cutting and lacerating weaponry is denoted 'caedometric'. From simple blades to complex Teks to even more complex ritualism and more, various things inflict caedometric damage to the lattice, and it is widely regarded as the most common form of damage done in the Switchboard. Its commonality does mean the means of mitigation are widely known and thus employed, with it being common knowledge that densely-woven targets are harder to cut, and employing counterweave and manufacturing techniques for armor and similar further mitigates the damage done by caedometric sources.
+
+- **Perforant Damage**
+	**Source**: Piercing weaponry. Things that strike through layers.
+	**Mitigation**: Immensely dense weft.
+	**Shorthand**: Perf., P
+Damage done by knives, spears and bullets, perforant damage sources are oriented towards defeating armors with concentrated delivery of force, and dealing damage to many, many layers underneath. Much debate exists on the value of perforants over other weaponry, as many targets in the Switchboard - particularly Striders - are very capable at reversing damage done to them, and piercing wounds may not be enough damage over a large enough area to meaningfully hamper a target. However, well-aimed perforant attacks can cause nettare bleeding and damage motive centers on the lattice, and particularly brutal attacks can cut deep into the straits, dealing critical harm.  
 
 - **Breach Damage**
 	**Source**: Blunt weaponry. Things that bludgeon, smash and break.
@@ -941,7 +932,7 @@ Praxis damage is dealt and received constantly, occurring at minute and impercep
 - **Praxis/Doctrinal Damage**
 	**Source**: Praxis attacks, events upon computation by the Astrolabe
 	**Mitigation**: Feats, doctrinal differential.
-	**Shorthand**: Prax, P
+	**Shorthand**: Prax, X
 Praxis damage is strange in the Switchboard, as praxis damage dealt or received is a result of doctrinal clashes, and manifests majorly but fairly imperceptibly as a fluctuation of invisible scales. These scales however, have tangible results in that the represent the strength of the Switchboard's various doctrines in relation to one another, and the actions of all who hold a doctrine alter the balance of the scales.
 
 Praxis damage is thus dealt by a holder of one doctrine against a holder or another, and this results in a tipping of the scales in the attacker's favor relative to the sufferer of the blow. The tipping of a doctrine affects all who hold that doctrine, and while to individuals it manifests as an ultimately minute loss in raw strength, it does have tangible effect of doctrine-dependent abilities as well as the operation of that doctrine within the Switchboard and all that hinges upon it. Praxis damage dealt against the doctrine of an institution, for example, is a tangible weakening of that institution, in a manner that sees their actions less effective and their goals made harder to achieve.

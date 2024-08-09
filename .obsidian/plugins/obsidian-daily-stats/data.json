@@ -16,32 +16,32 @@
     "2024/6/14": 1176,
     "2024/6/15": 2389,
     "2024/6/16": 2197,
-    "2024/6/17": 2765
+    "2024/6/17": 2783,
+    "2024/6/19": 277,
+    "2024/6/20": 24,
+    "2024/6/22": 273,
+    "2024/6/23": 591,
+    "2024/6/24": 152,
+    "2024/6/25": 189,
+    "2024/6/31": 66,
+    "2024/7/1": 297,
+    "2024/7/5": 1629,
+    "2024/7/6": 274,
+    "2024/7/8": 2436,
+    "2024/7/9": 675
   },
   "todaysWordCount": {
-    "2.Development/B. Applied Mechanics/SB_Physiology.md": {
-      "initial": 17543,
-      "current": 19298
+    "2.Development/B. Weftcraft/ACs/Batch2/DT.Palette_AC.md": {
+      "initial": 2492,
+      "current": 3164
     },
-    "2.Development/B. The People/The Doctrine of Passing.md": {
-      "initial": 4123,
-      "current": 4127
-    },
-    "2.Development/B. The People/The Great Families/Family Addendums.md": {
-      "initial": 32260,
-      "current": 32260
-    },
-    "2.Development/B. Chalk Dynamics/Calcodynamics.md": {
-      "initial": 5302,
-      "current": 6228
+    "2.Development/B. Weftcraft/ACs/Batch2/DT.Echo_AC.md": {
+      "initial": 3876,
+      "current": 3878
     },
     "PATCH_NOTES.md": {
-      "initial": 627,
-      "current": 706
-    },
-    "1.TL_Board/DT.Meta/DT.Home.md": {
-      "initial": 153,
-      "current": 154
+      "initial": 838,
+      "current": 839
     }
   }
 }

@@ -65,5 +65,6 @@
   "ITS@@background-image-width": 50,
   "ITS@@background-image-height": 50,
   "ITS@@vault-title-none": false,
-  "ITS@@background-image-url": "url(https://cdn.discordapp.com/attachments/1028758953754103828/1179242780434890783/20231129_030813.png?ex=6683616c&is=66820fec&hm=3ac845f4be534fd454b5e7871fa4da6ecca2ca4e01d0c09d6b60c862eeeab9e9&)"
+  "ITS@@background-image-url": "url(https://cdn.discordapp.com/attachments/1028758953754103828/1179242780434890783/20231129_030813.png?ex=6683616c&is=66820fec&hm=3ac845f4be534fd454b5e7871fa4da6ecca2ca4e01d0c09d6b60c862eeeab9e9&)",
+  "CG@@CG-workspace-background": false
 }
