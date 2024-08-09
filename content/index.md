@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Project Samsara
 ---
+# Welcome to Project Samsara
+Mandate begets higher mandate.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+---
+![[SamsaraLogoCrackFinal.gif]]
+
+___
+**New Here?**
