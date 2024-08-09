@@ -64,8 +64,7 @@ But the pressure created by fanatics and the easily-led on both sides create a c
 
 And in this do we have the grounds for a praxis clash. The conflict of the Switchboard exists in constant rivalry between manners of living, in a bid to prove that one is philosophically superior to the other.
 
-
-## The Fel-Arcad
+## The Fel-Arcad - Addendums
 Addendums concerning the Fel-Arcad.
 
 ### The Order of the Undersol
