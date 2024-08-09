@@ -1,0 +1,21 @@
+ Volume in drive D is DATA
+ Volume Serial Number is D055-E7AE
+
+ Directory of D:\Google Drive\Drive\Writing Grand Compile\Repository\Project Samsara\Obsidian\Project-Samsara
+
+04/25/2024  09:11 AM    <DIR>          .
+04/25/2024  09:11 AM    <DIR>          ..
+04/25/2024  08:39 AM    <DIR>          .git
+08/14/2023  07:40 PM                66 .gitattributes
+12/23/2023  07:32 PM                73 .gitignore
+04/25/2024  08:39 AM    <DIR>          .obsidian
+04/25/2024  08:39 AM    <DIR>          1.TL_Board
+04/25/2024  08:39 AM    <DIR>          2.Development
+04/25/2024  08:39 AM    <DIR>          3.Scribbling
+04/14/2024  06:36 PM             9,225 ATTRIBUTIONS.md
+04/25/2024  09:11 AM                 0 files_and_folders.txt
+03/18/2024  03:25 PM             2,778 READING_GUIDE.md
+02/23/2024  03:54 PM             1,460 README.md
+04/25/2024  08:39 AM    <DIR>          Z.Assets
+               6 File(s)         13,602 bytes
+               8 Dir(s)  118,510,735,360 bytes free

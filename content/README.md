@@ -1,18 +1,20 @@
-# Quartz v4
+# 🌌 Project Samsara 🌌
+Mandate begets higher mandate.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## Introduction
+**If you have no clue what 'Project Samsara' is, head over to my SubStack page**; [🌌 Project Samsara 🌌](https://frossd.substack.com/p/the-samsara-project)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Welcome to the official GitHub repository for the entire Samsara Project, maintained by me and updated in real-time as I work through the task of realizing the universe of the Switchboard. Feel free to poke around and even comment on files if you want (assuming that's something you can even do; I don't know shit about GitHub).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+While you can absolutely read the documents fairly well on the GitHub site, I greatly encourage downloading the latest release on the right of the GitHub page, extracting the contents to a folder, and then opening that folder as a **vault** in [Obsidian](https://obsidian.md/). Obsidian is a powerful markdown file editor and my primary tool for building Samsara. Many of the Samsara docs have inbuilt strings and exotic formatting that only make sense or even work when parsed by Obsidian, and some docs are unreadable without them. Do keep this in mind.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+That all aside, thank you for taking a look at this whole thing. If you have any questions or the like, feel free to reach out to me on **Discord**, username 'frossd', or join the [Samsara Discord Server](https://discord.gg/j4HqGfChMC "https://discord.gg/j4HqGfChMC").
 
-## Sponsors
+If you want to get started reading Project Samsara, you are highly encouraged to view the Reading Guide.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+If you find yourself moved to support the project, we have a [Patreon](https://www.patreon.com/frossd "https://www.patreon.com/frossd"). All proceeds go to my own survival. Thank you for your kindness. 
+
+## Update 'U_24dot1'
+If you're reading this, the latest update for Project Samsara - Update 'U_24dot1' - is now live. If you're new to the writ and the project, or a returning reader, I encourage beginning at [[READING_GUIDE]].
+
+Some persons have some appreciation waiting for them in [[ATTRIBUTIONS]]. While I am thankful to all who engage with this project in any capacity, there are those who have distinguished themselves above all others.

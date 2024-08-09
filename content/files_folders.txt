@@ -1,0 +1,13 @@
+.git
+.obsidian
+1.TL_Board
+2.Development
+3.Scribbling
+Z.Assets
+.gitattributes
+.gitignore
+ATTRIBUTIONS.md
+files_and_folders.txt
+files_folders.txt
+READING_GUIDE.md
+README.md
