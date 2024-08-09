@@ -163,11 +163,20 @@ Below are the various classifications of Teks, grouped according to their origin
 - Some expand this scope however to include institutions such as the Spyndl Academy, and further theorize of the existence of teks born that espouse the power of an organization, group, coven or order. The Brass Monastery, the Roslettes - all could have a tek that is seeded from their doctrine, and born from their carcasses. The nature of these teks, however, remain mostly impossible to truly deduce, and thus it remains to be seen.
 
 **Fifth Generation 'Beta' (G5B)**
-- Voted as the lest interesting of the two, G5Bs are suspected to result from the Astrolabe doing similarly to the G2s that resulted in the G3Bs, enhancing instead the G4s via its calculus to better serve that same calculus.
+- Voted as the less interesting of the two, G5Bs are suspected to result from the Astrolabe doing similarly to the G2s that resulted in the G3Bs, enhancing instead the G4s via its calculus to better serve that same calculus.
 
 - This would in fact, result in the Astrolabe greatly amplifying the power of a tek of which there is likely only one instance in the Switchboard, and this would in turn be an empowerment of a lone figure to far beyond their initial bounds. For many, this is rather worrying, as it could very well lead to the creation of an entity beyond even the Old Danseers in strength, with no guarantee they'll be similar to the Old Danseers in disposition.
 
 - To the best of all researchers' knowledge, however, this has not (yet) occurred, nor is there conclusive explanation for why it might. This is only a cold comfort though, as many suspect that there would be no better time for it to eventually happen than during a wholly unpredictable Astrolabic Resolution - or worse - the Second Refrain, some suspecting that a wielder of a G4 tek enhanced by astrolabic logics might even be the catalyst for bringing about this direly-feared end.
+
+**Fifth Generation 'Gamma' (G5C)**
+- The least theoretical of the fifth generation teks as these actually exist.
+
+- These teks are defined by their **artificial origins**. By combining and optimizing the weft of various teks and other equations, and combining them into a cohesive whole, it is possible to create artificial teks with various high-level functions.
+
+- This is incredibly hard to do as it requires working with the veritable black box that are chalk equations, and haphazardly trying to work with chalk at the ribbon level can result in grievous harm to one's lattice. Properly engineering teks in this manner requires incredibly competent weavers aided by specialized equipment and cognitive contributors such as amalgamated minds.
+
+- Considering that G5C teks are a product of what goes into them, they are a veritably boundless category as they are denoted by how they are made more so than what they can do. G5C teks are generally made to order; fabricated because the the problem that demands them is best solved by having the solution tackle weft at the fundamentals, and be wieldable in the hands of the Third Kin beyond the manner of simpler tools.
 
 ### In Practice
 This new classification system can thus be summarized as;

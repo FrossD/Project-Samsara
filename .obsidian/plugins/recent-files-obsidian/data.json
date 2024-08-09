@@ -1,148 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "PATCH_NOTES",
-      "path": "PATCH_NOTES.md"
+      "basename": "The Fel-Arcad",
+      "path": "2.Development/B. The People/The Great Families/The Fel-Arcad.md"
     },
     {
       "basename": "DT.Home",
       "path": "1.TL_Board/DT.Meta/DT.Home.md"
     },
     {
-      "basename": "The Switchboard",
-      "path": "2.Development/B. The Switchboard/The Switchboard.md"
+      "basename": "Testing Note",
+      "path": "Testing Note.md"
     },
     {
-      "basename": "Calcodynamics",
-      "path": "2.Development/B. Chalk Dynamics/Calcodynamics.md"
-    },
-    {
-      "basename": "The Doctrine of Passing",
-      "path": "2.Development/B. The People/The Doctrine of Passing.md"
-    },
-    {
-      "basename": "Family Addendums",
-      "path": "2.Development/B. The People/The Great Families/Family Addendums.md"
-    },
-    {
-      "basename": "SB_Physiology",
-      "path": "2.Development/B. Applied Mechanics/SB_Physiology.md"
-    },
-    {
-      "basename": "Weave and Warfare",
-      "path": "2.Development/B. Weftcraft/Weave and Warfare.md"
-    },
-    {
-      "basename": "DT.Arsenal_Cards",
-      "path": "2.Development/B. Weftcraft/DT.WFTCR/DT.Arsenal_Cards.md"
-    },
-    {
-      "basename": "Ven_AC",
-      "path": "2.Development/B. Weftcraft/ACs/Batch1/Ven_AC.md"
-    },
-    {
-      "basename": "Freedryck_AC",
-      "path": "2.Development/B. Weftcraft/ACs/Batch1/Freedryck_AC.md"
-    },
-    {
-      "basename": "DT.Echo_AC",
-      "path": "2.Development/B. Weftcraft/ACs/Batch2/DT.Echo_AC.md"
-    },
-    {
-      "basename": "Martial Disciplines",
-      "path": "2.Development/B. Weftcraft/Martial Disciplines.md"
-    },
-    {
-      "basename": "DT.WarExpansion",
-      "path": "2.Development/B. Weftcraft/DT.WFTCR/DT.WarExpansion.md"
-    },
-    {
-      "basename": "DT.KitchenExpansion",
-      "path": "2.Development/A.Drafting Tables/DT.KitchenExpansion.md"
-    },
-    {
-      "basename": "DT.WN-DT",
-      "path": "2.Development/A.Drafting Tables/DT.WN-DT.md"
-    },
-    {
-      "basename": "DT.Spot_Lore_Tracker",
-      "path": "2.Development/A.Drafting Tables/DT.Spot_Lore_Tracker.md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Extended Disciplines",
       "path": "2.Development/B. Weftcraft/Extended Disciplines.md"
     },
     {
-      "basename": "DT.Hanging_Note",
-      "path": "2.Development/A.Drafting Tables/DT.Hanging_Note.md"
+      "basename": "DT.Palette_AC",
+      "path": "2.Development/B. Weftcraft/ACs/Batch2/DT.Palette_AC.md"
     },
     {
-      "basename": "DT.Graveyard",
-      "path": "1.TL_Board/DT.Graveyard/DT.Graveyard.md"
+      "basename": "DT.Echo_AC",
+      "path": "2.Development/B. Weftcraft/ACs/Batch2/DT.Echo_AC.md"
     },
     {
-      "basename": "Chalk Ritualism",
-      "path": "2.Development/B. Weftcraft/Chalk Ritualism.md"
+      "basename": "Teks",
+      "path": "2.Development/B. Weftcraft/Teks.md"
     },
     {
-      "basename": "The Strider Protocol",
-      "path": "2.Development/B. The Switchboard/The Strider Protocol.md"
+      "basename": "Weave and Warfare",
+      "path": "2.Development/B. Weftcraft/Weave and Warfare.md"
     },
     {
-      "basename": "SB_Technology",
-      "path": "2.Development/B. Applied Mechanics/SB_Technology.md"
+      "basename": "Freedryck_AC",
+      "path": "2.Development/B. Weftcraft/ACs/Batch1/Freedryck_AC.md"
     },
     {
-      "basename": "DT.Weftcrash_Narrative",
-      "path": "2.Development/B. Weftcraft/DT.WFTCR/DT.Weftcrash_Narrative.md"
+      "basename": "Fyre_AC",
+      "path": "2.Development/B. Weftcraft/ACs/Batch1/Fyre_AC.md"
     },
     {
-      "basename": "The Astrolabe",
-      "path": "2.Development/B. The Switchboard/The Astrolabe.md"
+      "basename": "Ven_AC",
+      "path": "2.Development/B. Weftcraft/ACs/Batch1/Ven_AC.md"
     },
     {
-      "basename": "The Blank-Slate Mind",
-      "path": "2.Development/B. Chalk Dynamics/The Blank-Slate Mind.md"
+      "basename": "PATCH_NOTES",
+      "path": "PATCH_NOTES.md"
     },
     {
-      "basename": "Latest Void Revisions",
-      "path": "2.Development/B. The World/Void_5/Latest Void Revisions.md"
-    },
-    {
-      "basename": "The Hands as Chalk",
-      "path": "2.Development/B. Chalk Dynamics/The Hands as Chalk.md"
-    },
-    {
-      "basename": "DT.VMD.TheFel-Arcad",
-      "path": "3.Assets/VMDs/DT.VMD.TheFel-Arcad.md"
-    },
-    {
-      "basename": "SB_Biota",
-      "path": "2.Development/B. The World/SB_Biota.md"
-    },
-    {
-      "basename": "The Fel-Arcad",
-      "path": "2.Development/B. The People/The Great Families/The Fel-Arcad.md"
-    },
-    {
-      "basename": "Communications and Compute",
-      "path": "2.Development/B. Applied Mechanics/Communications and Compute.md"
-    },
-    {
-      "basename": "The Dawn of the Dancirah",
-      "path": "2.Development/B. The Switchboard/The Dawn of the Dancirah.md"
-    },
-    {
-      "basename": "SB_Astromechanics",
-      "path": "2.Development/B. The World/SB_Astromechanics.md"
-    },
-    {
-      "basename": "Birthing and Being",
-      "path": "2.Development/B. The People/Birthing and Being.md"
-    },
-    {
-      "basename": "DT.Academy",
-      "path": "2.Development/B. The World/DT.ZAWRD/DT.SpyndlAcademy/DT.Academy.md"
+      "basename": "DT.WN-DT",
+      "path": "2.Development/A.Drafting Tables/DT.WN-DT.md"
     },
     {
       "basename": "READING_GUIDE",
@@ -157,48 +69,136 @@
       "path": "README.md"
     },
     {
-      "basename": "ATTRIBUTIONS",
-      "path": "ATTRIBUTIONS.md"
+      "basename": "The Dawn of the Dancirah",
+      "path": "2.Development/B. The Switchboard/The Dawn of the Dancirah.md"
     },
     {
-      "basename": "Esomechanists",
-      "path": "2.Development/B. Weftcraft/Esomechanists.md"
+      "basename": "Blakk_AC",
+      "path": "2.Development/B. Weftcraft/ACs/Batch1/Blakk_AC.md"
     },
     {
-      "basename": "DT.Void_5",
-      "path": "2.Development/B. The World/Void_5/DT.Void_5.canvas"
+      "basename": "SB_Astromechanics",
+      "path": "2.Development/B. The World/SB_Astromechanics.md"
+    },
+    {
+      "basename": "The Hands as Chalk",
+      "path": "2.Development/B. Chalk Dynamics/The Hands as Chalk.md"
+    },
+    {
+      "basename": "The Blank-Slate Mind",
+      "path": "2.Development/B. Chalk Dynamics/The Blank-Slate Mind.md"
+    },
+    {
+      "basename": "DT.TheStarwylds",
+      "path": "2.Development/Z. Workshop/DT.TheStarwylds.md"
+    },
+    {
+      "basename": "DT.Arsenal_Cards",
+      "path": "2.Development/B. Weftcraft/DT.WFTCR/DT.Arsenal_Cards.md"
+    },
+    {
+      "basename": "DT.Conlang_Nomen",
+      "path": "2.Development/B. The People/DT.FAMLY/DT.Conlang_Nomen.md"
+    },
+    {
+      "basename": "SB_Physiology",
+      "path": "2.Development/B. Applied Mechanics/SB_Physiology.md"
+    },
+    {
+      "basename": "DT.StriderDoctrine",
+      "path": "2.Development/Z. Workshop/DT.StriderDoctrine.md"
+    },
+    {
+      "basename": "Family Addendums",
+      "path": "2.Development/B. The People/The Great Families/Family Addendums.md"
+    },
+    {
+      "basename": "The Astrolabe",
+      "path": "2.Development/B. The Switchboard/The Astrolabe.md"
+    },
+    {
+      "basename": "DT.KitchenExpansion",
+      "path": "2.Development/A.Drafting Tables/DT.KitchenExpansion.md"
+    },
+    {
+      "basename": "Chalk Ritualism",
+      "path": "2.Development/B. Weftcraft/Chalk Ritualism.md"
+    },
+    {
+      "basename": "Calcodynamics",
+      "path": "2.Development/B. Chalk Dynamics/Calcodynamics.md"
+    },
+    {
+      "basename": "DT.Spot_Lore_Tracker",
+      "path": "2.Development/A.Drafting Tables/DT.Spot_Lore_Tracker.md"
     },
     {
       "basename": "Glass",
       "path": "2.Development/B. Chalk Dynamics/Glass.md"
     },
     {
-      "basename": "VMD.SamsaraGeneral",
-      "path": "3.Assets/VMDs/VMD.SamsaraGeneral.md"
+      "basename": "SBTech_Meta",
+      "path": "2.Development/B. Applied Mechanics/DT.APMECH/SBTech_Meta.md"
     },
     {
-      "basename": "VMD.Slates",
-      "path": "3.Assets/VMDs/VMD.Slates.md"
+      "basename": "Martial Disciplines",
+      "path": "2.Development/B. Weftcraft/Martial Disciplines.md"
     },
     {
-      "basename": "Glaive4",
-      "path": "3.Assets/DT.U24dot1/Glaive4.png"
+      "basename": "Hex_Clocking_v2",
+      "path": "2.Development/Z. Workshop/Hex_Clocking_v2.md"
     },
     {
-      "basename": "Glaiv3333",
-      "path": "3.Assets/DT.U24dot1/Glaiv3333.png"
+      "basename": "DT.The_Vahnkin",
+      "path": "2.Development/B. The People/DT.FAMLY/FamiliesIndev/DT.The_Vahnkin.md"
     },
     {
-      "basename": "Glaiv2l",
-      "path": "3.Assets/DT.U24dot1/Glaiv2l.png"
+      "basename": "DT.FamilyDesignDoc",
+      "path": "2.Development/B. The People/DT.FAMLY/FamiliesWorkshop/DT.FamilyDesignDoc.md"
     },
     {
-      "basename": "DT.TheRed",
-      "path": "2.Development/B. The People/DT.FAMLY/FamiliesWorkshop/DT.TheRed.md"
+      "basename": "DT.Graveyard",
+      "path": "1.TL_Board/DT.Graveyard/DT.Graveyard.md"
     },
     {
-      "basename": "DT.The_Sil'khan",
-      "path": "2.Development/B. The People/DT.FAMLY/FamiliesIndev/DT.The_Sil'khan.md"
+      "basename": "The Switchboard",
+      "path": "2.Development/B. The Switchboard/The Switchboard.md"
+    },
+    {
+      "basename": "The Doctrine of Passing",
+      "path": "2.Development/B. The People/The Doctrine of Passing.md"
+    },
+    {
+      "basename": "DT.WarExpansion",
+      "path": "2.Development/B. Weftcraft/DT.WFTCR/DT.WarExpansion.md"
+    },
+    {
+      "basename": "DT.Hanging_Note",
+      "path": "2.Development/A.Drafting Tables/DT.Hanging_Note.md"
+    },
+    {
+      "basename": "The Strider Protocol",
+      "path": "2.Development/B. The Switchboard/The Strider Protocol.md"
+    },
+    {
+      "basename": "SB_Technology",
+      "path": "2.Development/B. Applied Mechanics/SB_Technology.md"
+    },
+    {
+      "basename": "DT.Weftcrash_Narrative",
+      "path": "2.Development/B. Weftcraft/DT.WFTCR/DT.Weftcrash_Narrative.md"
+    },
+    {
+      "basename": "Latest Void Revisions",
+      "path": "2.Development/B. The World/Void_5/Latest Void Revisions.md"
+    },
+    {
+      "basename": "DT.VMD.TheFel-Arcad",
+      "path": "3.Assets/VMDs/DT.VMD.TheFel-Arcad.md"
+    },
+    {
+      "basename": "SB_Biota",
+      "path": "2.Development/B. The World/SB_Biota.md"
     }
   ],
   "omittedPaths": [],

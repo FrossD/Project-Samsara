@@ -3,7 +3,25 @@ The patch notes for Project Samsara.
 
 This document is arranged such that newer patches and their notes appear at the top. Refer to these patches when new updates drop to stay up to date with the Samsara canon.
 
-## XX/07/24 - dot1.2 - 'Mindcrack'
+## 9/08/24 dot1.3
+Looking to be a smaller update.
+
+### Additions
+- Added **Perforant Damage** (pierce damage) to the True Damage types under [[Weave and Warfare]]
+> Having bullets and swords do the same kind of damage - caedometric - was too inconsistent with observable reality. This will necessarily require a revision of the existing ACs though.
+- Added **Fifth Generation 'Gamma' (G5C) Teks** to [[Teks]]
+> Created mostly on the spot to justify a lore entry in an arsenal card.
+
+### Revisions
+- Revised the shorthand of Praxis Damage from 'P' to '**X**', under [[Weave and Warfare]]
+>It conflicted with Perforant, and considering the true damage types are more common, they take precedence. Also, praxis damage being denoted with 'X' seems fitting.
+- Made additions to [[SB_Physiology]] as a result of adding perforant damage.
+>Just some necessary additions.
+
+### Migrations
+### Expansions
+
+## 17/07/24 - dot1.2 - 'Mindcrack'
 Some new additions that are gradually building towards the next Samsara project. Much of this writ and the writ to come is highly relevant to this project.
 
 To speak more on the actual contents of this patch, it is an overdue formalization of the concept of minds in the canon, as well as the surrounding and foundational concepts concerning their natural and artificial formation/synthesis, their behavior, and how they are harnessed from both mechanical and narrative standpoints. Much of the new and revised material is centered in [[SB_Technology]]. 
